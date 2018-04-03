@@ -9,27 +9,45 @@
   - title: "About Us"
     url: "/about/"
   - title: "Code of Conduct"
-    url: ""
+    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Privacy Policy"
-    url: "/privacy/"
+    url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   - title: "Our History"
-    url: "/scf/history/"
+    url: "https://software-carpentry.org//scf/history/"
   - title: "Community Service Awards"
-    url: "/scf/awards/"
+    url: "https://software-carpentry.org//scf/awards/"
+  - title: "Our Audience"
+    url: "https://software-carpentry.org/audience/"
+  - title: "Testimonials"
+    url: "https://software-carpentry.org/testimonials/"
 
 - title: "Teach"
   url: "/teach/"
   side: left
   dropdown:
-  - title: "Our Voting Members"
-    url: "/scf/members/"
+  - title: "Data Carpentry Lessons"
+    url: "http://datacarpentry.org/lessons/"
+  - title: "Software Carpentry Lessons"
+    url: "https://software-carpentry.org/lessons/"
+  - title: "Our Workshops"
+    url: "/workshops/"
+  - title: "Pitching a Workshop"
+    url: "https://software-carpentry.org/workshops/pitch/"
+  - title: "Workshop Operations"
+    url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
+  - title: "Past Workshops"
+    url: "https://software-carpentry.org/workshops/past/"
 
 - title: Learn
   url: "/learn/"
   side: left
   dropdown:
+  - title: "Request a Data Carpentry Workshop"
+    url: "http://www.datacarpentry.org/workshops-host/"
+  - title: "Request a Software Carpentry Workshop"
+    url: "https://software-carpentry.org/workshops/request/"
   - title: "Assessment"
-    url: "/assessment/"
+    url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
   
 - title: Join Us
   url: "/join/"
@@ -43,6 +61,17 @@
 - title: Our Team
   url: "/team/"
   side: left
+  dropdown:
+  - title: "Our Staff"
+    url: ""
+  - title: "Affiliated Staff"
+    url: ""
+  - title: "Our Instructors"
+    url: "/scf/members/"
+  - title: "Our Lesson Maintainers"
+    url: ""
+  - title: "Our Trainers"
+    url: ""  
   
 - title: Blog
   url: "/blog/"
