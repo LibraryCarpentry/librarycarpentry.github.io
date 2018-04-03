@@ -8,7 +8,7 @@
 admin: # replace this with your info
   name: "The Carpentries Administrator"
   siterole: "webmaster"
-  uri: http://carpentries.org/
+  uri: https://carpentries.org/
   email: team@carpentries.org
   twitter: "@thecarpentries"
 # you can add more authors here
