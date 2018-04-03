@@ -24,7 +24,7 @@ author: weaverbel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://github.com/carpentries/new-website'
+url: 'https://carpentries.github.io/new-website'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,11 +37,11 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/carpentries/new-website/images/'
+# urlimg: 'https://github.com/carpentries/new-website/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "TheCarpentries.png"
+logo: "/assets/img/TheCarpentries.png"
 
 
 # Paginates all X entries
