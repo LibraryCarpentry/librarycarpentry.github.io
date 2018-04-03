@@ -37,11 +37,11 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-# urlimg: 'https://github.com/carpentries/new-website/images/'
+urlimg: 'https://carpentriesgithub.io/new-website/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "/assets/img/TheCarpentries.png"
+logo: "TheCarpentries.png"
 
 
 # Paginates all X entries
