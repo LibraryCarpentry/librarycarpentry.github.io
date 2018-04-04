@@ -1,69 +1,168 @@
-## You like and use this theme? Than support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+[![Build Status](https://travis-ci.org/swcarpentry/website.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/website)
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+# The Carpentries Website
 
+This is the repository for the new [Carpentries website](https/carpentries.org).
+Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/carpentries/new-website).
 
-# Newsletter: Stay in Touch for Future Updates
+*   [Setup](#setup)
+*   [Previewing](#previewing)
+*   [Development](#development)
+    *   [Write a Blog Post](#blog)
+    *   [Create a New Page](#page)
+    *   [Add a Workshop](#workshop)
+*   [The Details](#details)
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+Lessons are not stored in this repository:
+please see the [Software Carpentry lessons page](http://software-carpentry.org/lessons/)
+or the [Data Carpentry lessons page](http://datacarpentry.org/lessons/)
+for links to the many individual lesson repositories.
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+> The Carpentries (Software and Data Carpentry) are open projects,
+> and we welcome contributions of all kinds.
+> By contributing,
+> you are agreeing that The Carpentries may redistribute your work
+> under [these licenses](http://software-carpentry.org/license/),
+> and to abide by [our code of conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
+## Setup <a name="setup"></a>
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
+You need to have Version 2.0.0 or higher of Ruby and the package manager Bundler.
+(The package manager is used to make sure you use exactly the same versions of software as GitHub Pages.)
+After checking out the repository, please run:
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
+```
+$ bundle install
+```
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+to install Jekyll and the software it depends on.
+You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
 
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+You will also need [Python 3](http://python.org/) with
+[PyYAML](https://pypi.python.org/pypi/PyYAML/) available in order to
+re-generate the [data files](#details) the site depends on.
 
-And what license is *Feeling Responsive* released under? [This one][2].
+## Previewing <a name="previewing"></a>
 
+Please do **not** use `jekyll build` or `jekyll serve` directly to build or view the website.
+Instead, you should use the following commands:
 
+*   `make` or `make commands`: list available commands.
+*   `make serve`: build files locally and run a server at [http://0.0.0.0:4000/](http://0.0.0.0:4000/) for viewing.
+    This is the best way to preview the site.
+*   `make site`: build files locally, but do not serve them dynamically.
+*   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
 
-## Why use this theme?
+The [details](#details) describes a few more advanced commands as well.
+Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop,
+and occasionally times out on GitHub.
+We're working on it...
 
-Feeling Responsive is heavily customizable.
+## Development <a name="development"></a>
 
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
+<a name="blog"></a>
+To **write a blog post**,
+create a file called `_posts/YYYY/MM/YYYY-MM-DD-some-title.html` or  `_posts/YYYY/MM/YYYY-MM-DD-some-title.md`
+(for HTML and Markdown respectively).
+YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit day;
+`some-title` can be any hyphenated string of words that do not include special characters such as quotes.
+Please do *not* use underscores or periods in the names.
+When published,
+your blog post will appear as `http://software-carpentry.org/blog/YYYY/MM/some-title.html`.
 
-**[More ›][3]**
+The YAML header of a blog post must look like this:
 
+~~~
+---
+layout: post
+authors: ["Your Name"]
+title: "A Title-Cased Title for the Post"
+date: YYYY-MM-DD
+time: "hh:mm:ss"
+category: ["Some Category", "Some Other Category"]
+---
+~~~
 
+where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's time.
+Note that the time *must* be quoted so that the colons it contains do not confuse Jekyll's YAML parser.
+Note also that `authors` is a list---if the post has more than one author,
+please format the list like this:
 
-## Changelog
+~~~
+...
+authors: ["First Author", "Second Author", "Third Author"]
+...
+~~~
 
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
+rather than running all the authors' names together in one long string.
 
-**[Read Changelog ›][6]**
+<a name="page"></a>
+To **create a new page**,
+add a file to the `pages` directory.
+This can be written in either Markdown or HTML,
+and must have the following YAML header:
 
+~~~
+layout: page-fullwidth
+permalink: /some/path/
+title: Title in Title Case
+~~~
 
+You must then also add the page to `_data/navigation.yml`,
+which is used to generate the site's pull-down navigation menu.
 
-## Video Tutorial
+<a name="workshop"></a>
+To **add a workshop**,
+fill in the [workshop request form](https://amy.software-carpentry.org/workshops/swc/request/) online.
+You should fill in this form even for self-organized workshops in order to get your workshop into our database.
 
-Click the image to [watch the YouTube-Video-Tutorial][4].
+Do *not* edit the YAML in `_data/amy.yml`:
+this is overwritten every time the website is rebuilt on the server.
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+## The Details <a name="details"></a>
 
+### Data Files
 
+This website depends on three data files,
+each of which is rebuilt by `make`:
 
+*   `make amy` regenerates `_data/amy.yml`,
+    which contains information about upcoming workshops, instructors' locations, and so on
+    that is fetched from [our online workshop management tool](https://github.com/swcarpentry/amy/).
+    You must be logged in to [AMY](http://amy.software-carpentry.org) in order to run this.
 
+*   `make dashboard` generates `_data/dashboard.yml`,
+    which contains information about the state of our GitHub repositories.
+    In order to run this,
+    you must get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
+    and store it in `$HOME/.git-token`.
 
+*   `make includes` to rebuild the data file `_data/includes.yml`.
+    This does not require special permissions,
+    but is only necessary if you have added more people to `_includes/people` or more projects to `_includes/projects`.
+    (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
 
+We cache the output of these commands in the `_data` directory
+so that people can rebuild the site without needing special permissions.
 
+### Styles
 
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
+The files in the `_sass` and `assets` directories control the appearance of this site.
+Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
+which also controls the appearance of
+the [workshop template](https://github.com/swcarpentry/workshop-template)
+and [lesson template](https://github.com/swcarpentry/lesson-template).
+Please [contact us](mailto:admin@software-carpentry.org) before modifying any of these files
+so that we can figure out the best way to incorporate your improvements.
+
+### Rebuilding the Main Web Site
+
+A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
+and re-run hourly by cron.
+If you are able to ssh to the server,
+it can be re-run manually as:
+
+~~~
+$ ssh software-carpentry.org ./rebuild-site.sh
+~~~
