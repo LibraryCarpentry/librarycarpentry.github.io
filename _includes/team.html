@@ -8,8 +8,12 @@
 
                 </div>
             </div>
-            <div class="row">
                 {% for member in site.data.team.people %}
+
+                {% assign loopindex = forloop.index | modulo: 3 %}
+                {% if loopindex == 1 %}
+                <div class="row">
+                {% endif %}
                 <div class="medium-4 columns">
                     <div class="team-member">
                         <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -27,8 +31,14 @@
                         </ul>
                     </div>
                 </div>
+                {% if loopindex == 0 %}
+                  </div>
+                {% endif %}
+
+
+
                 {% endfor %}
-            </div>
+
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <p class="large text-muted">Check out what we do in our newsletter, <em><a href="http://eepurl.com/cfODMH">Carpentry Clippings</a>.</em></p>
