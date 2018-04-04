@@ -1,6 +1,7 @@
 ---
 layout: default
 format: page-fullwidth
+title: "About Us"
 permalink: /about/
 ---
 
