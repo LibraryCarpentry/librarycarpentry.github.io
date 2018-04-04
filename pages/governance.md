@@ -16,7 +16,7 @@ The Council comprises nine members, four elected by the community, and five appo
 of Software and Data Carpentry. 
   
   </div>
- <div class="small-2 large-4 columns"><h3>Executive Council Members</h3>  </div>
+ <div class="small-2 large-4 columns"><h3>Executive Council Members</h3>  
 
 <h4> Elected Members: 1-year term</h4>
 
@@ -34,3 +34,4 @@ of Software and Data Carpentry.
 <li>Mateusz Kuzak 
 <li>Sue McClatchy (Treasurer)
 <li>Ethan White 
+
