@@ -61,13 +61,13 @@
     url: "/membership/"
 
 - title: Our Team
-  url: "/team/"
+  url: "/our-team/"
   side: left
   dropdown:
   - title: "Our Staff"
-    url: ""
+    url: "/our-team/"
   - title: "Affiliated Staff"
-    url: ""
+    url: "/our-team/"
   - title: "Our Instructors"
     url: "/scf/members/"
   - title: "Our Lesson Maintainers"
