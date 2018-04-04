@@ -16,10 +16,10 @@ The Carpentries subscribe to a
 shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. See our <a href="http://info.carpentries.org/">FAQs</a>.
 </div> 
 
-<div class="small-2 large-4 columns"><h3>How are Software and Data Carpentry Managed?</h3>
+<div class="small-2 large-4 columns"><h3>How are The Carpentries Managed?</h3>
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
-a registered 501(c)3 non-profit based in California, USA. 
+a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director.
 Governance of the merged Carpentries is undertaken 
 by an <a href="../governance">Executive Council</a> which comprises 
 four community-elected members and five appointed members drawn from 
