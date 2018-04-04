@@ -32,7 +32,7 @@
   - title: "Software Carpentry Lessons"
     url: "https://software-carpentry.org/lessons/"
   - title: "Instructor Training"
-    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"   
+    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
   - title: "Our Workshops"
     url: "/workshops/"
   - title: "Pitching a Workshop"
@@ -41,7 +41,7 @@
     url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
   - title: "Past Workshops"
     url: "https://software-carpentry.org/workshops/past/"
-  
+
 - title: Learn
   url: "/learn/"
   side: left
@@ -51,7 +51,7 @@
   - title: "Request a Software Carpentry Workshop"
     url: "https://software-carpentry.org/workshops/request/"
   - title: "Instructor Training"
-    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html" 
+    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
   - title: "Assessment"
     url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
 
@@ -67,7 +67,7 @@
     url: "/membership/"
 
 - title: Our Team
-  url: "/our-team/"
+  url: "/team/"
   side: left
   dropdown:
   - title: "Our Staff"
