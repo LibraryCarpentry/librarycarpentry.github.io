@@ -59,7 +59,7 @@
   url: "/join/"
   side: left
   dropdown:
-  - title: "Det Involved"
+  - title: "Get Involved"
     url: "/join/"
   - title: "Our Partners"
     url: "/memberorgs/"
