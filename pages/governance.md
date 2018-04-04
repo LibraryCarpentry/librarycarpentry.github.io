@@ -8,6 +8,8 @@ permalink: /governance/
 <div class="row">
   <div class="small-2 large-4 columns"><h3>Carpentries' Governance</h3>
   
+Tracy Teal is the Executive Director of the Carpentries. 
+
 Governance of the Carpentries is now managed by the newly formed Executive Council. This Council replaces the former Steering Committees of Software and Data Carpentry. 
 
 The Council comprises nine members, four elected by the community, and five appointed from the former Steering Committees 
