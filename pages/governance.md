@@ -34,4 +34,5 @@ of Software and Data Carpentry.
 <li>Mateusz Kuzak 
 <li>Sue McClatchy (Treasurer)
 <li>Ethan White 
-
+  </div>
+    </div>
