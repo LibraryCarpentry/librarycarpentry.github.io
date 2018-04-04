@@ -1,0 +1,94 @@
+people:
+- name: Tracy Teal
+  pic: tracyteal
+  position: Executive Director
+  social:
+    - title: twitter
+      url: https://twitter.com/tracykteal
+    - title: github
+      url: https://github.com/tracykteal
+
+- name: Erin Becker
+  pic: erinbecker
+  position: Associate Director
+  social:
+    - title: twitter
+      url: https://twitter.com/ErinSBecker
+    - title: github
+      url: https://github.com/erinbecker
+
+- name: Jonah Duckles
+  pic: jonahduckles
+  position: Director of Membership and Technology
+  social:
+    - title: twitter
+      url: https://twitter.com/jduckles
+    - title: github
+      url: https://github.com/jduckles
+
+- name: Kari L. Jordan
+  pic: karijordan
+  position: Director of Assessment and Community Equity
+  social:
+    - title: twitter
+      url: https://twitter.com/drkariljordan
+    - title: github
+      url: https://github.com/kariljordan
+    - title: linkedin
+      url: https://www.linkedin.com/in/kariljordan/
+
+- name: Belinda Weaver
+  pic: belindaweaver
+  position: Community and Communications Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/cloudaus
+    - title: github
+      url: https://github.com/weaverbel
+    - title: linkedin
+      url: https://www.linkedin.com/in/belinda-weaver-8525526/
+
+- name: François Michonneau
+  pic: francoismichonneau
+  position: Curriculum Development Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/fmic_
+    - title: github
+      url: https://github.com/fmichonneau
+
+- name: Maneesha Sane
+  pic: maneeshasane
+  position: Program Manager
+  social:
+    - title: twitter
+      url: https://twitter.com/maneeshasane
+    - title: github
+      url: https://github.com/maneesha
+
+- name: Elizabeth Williams
+  pic: elizabethwilliams
+  position: Business Administrator
+  social:
+    - title: twitter
+      url: https://twitter.com/ecwilliams8
+    - title: github
+      url: https://github.com/elizabethwilliams8
+
+- name: SherAaron Hurt
+  pic: sheraaronhurt
+  position: Workshop Administrator
+  social:
+    - title: twitter
+      url: https://twitter.com/SherAaronHurt
+    - title: github
+      url: https://github.com/sheraaron
+
+- name: Karen Word
+  pic: karenword
+  position: Deputy Director of Instructor Training (affiliate)
+  social:
+    - title: twitter
+      url: https://twitter.com/karen_word
+    - title: github
+      url: https://github.com/karenword
