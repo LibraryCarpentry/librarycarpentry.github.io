@@ -50,16 +50,16 @@
     url: "https://software-carpentry.org/workshops/request/"
   - title: "Assessment"
     url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
-  
+
 - title: Join Us
   url: "/join/"
   side: left
   dropdown:
   - title: "Our Partners"
-    url: "/scf/partners/"
+    url: "/memberorgs/"
   - title: "Become a Member Organization"
     url: "/membership/"
-  
+
 - title: Our Team
   url: "/team/"
   side: left
@@ -73,8 +73,8 @@
   - title: "Our Lesson Maintainers"
     url: ""
   - title: "Our Trainers"
-    url: ""  
-  
+    url: ""
+
 - title: Blog
   url: "/blog/"
   side: left
