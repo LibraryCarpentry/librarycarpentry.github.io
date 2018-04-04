@@ -1,6 +1,5 @@
 ---
-layout: default
-format: page
+layout: page-fullwidth
 permalink: /membership/
 title: Become a Member Organization
 excerpt: A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry
@@ -43,6 +42,5 @@ We offer several levels of Memberships, based on training activities expected an
 
 ^ in-person instructor trainings require an available trainer and travel funds to support instructor trainer(s) travel.
 
-We are always interested in new members, and in participating in grants and other proposals. To reach us, or to 
+We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
 find out more, [please send us email](mailto:partnerships@software-carpentry.org).
-
