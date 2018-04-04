@@ -1,6 +1,6 @@
 ---
 layout: default
-format: page-fullwidth
+format: page
 permalink: /membership/
 title: Become a Member Organization
 excerpt: A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry
