@@ -31,6 +31,8 @@
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
     url: "https://software-carpentry.org/lessons/"
+  - title: "Instructor Training"
+    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"   
   - title: "Our Workshops"
     url: "/workshops/"
   - title: "Pitching a Workshop"
@@ -39,7 +41,7 @@
     url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
   - title: "Past Workshops"
     url: "https://software-carpentry.org/workshops/past/"
-
+  
 - title: Learn
   url: "/learn/"
   side: left
@@ -48,6 +50,8 @@
     url: "http://www.datacarpentry.org/workshops-host/"
   - title: "Request a Software Carpentry Workshop"
     url: "https://software-carpentry.org/workshops/request/"
+  - title: "Instructor Training"
+    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html" 
   - title: "Assessment"
     url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
 
@@ -55,6 +59,8 @@
   url: "/join/"
   side: left
   dropdown:
+  - title: "Det Involved"
+    url: "/join/"
   - title: "Our Partners"
     url: "/memberorgs/"
   - title: "Become a Member Organization"
@@ -69,7 +75,7 @@
   - title: "Affiliated Staff"
     url: "/our-team/"
   - title: "Our Instructors"
-    url: "/scf/members/"
+    url: "https://software-carpentry.org/scf/members/"
   - title: "Our Lesson Maintainers"
     url: ""
   - title: "Our Trainers"
