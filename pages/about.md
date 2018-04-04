@@ -5,13 +5,19 @@ title: "About Us"
 permalink: /about/
 ---
 
- <h2>About The Carpentries</h2>
+
+<div class="row">
+  <div class="small-2 large-4 columns"> <h2>About The Carpentries</h2>
  
 The Carpentries project comprises <a href="https://software-carpentry.org/">Software Carpentry</a> 
 and <a href="http://www.datacarpentry.org/">Data Carpentry</a>, communities of Instructors, Trainers, Lesson Maintainers, 
 helpers and supporters who share a mission to teach foundational computational and data science skills to researchers. 
 The Carpentries subscribe to a 
-shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. The Carpentries are a fiscally sponsored project of <a href="http://communityin.org">Community Initiatives</a>, a 501(c)3 non-profit incorporated in the United States. See our <a href="http://info.carpentries.org/">FAQs</a>.
+shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. The Carpentries are a fiscally sponsored project of <a href="http://communityin.org">Community Initiatives</a>, a 501(c)3 non-profit incorporated in the United States. See our <a href="http://info.carpentries.org/">FAQs</a>.</div> </div>
+
+
+
+
 
 <h4>What is a Carpentries Workshop?</h4>
 
