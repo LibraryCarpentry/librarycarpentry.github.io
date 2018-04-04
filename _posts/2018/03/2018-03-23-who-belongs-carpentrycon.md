@@ -1,5 +1,6 @@
 ---
 layout: post
+format: blog
 authors: ["Belinda Weaver"]
 title: "Who Belongs at CarpentryCon 2018? You Do!"
 date: 2018-03-23
