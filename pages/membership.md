@@ -6,13 +6,10 @@ title: Become a Member Organization
 excerpt: A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry
 ---
 
-<div class="row">
 ## Become a Member Organization
 
 A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry. Members receive priority access to instructor training and guidance with capacity building at their organization. With local instructors, Members can readily run low-cost local workshops. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
-</div>
 
-<div class="row">
 ### Membership Tiers
 
 We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organizations. We also provide these and Platinum Memberships for for-profit organizations. Please [contact us](mailto:memberships@carpentries.org) for more information.
@@ -29,18 +26,13 @@ We offer several levels of Memberships, based on training activities expected an
 |Lesson development <br>services|No|No|No|Available|
 |Membership Dues (annual)|[$5,000](mailto:memberships@carpentries.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:memberships@carpentries.org?subject=Interested in Silver Partnership)|[$15,000](mailto:memberships@carpentries.org?subject=Interested in Gold Partnership)|[Contact us](mailto:memberships@carpentries.org?subject=Interested in Platinum Partnership)|
 
-</div>
-
-<div class="row">
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
   <button class="btn">
     Join Now
   </button>
 </a>
 
-</div>
 
-<div class="row">
 #### Notes
 
 \* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organization. A designated contact approves coordinated workshop requests for that organization. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
@@ -53,4 +45,4 @@ We offer several levels of Memberships, based on training activities expected an
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to 
 find out more, [please send us email](mailto:partnerships@software-carpentry.org).
-</div>
+
