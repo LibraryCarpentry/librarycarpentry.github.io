@@ -70,10 +70,8 @@
   url: "/team/"
   side: left
   dropdown:
-  - title: "Our Staff"
-    url: "/our-team/"
-  - title: "Affiliated Staff"
-    url: "/our-team/"
+  - title: "Our Team"
+    url: "/team/"
   - title: "Our Instructors"
     url: "https://software-carpentry.org/scf/members/"
   - title: "Our Lesson Maintainers"
