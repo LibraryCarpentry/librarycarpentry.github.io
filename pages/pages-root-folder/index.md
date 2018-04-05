@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "What we do"
-  url: '/learn/'
+  title: 'What we do'
+  url: '../learn/'
   text: 'The Carpentries are non-profit, volunteer projects that teach foundational computational and data science skills to researchers worldwide. Software and Data Carpentry workshops are based on our lessons, and Instructors and learners must follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html/">Code of Conduct</a>'
   image: instructor-thumb.jpg
 widget2:
-  title: "Who we are"
-  url: '/about/'
+  title: 'Who we are'
+  url: '../about/'
   text: 'The Carpentries comprises a very diverse global community of volunteer Instructors, helpers, Trainers, Lesson Maintainers, champions, member organizations, supporters and <a href="/team/">staff</a>. We provide <a href="/join/">many ways</a> for you to engage
   with us.'
   image: es-team-thumb.jpg
 widget3:
-  title: "Get involved"
-  url: '/join/'
+  title: 'Get involved'
+  url: '../join/'
   text: '<a href="http://www.carpentrycon.org/">CarpentryCon 2018</a> in Dublin will be this year's major community-building and networking event. <a href="https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271">Join us there</a>. Find information about other events such as workshops, meetups, and discussions from our <a href="https://software-carpentry.org/join/">community calendar</a>, or from our newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a>. You can follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, or <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
   image: group-shot-thumb.jpg
 #
