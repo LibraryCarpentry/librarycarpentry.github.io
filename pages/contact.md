@@ -4,7 +4,6 @@ format: page-fullwidth
 title: "Contact Us"
 permalink: /contact/
 ---
-<div class="medium-4 columns">
 
 <div class="row">
   <div class="medium-4 columns">  <em>Mailing address:</em> <br>
