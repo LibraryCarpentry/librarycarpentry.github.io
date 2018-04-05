@@ -14,6 +14,10 @@
 			{% endif %}
 		</a>
 	{% endif %}
+	{% if include.widget.icon %}
+	<i class="{{ include.widget.icon }} fa-7x"></i>
+	{% endif %}	
+
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
 	<p>{{ include.widget.text }}</p>
 	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
