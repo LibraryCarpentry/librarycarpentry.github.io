@@ -6,6 +6,12 @@ permalink: /contact/
 ---
 
 <div class="row">
+      <div class="medium-4 columns">  <h3>Contact the Carpentries</h3> <br>
+      </div> 
+</div>
+  
+    
+<div class="row">
   <div class="medium-4 columns">  <em>Mailing address:</em> <br>
 
  The Carpentries<br>
@@ -23,6 +29,7 @@ USA
 <em>Instructor checkout enquiries:</em> <br><a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br> <br>
 Looking to contact one of our staff? See our <a href="/team/">team page</a>.<br>
   </div> 
+  
 <div class="medium-4 columns">
 <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thecarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </div>
