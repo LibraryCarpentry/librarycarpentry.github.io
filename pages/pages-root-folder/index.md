@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Get involved"
   url: 'https://github.com/carpentries/new-website/join'
-  icon: 'fal fa-comments'
+  icon: 'fas fa-comment'
   text: 'Find information about upcoming events such as workshops, meetups, and discussions from our <a href="https://software-carpentry.org/join/">community calendar</a>, or from our newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a>. You can also follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, or <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
 #
 # Use the call for action to show a button on the frontpage
