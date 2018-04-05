@@ -10,7 +10,7 @@ header:
 widget1:
   title: "What we do"
   url: 'https://github.com/carpentries/new-website/about'
-  icon: "fas comment-dots"
+  icon: "fas fa-comment-dots"
   text: 'The Carpentries teach foundational computational and data science skills to researchers worldwide. Software and Data Carpentry workshops are based on our lessons, and Instructors and learners must follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who we are"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Get involved"
   url: 'https://github.com/carpentries/new-website/join'
-  icon: 'fas calendar-alt'
+  icon: 'fas fa-calendar-alt'
   text: 'Find information about upcoming events such as workshops, meetups, and discussions from our <a href="https://software-carpentry.org/join/">community calendar</a>, or from our newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a>. You can also follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, or <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
 #
 # Use the call for action to show a button on the frontpage
