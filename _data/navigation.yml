@@ -10,19 +10,19 @@
     url: "/about/"
   - title: "Code of Conduct"
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Privacy Policy"
-    url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   - title: "Governance"
     url: "/governance"
+  - title: "Testimonials"
+    url: "https://software-carpentry.org/testimonials/"
   - title: "Our History"
     url: "https://software-carpentry.org//scf/history/"
   - title: "Community Service Awards"
     url: "https://software-carpentry.org//scf/awards/"
-  - title: "Our Audience"
-    url: "https://software-carpentry.org/audience/"
-  - title: "Testimonials"
-    url: "https://software-carpentry.org/testimonials/"
-
+  - title: "Privacy Policy"
+    url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
+  - title: "Other Policies"
+    url: "https://docs.carpentries.org/topic_folders/policies/index.html"
+    
 - title: "Teach"
   url: "/teach/"
   side: left
@@ -41,6 +41,8 @@
     url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
   - title: "Past Workshops"
     url: "https://software-carpentry.org/workshops/past/"
+  - title: "Our Audience"
+    url: "https://software-carpentry.org/audience/"
 
 - title: Learn
   url: "/learn/"
@@ -54,6 +56,8 @@
     url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
   - title: "Assessment"
     url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
+  - title: "Our Audience"
+    url: "https://software-carpentry.org/audience/"
 
 - title: Join Us
   url: "/join/"
@@ -75,9 +79,9 @@
   - title: "Our Instructors"
     url: "https://software-carpentry.org/scf/members/"
   - title: "Our Lesson Maintainers"
-    url: ""
+    url: "/maintainers/"
   - title: "Our Trainers"
-    url: ""
+    url: "/trainers/"
 
 - title: Blog
   url: "/blog/"
