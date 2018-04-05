@@ -15,13 +15,8 @@
 
 - name: Slack
   url: https://swc-slack-invite.herokuapp.com/
-<<<<<<< HEAD
   class: fa-slack 
   title: ""
-=======
-  class: icon-slack
-  title: "Slack"
->>>>>>> 7ff9322b26fe88e180fe3f4d1625db744d965e47
 
 
 # - name: Soundcloud
