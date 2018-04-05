@@ -1,21 +1,21 @@
 - name: GitHub
   url: https://github.com/carpentries
-  class: icon-github
+  class: fa-github
   title: ""
 
 - name: Twitter
   url: https://twitter.com/thecarpentries
-  class: icon-twitter
+  class: fa-twitter
   title: ""
   
 - name: Facebook
   url: http://www.facebook.com/carpentries
-  class: icon-facebook
+  class: fa-facebook
   title: ""
 
 - name: Slack
   url: https://swc-slack-invite.herokuapp.com/
-  class: icon-slack
+  class: fa-slack 
   title: ""
 
 
