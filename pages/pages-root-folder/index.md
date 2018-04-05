@@ -8,20 +8,17 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Find or host a workshop"
+  url: 'https://carpentries.github.io/workshops/'
+  text: 'The Carpentries teach foundational computational and data science skills to researchers worldwide. Software and Data Carpentry workshops are based on our lessons, and Instructors and learners must follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html/">Code of Conduct</a>'
 widget2:
-  title: "Why use this theme?"
+  title: "Who we are"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  text: 'The Carpentries comprises a very diverse global community of volunteer Instructors, helpers, Trainers, Lesson Maintainers, champions, member organizations, supporters and <a href="/our-team/">staff</a>. We provide <a href="/join/">many ways</a> for you to engage with us. <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a> in Dublin will be our signature community-building and networking event this year. <a href="https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271">Join us there</a>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Get involved"
+  url: 'https://carpentries.github.io/join/'
+  text: 'ind information about upcoming events such as workshops, meetups, and discussions from our <a href="https://software-carpentry.org/join/">community calendar</a>, or from our newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a>. You can also follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a> and <a href="https://www.facebook.com/carpentries">Facebook</a> or chat to us on <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>. See <a href="/join/">other pathways</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,10 +29,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
