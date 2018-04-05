@@ -19,9 +19,9 @@ USA
 
 <div class="small-2 large-4 columns"><em>Email us:</em> <br><br>
 
-<em>General enquiries:</em> <a href="mailto:team@carpentries.org">mailto:team@carpentries.org</a><br>
-<em>Membership enquiries:</em> <a href="mailto:memberships@carpentries.org">mailto:memberships@carpentries.org</a><br>
-<em>Instructor checkout enquiries:</em> <a href="mailto:checkout@carpentries.org">mailto:checkout@carpentries.org</a><br>
+<em>General enquiries:</em> <a href="mailto:team@carpentries.org">team@carpentries.org</a><br>
+<em>Membership enquiries:</em> <a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
+<em>Instructor checkout enquiries:</em> <a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br>
 
 <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thecarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </div>
