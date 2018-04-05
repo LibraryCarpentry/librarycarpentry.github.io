@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "Get involved"
   url: 'https://carpentries.github.io/join/'
-  text: 'ind information about upcoming events such as workshops, meetups, and discussions from our <a href="https://software-carpentry.org/join/">community calendar</a>, or from our newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a>. You can also follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a> and <a href="https://www.facebook.com/carpentries">Facebook</a> or chat to us on <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>. See <a href="/join/">other pathways</a>.'
+  text: 'Find information about upcoming events such as workshops, meetups, and discussions from our <a href="https://software-carpentry.org/join/">community calendar</a>, or from our newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a>. You can also follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a> and <a href="https://www.facebook.com/carpentries">Facebook</a> or chat to us on <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>. See <a href="/join/">other pathways</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
