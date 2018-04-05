@@ -15,8 +15,7 @@ widget1:
 widget2:
   title: 'Who we are'
   url: '../about/'
-  text: 'The Carpentries comprises a very diverse global community of volunteer Instructors, helpers, Trainers, Lesson Maintainers, champions, member organizations, supporters and <a href="/team/">staff</a>. We provide <a href="/join/">many ways</a> for you to engage
-  with us.'
+  text: 'The Carpentries comprises a very diverse global community of volunteer Instructors, helpers, Trainers, Lesson Maintainers, champions, member organizations, supporters and <a href="/team/">staff</a>. We provide <a href="/join/">many ways</a> for you to engage with us.'
   image: es-team-thumb.jpg
 widget3:
   title: 'Get involved'
