@@ -5,8 +5,6 @@ permalink: /trainers/
 excerpt: Trainers prepare new Instructors to teach in our global Carpentries Community.
 ---
 
-### Our Trainers
-
 The Carpentries Trainer community comprises a group of experienced Instructors who inspire and prepare 
 the next wave of Instructors in our community. They work as a team to maintain and teach the
 [instructor training curriculum](http://carpentries.github.io/instructor-training/) to 
