@@ -31,7 +31,7 @@ Individuals have many ways to get involved in our community.
 - Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops. 
 - <a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become a Carpentries instructor. Instructors develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). 
-- Certify as a Trainer. Trainers run instructor training to help others certify as Carpentries Instructors. Call for poeple to apply to be Trainers are announced regularly.  Trainers develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
+- Certify as a Trainer. Trainers run instructor training to help others certify as Carpentries Instructors. Calls for people to apply to be Trainers are announced regularly through our blog, our Twitter feed and through email lists. Trainers develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
   
 #### Learn the Carpentries
 
@@ -41,7 +41,7 @@ or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop
 
 #### Maintain Lessons
 
-- All Carpentries lessons are actively maintained. Maintainers develop a highly desirable [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md).
+- All Carpentries lessons are actively maintained. Maintainers develop a highly desirable [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md). Contact us about becoming a Maintainer.
 - Serve on a [Curriculum Advisory Committee](http://www.datacarpentry.org/blog/curriculum-advisory/).
 
 
