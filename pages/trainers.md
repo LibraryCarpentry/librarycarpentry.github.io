@@ -17,9 +17,9 @@ email list.
 Trainers can expect to acquire this [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
 [Find out more about becoming a Trainer.](https://docs.carpentries.org/topic_folders/instructor_training/index.html)
 
-#### Our Current Trainers
 
-|        |          |   |  |||
+
+|   Our Current Trainers     |          |   |  |||
 | :-------------: |:-------------:| :-----:|:-------------: |:-------------:| :-----:|
 | Caroline Ajilogba	 | Tania Allard	| Anne Axel	|    Erin Becker |	Mik Black	| Murray Cadzow		  |
 | Martin Callaghan | Mesfin Diro Chaka	| Karen Cranston	| Stephen Crouch	| Rob Davey		| Neal Davis	 |   
