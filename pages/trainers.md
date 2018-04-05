@@ -14,32 +14,22 @@ lets you scale your impact - sharing your own passion, experience, and enthusias
 generation of Carpentry Instructors. Trainers meet regularly. They also have their own dedicated Slack channel and 
 email list.
 
-Trainers can expect to acquire this [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md).
-[Find out more.](https://docs.carpentries.org/topic_folders/instructor_training/index.html)
+Trainers can expect to acquire this [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
+[Find out more about becoming a Trainer.](https://docs.carpentries.org/topic_folders/instructor_training/index.html)
 
+#### Our Current Trainers
 
-
-|        |     Our Current Trainers       |   |
-| :-------------: |:-------------:| :-----:|
-| Caroline Ajilogba	 | Tania Allard	| Anne Axel	|   
-| Erin Becker |	Mik Black	| Murray Cadzow		  | 
-| Martin Callaghan | Mesfin Diro Chaka	| Karen Cranston	|	   
-| Stephen Crouch	| Rob Davey		| Neal Davis	 |  
-| Tim Dennis		| Martin Dreyer	 | Jonah Duckles |	   
-| Anne Fouilloux | Alejandra Gonzalez-Beltran	  | Chris Hamm		 |  
-| Claire Hardgrove	|	 Rayna Michelle Harris		| Amy Hodge	|	   
-| Toby Hodges	  | SherAaron Hurt	| Kari L Jordan	   |
-| Christina Koch	| Alexander Konovalov	 | Mateusz Kuzak	|	   
-| Kwasi Amoako Kwakwa		| Karin Lagesen	  | Mark Laufersweiler |		   
-| Paula Martinez Villegas		| Sue McClatchy | François Michonneau	|	   
-| Senzo Mpungose	| Lex Nederbragt	| Aleksandra Nenadic	|	   
-| Jeffrey Oliver	| Aleksandra Pawlik		| David Perez-Suarez		|   
-| Fotis Psomopoulos	| Danielle Quinn	 | Ariel Rokem	| 
-| Maneesha Sane	| Juliane Schneider	| Anita Schürch		  | 
-| John Simpson	| Juan Steyn	 | Tracy Teal	|	   
-| Nicholas Tierney	 | Fiona Tweedie	| Jessica Upani |
-| Anelda van der Walt | Allegra Via	| Alistair Walsh	| 
-| Belinda Weaver	 | Elizabeth Wickes		| Elizabeth Williams		|   
-| Jason Williams	 | Greg Wilson	 | Karen Word	|   
-| Naupaka Zimmerman		|   ||
+|        |          |   |  |||
+| :-------------: |:-------------:| :-----:|:-------------: |:-------------:| :-----:|
+| Caroline Ajilogba	 | Tania Allard	| Anne Axel	|    Erin Becker |	Mik Black	| Murray Cadzow		  |
+| Martin Callaghan | Mesfin Diro Chaka	| Karen Cranston	| Stephen Crouch	| Rob Davey		| Neal Davis	 |   
+| Tim Dennis		| Martin Dreyer	 | Jonah Duckles |	Anne Fouilloux | Alejandra Gonzalez-Beltran	  | Chris Hamm		 |    
+| Claire Hardgrove	|	 Rayna Michelle Harris		| Amy Hodge	|	 Toby Hodges	  | SherAaron Hurt	| Kari L Jordan	   |  
+| Christina Koch	| Alexander Konovalov	 | Mateusz Kuzak	|	  Kwasi Amoako Kwakwa		| Karin Lagesen	  | Mark Laufersweiler |	 
+| Paula Martinez Villegas		| Sue McClatchy | François Michonneau	|	   Senzo Mpungose	| Lex Nederbragt	| Aleksandra Nenadic	|	  
+| Jeffrey Oliver	| Aleksandra Pawlik		| David Perez-Suarez		|  Fotis Psomopoulos	| Danielle Quinn	 | Ariel Rokem	|  
+| Maneesha Sane	| Juliane Schneider	| Anita Schürch		  | John Simpson	| Juan Steyn	 | Tracy Teal	|	 
+| Nicholas Tierney	 | Fiona Tweedie	| Jessica Upani | Anelda van der Walt | Allegra Via	| Alistair Walsh	| 
+| Belinda Weaver	 | Elizabeth Wickes		| Elizabeth Williams		|   Jason Williams	 | Greg Wilson	 | Karen Word	|    
+| Naupaka Zimmerman		|   |||   ||
 
