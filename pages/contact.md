@@ -13,7 +13,7 @@ permalink: /contact/
     
 <div class="row">
   <div class="medium-4 columns">  <em>Mailing address:</em> <br>
-
+<br>
  The Carpentries<br>
  c/o Community Initiatives<br>
 354 Pine Street, Suite 700<br>
