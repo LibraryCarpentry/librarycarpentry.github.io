@@ -10,7 +10,7 @@ header:
 widget1:
   title: "What we do"
   url: 'https://github.com/carpentries/new-website/about'
-  icon: "fas fa-comment-dots"
+  icon: "fas fa-laptop"
   text: 'The Carpentries teach foundational computational and data science skills to researchers worldwide. Software and Data Carpentry workshops are based on our lessons, and Instructors and learners must follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who we are"
