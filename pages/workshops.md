@@ -11,7 +11,7 @@ either <a href="https://software-carpentry.org/lessons">Software Carpentry</a>
 or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials. 
 
 Audiences generally comprise postgraduate students and early career researchers, but may include postdocs, undergraduates, and
-others working within a research framework, for example, in government or industry. See some [sample learner personas](https://software-carpentry.org/audience).
+others working within a research framework, for example, in government or industry. See [sample learner profiles](https://software-carpentry.org/audience).
 
 They are taught by volunteer Instructors. Instructors perform live coding and learners work on their own machines. Certified 
 Instructors comprise people who 
