@@ -17,7 +17,7 @@ You can donate to The Carpentries <a href="https://carpentries.wedid.it/">here</
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
 a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director.
 Governance of the merged Carpentries is undertaken 
-by an <a href="./governance">Executive Council</a> which comprises 
+by an <a href="../governance">Executive Council</a> which comprises 
 four community-elected members and five appointed members drawn from 
 the previous Steering Committees of Software and Data Carpentry.
 
@@ -38,7 +38,7 @@ our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>
   
 <h4>Join Us!</h4>
             
-Organisations are encouraged to <a href="./membership/">join us as contributing members to support the work we do.</a> We 
+Organisations are encouraged to <a href="../membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="https://software-carpentry.org/join/">new people</a> to our community. We have 
 <a href="https://software-carpentry.org/join/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
