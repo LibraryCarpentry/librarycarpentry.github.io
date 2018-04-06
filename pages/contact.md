@@ -20,7 +20,7 @@ USA
 <em>General enquiries:</em> <br><a href="mailto:team@carpentries.org">team@carpentries.org</a><br>
 <em>Membership enquiries:</em><br> <a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
 <em>Instructor checkout enquiries:</em> <br><a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br> <br>
-Looking to contact one of our staff? See our <a href="../team/">team page</a>.<br>
+Looking to contact one of our staff? See our <a href="{{site.url}}/team/">team page</a>.<br>
   </div> 
   
 <div class="medium-4 columns">
