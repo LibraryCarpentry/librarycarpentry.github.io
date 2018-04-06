@@ -16,7 +16,7 @@ slogan: "Welcome to The Carpentries! <br><br>We teach foundational coding and da
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The Carpentries are volunteer, non-profit projects that teach teach foundational computational and data science skills to researchers."
+description: "The Carpentries is a fiscally sponsored project of <a href='http://communityin.org/'>Community Initiatives</a>, a registered 501(c)3 non-profit based in California, USA. We teach teach foundational computational and data science skills to researchers."
 
 # Main author of the website
 # See > authors.yml
