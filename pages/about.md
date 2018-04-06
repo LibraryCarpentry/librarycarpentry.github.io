@@ -20,6 +20,10 @@ by an <a href="../governance">Executive Council</a> which comprises
 four community-elected members and five appointed members drawn from 
 the previous Steering Committees of Software and Data Carpentry.
 
+<h4>What Information is Where?</h4>
+
+What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog](/blog/), rather than individual blog sites. 
+
 <h4>What is a Carpentries Workshop?</h4>
 
 <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> 
