@@ -15,8 +15,7 @@ You can donate to The Carpentries <a href="https://carpentries.wedid.it/">here</
 <h4>How are The Carpentries Managed?</h4>
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
-a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director.
-Governance of the merged Carpentries is undertaken 
+a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and governance of the merged Carpentries is undertaken 
 by an <a href="../governance">Executive Council</a> which comprises 
 four community-elected members and five appointed members drawn from 
 the previous Steering Committees of Software and Data Carpentry.
@@ -43,5 +42,9 @@ welcome <a href="https://software-carpentry.org/join/">new people</a> to our com
 <a href="https://software-carpentry.org/join/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
 our <a href="http://eepurl.com/cfODMH">newsletter</a>, and our <a href="https://software-carpentry.org/join/">email lists</a>.
+
+<h4>Style</h4>
+
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *The Carpentries is ...*. The correct title for the merged organization is **The Carpentries**. However, you can use terminology such as *A Carpentries workshop ..*.
 
 
