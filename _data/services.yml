@@ -3,10 +3,6 @@
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
-  
-- name: "Privacy Policy"
-  url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
-  title: "Privacy Policy"
 
 - name: "RSS"
   url: "/feed.xml"
@@ -16,6 +12,6 @@
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
-#- name: "sitemap.xml"
-#  url: "/sitemap.xml"
-#  title: "Sitemap for Google Webmaster Tools"
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

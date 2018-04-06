@@ -1,15 +1,8 @@
 ---
-layout: default
-format: page-fullwidth
+layout: page-fullwidth
 title: "Contact Us"
 permalink: /contact/
 ---
-
-<div class="row">
-      <div class="medium-4 columns">  <h3>Contact the Carpentries</h3> <br>
-      </div> 
-</div>
-  
     
 <div class="row">
   <div class="medium-4 columns">  <em>Mailing address:</em> <br>
@@ -22,12 +15,12 @@ USA
 
   </div> 
 
-<div class="medium-4 columns"><em>Email us:</em> <br><br>
+<div class="medium-4 columns"><em>Contact us via email:</em> <br><br>
 
 <em>General enquiries:</em> <br><a href="mailto:team@carpentries.org">team@carpentries.org</a><br>
 <em>Membership enquiries:</em><br> <a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
 <em>Instructor checkout enquiries:</em> <br><a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br> <br>
-Looking to contact one of our staff? See our <a href="/team/">team page</a>.<br>
+Looking to contact one of our staff? See our <a href="{{site.url}}/team/">team page</a>.<br>
   </div> 
   
 <div class="medium-4 columns">
