@@ -1,1 +1,21 @@
+- menu_name: "Links"
 
+- name: "Our Code of Conduct"
+  url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+  title: "Code of Conduct"
+
+- name: "Privacy"
+  url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
+  title: "Privacy Policy"
+  
+- name: "Software Carpentry"
+  url: "https://software-carpentry.org/"
+  title: "Software Carpentry"
+  
+- name: Data Carpentry"
+  url: "http://www.datacarpentry.org/"
+  title: "Data Carpentry"
+  
+- name: "Frequently Asked Questions"
+  url: "https://info.carpentries.org/"
+  title: "FAQs"
