@@ -39,7 +39,7 @@
     url: "/workshops/"
   - title: "Workshop Operations"
     url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
- -  title: "Past Data Carpentry Workshops"
+  - title: "Past Data Carpentry Workshops"
     url: "http://www.datacarpentry.org/workshops-past/" 
   - title: "Past Software Carpentry Workshops"
     url: "https://software-carpentry.org/workshops/past/"
