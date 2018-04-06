@@ -1,6 +1,5 @@
 ---
-layout: default
-format: page-fullwidth
+layout: page-fullwidth
 title: "Contact Us"
 permalink: /contact/
 ---
@@ -22,7 +21,7 @@ USA
 
   </div> 
 
-<div class="medium-4 columns"><em>Email us:</em> <br><br>
+<div class="medium-4 columns"><em>Contact us via email:</em> <br><br>
 
 <em>General enquiries:</em> <br><a href="mailto:team@carpentries.org">team@carpentries.org</a><br>
 <em>Membership enquiries:</em><br> <a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
