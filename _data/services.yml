@@ -3,10 +3,6 @@
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
-  
-- name: "Privacy Policy"
-  url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
-  title: "Privacy Policy"
 
 - name: "RSS"
   url: "/feed.xml"
