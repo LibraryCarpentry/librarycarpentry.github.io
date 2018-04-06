@@ -38,7 +38,7 @@ our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>
   
 <h4>Join Us!</h4>
             
-Organisations are encouraged to <a href="../membership/">join us as contributing members to support the work we do.</a> We 
+Organisations are encouraged to <a href="./membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="https://software-carpentry.org/join/">new people</a> to our community. We have 
 <a href="https://software-carpentry.org/join/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
