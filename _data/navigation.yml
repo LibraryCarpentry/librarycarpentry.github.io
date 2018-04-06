@@ -28,7 +28,7 @@
   side: left
   dropdown:
   - title: "Teach the Carpentries"
-    url: "{{site.url}}/teach/"  
+    url: "/teach/"  
   - title: "Data Carpentry Lessons"
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
