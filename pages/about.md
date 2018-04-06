@@ -22,15 +22,15 @@ the previous Steering Committees of Software and Data Carpentry.
 
 <h4>What Information is Where?</h4>
 
-What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog](../blog/), rather than individual blog sites. 
+What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites. 
 
 <h4>What is a Carpentries Workshop?</h4>
 
-<a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> 
-or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> generally 
+<a href="https://software-carpentry.org/workshops/">Software Carpentry</a> workshops 
+or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops generally 
 comprise two full days of face-to-face instruction, based on 
 either <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
-or <a href="http://www.datacarpentry.org/lessons">Data Carpentry lesson materials</a>. 
+or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials. 
 They are taught by volunteer Instructors. Certified Instructors comprise people who 
 have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. 
 <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
@@ -41,14 +41,12 @@ our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>
   
 <h4>Join Us!</h4>
             
-Organisations are encouraged to <a href="../membership/">join us as contributing members to support the work we do.</a> We 
-welcome <a href="https://software-carpentry.org/join/">new people</a> to our community. We have 
-<a href="../join/">many ways to engage</a>, including 
+Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
+welcome <a href="{{site.url}}/join/">new people</a> to our community. We have 
+<a href="{{site.url}}/join/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
 our <a href="http://eepurl.com/cfODMH">newsletter</a>, and our <a href="https://software-carpentry.org/join/">email lists</a>.
 
 <h4>Style</h4>
 
 The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organization is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
-
-
