@@ -27,7 +27,7 @@
   url: "/teach/"
   side: left
   dropdown:
-  - title: "teach the Carpentries"
+  - title: "Teach the Carpentries"
     url: "{{site.url}}/teach/"  
   - title: "Data Carpentry Lessons"
     url: "http://datacarpentry.org/lessons/"
@@ -39,10 +39,10 @@
     url: "/workshops/"
   - title: "Workshop Operations"
     url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
+ -  title: "Past Data Carpentry Workshops"
+    url: "http://www.datacarpentry.org/workshops-past/" 
   - title: "Past Software Carpentry Workshops"
     url: "https://software-carpentry.org/workshops/past/"
- - title: "Past Data Carpentry Workshops"
-    url: "http://www.datacarpentry.org/workshops-past//" 
   - title: "Our Audience"
     url: "https://software-carpentry.org/audience/"
 
@@ -67,10 +67,10 @@
   dropdown:
   - title: "Get Involved"
     url: "/join/"
-  - title: "Our Partners"
-    url: "/memberorgs/"
   - title: "Become a Member Organization"
     url: "/membership/"
+  - title: "Our Partners"
+    url: "/memberorgs/"
 
 - title: Our Team
   url: "/team/"
