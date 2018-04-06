@@ -22,7 +22,7 @@ the previous Steering Committees of Software and Data Carpentry.
 
 <h4>What Information is Where?</h4>
 
-What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog](./blog/), rather than individual blog sites. 
+What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog](../blog/), rather than individual blog sites. 
 
 <h4>What is a Carpentries Workshop?</h4>
 
@@ -43,12 +43,12 @@ our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>
             
 Organisations are encouraged to <a href="../membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="https://software-carpentry.org/join/">new people</a> to our community. We have 
-<a href="https://software-carpentry.org/join/">many ways to engage</a>, including 
+<a href="../join/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
 our <a href="http://eepurl.com/cfODMH">newsletter</a>, and our <a href="https://software-carpentry.org/join/">email lists</a>.
 
 <h4>Style</h4>
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *The Carpentries is ...*. The correct title for the merged organization is **The Carpentries**. However, you can use terminology such as *A Carpentries workshop ..*.
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organization is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
 
 
