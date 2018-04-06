@@ -4,8 +4,6 @@ title: "Join our Community"
 permalink: /community/
 ---
 
-### Join our Community
-
 The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, 
 and research software development through building local and global communities of practice.
 
