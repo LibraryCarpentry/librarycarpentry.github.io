@@ -26,7 +26,7 @@ author: weaverbel
 #
 url: 'https://carpentries.github.io/new-website'
 baseurl: ''
-filesurl: 'https://carpentries.github.io/new-website/files/'
+filesurl: 'https://carpentries.github.io/new-website/files'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -57,7 +57,7 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
-plugins: [jekyll-paginate]
+plugins_dir: [jekyll-paginate]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site
@@ -168,13 +168,14 @@ msapplication_tilecolor:                "#ffffff"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-# og_image:                         ""
-# og_locale:                        "en_EN"
-# og_type:                          "website"
-# og_title:                         ""
-# og_description:                   ""
-# og_url:                           ""
-# og_site_name:                     ""
+# https://developers.facebook.com/docs/sharing/best-practices#images
+## image should be 1200x630 (1.91:1 ratio)
+og_image:                         "TheCarpentries-opengraph.png"
+og_locale:                        "en_EN"
+og_type:                          "website"
+og_title:                         "The Carpentries"
+og_description:                   "We teach foundational coding and data science skills to researchers worldwide."
+og_url:                           "https://thecarpentries.org"
 
 
 #      _____            _       __   __  ___         ___
