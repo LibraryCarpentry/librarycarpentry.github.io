@@ -74,7 +74,7 @@
   url: "/team/"
   side: left
   dropdown:
-  - title: "Our Team"
+  - title: "Our Staff"
     url: "/team/"
   - title: "Our Instructors"
     url: "https://software-carpentry.org/scf/members/"
