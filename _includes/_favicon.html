@@ -28,3 +28,7 @@
 	{% if site.msapplication_tileimage %}<meta name="msapplication-TileImage" content="{{ "/assets/img/" | absolute_url }}{{ site.msapplication_tileimage }}">{% endif %}
 {% comment %} Background Color for Tile for Windows 8  {% endcomment %}
 	{% if site.msapplication_tilecolor %}<meta name="msapplication-TileColor" content="{{ site.msapplication_tilecolor }}">{% endif %}
+{% comment %} others {% endcomment %}
+	<link rel="manifest" href="/assets/img/site.webmanifest">
+	<link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+  	<meta name="theme-color" content="#ffffff">

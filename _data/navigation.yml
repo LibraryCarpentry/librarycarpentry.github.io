@@ -17,8 +17,6 @@
   - title: "Our History"
     url: "https://software-carpentry.org/scf/history/"
   - title: "Community Service Awards"
-    url: "https://software-carpentry.org/scf/awards/"
-  - title: "Privacy Policy"
     url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   - title: "Other Policies"
     url: "https://docs.carpentries.org/topic_folders/policies/index.html"
@@ -57,7 +55,7 @@
   - title: "Instructor Training"
     url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
   - title: "Assessment"
-    url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
+    url: "/assessment/"
   - title: "Learner Profiles"
     url: "https://software-carpentry.org/audience/"
 
@@ -76,7 +74,7 @@
   url: "/team/"
   side: left
   dropdown:
-  - title: "Our Team"
+  - title: "Our Staff"
     url: "/team/"
   - title: "Our Instructors"
     url: "https://software-carpentry.org/scf/members/"
