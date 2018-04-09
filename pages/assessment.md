@@ -4,8 +4,6 @@ title: "Assessment"
 permalink: /assessment/
 ---
 
-## Assessment
-
 The Carpentries value a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have on our learners, and how we can improve our content delivery.
 
