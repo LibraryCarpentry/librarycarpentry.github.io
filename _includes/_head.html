@@ -65,6 +65,8 @@
 
 	{% if page.image.title %}
 	<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}">
+	{% else %}
+	<meta property="og:image" content="{{ site.urlimg }}TheCarpentries-opengraph.png">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	{% endif %}
