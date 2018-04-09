@@ -57,7 +57,7 @@
   - title: "Instructor Training"
     url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
   - title: "Assessment"
-    url: "https://docs.carpentries.org/topic_folders/assessment/index.html"
+    url: "{{site.url}}/assessment"
   - title: "Learner Profiles"
     url: "https://software-carpentry.org/audience/"
 
