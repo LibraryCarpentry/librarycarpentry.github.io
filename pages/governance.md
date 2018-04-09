@@ -1,6 +1,5 @@
 ---
-layout: default
-format: page-fullwidth
+layout: page-fullwidth
 title: "Carpentries Governance"
 permalink: /governance/
 ---
