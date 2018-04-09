@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 authors: ["François Michonneau"]
 subheadline: "What can I do during the Bug BBQ?"
 title: "How to be involved in the Bug BBQ?"
