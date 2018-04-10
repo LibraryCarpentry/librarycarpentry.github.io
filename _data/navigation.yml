@@ -25,18 +25,10 @@
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
     url: "https://software-carpentry.org/lessons/"
-  - title: "Instructor Training"
-    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
   - title: "Our Workshops"
     url: "/workshops/"
   - title: "Workshop Operations"
     url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
-  - title: "Past Data Carpentry Workshops"
-    url: "http://www.datacarpentry.org/workshops-past/" 
-  - title: "Past Software Carpentry Workshops"
-    url: "https://software-carpentry.org/workshops/past/"
-  - title: "Learner Profiles"
-    url: "https://software-carpentry.org/audience/"
 
 - title: Learn
   url: "/learn/"
@@ -61,7 +53,7 @@
     url: "/join/"
   - title: "Become a Member Organization"
     url: "/membership/"
-  - title: "Our Partners"
+  - title: "Our Members"
     url: "/memberorgs/"
 
 - title: Our Team
