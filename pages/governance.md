@@ -26,3 +26,7 @@ of Software and Data Carpentry.
 <li>Sue McClatchy (Treasurer)
 <li>Ethan White
 
+### Policies
+
+As well as our Code of Conduct, we have a number of policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others. [See them here](https://docs.carpentries.org/topic_folders/policies/index.html).
+
