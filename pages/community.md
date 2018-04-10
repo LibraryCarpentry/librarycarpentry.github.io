@@ -146,7 +146,7 @@ To get involved, please contact [Jonah Duckles](mailto:jduckles@carpentries.org)
 
 ### Workshop Administrators
 
-Need intro para. 
+The role of the regional workshop administrator is to be the front face of the Carpentries, promoting our work and our culture in their geographical area.  The workshop administrator will manage workshop logistics, communicate with hosts and instructors, and respond to general inquiries.  As a team, all administrators will  work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
 * [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
 * [Current members](https://github.com/carpentries/workshop-administrators/blob/master/members.md)
