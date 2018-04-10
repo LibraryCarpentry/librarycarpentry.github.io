@@ -149,12 +149,8 @@ To get involved, please contact [Jonah Duckles](mailto:jduckles@carpentries.org)
 Need intro para. 
 
 * [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
-* [Current members]
-* [Apply to join]
-* [Upcoming meetings]
-* [Mailing list]
-* [Meeting minutes]()
-* [Contact]
+* [Current members](https://github.com/carpentries/workshop-administrators/blob/master/members.md)
+* [Contact](mailto:team@carpentries.org)
 
 ### Code of Conduct Committee
 
