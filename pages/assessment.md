@@ -22,7 +22,6 @@ and [determination letter]({{ site.urlimg }}/IRB_decision_letter_08_31_16_websit
 We conduct pre and post workshop surveys for each workshop
 
 - [Pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)
-
 - [Post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
 
 #### Long-Term Survey
