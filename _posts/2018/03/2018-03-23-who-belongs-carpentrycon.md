@@ -2,6 +2,7 @@
 layout: page
 authors: ["Belinda Weaver"]
 title: "Who Belongs at CarpentryCon 2018? You Do!"
+teaser: To be held in Dublin from 30 May - 1 June, 2018, CarpentryCon will be three action-packed days of skill ups, breakout sessions, talks, social events, and workshops.
 date: 2018-03-23
 time: "00:00:00"
 tags: ["Community Building", "CarpentryCon", "Networking"]
