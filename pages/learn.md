@@ -9,4 +9,4 @@ routine tasks, use code to replicate operations or clean up data, and help you o
 
 Our workshops are designed for beginners. Have a look at some [learner profiles](https://software-carpentry.org/audience/) and read some [testimonials](https://software-carpentry.org/testimonials/) to what others have found useful. 
 
-All Carpentries instructors have completed [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html). Once badged as an Instructor, you can go on to teach workshops. Find more about teaching and hosting workshops [here](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).
+All Carpentries instructors have completed [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html). Once badged as an Instructor, you can go on to teach workshops. Find more about teaching and hosting workshops [in our handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).
