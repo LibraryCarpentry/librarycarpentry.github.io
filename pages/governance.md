@@ -11,22 +11,23 @@ of Software and Data Carpentry.
  
 <h4>Executive Council Elected Members: 1-year term</h4>
 
-<li>Amy Hodge 
-<li>Elizabeth Wickes 
+- Amy Hodge 
+- Elizabeth Wickes 
   
 <h4>Executive Council Elected Members: 2-year term</h4>
-<li>Lex Nederbragt (Secretary)
-<li>Raniere Silva 
+
+- Lex Nederbragt (Secretary)
+- Raniere Silva 
 
 <h4>Executive Council Appointed Members</h4>
 
-<li>Karen Cranston  (Chair)
-<li>Kate Hertweck 
-<li>Mateusz Kuzak 
-<li>Sue McClatchy (Treasurer)
-<li>Ethan White
+- Karen Cranston  (Chair)
+- Kate Hertweck 
+- Mateusz Kuzak 
+- Sue McClatchy (Treasurer)
+- Ethan White
 
-### Policies
+### Carpentries Policies
 
 As well as our Code of Conduct, we have a number of policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others. [See them here](https://docs.carpentries.org/topic_folders/policies/index.html).
 
