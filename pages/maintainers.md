@@ -16,8 +16,9 @@ email list.
 Lesson Maintainers can expect to acquire this [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md). 
 [Find out more about becoming a Lesson Maintainer.](https://docs.carpentries.org/topic_folders/maintainers/index.html)
 
+## Our Current Lesson Maintainers 
 
-|   Our Current Lesson Maintainers     |          |   |  |||
+|       |          |   |  |||
 | :-------------: |:-------------:| :-----:|:-------------: |:-------------:| :-----:|
 | Tania Rebeca Allard | Christie Bahlai | Erin Becker | Trevor Bekolay | Maxim Belkin | John Blischak | 
 | Azalee Bostroem | Geoffrey Boushey | Erik Bray | Daniel Chen | Stephen Childs | Ana Costa Conrado |    
