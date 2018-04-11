@@ -54,6 +54,8 @@ The analysis in this report serves the following purposes:
 
 The report finds that learners are reporting that after a workshop, their level of data management and analysis skills have increased, they have increased confidence in their ability to use these skills and that the learners have increased appreciation for these skills (i.e. scripting) to improve and promote reproducible research. 95% of learners agree or strongly agree that they would recommend the workshop to a colleague.
 
+- [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533). The data used in this report is available in this [repository](https://github.com/carpentries/assessment/tree/master/learner-assessment/software-carpentry/postworkshop/2017-July).
+
 #### Long-Term Survey Reports
 
 - [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.165858)
