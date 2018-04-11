@@ -92,6 +92,8 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
 <iframe src="https://calendar.google.com/calendar/embed?title=%20Software%20Carpentry%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
+#### Mailing lists
+
 <table class="table table-striped">
   <tr>
     <td colspan="5"><strong>General</strong></td>
