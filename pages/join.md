@@ -12,7 +12,7 @@ There are lots of ways to get involved in our community and many different ways 
 #### Become a Member
 
 Institutions such as universities and research institutes can best support 
-The Carpentries by becoming a <a href="../membership/">member organization</a>. Member organizations make a commitment to the growth and spread of The Carpentries, and receive priority access to [instructor training](../instructor-training) as well as guidance with local capacity building within their organization. 
+The Carpentries by becoming a <a href="../membership/">member organization</a>. Member organizations make a commitment to the growth and spread of The Carpentries, and receive priority access to [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html) as well as guidance with local capacity building within their organization. 
 
 #### Sponsor CarpentryCon
 
