@@ -50,7 +50,7 @@
   side: left
   dropdown:
   - title: "Get Involved"
-    url: "/join/"
+    url: "/community/"
   - title: "Become a Member Organization"
     url: "/membership/"
   - title: "Our Members"
