@@ -8,9 +8,9 @@ excerpt: Support our work by donating directly to The Carpentries
   We are funded by a wide variety of <a href="{{site.baseurl}}/scf/partners/">supporting organizations</a>,
   by workshop administration fees,
   and by <a href="https://carpentries.wedid.it">direct donations</a>
-  from people like you.
+  from people like you.</p>
   
- Donating even a small amount can make a big difference. New funding allows the Carpentries to expand into new geographies and new disciplines, and can help bring workshops to researchers who would otherwise be locked out of participation.
+ <p>Donating even a small amount can make a big difference. New funding allows the Carpentries to expand into new geographies and new disciplines, and can help bring workshops to researchers who might otherwise be locked out of participation.
  
 </p>
 <div align="center">
