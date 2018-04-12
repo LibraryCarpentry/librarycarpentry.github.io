@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann"]
-teaser: "Announcing Chris Erdmann as the new Library Carpentry Community and Development Director"
+teaser: "Announcing Chris Erdmann as the new Library Carpentry Community and Development Director, starting 4 May, 2018."
 title: "Building Library Carpentry Community and Development"
 date: 2018-04-12
 time: "00:00:00"
