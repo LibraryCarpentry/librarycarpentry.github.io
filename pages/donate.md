@@ -10,7 +10,8 @@ excerpt: Support our work by donating directly to The Carpentries
   and by <a href="https://carpentries.wedid.it">direct donations</a>
   from people like you.
   
-  If you want to see the Carpentries expand into new geographies or disciplines, then please show your support.
+ Donating even a small amount can make a big difference. New funding allows the Carpentries to expand into new geographies and new disciplines, and can help bring workshops to researchers who would otherwise be locked out of participation.
+ 
 </p>
 <div align="center">
   <a href="https://carpentries.wedid.it">
