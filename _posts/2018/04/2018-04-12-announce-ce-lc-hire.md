@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann", "Belinda Weaver"]
+authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann"]
 teaser: "Announcing Chris Erdmann as the new Library Carpentry Community and Development Director"
 title: "Building Library Carpentry Community and Development"
 date: 2018-04-12
