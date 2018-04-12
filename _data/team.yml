@@ -86,9 +86,20 @@ people:
 
 - name: Karen Word
   pic: karenword
-  position: Deputy Director of Instructor Training (affiliate)
+  position: Deputy Director of Instructor Training (affiliate staff member)
   social:
     - title: twitter
       url: https://twitter.com/karen_word
     - title: github
       url: https://github.com/karenword
+      
+- name: Chris Erdmann
+  pic: chriserdmann
+  position: Library Carpentry Community and Development Director (affiliate staff member)
+  social:
+    - title: twitter
+      url: https://twitter.com/libcce
+    - title: github
+      url: https://github.com/libcce
+    - title: linkedin
+      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
