@@ -76,6 +76,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Donate"
+  url: "/donate/"
+  side: right
+  
 - title: "Search"
   url: "/search/"
   side: right
