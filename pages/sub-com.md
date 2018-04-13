@@ -13,13 +13,12 @@ Existing Subcommittees and Task Forces welcome new members. Check out these acti
 
 ##### Subcommittees
 
-| **Subcommittee Webpage	| Activities	| Contact** | 
+| **Subcommittee**	| **Activities**	| **Contact** | 
 | [Maintainers](https://software-carpentry.org/join/subcom/maintainers/) | 	Lesson Maintenance, Lesson and Workshop Templates |	TBA | 
 | [Mentoring](https://software-carpentry.org/join/subcom/mentoring/)	|  Instructor Discussion Sessions, Post-Instructor Training Support, Mentoring Groups, Instructor & Helper Retreat | 	[mentoring@lists.software-carpentry.org](mailto:mentoring@lists.software-carpentry.org) |
 
 ##### Task Forces
 
-| **Task Force	| Goals	| Contact** | 
-| African Task Force	| The African Task Force is involved in workshop support and instructor mentoring on 
-the African continent.	| [African Task Force](mailto:admin-afr@carpentries.org) |  
+| **Task Force**	| **Goals**	| **Contact** | 
+| African Task Force	| The African Task Force is involved in workshop support and instructor mentoring on the African continent.	| [African Task Force](mailto:admin-afr@carpentries.org) |  
 | AMY Development	| Plan and implement features for the Carpentries' member database, AMY.	| [Open an Issue](https://github.com/swcarpentry/amy/issues) | 
