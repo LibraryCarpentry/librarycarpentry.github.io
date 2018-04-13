@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Our Lesson Maintainers"
+title: "Our Maintainers"
 permalink: /maintainers/
-excerpt: Lesson Maintainers manage lesson amendments and upgrades for our global Carpentries Community.
+excerpt: Maintainers manage lesson amendments and upgrades for our global Carpentries Community.
 ---
 
-The Carpentries Lesson Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. 
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. 
 Maintainers monitor the individual lesson repositories they manage. Working as a team, they ensure that pull requests and issues are 
 addressed in a timely manner, and 
 participate in the lesson development cycle, including lesson releases. They endeavor to be welcoming and supportive of 
@@ -13,10 +13,10 @@ contributions from all members of the community. This community of practice is a
 effectively in Git and GitHub. Maintainers have their own dedicated Slack channel and 
 email list.
 
-Lesson Maintainers can expect to acquire this [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md). 
-[Find out more about becoming a Lesson Maintainer.](https://docs.carpentries.org/topic_folders/maintainers/index.html)
+Maintainers can expect to acquire this [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md). 
+[Find out more about becoming a Maintainer.](https://docs.carpentries.org/topic_folders/maintainers/index.html)
 
-## Our Current Lesson Maintainers 
+## Our Current Maintainers 
 
 |       |          |   |  |||
 | :-------------: |:-------------:| :-----:|:-------------: |:-------------:| :-----:|
