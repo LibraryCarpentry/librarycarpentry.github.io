@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Join our Community"
 permalink: /community/
-excerpt: Find ways to engage with the global Carpentries Community.
+excerpt: Find ways to engage with the global Carpentries Community, including taking part in committees and taskforces.
 ---
 
 The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, 
