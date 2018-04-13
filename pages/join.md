@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Get Involved"
+title: "Pathways for Engagement"
 permalink: /join/
 excerpt: Find ways to engage with the global Carpentries Community.
 ---
