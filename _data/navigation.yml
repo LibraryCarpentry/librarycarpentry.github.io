@@ -13,7 +13,7 @@
   - title: "Governance"
     url: "/governance"
   - title: "Testimonials"
-    url: "https://software-carpentry.org/testimonials/"
+    url: "/testimonials/"
     
 - title: "Teach"
   url: "/teach/"
