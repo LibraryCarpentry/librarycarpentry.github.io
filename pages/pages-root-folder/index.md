@@ -21,7 +21,7 @@ widget3:
   title: "Get involved"
   url: 'https://carpentries.org/join'
   icon: 'fas fa-comment-dots'
-  text: 'See all the <a href="../community/">ways you can engage</a> with the Carpentries. Get information about upcoming events such as workshops, meetups, and discussions from our <a href="../community/">community calendar</a>, or from our twice-monthly newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a> - see our <a href="https://us14.campaign-archive.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">archive</a>. Follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, or <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
+  text: 'See all the <a href="../community/">ways you can engage</a> with the Carpentries. Get information about upcoming events such as workshops, meetups, and discussions from our <a href="../community/#community-events">community calendar</a>, or from our twice-monthly newsletter, <a href="http://eepurl.com/cfODMH"><em>Carpentry Clippings</em></a> - see our <a href="https://us14.campaign-archive.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">archive</a>. Follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a> or <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
