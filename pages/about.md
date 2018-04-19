@@ -12,7 +12,7 @@ shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-condu
 
 You can donate to The Carpentries <a href="https://carpentries.wedid.it/">here</a>.
 
-<h4>How are The Carpentries Managed?</h4>
+<h4>How is The Carpentries Managed?</h4>
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
 a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and governance of the merged Carpentries is undertaken 
