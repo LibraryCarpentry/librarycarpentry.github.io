@@ -66,7 +66,7 @@ people:
       url: https://twitter.com/fmic_
     - title: github
       url: https://github.com/fmichonneau
-   - title: google-plus
+    - title: google-plus
       url: mailto:francois@carpentries.org
 
 - name: Maneesha Sane
@@ -77,7 +77,7 @@ people:
       url: https://twitter.com/maneeshasane
     - title: github
       url: https://github.com/maneesha
-   - title: google-plus
+    - title: google-plus
       url: mailto:maneesha@carpentries.org
 
 - name: Elizabeth Williams
@@ -88,6 +88,8 @@ people:
       url: https://twitter.com/ecwilliams8
     - title: github
       url: https://github.com/elizabethwilliams8
+    - title: google-plus
+      url: mailto:ewilliams@carpentries.org
 
 - name: SherAaron Hurt
   pic: sheraaronhurt
@@ -97,6 +99,8 @@ people:
       url: https://twitter.com/SherAaronHurt
     - title: github
       url: https://github.com/sheraaron
+    - title: google-plus
+      url: mailto:sheraaron@carpentries.org
 
 - name: Karen Word
   pic: karenword
@@ -106,6 +110,8 @@ people:
       url: https://twitter.com/karen_word
     - title: github
       url: https://github.com/karenword
+    - title: google-plus
+      url: mailto:krword@carpentries.org
       
 - name: Chris Erdmann
   pic: chriserdmann
@@ -117,3 +123,5 @@ people:
       url: https://github.com/libcce
     - title: linkedin
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - title: google-plus
+      url: mailto:chris@carpentries.org
