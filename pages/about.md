@@ -30,7 +30,8 @@ or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop
 comprise two full days of face-to-face instruction, based on 
 either <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials. 
-They are taught by volunteer Instructors. Certified Instructors comprise people who 
+
+Workshops are taught by volunteer Instructors. Certified Instructors comprise people who 
 have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. 
 <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
 and <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lessons are all 
@@ -42,8 +43,7 @@ our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>
             
 Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="{{site.url}}/community/">new people</a> to our community. We have 
-<a href="{{site.url}}/community/">many ways to engage</a>, including 
-The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
+<a href="{{site.url}}/community/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
 our <a href="http://eepurl.com/cfODMH">newsletter</a>, our [Facebook](https://www.facebook.com/carpentries/) page, 
 and our <a href="{{site.url}}/community/#mailing-lists">email lists</a>. 
 
@@ -51,4 +51,4 @@ You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or
 
 <h4>Style</h4>
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organization is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
