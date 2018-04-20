@@ -41,4 +41,4 @@ We offer several levels of Memberships, based on training activities expected an
 ^ in-person instructor trainings require an available Trainer and travel funds to support Instructor Trainer's travel.
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
-find out more, [please send us email](mailto:memberships@carpentries.org).
+find out more, [please send us an email](mailto:memberships@carpentries.org).
