@@ -33,6 +33,7 @@ You must complete three short tasks after the course in order to complete certif
 
 </div>
 
+If you're interested in training multiple students or employees at your institution, consider becoming a [member](https://carpentries.org/membership/)!
 
 *Most of our Instructors are trained through organizational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please apply using the button above. If you are not affiliated with one of our member organizations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.*
 
