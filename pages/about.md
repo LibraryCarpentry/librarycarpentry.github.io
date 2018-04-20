@@ -45,7 +45,7 @@ Organisations are encouraged to <a href="{{site.url}}/membership/">join us as co
 welcome <a href="{{site.url}}/community/">new people</a> to our community. We have 
 <a href="{{site.url}}/community/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
-our <a href="http://eepurl.com/cfODMH">newsletter</a>, and our <a href="{{site.url}}/community/">email lists</a>.
+our <a href="http://eepurl.com/cfODMH">newsletter</a>, [Facebook](https://www.facebook.com/carpentries/) and our <a href="{{site.url}}/community/">email lists</a>.
 
 <h4>Style</h4>
 
