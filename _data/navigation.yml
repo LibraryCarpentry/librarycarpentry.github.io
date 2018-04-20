@@ -16,34 +16,32 @@
     url: "/testimonials/"
     
 - title: "Teach"
-  url: "/teach/"
+  url: "/workshops/"
   side: left
   dropdown:
-  - title: "Teach the Carpentries"
-    url: "/teach/"  
+  - title: "Our Workshops"
+    url: "/workshops/"
   - title: "Data Carpentry Lessons"
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
     url: "https://software-carpentry.org/lessons/"
-  - title: "Our Workshops"
-    url: "/workshops/"
-  - title: "Workshop Operations"
-    url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
+  - title: "Become an Instructor"
+    url:
+  - title: "For Instructors"
+    url: "https://docs.carpentries.org/topic_folders/hosts_instructors/index.html"
 
 - title: Learn
   url: "/learn/"
   side: left
   dropdown:
+  - title: "Our Audience"
+    url: "/audience/"
   - title: "Request a Data Carpentry Workshop"
     url: "http://www.datacarpentry.org/workshops-host/"
   - title: "Request a Software Carpentry Workshop"
     url: "https://software-carpentry.org/workshops/request/"
-  - title: "Instructor Training"
-    url: "https://docs.carpentries.org/topic_folders/instructor_training/index.html"
-  - title: "Assessment"
+  - title: "Our Impact"
     url: "/assessment/"
-  - title: "Learner Profiles"
-    url: "https://software-carpentry.org/audience/"
 
 - title: Join Us
   url: "/join/"
