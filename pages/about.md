@@ -10,7 +10,7 @@ helpers and supporters who share a mission to teach foundational computational a
 The Carpentries subscribe to a 
 shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. 
 
-You can donate to The Carpentries <a href="https://carpentries.wedid.it/">here</a>.
+You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
 <h4>How is The Carpentries Managed?</h4>
 
