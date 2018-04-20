@@ -1,15 +1,15 @@
 ---
 layout: page-fullwidth
 permalink: /membership/
-title: Become a Member Organization
-excerpt: A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry
+title: Become a Member Organisation
+excerpt: A Member Organisation is an organiszation that has made a commitment to the growth and spread of The Carpentries
 ---
 
-A Member Organization is an organization that has made a commitment to the growth and spread of The Carpentries. Members receive priority access to instructor training and guidance with capacity building at their organization. With local instructors, Members can readily run low-cost local workshops. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship and a forum for community lesson development.
+A Member Organisation is an organisation that has made a commitment to the growth and spread of The Carpentries. Members receive priority access to instructor training and guidance with capacity building at their organisation. With local instructors, Member organisations can readily run low-cost local workshops. Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship, and a forum for community lesson development.
 
 ### Membership Tiers
 
-We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organizations. We also provide these and Platinum Memberships for for-profit organizations. Please [contact us](mailto:memberships@carpentries.org) for more information.
+We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organisations. We also provide these and Platinum Memberships for for-profit organisations. Please [contact us](mailto:memberships@carpentries.org) for more information.
 
 {: .table .table-striped}
 ||Bronze|Silver|Gold|Platinum|
@@ -32,13 +32,13 @@ We offer several levels of Memberships, based on training activities expected an
 
 #### Notes
 
-\* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organization. A designated contact approves coordinated workshop requests for that organization. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
+\* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organisation. A designated contact approves coordinated workshop requests for that organisation. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
 
-\*\* For Self-organized workshops the organization is responsible for finding local instructors and handling the logistics of the workshop coordination, including registration and registering the workshop with Software and Data Carpentry. As long at least one instructor is certified and the Software or Data Carpentry content is taught, it can be labeled a Carpentry workshop.
+\*\* For Self-organized workshops, the organisation is responsible for finding local Instructors and handling the logistics of the workshop coordination, including registration and registering the workshop with Software and Data Carpentry. As long at least one Instructor is certified, and the Software or Data Carpentry content is fully taught, it can be labeled a Carpentries workshop.
 
-\*\*\* Any instructor training includes the instructor mentorship and support of the instructors through the instructor development program.
+\*\*\* Any Instructor training includes the instructor mentorship and support of the Instructors through the Instructor development program.
 
-^ in-person instructor trainings require an available trainer and travel funds to support instructor trainer(s) travel.
+^ in-person instructor trainings require an available Trainer and travel funds to support Instructor Trainer's travel.
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
-find out more, [please send us email](mailto:partnerships@software-carpentry.org).
+find out more, [please send us email](mailto:memberships@carpentries.org).
