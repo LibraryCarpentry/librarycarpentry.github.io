@@ -7,6 +7,8 @@ people:
       url: https://twitter.com/tracykteal
     - title: github
       url: https://github.com/tracykteal
+    - title: google-plus
+      url: mailto:tracykteal@carpentries.org
 
 - name: Erin Becker
   pic: erinbecker
@@ -16,6 +18,8 @@ people:
       url: https://twitter.com/ErinSBecker
     - title: github
       url: https://github.com/erinbecker
+    - title: google-plus
+      url: mailto:ebecker@carpentries.org
 
 - name: Jonah Duckles
   pic: jonahduckles
@@ -25,6 +29,8 @@ people:
       url: https://twitter.com/jduckles
     - title: github
       url: https://github.com/jduckles
+    - title: google-plus
+      url: mailto:jduckles@carpentries.org
 
 - name: Kari L. Jordan
   pic: karijordan
@@ -36,6 +42,8 @@ people:
       url: https://github.com/kariljordan
     - title: linkedin
       url: https://www.linkedin.com/in/kariljordan/
+    - title: google-plus
+      url: mailto:kariljordan@carpentries.org
 
 - name: Belinda Weaver
   pic: belindaweaver
@@ -47,6 +55,8 @@ people:
       url: https://github.com/weaverbel
     - title: linkedin
       url: https://www.linkedin.com/in/belinda-weaver-8525526/
+    - title: google-plus
+      url: mailto:bweaver@carpentries.org
 
 - name: François Michonneau
   pic: francoismichonneau
@@ -56,6 +66,8 @@ people:
       url: https://twitter.com/fmic_
     - title: github
       url: https://github.com/fmichonneau
+    - title: google-plus
+      url: mailto:francois@carpentries.org
 
 - name: Maneesha Sane
   pic: maneeshasane
@@ -65,6 +77,8 @@ people:
       url: https://twitter.com/maneeshasane
     - title: github
       url: https://github.com/maneesha
+    - title: google-plus
+      url: mailto:maneesha@carpentries.org
 
 - name: Elizabeth Williams
   pic: elizabethwilliams
@@ -74,6 +88,8 @@ people:
       url: https://twitter.com/ecwilliams8
     - title: github
       url: https://github.com/elizabethwilliams8
+    - title: google-plus
+      url: mailto:ewilliams@carpentries.org
 
 - name: SherAaron Hurt
   pic: sheraaronhurt
@@ -83,6 +99,8 @@ people:
       url: https://twitter.com/SherAaronHurt
     - title: github
       url: https://github.com/sheraaron
+    - title: google-plus
+      url: mailto:sheraaron@carpentries.org
 
 - name: Karen Word
   pic: karenword
@@ -92,6 +110,8 @@ people:
       url: https://twitter.com/karen_word
     - title: github
       url: https://github.com/karenword
+    - title: google-plus
+      url: mailto:krword@carpentries.org
       
 - name: Chris Erdmann
   pic: chriserdmann
@@ -103,3 +123,5 @@ people:
       url: https://github.com/libcce
     - title: linkedin
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - title: google-plus
+      url: mailto:chris@carpentries.org

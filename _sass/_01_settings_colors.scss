@@ -36,9 +36,9 @@ $ci-6: #A1D044;		// green
 /* Software Carpentry colors
 ---------------------------------------- */
 
-$swc-blue: #557cc3;		// Software Carpentry dark blue
-$swc-blue-light: #688aca;	// Brighter version of Software Carpentry blue
-$swc-blue-med: #9DB6E6;		// Medium version of Software Carpentry blue
+$swc-blue: #071159; //6b7bf3; //557cc3;		// Software Carpentry dark blue
+$swc-blue-med: #6b7bf3; //88aca;	// Brighter version of Software Carpentry blue
+$swc-blue-light: #e3e6fd; //9DB6E6;		// Medium version of Software Carpentry blue
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
@@ -77,32 +77,33 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: #fff;
+$topbar-bg-color: $swc-blue;
 
-$topbar-dropdown-toggle-color: $swc-blue;
+$topbar-dropdown-toggle-color: $grey-1;
+$topbar-dropdown-toggle-alpha: .9;
 
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color: $grey-1;
+$topbar-link-color-hover: $grey-1;
+$topbar-link-color-active: $grey-15;
+$topbar-link-color-active-hover: $grey-15;
 
-$topbar-dropdown-label-color: $swc-blue-light;
+$topbar-dropdown-label-color: $swc-blue;
 $topbar-dropdown-link-bg-hover: $swc-blue-med;
 
-$topbar-link-bg-active: $swc-blue-med; // Active Navigation Link
+$topbar-link-bg-active: $swc-blue-light; // Active Navigation Link
 $topbar-link-bg-hover: $swc-blue-med;
-$topbar-link-bg-active-hover: $swc-blue-light;
+$topbar-link-bg-active-hover: $swc-blue-med;
 
 $topbar-dropdown-bg: $swc-blue-med; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $swc-blue-light;
+$topbar-dropdown-link-color: $grey-1;
+$topbar-dropdown-link-bg: $swc-blue;
 
 $topbar-menu-link-color-toggled: $swc-blue;
-$topbar-menu-icon-color-toggled: $swc-blue;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $swc-blue-med;
-$topbar-menu-icon-color-toggled: $swc-blue-med;
+$topbar-menu-icon-color-toggled: $grey-1;
+$topbar-menu-link-color: $grey-1;
+$topbar-menu-icon-color: $grey-1;
+$topbar-menu-link-color-toggled: $swc-blue;
+$topbar-menu-icon-color-toggled: $grey-1;
 
 
 
