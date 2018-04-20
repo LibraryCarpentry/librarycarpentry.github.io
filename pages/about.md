@@ -7,12 +7,11 @@ permalink: /about/
 The Carpentries project comprises <a href="https://software-carpentry.org/">Software Carpentry</a> 
 and <a href="http://www.datacarpentry.org/">Data Carpentry</a>, communities of Instructors, Trainers, Maintainers, 
 helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
-The Carpentries subscribe to a 
-shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. 
+The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. 
 
-You can donate to The Carpentries <a href="https://carpentries.wedid.it/">here</a>.
+You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
-<h4>How are The Carpentries Managed?</h4>
+<h4>How is The Carpentries Managed?</h4>
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
 a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and governance of the merged Carpentries is undertaken 
@@ -45,7 +44,7 @@ Organisations are encouraged to <a href="{{site.url}}/membership/">join us as co
 welcome <a href="{{site.url}}/community/">new people</a> to our community. We have 
 <a href="{{site.url}}/community/">many ways to engage</a>, including 
 <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
-our <a href="http://eepurl.com/cfODMH">newsletter</a>, and our <a href="{{site.url}}/community/">email lists</a>.
+our <a href="http://eepurl.com/cfODMH">newsletter</a>, [Facebook](https://www.facebook.com/carpentries/) and our <a href="{{site.url}}/community/">email lists</a>.
 
 <h4>Style</h4>
 
