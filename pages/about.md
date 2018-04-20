@@ -43,7 +43,7 @@ our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>
             
 Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="{{site.url}}/community/">new people</a> to our community. We have 
-<a href="{{site.url}}/community/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a>, <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
+<a href="{{site.url}}/community/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a> ([see older issues](https://us14.campaign-archive.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe), <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, 
 our <a href="http://eepurl.com/cfODMH">newsletter</a>, our [Facebook](https://www.facebook.com/carpentries/) page, 
 and our <a href="{{site.url}}/community/#mailing-lists">email lists</a>. 
 
