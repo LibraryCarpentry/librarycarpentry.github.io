@@ -7,6 +7,8 @@ people:
       url: https://twitter.com/tracykteal
     - title: github
       url: https://github.com/tracykteal
+    - title: email
+      url: mailto:tracykteal@carpentries.org
 
 - name: Erin Becker
   pic: erinbecker
