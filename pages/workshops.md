@@ -4,26 +4,21 @@ title: "Our Workshops"
 permalink: /workshops/
 ---
 
-<a href="https://software-carpentry.org/workshops/">Software Carpentry</a> workshops 
-or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops generally 
-comprise two full days of face-to-face instruction, based on 
-either <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
-or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials. 
+The Carpentries develop and teach interactive, hands-on, two-day
+workshops for learning core skills in research computing. [Data 
+Carpentry workshops](http://www.datacarpentry.org/workshops/) are domain-specific, and focus on teaching skills
+for working with data effectively and reproducibly. [Software 
+Carpentry workshops](https://software-carpentry.org/workshops/) are domain agnostic, and teach program design, version 
+control, testing, and task automation. 
 
-Audiences generally comprise postgraduate students and early career researchers, but may include postdocs, undergraduates, and
-others working within a research framework, for example, in government or industry. See [sample learner profiles](https://software-carpentry.org/audience).
+Carpentry workshops are in-person events, generally two days long, and are 
+taught by volunteer Instructors. Our Instructors are [trained in pedagogy](http://carpentries.github.io/instructor-training/) with
+a focus on creating a motivating and engaging learning environment. 
 
-They are taught by volunteer Instructors. Instructors perform live coding and learners work on their own machines. Certified 
-Instructors comprise people who 
-have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. 
+Our lesson materials are collaboratively developed by our volunteer community. All of our lessons are open source, and are hosted on 
+<a href="https://github.com/">GitHub</a>. 
 
-<a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
-and <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lessons are all 
-open source, and are hosted on <a href="https://github.com/">GitHub</a>. 
+To request a workshop at your institution, visit the [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/) workshop request pages.
 
-See more information about [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) 
-or [workshop adminstration](https://docs.carpentries.org/topic_folders/workshop_administration/index.html). 
-
-<a href="http://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html">See 
-our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>.
+If you're running a workshop, check out our guides for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) a workshop. 
   
