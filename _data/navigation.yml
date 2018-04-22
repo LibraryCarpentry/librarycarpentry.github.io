@@ -16,11 +16,9 @@
     url: "/testimonials/"
     
 - title: "Teach"
-  url: "/workshops/"
+  url: "/teach/"
   side: left
   dropdown:
-  - title: "Our Workshops"
-    url: "/workshops/"
   - title: "Data Carpentry Lessons"
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
@@ -34,8 +32,8 @@
   url: "/learn/"
   side: left
   dropdown:
-  - title: "Our Audience"
-    url: "/audience/"
+  - title: "Our Workshops"
+    url: "/workshops/"
   - title: "Request a Data Carpentry Workshop"
     url: "http://www.datacarpentry.org/workshops-host/"
   - title: "Request a Software Carpentry Workshop"
