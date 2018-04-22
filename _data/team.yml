@@ -1,127 +1,129 @@
+# Social icon names are the fully qualified
+#   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
 - name: Tracy Teal
   pic: tracyteal
   position: Executive Director
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/tracykteal
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/tracykteal
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:tracykteal@carpentries.org
 
 - name: Erin Becker
   pic: erinbecker
   position: Associate Director
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/ErinSBecker
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/erinbecker
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:ebecker@carpentries.org
 
 - name: Jonah Duckles
   pic: jonahduckles
   position: Director of Membership and Technology
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/jduckles
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/jduckles
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:jduckles@carpentries.org
 
 - name: Kari L. Jordan
   pic: karijordan
   position: Director of Assessment and Community Equity
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/drkariljordan
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/kariljordan
-    - title: linkedin
+    - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/kariljordan/
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:kariljordan@carpentries.org
 
 - name: Belinda Weaver
   pic: belindaweaver
   position: Community and Communications Lead
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/cloudaus
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/weaverbel
-    - title: linkedin
+    - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/belinda-weaver-8525526/
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:bweaver@carpentries.org
 
 - name: François Michonneau
   pic: francoismichonneau
   position: Curriculum Development Lead
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/fmic_
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/fmichonneau
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:francois@carpentries.org
 
 - name: Maneesha Sane
   pic: maneeshasane
   position: Program Manager
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/maneeshasane
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/maneesha
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:maneesha@carpentries.org
 
 - name: Elizabeth Williams
   pic: elizabethwilliams
   position: Business Administrator
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/ecwilliams8
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/elizabethwilliams8
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:ewilliams@carpentries.org
 
 - name: SherAaron Hurt
   pic: sheraaronhurt
   position: Workshop Administrator
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/SherAaronHurt
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/sheraaron
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:sheraaron@carpentries.org
 
 - name: Karen Word
   pic: karenword
   position: Deputy Director of Instructor Training (affiliate staff member)
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/karen_word
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/karenword
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:krword@carpentries.org
       
 - name: Chris Erdmann
   pic: chriserdmann
   position: Library Carpentry Community and Development Director (affiliate staff member)
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/libcce
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/libcce
-    - title: linkedin
+    - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
-    - title: google-plus
+    - icon: fa fa-envelope
       url: mailto:chris@carpentries.org
