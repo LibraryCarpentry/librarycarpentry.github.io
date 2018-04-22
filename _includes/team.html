@@ -23,7 +23,7 @@
                             {% for network in member.social %}
                             <li>
                                 <a href="{{ network.url }}">
-                                    <i class="fab fa-{{ network.title }}"></i>
+                                    <i class="{{ network.icon }}"></i>
                                 </a>
                             </li>
                             {% endfor %}
