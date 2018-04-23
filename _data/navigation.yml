@@ -68,12 +68,12 @@
     url: "/trainers/"
 
 - title: Connect
-#  url: "/blog/"
+  url: "/connect/"
   side: left
   dropdown:
   - title: "Blog"
-    url: "/blog/archive/"
-  - title: "Newletter"
+    url: "/blog/"
+  - title: "Newsletter"
     url: "/newsletter/"
 
 - title: "Donate"
