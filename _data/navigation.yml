@@ -12,6 +12,8 @@
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Governance"
     url: "/governance"
+  - title: "Current Member Organisations"
+    url: "/memberorgs/"
   - title: "Testimonials"
     url: "/testimonials/"
     
