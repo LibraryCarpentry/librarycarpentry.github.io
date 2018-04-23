@@ -1,16 +1,41 @@
 ---
 layout: default
-format: blog-index
-# Don't index these pages dear Google.
-noindex: true
+title: "Blog Archive"
+header:
+   image_fullwidth: header_unsplash_8.jpg
+permalink: "blog/"
 ---
-<div class="row">
-	<div class="medium-8 columns t30">
-		{% include _pagination.html %}
-	</div><!-- /.medium-7.columns -->
 
 
-	<div class="medium-4 columns t30">
-		{% include _sidebar.html %}
-	</div><!-- /.medium-5.columns -->
-</div><!-- /.row -->
+<div id="blog-index" class="row" >
+  <div class="medium-8 columns t30">
+    <h1>{{ page.title }}</h1>
+
+    {% assign counter = 1 %}
+    {% for post in site.posts limit:1000 %}
+
+    <h4><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"> {{ post.title }} </a> </h4>
+    <p>{{ post.teaser }}</p>
+
+    <div class="blog-meta">
+
+      <p>
+	{% if post.date %}
+	<time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
+	{% endif %}
+
+	<span class="icon-edit">
+	  {% for author in post.authors %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20">{{ author }}</span></span>{% endfor %}
+	</span>
+      </p>
+
+    </div>
+
+    {% assign counter=counter | plus:1 %}
+    {% endfor %}
+  </div>
+
+  <div class="medium-4 columns t30">
+    {% include _sidebar.html %}
+  </div><!-- /.medium-5.columns -->
+</div>
