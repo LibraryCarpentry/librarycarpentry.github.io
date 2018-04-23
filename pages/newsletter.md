@@ -10,7 +10,7 @@ permalink: /newsletter/
 
 <div class="medium-6 columns" markdown="0">
 
-<h2>Join our newsletter</h2>
+<h2>Join our Newsletter</h2>
 
 <div id="mc_embed_signup">
 	<form action="https://software-carpentry.us14.list-manage.com/subscribe/post?u=46d7513c798c6bd41e5f58f4a&amp;id=50c3e6d6fe" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
