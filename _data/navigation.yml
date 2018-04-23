@@ -67,12 +67,14 @@
   - title: "Our Trainers"
     url: "/trainers/"
 
-- title: Blog
-  url: "/blog/"
+- title: Connect
+#  url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Blog"
     url: "/blog/archive/"
+  - title: "Newletter"
+    url: "/newsletter/"
 
 - title: "Donate"
   url: "/donate/"
