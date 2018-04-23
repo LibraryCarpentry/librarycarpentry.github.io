@@ -17,25 +17,28 @@ and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08
 
 ### Surveys
 
-#### Pre and Post-Workshop Surveys
-
 We conduct pre and post workshop surveys for each workshop
+#### Data Carpentry's Pre and Post-Workshop Surveys
 
-- [Pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)
-- [Post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
+- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)
+- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
+
+#### Software Carpentry's Pre and Post-Workshop Surveys
+- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
+- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
 
 #### Long-Term Survey
 
-Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentry Long-Term Feedback Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
+Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentries Long-Term Impact Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
 
 ### Data
 
 Data sets (provided as csv files) and assessment reports are  in a 
-[GitHub repository](https://github.com/carpentries/assessment), along with the version of the [surveys](https://github.com/carpentries/assessment/tree/master/learner-assessment/surveys) that were in use at time of analysis.  
+[GitHub repository](https://github.com/carpentries/assessment), along with the version of the [surveys](https://github.com/carpentries/assessment/tree/master/learner-assessment/documents) that were in use at time of analysis.  
 
-- [Data for Post-Workshop Survey Report (2018-January)](https://github.com/carpentries/assessment/blob/master/learner-assessment/data-carpentry/postworkshop/2018-January/data_180108.csv)
+- [Data for Post-Workshop Survey Report (2018-January)](https://raw.githubusercontent.com/carpentries/assessment/master/learner-assessment/archives/2018/data/data_180108.csv)
 
-- [Data for Long-Term Survey Report (2018-January)](https://github.com/carpentries/assessment/blob/master/learner-assessment/long-term-survey/2018-January/data_20171108.csv)
+- [Data for Long-Term Survey Report (2018-January)](https://raw.githubusercontent.com/carpentries/assessment/master/learner-assessment/archives/2017/data/longterm_October2017.csv)
 
 ### Assessment Results
  
@@ -54,7 +57,7 @@ The analysis in this report serves the following purposes:
 
 The report finds that learners are reporting that after a workshop, their level of data management and analysis skills have increased, they have increased confidence in their ability to use these skills and that the learners have increased appreciation for these skills (i.e. scripting) to improve and promote reproducible research. 95% of learners agree or strongly agree that they would recommend the workshop to a colleague.
 
-- [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533). The data used in this report is available in this [repository](https://github.com/carpentries/assessment/tree/master/learner-assessment/software-carpentry/postworkshop/2017-July).
+- [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533). The data used in this report is available in this [repository](https://github.com/carpentries/assessment/tree/master/learner-assessment/archives/2017/code).
 
 #### Long-Term Survey Reports
 
