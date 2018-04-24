@@ -186,25 +186,25 @@ The Carpentry Instructor community in Africa is growing, with over a hundred cer
 ### CarpentryCon
 
 The Carpentries host an annual meeting for our global community. 
-This meeting is organized by the community. [CarpentryCon 2018](http://www.carpentrycon.org/) will be held from
-29 May to 1 June in Dublin, Ireland. If you are interested in helping to organize CarpentryCon 2019, 
+This meeting is organised by the community. [CarpentryCon 2018](http://www.carpentrycon.org/) will be held from
+30 May to 1 June in Dublin, Ireland. If you are interested in helping to organise CarpentryCon 2019, 
 contact [The Carpentries](mailto:team@carpentries.org.au).
 
 ###  Network
 
-- Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for many of our subcommunities.
+- Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for many of our sub-communities.
 - Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
 - Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
 - Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>.
 - Going to an event? Hoping to connect with other people from the Carpentries? List the event and your your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup). 
 - Join and contribute to some of our [mailing lists](#mailing-lists).
-- Read our twice-monthly newsletter, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
+- Read our twice-monthly <a href="{{site.url}}/newsletter">newsletter</a>, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
 
 <hr>
 
 ### Community events
-There are many opportunities to join community meetings, sub-committees
-and de-briefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
+There are many opportunities to join community meetings, subcommittees
+and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
 going on throughout our community.
 
 <iframe src="https://calendar.google.com/calendar/embed?title=%20Software%20Carpentry%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
