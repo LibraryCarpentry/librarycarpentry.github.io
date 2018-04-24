@@ -6,7 +6,7 @@ permalink: /teach/
 
 [Carpentries workshops](../workshops/) teach researchers the skills and perspectives
 to work more effectively and reproducibily with data and software. Our
-workshops use open, collaboratively developed [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons with materials on topics from data organization to version contrtrol. All our workshops are taught by volunteer instructors, and we have more than 1400
+workshops use open, collaboratively developed [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons with materials on topics from data organisation to version contrtrol. All our workshops are taught by volunteer instructors, and we have more than 1,400
 volunteer instructors around the world.
 
 Becoming an instructor with The Carpentries connects you with a global
@@ -20,7 +20,7 @@ We offer [instructor training](https://docs.carpentries.org/topic_folders/instru
 
 
 Find out how to [become an instructor](../become-instructor/) and join The
-Carpentries community of instructors or [become an Organizational Member](../membership/) to grow a local community of instructors in your organization.
+Carpentries community of instructors or [become an Organisational Member](../membership/) to grow a local community of instructors within your organisation.
 
 
 
