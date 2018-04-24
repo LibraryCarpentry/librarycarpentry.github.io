@@ -2,7 +2,7 @@
 
 # The Carpentries Website
 
-This is the repository for the new [Carpentries website](https/carpentries.org).
+This is the repository for the new [Carpentries website](https://carpentries.org).
 Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/carpentries/new-website).
 
 *   [Setup](#setup)
