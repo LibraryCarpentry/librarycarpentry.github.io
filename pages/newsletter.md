@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page-fullwidth
 title: "Newsletter"
 permalink: /newsletter/
 ---
-
-
 
 <div class="row">
 
