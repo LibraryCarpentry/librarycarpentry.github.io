@@ -21,7 +21,7 @@ There are two steps to becoming an Instructor.
 The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching workshops for The Carpentries. To see what our curriculum covers, visit the [instructor training course page](http://carpentries.github.io/instructor-training/).
 
 2. **Complete the checkout process**  
-You must complete three short tasks after the course in order to complete certification. These tasks are described in detail [here](http://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use our [simplified checklist](http://www.datacarpentry.org/checkout/) to keep track of your progress.
+You must complete three short tasks after the course in order to complete certification. These tasks are described in detail on this page](http://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the detailed instructions, please use our [simplified checklist](http://www.datacarpentry.org/checkout/) to keep track of your progress.
 
 <center>
     <a href="https://amy.software-carpentry.org/forms/request_training/">
@@ -31,9 +31,9 @@ You must complete three short tasks after the course in order to complete certif
     </a>
     </center>
 
-If you're interested in training multiple students or employees at your institution, consider becoming a [member](https://carpentries.org/membership/)!
+If you are interested in training multiple students or employees at your institution, consider becoming a [member organisation](https://carpentries.org/membership/)!
 
-*Most of our Instructors are trained through organizational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please apply using the button above. If you are not affiliated with one of our member organizations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.*
+*Most of our Instructors are trained through organisational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please apply using the button above. If you are not affiliated with one of our member organisations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.*
 
 We are interested in instructors from all domains of research, and are particularly
-working to grow our instructor pool in areas where we are developing [new curricula](http://www.datacarpentry.org/lessons/#workshop-materials-under-development-or-consideration).
+working to grow our instructor pool in new geographies and in areas where we are developing [new curricula](http://www.datacarpentry.org/lessons/#workshop-materials-under-development-or-consideration).
