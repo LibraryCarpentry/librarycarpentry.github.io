@@ -20,10 +20,7 @@ through the [dedicated CarpentryCon feed](https://twitter.com/carpentrycon).
 the [CarpentryCon Task Force](https://github.com/carpentries/carpentrycon) has produced a new poster 
 for CarpentryCon 2018. It lists our keynote speakers and provides a ton of useful information.
 
-<table>
-  <tr>
- <td><img src="/images/miniblue.jpg"> </a> </td>
- <td valign="top">
+![CarpentryCon 2018 Poster](/images/miniblue.jpg)
 
 Why not [download the poster](https://twitter.com/MalvikaSharan/status/985894053156925441) and put it up around your institution? You
 can also [retweet it](https://twitter.com/MalvikaSharan/status/985894053156925441). 
@@ -34,6 +31,5 @@ partner or companion, you can buy a separate dinner ticket for them.
 If you are interested in volunteering at CarpentryCon, please add your details 
 to [this pad](http://pad.software-carpentry.org/carpentrycon_volunteers), 
 which also explains what kind of help is needed. [Download](https://twitter.com/MalvikaSharan/status/985894053156925441) and display 
-the new poster to help publicise the event locally.</td>
-</tr>
-</table>
+the new poster to help publicise the event locally.
+
