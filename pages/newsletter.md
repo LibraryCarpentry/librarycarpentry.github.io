@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: default
 title: "Newsletter"
 permalink: /newsletter/
 ---
@@ -8,8 +8,10 @@ permalink: /newsletter/
 <div class="row">
 
   <div class="medium-6 columns" markdown="0">
-       <h2>Get our newsletter</h2>
-       {% include mailchimp_signup_form.html %}
+  
+  <h2>Get our newsletter</h2>
+       
+  {% include mailchimp_signup_form.html %}
 
   </div>
 
