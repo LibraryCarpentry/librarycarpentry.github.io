@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Newsletter"
+title: "Our Newsletter, Carpentry Clippings"
 permalink: /newsletter/
 ---
 
