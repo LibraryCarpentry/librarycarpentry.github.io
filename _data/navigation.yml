@@ -37,7 +37,7 @@
   - title: "Our Workshops"
     url: "/workshops/"
   - title: "Request a Data Carpentry Workshop"
-    url: "http://www.datacarpentry.org/workshops-host/"
+    url: "https://amy.software-carpentry.org/forms/dc/request/"
   - title: "Request a Software Carpentry Workshop"
     url: "https://software-carpentry.org/workshops/request/"
   - title: "Our Impact"
