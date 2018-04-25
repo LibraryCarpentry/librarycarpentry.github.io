@@ -49,10 +49,10 @@
   dropdown:
   - title: "Get Involved"
     url: "/community/"
-  - title: "Become a Member Organization"
+  - title: "Become a Member Organisation"
     url: "/membership/"
-  - title: "Our Members"
-    url: "/memberorgs/"
+  - title: "Current Member Organisations"
+    url: "/members/"
 
 - title: Our Team
   url: "/team/"
