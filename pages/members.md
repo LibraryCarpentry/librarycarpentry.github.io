@@ -9,10 +9,10 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Platinum Member Organisations
 
- - Software Sustainaibility Institute
+ - Software Sustainability Institute
  - Cyverse
  - Compute Canada
- - New Zealand eScience Infrastructure
+ - New Zealand eScience Infrastructure (NeSI)
  - North West University South Africa
  - University of Washington eScience
  - Stanford University
@@ -76,4 +76,5 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - University of Oslo
 
  ### Bronze Member Organisations  
+ 
  - Woods Hole Oceanographic Institution
