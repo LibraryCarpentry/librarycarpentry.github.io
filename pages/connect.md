@@ -24,7 +24,7 @@ Welcome to our community!
 
 ## Slack
 
-[Join our Slack organization](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
+[Join our Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
 
 ## Online Community Events
 
