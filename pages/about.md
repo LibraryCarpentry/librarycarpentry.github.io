@@ -7,7 +7,7 @@ permalink: /about/
 The Carpentries project comprises <a href="https://software-carpentry.org/">Software Carpentry</a> 
 and <a href="http://www.datacarpentry.org/">Data Carpentry</a>, communities of Instructors, Trainers, Maintainers, 
 helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
-The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. 
+The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Data Carpentry and Software Carpentry merged their projects to form <strong>The Carpentries</strong>. 
 
 You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
