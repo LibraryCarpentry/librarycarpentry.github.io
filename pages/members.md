@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Our Current Member Organisations"
-permalink: "/memberorgs/"
+permalink: "/members/"
 ---
 
 A Member Organisation is an organisation that has made a financial committment to
