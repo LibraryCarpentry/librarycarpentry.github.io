@@ -54,7 +54,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - Oregon State University
  - University of Wyoming
  - University of Leeds
- - North Carolina State University
  - Cambridge University
  - George Washington University
  - Smithsonian Institution
@@ -64,7 +63,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - Lawrence Berkeley Laboratory*
  - Michigan State University
  - University Corporation for Atmospheric Research
- - Monsanto Company
  - University of North Texas Libraries
  - Aarhus University
  - University of Birmingham
@@ -78,6 +76,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - West Virginia University
  - New York University
  - University of Oslo
- 
+
  ### Bronze Member Organisations
  - Woods Hole Oceanographic Institution
