@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Our Sponsors"
-permalink: "/sponsors/"
+title: "Our Supporters"
+permalink: "/supporters/"
 ---
 
 The Carpentries is a fiscally sponsored project of the 501(c)3 [Community Initiatives](http://communityin.org/)
@@ -28,3 +28,7 @@ We have received support from:
 
 <img src="{{site.filesurl}}/orgs/github.png" alt="GitHub" />
 
+### Additional Supporters
+
+- United States Department of Agriculture
+- Lawrence Berkeley Laboratory
