@@ -1,33 +1,31 @@
 ---
 layout: page-fullwidth
-title: "Connect with The Carpentries"
+title: "Connecting with The Carpentries"
 permalink: "/connect/"
 ---
 
-## Social Media
+The Carpentries are a global organization with volunteers and learners
+all over the world. We share values of inclusivity and a passion for 
+sharing knowledge, teaching and learning. 
 
-We are on:
+Connect with us through [social media](#social-media), [online community events](#online-community-events), [Slack](#slack) and [email lists](https://docs.carpentries.org/topic_folders/communications/slack-and-email.html). Get updates on activities and hear about opportunities to teach
+and learn through our [newsletter](../newsletter/) and [blog](../blog/).
+
+Welcome to our community!
+
+## Social Media
 
 - Twitter
   + [The Carpentries](https://twitter.com/thecarpentries)
   + [Software Carpentry](https://twitter.com/swcarpentry)
   + [Data Carpentry](https://twitter.com/datacarpentry)
-  + [Library Carpentry](https://twitter.com/LibCarpentry)
   
 - [Facebook](https://www.facebook.com/carpentries/)
 
-## Newsletter
-
-We publish a twice monthly [Newsletter]({{ site.url }}{{ site.root }}/newsletter).
-
 ## Slack
 
-[Join our Slack organization](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
+[Join our Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
 
-## Blog
-
-We regularly publish blog posts about what's happening in [The Carpentries]({{ site.url }}{{ site.root }}/blog/), [Software Carpentry](https://software-carpentry.org/blog/), [Data Carpentry](http://datacarpentry.org/blog/) and [Library Carpentry](http://librarycarpentry.github.io/blog/).
-
-## Community Events
+## Online Community Events
 
 Join one of our regular online community events. They are listed on our [Community Calendar]({{ site.url }}{{ site.root }}/community/#community-events).
