@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: [“Tracy Teal”, "Belinda Weaver"]
+authors: ["Tracy Teal", "Belinda Weaver"]
 teaser: "New website for access to all things Carpentries"
 title: "Launching The Carpentries Website"
 date: 2018-04-25
