@@ -13,6 +13,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - Cyverse
  - Compute Canada
  - New Zealand eScience Infrastructure
+ - North West University South Africa
  - University of Washington eScience
  - Stanford University
  - University of Wisconsin
@@ -26,7 +27,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - University of Michigan
  - University of Florida
  - Macquarie University
- - North West University South Africa
  - Imperial College London
  - Curtin University
  - University of Oklahoma
@@ -78,4 +78,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - West Virginia University
  - New York University
  - University of Oslo
- - The Netherlands eScience Center
+ 
+ ### Bronze Member Organisations
+ - Woods Hole Oceanographic Institution
