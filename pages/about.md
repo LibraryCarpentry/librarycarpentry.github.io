@@ -29,7 +29,7 @@ What is common across both Carpentries - the Code of Conduct, assessment, govern
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops generally 
 comprise two full days of face-to-face instruction, based on 
 either <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
-or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials. 
+or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials, respectively. 
 
 Workshops are taught by volunteer Instructors. Certified Instructors comprise people who 
 have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. 
