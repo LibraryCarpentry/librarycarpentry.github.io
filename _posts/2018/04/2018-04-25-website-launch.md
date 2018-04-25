@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: [“Tracy Teal”, "Belinda Weaver"]
 teaser: "New website for access to all things Carpentries"
 title: "Launching The Carpentries Website"
@@ -7,8 +7,6 @@ date: 2018-04-25
 time: "09:00:00"
 category: [ "Website"]
 ---
-
-### Website Launch
 
 We are excited to announce that [The Carpentries](https://carpentries.org/) website is now live!
 
