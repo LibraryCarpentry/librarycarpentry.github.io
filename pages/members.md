@@ -17,7 +17,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - University of Washington eScience
  - Stanford University
  - University of Wisconsin
- - United States Department of Agriculture (collaborative agreement)
  - Manchester University
 
 
@@ -60,7 +59,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - University of California San Francisco
  - Stony Brook University Institute for Advancedel Compututational Science
  - Purdue University
- - Lawrence Berkeley Laboratory*
  - Michigan State University
  - University Corporation for Atmospheric Research
  - University of North Texas Libraries
