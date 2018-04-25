@@ -10,35 +10,73 @@ at their local organisation. See more on [becoming a Member Organisation](../mem
 
 ### Platinum Member Organisations
 
-|  <img src="{{site.filesurl}}/orgs/nesi.png" alt="NeSI" style="width: 600px;" /> | <a href="https://www.nesi.org.nz/">NeSI</a> (New Zealand eScience Infrastructure) provides High Performance Computing (HPC) facilities to New Zealand, supporting researchers across the public research sector and private industry. |
-| <img src="{{site.filesurl}}/orgs/uwmadison.png" alt="UWMadison" style="width: 600px;" /> | As part of a billion-dollar research enterprise, <a href="http://www.wisc.edu/">UW-Madison's</a> Advanced Computing Initiative (ACI) provides strategic support for shared computing services, learning resources and professional assistance for data-intensive research. By coordinating a campus community of instructors and helpers, who contributed to early Software Carpentry curriculum, ACI has sponsored more than fifteen Software Carpentry workshops at UW-Madison since 2012. |
-|   <img src="{{site.filesurl}}/orgs/uw-escience.png" alt="eScience Institute, University of Washington" style="width: 600px;" /> | The <a href="http://escience.washington.edu/">eScience Institute at the University of Washington</a> is working to create the intellectual and physical infrastructure needed to meet the challenges of doing science in a world where new sources of large, complex, and noisy data are fundamentally changing the kinds of science questions we can answer. |
+ - Software Sustainaibility Institute
+ - Cyverse
+ - Compute Canada
+ - New Zealand eScience Infrastructure
+ - University of Washington eScience
+ - Stanford University
+ - University of Wisconsin
+ - United States Department of Agriculture (collaborative agreement)
+ - Manchester University
 
 
 ### Gold Member Organisations
 
-- Compute Canada
-- The Jackson Laboratory
-- CyVerse
-- Leeds
-- University of Michigan
-- Software Sustainability Institute
-- University of Florida
-- University of California San Francisco
-- Macquarie University
-- North West University South Africa
+ - The Jackson Laboratory
+ - University of Michigan
+ - University of Florida
+ - Macquarie University
+ - North West University South Africa
+ - Imperial College London
+ - Curtin University
+ - University of Oklahoma
+ - University of North Dakota
+ - Yale University Library
+ - Boise State University
+ - Oaklahoma State University
+ - Utah State University
+ - University of California Davis
+ - University of Illinois
+ - West Big Data Hub
+ - South Big Data Hub
+ - Monash University
+ - Simon Fraser University
 
 
 ### Silver Member Organisations
 
-- University of California Berkeley
-- Lawrence Berkeley Laboratory
-- Michigan State University
-- The Netherlands eScience Center
-- University Corporation for Atmospheric Research
-- University of California Davis
-- University College London
-- University of Oslo
-- University of California San Diego
-- California Institute of Technology
-- Oxford University
+ - University College London
+ - University of California San Diego
+ - California Institute of Technology
+ - Oxford University
+ - Intersect Australia Ltd
+ - Weill Cornell Medicine
+ - Oregon State University
+ - University of Wyoming
+ - University of Leeds
+ - North Carolina State University
+ - Cambridge University
+ - George Washington University
+ - Smithsonian Institution
+ - University of California San Francisco
+ - Stony Brook University Institute for Advancedel Compututational Science
+ - Purdue University
+ - Lawrence Berkeley Laboratory*
+ - Michigan State University
+ - University Corporation for Atmospheric Research
+ - Monsanto Company
+ - University of North Texas Libraries
+ - Aarhus University
+ - University of Birmingham
+ - National Institute of Standards and Technology
+ - University of Otago
+ - Helmholtz Centre Postdam
+ - University of Sheffield
+ - Space Telescope Science Institute
+ - CSIRO-ANU
+ - Great Plains Network
+ - West Virginia University
+ - New York University
+ - University of Oslo
+ - The Netherlands eScience Center
