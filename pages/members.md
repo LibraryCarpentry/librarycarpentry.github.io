@@ -75,5 +75,5 @@ the growth and sustainability of The Carpentries and is building local capacity 
  - New York University
  - University of Oslo
 
- ### Bronze Member Organisations
+ ### Bronze Member Organisations  
  - Woods Hole Oceanographic Institution
