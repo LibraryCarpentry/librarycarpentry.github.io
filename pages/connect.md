@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Connect with The Carpentries"
+title: "Connecting with The Carpentries"
 permalink: "/connect/"
 ---
 
@@ -15,8 +15,6 @@ Welcome to our community!
 
 ## Social Media
 
-We are on:
-
 - Twitter
   + [The Carpentries](https://twitter.com/thecarpentries)
   + [Software Carpentry](https://twitter.com/swcarpentry)
@@ -28,6 +26,6 @@ We are on:
 
 [Join our Slack organization](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
 
-## Community Events
+## Online Community Events
 
 Join one of our regular online community events. They are listed on our [Community Calendar]({{ site.url }}{{ site.root }}/community/#community-events).
