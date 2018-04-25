@@ -39,7 +39,7 @@ and research software development through building local and global communities 
 Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator. 
 
 * [Training materials](http://carpentries.github.io/instructor-training/)
-* [Instructor training curriculum](http://carpentries.github.io/instructor-training/
+* [Instructor training curriculum](http://carpentries.github.io/instructor-training/)
 * [Apply to become an Instructor](https://amy.software-carpentry.org/forms/request_training/)! To direct your application to our Open Instructor Training pool, leave the "group" category blank. Open training applications are reviewed periodically and ranked based on free text responses, with bonus points available for demographic, geographic, and domain criteria outlined [here](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md). Applicants are then invited to join online training events as seats become available.
 * For more information contact [Erin Becker](mailto:ebecker@carpentries.org).
 
