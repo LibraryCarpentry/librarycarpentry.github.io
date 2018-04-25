@@ -36,7 +36,7 @@ and research software development through building local and global communities 
 
 
 ### Instructors
-Carpentry Instructors are the core of our community. Instructors organize and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator. 
+Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator. 
 
 * [Training materials](http://carpentries.github.io/instructor-training/)
 * Responsibilities: Teach at least one workshop within your first year as an Instructor. Teach at least one workshop every two years to stay a voting member of the Carpentry community.
@@ -131,7 +131,7 @@ The Assessment Network is a community for those working on assessment within the
 
 ### Champions
 
-Carpentry Champions meets quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organizations around the world. Come learn from senior community leaders and get support as you work to build your own local community.
+Carpentry Champions meets quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organisations around the world. Come learn from senior community leaders and get support as you work to build your own local community.
 
 * [Activities](https://github.com/carpentries/champions/blob/master/activities.md) - This community holds quarterly meetings.
 * [Upcoming meetings](http://pad.software-carpentry.org/champions)
@@ -187,8 +187,8 @@ The Carpentry Instructor community in Africa is growing, with over a hundred cer
 
 The Carpentries host an annual meeting for our global community. 
 This meeting is organised by the community. [CarpentryCon 2018](http://www.carpentrycon.org/) will be held from
-30 May to 1 June in Dublin, Ireland. If you are interested in helping to organise CarpentryCon 2019, 
-contact [The Carpentries](mailto:team@carpentries.org.au).
+30 May to 1 June in Dublin, Ireland. If you are interested in helping to organise the next CarpentryCon, 
+contact [The Carpentries](mailto:team@carpentries.org).
 
 ###  Network
 

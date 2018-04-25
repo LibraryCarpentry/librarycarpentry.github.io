@@ -103,7 +103,7 @@ excerpt: testimonials about Software Carpentry from our community
 
 <blockquote>
   <p>I depend on the techniques taught in this course to maintain reliable
-    programs, scripts and data organization. The time management, revision
+    programs, scripts and data organisation. The time management, revision
     control, debugging and testing strategies are absolutely essential to build
     and maintain my projects. The basic Unix, shell, and scripting skills save me
     significant time and effort every day. It's an invaluable resource for
