@@ -6,8 +6,10 @@ permalink: /governance/
 
 <a href="{{site.url}}/team/">Tracy Teal</a> is the Executive Director of the Carpentries, and <a href="{{site.url}}/team/">Erin Becker </a> is the Associate Director. 
 
-Governance of the Carpentries is undertaken by the newly formed <strong>Executive Council</strong>, to whom the Executive Director reports. The new Executive Council replaces the former Steering Committees of Software and Data Carpentry. The Council comprises nine members, four elected by the community, and five appointed from the former Steering Committees 
+Governance of the Carpentries is undertaken by the newly formed <strong>Executive Council</strong>, to whom the Executive Director reports. The Executive Council replaces the former Steering Committees of Software and Data Carpentry. The Council comprises nine members, four elected by the community, and five appointed from the former Steering Committees 
 of Software and Data Carpentry. 
+
+[Executive Council Meeting Minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
  
 #### Executive Council Elected Members: 1-year term
 
