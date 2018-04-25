@@ -2,10 +2,10 @@
 layout: page-fullwidth
 permalink: /membership/
 title: Become a Member Organisation
-excerpt: A Member Organisation is an organiszation that has made a commitment to the growth and spread of The Carpentries
+excerpt: A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries
 ---
 
-A Member Organisation is an organisation that has made a commitment to the growth and spread of The Carpentries. Members receive priority access to instructor training and guidance with capacity building at their organisation. With local instructors, Member organisations can readily run low-cost local workshops. Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship, and a forum for community lesson development.
+A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to instructor training and guidance with capacity building at their organisation. With local instructors, Member organisations can readily run low-cost local workshops. Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship, and a forum for community lesson development.
 
 ### Membership Tiers
 
@@ -34,11 +34,11 @@ We offer several levels of Memberships, based on training activities expected an
 
 \* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organisation. A designated contact approves coordinated workshop requests for that organisation. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
 
-\*\* For Self-organized workshops, the organisation is responsible for finding local Instructors and handling the logistics of the workshop coordination, including registration and registering the workshop with Software and Data Carpentry. As long at least one Instructor is certified, and the Software or Data Carpentry content is fully taught, it can be labeled a Carpentries workshop.
+\*\* For Self-organised workshops, the organisation is responsible for finding local Instructors and handling the logistics of workshop coordination, including registration and registering the workshop with Software and Data Carpentry. As long at least one Instructor is Carpentries-certified, and either the Software or Data Carpentry content is fully taught, the workshop can be labeled a Carpentries workshop.
 
 \*\*\* Any Instructor training includes the instructor mentorship and support of the Instructors through the Instructor development program.
 
-^ in-person instructor trainings require an available Trainer and travel funds to support Instructor Trainer's travel.
+^ in-person instructor trainings require an available Trainer and travel funds to support Instructor Trainers' travel.
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
 find out more, [please send us an email](mailto:memberships@carpentries.org).
