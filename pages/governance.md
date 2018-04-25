@@ -11,23 +11,20 @@ of Software and Data Carpentry.
 
 [Executive Council Meeting Minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
  
-#### Executive Council Elected Members: 1-year term
+#### Executive Council Members
 
-- Amy Hodge 
-- Elizabeth Wickes 
-  
-#### Executive Council Elected Members: 2-year term
+**2018**
 
-- Lex Nederbragt (Secretary)
-- Raniere Silva 
+- Karen Cranston (appointed for 2018 term, Chair)
+- Kate Hertweck (appointed for 2018 term)
+- Amy Hodge (elected for 2018 term)
+- Mateusz Kuzak (appointed for 2018 term)
+- Sue McClatchy (appointed for 2018 term, Treasurer)
+- Lex Nederbragt (elected for 2018-2019 term, 2018 Secretary)
+- Raniere Silva (elected for 2018-2019 term)
+- Ethan White (appointed for 2018 term)
+- Elizabeth Wickes (elected for 2018 term)
 
-#### Executive Council Appointed Members
-
-- Karen Cranston  (Chair)
-- Kate Hertweck 
-- Mateusz Kuzak 
-- Sue McClatchy (Treasurer)
-- Ethan White
 
 ### Carpentries Policies
 
