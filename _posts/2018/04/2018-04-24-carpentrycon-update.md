@@ -14,7 +14,13 @@ of the year, with a great [program](http://www.carpentrycon.org/#prog) of speake
 CarpentryCon will run from 30 May to 1 June, 2018.
 
 To help people get excited about what is coming, the Task Force are running a daily Twitter countdown 
-through the [dedicated CarpentryCon feed](https://twitter.com/carpentrycon). 
+through the [dedicated CarpentryCon feed](https://twitter.com/carpentrycon). You can also join an upcoming community call where members of the Task Force will answer any questions you might have. There will be two calls you can join, both on 4 May. 
+
+- *First call*: 13:00 GMT/UTC https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1
+- *Second call*: 19:00 GMT/UTC / 12 noon PDT https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1
+
+Sign up for either call on [this etherpad](http://pad.software-carpentry.org/carpconcall). All welcome. Post questions in advance if you 
+are unable to attend. We will post the answers.
 
 [Malvika Sharan](https://twitter.com/MalvikaSharan/), a leading member of 
 the [CarpentryCon Task Force](https://github.com/carpentries/carpentrycon) has produced a new poster 
