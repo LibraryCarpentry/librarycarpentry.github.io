@@ -88,6 +88,23 @@ body.video cite { color: #fff; }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
 }
+#slogan {
+    font-family: $font-family-sans-serif;
+}
+.valign-center {
+    position: relative;
+    top: 30%;
+    > .columns {
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-o-transform:translateY(-50%);
+	-ms-transform:translateY(-50%);
+    }
+}
+#masthead h1,h2,h3,h4,h5 {
+    margin: 0;
+}
+
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
@@ -111,7 +128,10 @@ body.video cite { color: #fff; }
         font-size: rem-calc(36);
     }
     #masthead-no-image-header {
-        display: none;
+	display: none;
+    }
+    #slogan {
+	font-size: em-calc(25);
     }
 }
 
@@ -136,6 +156,9 @@ body.video cite { color: #fff; }
         padding: 60px 0;
         height: 300px;
     }
+    #slogan {
+	font-size: em-calc(25);
+    }
 }
 
 
@@ -159,6 +182,9 @@ body.video cite { color: #fff; }
         height: 330px;
         padding: 60px 0;
     }
+    #slogan {
+	font-size: em-calc(30);
+    }
 }
 
 
@@ -181,6 +207,9 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         padding: 95px 0;
         height: 400px;
+    }
+    #slogan {
+	font-size: em-calc(35);
     }
 }
 
