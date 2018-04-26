@@ -12,6 +12,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Compute Canada
 - Cyverse
 - Manchester University
+- Queensland Cyber Infrastructure Foundation
 - New Zealand eScience Infrastructure (NeSI)
 - North West University South Africa
 - Software Sustainability Institute
