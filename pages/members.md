@@ -9,71 +9,70 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Platinum Member Organisations
 
- - Software Sustainability Institute
- - Cyverse
- - Compute Canada
- - New Zealand eScience Infrastructure (NeSI)
- - North West University South Africa
- - University of Washington eScience
- - Stanford University
- - University of Wisconsin
- - Manchester University
-
+- Compute Canada
+- Cyverse
+- Manchester University
+- New Zealand eScience Infrastructure (NeSI)
+- North West University South Africa
+- Software Sustainability Institute
+- Stanford University
+- University of Washington eScience
+- University of Wisconsin
 
 ### Gold Member Organisations
 
- - The Jackson Laboratory
- - University of Michigan
- - University of Florida
- - Macquarie University
- - Imperial College London
- - Curtin University
- - University of Oklahoma
- - University of North Dakota
- - Yale University Library
- - Boise State University
- - Oaklahoma State University
- - Utah State University
- - University of California Davis
- - University of Illinois
- - West Big Data Hub
- - South Big Data Hub
- - Monash University
- - Simon Fraser University
-
+- Boise State University
+- Curtin University
+- Imperial College London
+- Macquarie University
+- Monash University
+- Oklahoma State University
+- Simon Fraser University
+- South Big Data Hub
+- The Jackson Laboratory
+- University of California Davis
+- University of Florida
+- University of Illinois
+- University of Michigan
+- University of North Dakota
+- University of Oklahoma
+- Utah State University
+- West Big Data Hub
+- Yale University Library
 
 ### Silver Member Organisations
 
- - University College London
- - University of California San Diego
- - California Institute of Technology
- - Oxford University
- - Intersect Australia Ltd
- - Weill Cornell Medicine
- - Oregon State University
- - University of Wyoming
- - University of Leeds
- - Cambridge University
- - George Washington University
- - Smithsonian Institution
- - University of California San Francisco
- - Stony Brook University Institute for Advancedel Compututational Science
- - Purdue University
- - Michigan State University
- - University Corporation for Atmospheric Research
- - University of North Texas Libraries
- - Aarhus University
- - University of Birmingham
- - National Institute of Standards and Technology
- - University of Otago
- - Helmholtz Centre Postdam
- - University of Sheffield
- - Space Telescope Science Institute
- - CSIRO-ANU
- - Great Plains Network
- - West Virginia University
- - New York University
- - University of Oslo
+- Aarhus University
+- California Institute of Technology
+- California Institute of Technology
+- Cambridge University
+- CSIRO-ANU
+- George Washington University
+- Great Plains Network
+- Helmholtz Centre Postdam
+- Intersect Australia Ltd
+- Michigan State University
+- National Institute of Standards and Technology
+- New York University
+- Oregon State University
+- Oxford University
+- Purdue University
+- Smithsonian Institution
+- Space Telescope Science Institute
+- Stony Brook University Institute for Advancedel Compututational Science
+- University College London
+- University Corporation for Atmospheric Research
+- University of Birmingham
+- University of California San Diego
+- University of California San Francisco
+- University of Leeds
+- University of North Texas Libraries
+- University of Oslo
+- University of Otago
+- University of Sheffield
+- University of Wyoming
+- Weill Cornell Medicine
+- West Virginia University
 
  ### Bronze Member Organisations  
  
