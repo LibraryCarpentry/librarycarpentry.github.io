@@ -102,6 +102,7 @@ Members of the Lesson Infrastructure Subcommittee serve as
 Maintainers for the [Carpentry lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
 well as for the [Carpentry workshop template](https://github.com/swcarpentry/workshop-template).
 
+* [Current members](https://github.com/carpentries/lesson-infrastructure#members)
 * [Upcoming meetings](http://pad.software-carpentry.org/infrastructure-subcommittee)
 * [Contact](mailto:francois@carpentries.org)
 
