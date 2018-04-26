@@ -5,6 +5,20 @@ permalink: /community/
 excerpt: Find ways to engage with the global Carpentries Community, including taking part in committees and taskforces.
 ---
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, 
 and research software development through building local and global communities of practice.
 
@@ -415,3 +429,6 @@ going on throughout our community.
 </table>
 
 
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
