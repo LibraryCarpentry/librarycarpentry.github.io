@@ -5,7 +5,6 @@ title: Testimonials from Workshop Attendees
 excerpt: testimonials about Software Carpentry from our community
 ---
 
-<blockquote>
   <p>Software Carpentry training has had a tremendous influence on the
     productivity of the students in my lab and several other labs on campus. It
     trained them to write code that works properly more quickly and to automate
@@ -14,9 +13,9 @@ excerpt: testimonials about Software Carpentry from our community
     in such a way that the students can remember what they did and other students
     can understand exactly how the code works. I can't recommend Software
     Carpentry strongly enough.</p>
-  <cite>Ethan White is an Associate Professor in the Department of Biology and the Ecology Center at Utah State University.</cite>
-</blockquote>
-<blockquote>
+  <em>Ethan White is an Associate Professor in the Department of Biology and the Ecology Center at Utah State University.</em>
+
+<hr>
   <p>My labmates and I attended a Software Carpentry workshop a few months ago,
     and since then, several graduate students and RAs have been much more willing
     to tackle simple programming tasks independently. We have also now implemented
@@ -25,9 +24,8 @@ excerpt: testimonials about Software Carpentry from our community
     up-to-date versions of all the code we routinely use. Its history mechanism
     also keeps us from having to manually document every change made or analysis
     done, which has greatly improved our ability to find information quickly.</p>
-  <cite>Lynne Williams studies the cognitive neuroscience of language development and develops statistical techniques to analyze large multivariate data sets.</cite>
-</blockquote>
-<blockquote>
+   <em>Lynne Williams studies the cognitive neuroscience of language development and develops statistical techniques to analyze large multivariate data sets.</em>
+<hr>
   <p>As a nuclear engineer at the US national labs, the number of nuclear safety
     and performance codes I see which are practically untested, basically
     undocumented, and completely lacking in version control is alarming. New
@@ -40,17 +38,15 @@ excerpt: testimonials about Software Carpentry from our community
     teaching them individually to test and version control their code I've
     personally saved a great number of hours and they've been spared just as many
     false starts.</p>
-  <cite>Katy Huff is a post-doc in nuclear engineering at the University of California, Berkeley.</cite>
-</blockquote>
-<blockquote>
+   <em>Katy Huff is a post-doc in nuclear engineering at the University of California, Berkeley.</em>
+<hr>
   <p>As a self-taught programmer, Software Carpentry gave me the tools to plan
     better code before even picking up a keyboard&mdash;improving my ability to
     expand, re-use, and test what I develop. The result is a more reliable, better
     traceable product, and I have a better sense of what to look for when
     evaluating other tools.</p>
-  <cite>Deanna Langer's PhD explored multi-parametric MRI for prostate cancer localization</cite>
-</blockquote>
-<blockquote>
+  <em>Deanna Langer's PhD explored multi-parametric MRI for prostate cancer localization</em>
+<hr>
   <p>Armed with a single introductory C++ course, I did a master's degree and
     several years of consulting work on spatial simulation models before taking
     Software Carpentry. Long, slow, frustrating experience left me well prepared
@@ -58,20 +54,16 @@ excerpt: testimonials about Software Carpentry from our community
     my own code; I find more errors, and spend less time fixing them; I trust my
     results more; I don't mind revisiting and revising old work; collaborators and
     potential employers are more impressed; and I'm happier.</p>
-  <cite>Josie Hughes develops models of mountain pine beetles and other outbreaking forest insects</cite>
-</blockquote>
-
-<blockquote>
+  <em>Josie Hughes develops models of mountain pine beetles and other outbreaking forest insects</em>
+<hr>
   <p>I started working at the Space Science Lab last November
     focusing on QA for two satellite projects' flight software.
     While I have written and tested lots of software in the past, I
     was unfamiliar with Python which is the preferred language for
     software testing here at the lab.  The workshop gave me the
     tools to start to feel competent in my new job.</p>
-  <cite>Irene Rosen helps test satellite flight software at UC Berkeley</cite>
-</blockquote>
-
-<blockquote>
+   <em>Irene Rosen helps test satellite flight software at UC Berkeley</em>
+<hr>
   <p>
     My involvement with Software Carpentry as an workshop instructor 
     and lesson contributor has allowed me to pursue new career paths; most 
@@ -86,41 +78,33 @@ excerpt: testimonials about Software Carpentry from our community
     community has introduced me to new ideas, tools, and job postings from 
     off the beaten path.  
   </p>
-  <cite>Christina Koch helps researchers at the University 
+   <em>Christina Koch helps researchers at the University 
     of Wisconsin, Madison, access and utilize large-scale computing 
     resources to transform their research.  
-  </cite>
-</blockquote>
-
-<blockquote>
+ </em>
+<hr>
   <p>Software Carpentry helped me to explore the ways in which I improve and
     maintain my code. This made it easier for me to look back upon my old work and
     adapt it for new purposes, thereby making my research progress more
     quickly. It has also let me ask types of questions that I previously had no
     ability to address.</p>
-  <cite>Minyoung Wyman studies the evolution of male and female differences using fruit flies as a model organism</cite>
-</blockquote>
-
-<blockquote>
+   <em>Minyoung Wyman studies the evolution of male and female differences using fruit flies as a model organism</em>
+<hr>
   <p>I depend on the techniques taught in this course to maintain reliable
     programs, scripts and data organisation. The time management, revision
     control, debugging and testing strategies are absolutely essential to build
     and maintain my projects. The basic Unix, shell, and scripting skills save me
     significant time and effort every day. It's an invaluable resource for
     computational researchers.</p>
-  <cite>Anita Oder is helping develop a set of optimal experimental planning and analysis tools for neuroimaging research</cite>
-</blockquote>
-
-<blockquote>
+   <em>Anita Oder is helping develop a set of optimal experimental planning and analysis tools for neuroimaging research</cite>
+<hr>
   <p>While doing Software Carpentry, I made significant changes to the program I
     was using in my research. I felt like I was finally in control of its
     behavior, not vice versa. I still refer Software Carpentry to anyone new to
     programming, best practices, or even Python, especially if I have to work with
     that person.</p>
-  <cite>Elango Cheran's MSc thesis was on detecting structural variants from paired-end sequencing data</cite>
-</blockquote>
-
-<blockquote>
+   <em>Elango Cheran's MSc thesis was on detecting structural variants from paired-end sequencing data</em>
+<hr>
   <p>Like most psychology students, I got no formal training in computational
     methods during my undergrad or graduate program. This meant that I was
     effectively cut off from the tool I was using and pessimistic about my chances
@@ -130,10 +114,8 @@ excerpt: testimonials about Software Carpentry from our community
     even accepted a postdoc in a computation-heavy lab, which would have been out
     of the question. My only regret is that I wasn't able to take this course
     earlier in my degree!</p>
-  <cite>Hanah Chapman studies the evolutionary psychology and cognitive neuroscience of human emotion</cite>
-</blockquote>
-
-<blockquote>
+   <em>Hanah Chapman studies the evolutionary psychology and cognitive neuroscience of human emotion</em>
+<hr>
   <p>Deadline after deadline: research life is as simple as that. As a
     consequence, research software is too often written in a rush. How many of you
     have faced that little, tricky, hidden bug a few days before submission? If
@@ -144,10 +126,8 @@ excerpt: testimonials about Software Carpentry from our community
     Subversion repositories are not so easy to set up, once they are working, it's
     like having a perfect lab assistant to tell you what is going on at any
     time.</p>
-  <cite>Enzo De Sena builds physical and acoustic models of surround sound</cite>
-</blockquote>
-
-<blockquote>
+   <em>Enzo De Sena builds physical and acoustic models of surround sound</em>
+<hr>
   <p>Before I attended the Software Carpentry workshop, I honestly didn't think
     I'd pick up anything useful other than a few minor tips and tricks because I
     had been programming for over 6 years at that point. Much to my surprise,
@@ -157,10 +137,8 @@ excerpt: testimonials about Software Carpentry from our community
     research notebook I've encountered so far: IPython Notebook. I couldn't
     recommend Software Carpentry enough, even for the veteran programmers out
     there.</p>
-  <cite>Randal S. Olson studies biologically-inspired artificial brains and algorithms at Michigan State University</cite>
-</blockquote>
-
-<blockquote>
+  <em>Randal S. Olson studies biologically-inspired artificial brains and algorithms at Michigan State University</em>
+<hr>
   <p>
     I was a physicist in a biology lab, working mostly with
     biologist with little or no knowledge of programming.  What
@@ -180,7 +158,7 @@ excerpt: testimonials about Software Carpentry from our community
     data in better ways, which in turn made getting new team
     members up to speed much easier.
   </p>
-  <cite>Matthias Bussonnier is a post-doc at the Berkeley Institute for Data Science</cite>
-</blockquote>
+  <em>Matthias Bussonnier is a post-doc at the Berkeley Institute for Data Science</em>
+<hr>
 
 <p>Have a story of your own you'd like to share? Please <a href="mailto:{{site.contact}}?subject=testimonial">let us know</a>.</p>
