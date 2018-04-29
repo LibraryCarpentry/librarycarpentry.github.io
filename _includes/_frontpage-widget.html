@@ -2,7 +2,7 @@
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% if include.widget.video %}
 		{{ include.widget.video }}
-	{% else %}
+	{% elsif include.widget.image  %}
 		<a href="{{ widget_url }}">
 			{% if include.widget.image %}
 				{%comment%}TODO lazy loading{%endcomment%}
