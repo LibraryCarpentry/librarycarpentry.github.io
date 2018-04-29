@@ -26,7 +26,11 @@
             {% endfor %}
 
               <ul class="no-bullet shadow-black">
-              {% for service_item in site.data.services %}
+		{% for service_item in site.data.services %}
+		{% comment %} The first time in this list in the menu item so we skip it {% endcomment %}
+		{% if forloop.first == true %}
+		{% continue %}
+		{% endif %}
                 {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
                   <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
                     <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
@@ -44,7 +48,12 @@
             {% endfor %}
 
             <ul class="no-bullet shadow-black">
-            {% for network_item in site.data.network %}
+              {% for network_item in site.data.network %}
+	      {% comment %} The first time in this list in the menu item so we skip it {% endcomment %}
+		{% if forloop.first == true %}
+		{% continue %}
+		{% endif %}
+
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
                   <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
