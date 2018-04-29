@@ -94,7 +94,7 @@ body.video cite { color: #fff; }
 }
 .valign-center {
     position: relative;
-    top: 30%;
+    top: 50%;
     > .columns {
 	transform: translateY(-50%);
 	-webkit-transform: translateY(-50%);
@@ -141,9 +141,6 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$medium-only} {
-    #logo img {
-        margin-top: 60px;
-    }
     #masthead {
         height: 280px;
     }
@@ -167,9 +164,6 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$large-only} {
-    #logo img {
-        margin-top: 80px;
-    }
     #masthead {
         height: 310px;
     }
@@ -193,9 +187,6 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$xlarge-up} {
-    #logo img {
-        margin-top: 110px;
-    }
     #masthead {
         height: 380px;
     }
