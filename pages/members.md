@@ -45,7 +45,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - Aarhus University
 - California Institute of Technology
-- California Institute of Technology
 - Cambridge University
 - CSIRO-ANU
 - George Washington University
