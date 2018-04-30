@@ -16,7 +16,7 @@ widget2:
   title: "Who we are"
   url: 'https://carpentries.org/about'
   icon: 'fas fa-users'
-  text: 'We are a diverse, global community of volunteer <a href="https://software-carpentry.org/team/">Instructors</a>, helpers, <a href="../trainers/">Trainers</a>, <a href="../maintainers/">Maintainers</a>, champions, <a href="../memberorgs/">member organisations</a>, supporters, and <a href="../team/">staff</a>. <a href="https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271">Join us</a> at <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a> in Dublin, our key community-building and networking event this year.'
+  text: 'We are a diverse, global community of volunteer <a href="https://software-carpentry.org/team/">Instructors</a>, helpers, <a href="../trainers/">Trainers</a>, <a href="../maintainers/">Maintainers</a>, champions, <a href="../members/">member organisations</a>, supporters, and <a href="../team/">staff</a>. <a href="https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271">Join us</a> at <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a> in Dublin, our key community-building and networking event this year.'
 widget3:
   title: "Get involved"
   url: 'https://carpentries.org/join'

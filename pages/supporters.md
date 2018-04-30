@@ -10,7 +10,7 @@ The Carpentries is a fiscally sponsored project of the 501(c)3 [Community Initia
 ### Our Member Organisations
 
 A Member Organisation is an organisation that has made a financial committment to
-the growth and sustainability of The Carpentries and is building their local capacity for training. See more on [becoming a Member Organisation](../membership/) and our list of [Current Member Organisations](../memberorgs/).
+the growth and sustainability of The Carpentries and is building their local capacity for training. See more on [becoming a Member Organisation](../membership/) and our list of [Current Member Organisations](../members/).
 
 <hr/>
 
