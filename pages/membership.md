@@ -18,7 +18,7 @@ We offer several levels of Memberships, based on training activities expected an
 |Discount for additional <br>coordinated workshops|20%|33%|50%|negotiable|
 |Self-organized workshops<br> at member organisation **|no-charge|no-charge|no-charge|no-charge|
 |Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person^<br>training event|negotiable|
-|Seat on the <br>SCF Advisory Board|No|Yes|Yes|Yes|
+|Seat on the <br>Carpentries Member Council|No|Yes|Yes|Yes|
 |Train an in-house instructor <br>trainer at member org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
 |Membership Dues (annual)|[$5,000](mailto:memberships@carpentries.org?subject=Interested in Bronze Memberhip)|[$7,500](mailto:memberships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:memberships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:memberships@carpentries.org?subject=Interested in Platinum Membership)|
