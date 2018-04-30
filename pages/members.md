@@ -75,6 +75,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Weill Cornell Medicine
 - West Virginia University
 
- ### Bronze Member Organisations  
+### Bronze Member Organisations  
  
  - Woods Hole Oceanographic Institution
