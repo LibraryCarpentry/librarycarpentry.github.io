@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/swcarpentry/website.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/website)
+[![Build Status](https://travis-ci.org/carpentries/carpentries.org.svg?branch=gh-pages)](https://travis-ci.org/carpentries/carpentries.org)
 
 # The Carpentries Website
 
