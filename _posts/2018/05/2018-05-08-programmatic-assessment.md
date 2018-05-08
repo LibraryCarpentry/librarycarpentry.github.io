@@ -49,8 +49,7 @@ discuss these analyses and share your thoughts. Please sign up on the [Etherpad]
 We’ll be conducting these types of analyses on a quarterly basis so we’ll have ongoing opportunities for you to get 
 involved over the year.  This process of seeking contributors early in the assessment process is inspired by 
 Kari Jordan’s process for bringing collaborators into workshop assessment reporting. Our workshop assessment 
-has been done entirely in R.  If  you’re a Pythonista, and like me, didn’t feel like you could contribute to that 
-project, here’s your chance to share your skills and contribute to our reports.  
+has been done entirely in R.  If  you’re a Pythonista or have ideas for evaluating workshop data, here’s your chance to share your skills and contribute to our reports.  
 
 Don’t want to set up a local Python 
 environment? You can still view the Jupyter notebook interactively in [Binder](https://mybinder.org/v2/gh/carpentries/assessment/master).
