@@ -1,7 +1,7 @@
 # Social icon names are the fully qualified
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
-- name: Tracy Teal
+- name: Tracy K. Teal, PhD
   pic: tracyteal
   position: Executive Director
   social:
@@ -12,7 +12,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:tracykteal@carpentries.org
 
-- name: Erin Becker
+- name: Erin Becker, PhD
   pic: erinbecker
   position: Associate Director
   social:
@@ -34,7 +34,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:jduckles@carpentries.org
 
-- name: Kari L. Jordan
+- name: Kari L. Jordan, PhD
   pic: karijordan
   position: Director of Assessment and Community Equity
   social:
@@ -60,7 +60,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:bweaver@carpentries.org
 
-- name: François Michonneau
+- name: François Michonneau, PhD
   pic: francoismichonneau
   position: Curriculum Development Lead
   social:
@@ -104,7 +104,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:sheraaron@carpentries.org
 
-- name: Karen Word
+- name: Karen Word, PhD
   pic: karenword
   position: Deputy Director of Instructor Training (affiliate staff member)
   social:
@@ -117,7 +117,7 @@ people:
       
 - name: Chris Erdmann
   pic: chriserdmann
-  position: Library Carpentry Community and Development Director (affiliate staff member)
+  position: Library Carpentry Community and Development Director
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/libcce
