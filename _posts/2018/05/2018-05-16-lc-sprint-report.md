@@ -22,7 +22,7 @@ moved over to the new [Library Carpentry organisation on GitHub](https://github.
 
 There were 3,138 views of those repositories during the sprint, with 341 unique visitors. 
 More than 150 pull requests and issues were raised against the lessons, with the `git` and `sql` 
-lessons getting some much-needed attention.
+lessons getting some much-needed attention. Thanks to [François Michonneau](https://twitter.com/fmic_) for his help in wrangling these numbers.
 
 Broken down by the individual lessons, these numbers were:
 
