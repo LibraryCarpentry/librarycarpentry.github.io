@@ -67,9 +67,9 @@ and [Twitter](https://twitter.com/libcarpentry).
 
 
 Non-technological sweeteners included Belinda’s torte in Brisbane along with cakes from the Melbourne team and the UCLA team.
-![Belinda’s cake](https://pbs.twimg.com/media/DcykrNJVwAAnB5O.jpg:large)
-![Melbourne’s cake](https://pbs.twimg.com/media/Dcy-SFjV0AAOLYN.jpg:large)
-![UCLA’s cake](https://pbs.twimg.com/media/Dc2bTcsU8AA8AnG.jpg:large)
+![Belinda’s cake](/images/belcake.jpg)
+![Melbourne’s cake](/images/melbcake.jpg)
+![UCLA’s cake](images/ucla.jpg)
 
 Library Carpentry has pretty much singlehandedly made the Twitter hashtag [#mozcake](https://twitter.com/search?q=mozcake&src=typd) a thing! 
 
