@@ -222,13 +222,7 @@ going on throughout our community.
  
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/discuss">discuss</a>
-        </td>
-        <td>
-            (archives
-            <a href="{{site.mailing_lists}}/pipermail/discuss/">in Mailman</a>
-            or
-            <a href="http://dir.gmane.org/gmane.education.softwarecarpentry.general">on Gmane</a>)
+            <a href="{{site.mailing_lists}}/discuss">discuss</a>
         </td>
         <td>
             The main channel for discussion of direction and technology.
@@ -243,10 +237,7 @@ going on throughout our community.
   
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/instructors">instructors</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/instructors/">(archives)</a>
+            <a href="{{site.mailing_lists}}/instructors">instructors</a>
         </td>
         <td>
             Advertisements for workshop instructors and helpers.
@@ -261,10 +252,7 @@ going on throughout our community.
   
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/mentoring">mentoring</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/mentoring/">(archives)</a>
+            <a href="{{site.mailing_lists}}/mentoring">mentoring</a>
         </td>
         <td>
             Working mailing list of the Mentoring subcommittee.
@@ -279,10 +267,7 @@ going on throughout our community.
  
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/maintainers">maintainers</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/maintainers/">(archives)</a>
+            <a href="{{site.mailing_lists}}/maintainers">maintainers</a>
         </td>
         <td>
             Working mailing list of the Lesson Development subcommittee
@@ -298,10 +283,7 @@ going on throughout our community.
 
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/r-discuss">r-discuss</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/r-discuss/">(archives)</a>
+            <a href="{{site.mailing_lists}}/discuss-r">discuss-r</a>
         </td>
         <td>
             Discussion of our R lesson and related matters.
@@ -320,10 +302,7 @@ going on throughout our community.
     
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/aus-nz">aus-nz</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/aus-nz/">(archives)</a>
+            <a href="{{site.mailing_lists}}/local-aunz">local-aunz</a>
         </td>
         <td>
             A sub-list for discussion of activities in Australia and New Zealand.
@@ -341,9 +320,6 @@ going on throughout our community.
             <a href="https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica">latin-america</a>
         </td>
         <td>
-            <a href="https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica">(archives)</a>
-        </td>
-        <td>
             A Google Group for discussion of the Carpentry in Latin America initiative.
         </td>
         <td>
@@ -357,10 +333,7 @@ going on throughout our community.
 
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/seattle">seattle</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/seattle/">(archives)</a>
+            <a href="{{site.mailing_lists}}/local-seattle">localseattle</a>
         </td>
         <td>
             A sub-list for discussion of activities in the Seattle area.
@@ -375,10 +348,7 @@ going on throughout our community.
 
     <tr>
         <td>
-            <a href="{{site.mailing_lists}}/listinfo/vancouver">vancouver</a>
-        </td>
-        <td>
-            <a href="{{site.mailing_lists}}/pipermail/vancouver/">(archives)</a>
+            <a href="{{site.mailing_lists}}/local-vancouver">local-vancouver</a>
         </td>
         <td>
             A sub-list for discussion of activities in the Vancouver area.
@@ -397,9 +367,6 @@ going on throughout our community.
     <tr>
         <td>
             <a href="https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network">assessment</a>
-        </td>
-        <td>
-            <a href="https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network">(archives)</a>
         </td>
         <td>
             A Google group, led by Dr Kari L. Jordan, for discussion of assessment issues.
