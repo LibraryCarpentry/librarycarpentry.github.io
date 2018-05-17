@@ -31,6 +31,8 @@ people:
       url: https://twitter.com/jduckles
     - icon: fab fa-github
       url: https://github.com/jduckles
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/jduck
     - icon: fa fa-envelope
       url: mailto:jduckles@carpentries.org
 
