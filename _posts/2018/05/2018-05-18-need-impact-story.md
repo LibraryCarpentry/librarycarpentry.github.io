@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Kari L. Jordan"]
-teaser: "Please tell us your impact story"
+teaser: "Please share your impact story"
 title: "Calling for Responses to our Long-Term Survey"
 date: 2018-05-18
 time: "09:00:00"
