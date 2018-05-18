@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Kari L. Jordan"]
-teaser: "Tell us your impact story"
-title: "Calling for responses to our long-term survey"
+teaser: "Please tell us your impact story"
+title: "Calling for Responses to our Long-Term Survey"
 date: 2018-05-18
 time: "09:00:00"
 category: ["Assessment", "Impact", "Long-term Surveys", "Workshops"]
@@ -14,7 +14,7 @@ I would like to know what has transpired in your work and career since you compl
 Begun to work more efficiently? Passed on skills to others? Or perhaps you have gone on to learn other things, or to learn more about the skills
 you picked up.
 
-Whatever the change, we want to know about it. 
+Whatever the change, I want to know about it. 
 
 Please complete our [Long-Term Impact Survey](https://www.surveymonkey.com/r/carpentrieslongtermassessment). 
 It won't take you long, and your feedback will help The Carpentries 
