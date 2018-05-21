@@ -68,7 +68,7 @@ The Mentoring Subcommittee supports Instructors as they progress through trainin
 * [Current members](https://github.com/carpentries/mentoring/blob/master/README.md#current-members)
 * Join: Join the Mentoring Subcommittee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.software-carpentry.org/scf-mentoring)
-* [Mailing list](http://lists.software-carpentry.org/listinfo/mentoring)
+* [Mailing list]({{site.mailing_lists}}/mentoring)
 * [Meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
 * For more information contact [Toby Hodges](mailto:tbyhdgs@gmail.com).
 
@@ -80,7 +80,7 @@ The Trainer community is a group of experienced Instructors who inspire and prep
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
 * Apply to join - our next Trainer cohort will start training in northern hemisphere Autumn (Fall) 2018. Watch this space for more information.
 * [Upcoming meetings](http://pad.software-carpentry.org/trainers)
-* [Mailing list](http://lists.software-carpentry.org/listinfo/trainers)
+* [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
 * For more information contact [Erin Becker](mailto:ebecker@carpentries.org).
@@ -92,7 +92,7 @@ Carpentry Maintainers work with the community to make sure that lessons stay up-
 * [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
 * [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link)
 * [Upcoming meetings](http://pad.software-carpentry.org/maintainers)
-* [Mailing list](http://lists.software-carpentry.org/listinfo/maintainers)
+* [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack](https://swcarpentry.slack.com/messages/C8H5LN44V/details/)
 * [Contact](mailto:francois@carpentries.org)
 
