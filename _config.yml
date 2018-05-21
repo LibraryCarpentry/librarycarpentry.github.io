@@ -204,7 +204,7 @@ og_url:                           "https://thecarpentries.org"
 #
 # used in _includes/comments
 
-disqus_shortname: TheCarpentries
+disqus_shortname: carpentries
 
 
 #      _____

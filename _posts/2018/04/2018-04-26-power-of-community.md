@@ -6,6 +6,7 @@ title: "Building Carpentries Engagement in Your Communities"
 date: 2018-04-26
 time: "09:00:00"
 category: [ "Community Building", "Engagement", "Community"]
+comments: true
 ---
 
 One of the things I enjoy most about [The Carpentries](https://carpentries.org/) is that the people who volunteer their 

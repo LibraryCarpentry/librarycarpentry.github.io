@@ -6,6 +6,7 @@ title: "Mentoring Groups Open for Multiple Timezones"
 date: 2018-04-04
 time: "12:00:00"
 tags: ["Mentoring"]
+comments: true
 ---
 
 Did you miss the deadline to [join a mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)? Do not fear, there are still openings for mentees to join groups in the following timezones:

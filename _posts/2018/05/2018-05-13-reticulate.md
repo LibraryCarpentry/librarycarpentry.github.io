@@ -6,6 +6,7 @@ title: "Rethinking the Lesson Pipeline"
 date: 2018-05-15
 time: "09:00:00"
 category: [ "Lesson Development"]
+comments: true
 ---
 
 If you had a look at [CarpentryCon](http://www.carpentrycon.org/)'s

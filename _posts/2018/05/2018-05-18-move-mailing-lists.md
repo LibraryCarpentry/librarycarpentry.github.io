@@ -6,6 +6,7 @@ title: "All Carpentries Mailing Lists now moved to TopicBox "
 date: 2018-05-18
 time: "09:00:00"
 category: ["Mailing lists", "Communications", "TopicBox", "Mail servers"]
+comments: true
 ---
 
 After a number of issues with spam, The Carpentries have moved all mailing lists away from Mailman to a new service called [TopicBox](https://www.topicbox.com/).

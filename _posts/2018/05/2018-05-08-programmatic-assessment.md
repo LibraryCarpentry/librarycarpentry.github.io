@@ -6,6 +6,7 @@ title: "The Carpentries Programmatic Assessment"
 date: 2018-05-08
 time: "09:00:00"
 category: [ "Assessment"]
+comments: true
 ---
 
 The first quarter of 2018 brought many changes our way – including [a merged Carpentries](https://software-carpentry.org/blog/2017/08/mergermotions.html) under the [fiscal sponsorship of Community Initiatives](https://software-carpentry.org/blog/2018/01/fiscal-sponsor-transition.html), [new staff](http://www.datacarpentry.org/blog/curriculum-dev-scaling/), and a new [Executive Council](https://software-carpentry.org/blog/2017/12/executive-council-2018.html). As our community develops and grows, we want to be able to understand the kinds of growth we are experiencing so we can share our successes and direct our resources to best support and sustain this growth. In the past, our assessment efforts have focused on understanding the impact of our workshops on learners. We’ve learned that our workshops are successful in improving learner confidence in the tools covered in their workshop and increasing daily programming usage. Knowing that our workshops are effective, however, is only part of the story. We also need to understand how our programs as a whole are functioning to know whether our community is growing in a balanced and sustainable way, and to be able to direct our resources effectively. 

@@ -6,6 +6,7 @@ title: "Launching The Carpentries Website"
 date: 2018-04-25
 time: "09:00:00"
 category: [ "Website"]
+comments: true
 ---
 
 We are excited to announce that [The Carpentries](https://carpentries.org/) website is now live!

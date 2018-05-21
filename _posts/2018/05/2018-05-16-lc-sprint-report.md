@@ -5,7 +5,8 @@ teaser: "The third sprint featured lots of updates and new curriculum, plus the 
 title: "Library Carpentry Hackathon a Great Success "
 date: 2018-05-16
 time: "09:00:00"
-category: [ "Hackathons", “Global Sprint”, “Library Carpentry”]
+category: [ "Hackathons", "Global Sprint", "Library Carpentry"]
+comments: true
 ---
 
 Library Carpentry ran a [two-day hackathon](https://www.mozillapulse.org/entry/642) over 10-11 May as part of the 

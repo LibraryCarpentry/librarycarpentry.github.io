@@ -6,6 +6,7 @@ title: "Calling for Responses to our Long-Term Survey"
 date: 2018-05-18
 time: "09:00:00"
 category: ["Assessment", "Impact", "Long-term Surveys", "Workshops"]
+comments: true
 ---
 
 Calling all learners! If you've taken a Software, Data, or Library Carpentry workshop in the past six months, I want to hear from you!

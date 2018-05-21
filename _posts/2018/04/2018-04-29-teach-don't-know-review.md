@@ -6,6 +6,7 @@ title: "Book Review: Teaching What You Don't Know"
 date: 2018-04-29
 time: "09:00:00"
 category: [ "Teaching", "Instructor training", "Pedagogy"]
+comments: true
 ---
 
 A review of *Teaching What You Don't Know* by Therese Huston

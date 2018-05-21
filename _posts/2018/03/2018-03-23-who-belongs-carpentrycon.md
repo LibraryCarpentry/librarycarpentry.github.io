@@ -6,6 +6,7 @@ teaser: To be held in Dublin from 30 May - 1 June, 2018, CarpentryCon will be th
 date: 2018-03-23
 time: "00:00:00"
 tags: ["Community Building", "CarpentryCon", "Networking"]
+comments: true
 ---
 
 [CarpentryCon 2018](http://www.carpentrycon.org/) will be the key community building event in the Carpentries' annual calendar. To 

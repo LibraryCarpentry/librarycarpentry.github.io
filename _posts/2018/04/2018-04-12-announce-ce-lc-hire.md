@@ -6,6 +6,7 @@ title: "Building Library Carpentry Community and Development"
 date: 2018-04-12
 time: "00:00:00"
 tags: [ "Community", "Library Carpentry", "Librarians"]
+comments: true
 ---
 
 We are excited to announce that [Chris Erdmann](https://twitter.com/libcce) has been hired as 
