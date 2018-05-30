@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Carpentries Listen"
+title: "Carpentries Listens"
 subheadline: "The Carpentries Virtual Listening Tour"
 permalink: "/carpentrieslistens/"
 ---
