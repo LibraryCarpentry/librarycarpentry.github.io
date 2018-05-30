@@ -30,5 +30,5 @@ The first theme is *Learning*.
 - What is one thing you have learned with The Carpentries?
 - What is one thing you are still confused about or wish you knew?
 
-[Respond on Twitter](https://twitter.com/thecarpentries) using the hashtag [#CarpentriesListens](https://twitter.com/search?f=tweets&q=%23carpentrieslistens) or 
+[Respond on Twitter](https://twitter.com/thecarpentries) using the hashtag [#CarpentriesListens](https://twitter.com/hashtag/CarpentriesListens) or 
 [Fill out the anonymous form](https://carpentries.typeform.com/to/EpISXB).
