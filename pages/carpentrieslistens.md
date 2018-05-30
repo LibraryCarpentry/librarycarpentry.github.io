@@ -3,8 +3,6 @@ layout: page
 show_meta: false
 title: "Carpentries Listen"
 subheadline: "The Carpentries Virtual Listening Tour"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/carpentrieslistens/"
 ---
 
