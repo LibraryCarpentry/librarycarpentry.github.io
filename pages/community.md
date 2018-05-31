@@ -136,7 +136,7 @@ Carpentry Champions meets quarterly to discuss ways in which they can help suppo
 
 * [Activities](https://github.com/carpentries/champions/blob/master/activities.md) - This community holds quarterly meetings.
 * [Upcoming meetings](http://pad.software-carpentry.org/champions)
-* [Mailing list](https://groups.google.com/a/carpentries.org/forum/#!forum/champions-announce)
+* [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
 * To get involved contact [Jonah Duckles](mailto:jduckles@carpentries.org).
 
