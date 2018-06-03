@@ -162,7 +162,7 @@ The Carpentries is a community-led project. We are committed to creating a frien
 
 This group works to build a sustainable and active community in Latin America.
 
-* [Mailing list](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica)
+* [Mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica)
 * For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
 
 ### Spanish Translators Team
@@ -317,7 +317,7 @@ going on throughout our community.
 
     <tr>
         <td>
-            <a href="https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica">latin-america</a>
+            <a href="https://carpentries.topicbox.com/groups/local-latinoamerica">latin-america</a>
         </td>
         <td>
             A Google Group for discussion of the Carpentry in Latin America initiative.
@@ -366,7 +366,7 @@ going on throughout our community.
     </tr>
     <tr>
         <td>
-            <a href="https://groups.google.com/a/carpentries.org/forum/#!forum/assessment-network">assessment</a>
+            <a href="https://carpentries.topicbox.com/groups/assessment-network">assessment</a>
         </td>
         <td>
             A Google group, led by Dr Kari L. Jordan, for discussion of assessment issues.
