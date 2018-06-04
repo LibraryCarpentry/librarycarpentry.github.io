@@ -10,6 +10,8 @@ tags: ["Feedback", "Communication", "Vision", "Mission"]
 
 ### Carpentries Listens
 
+"You Belong in The Carpentries"
+
 The Carpentries is a community organization, and we want to [hear from our community](https://carpentries.org/carpentrieslistens/).
 
 As a part of developing Mission and Vision for The Carpentries, we, the staff and The Executive Council, are 
