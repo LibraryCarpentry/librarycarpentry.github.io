@@ -50,6 +50,7 @@ Finally here are some tweets that sum up the power of CarpentryCon.
 ![Lex's tweet](/images/lex.jpg)
 ![Fotis's tweet](/images/fotis.jpg)
 ![Christina's tweet](/images/chrit.jpg)
+![Kayleigh's tweet](/images/kayleigh.jpg)
 ![Alexander's tweet](/images/konov.jpg)
 ![Valerie's tweet](/images/val.jpg)
 ![CC's tweet](/images/ccaa.jpg)
