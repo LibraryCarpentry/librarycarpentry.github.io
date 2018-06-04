@@ -22,7 +22,7 @@ The Carpentries' Executive Director Tracy Teal's talk _The State of the Carpentr
 
 In between the four keynotes, there were skill-ups, breakouts, lightning talks, posters and birds-of-a-feather. These sessions were all suggested, prepared and run by members of the community and highlighted the variety of topics and skills our community wanted to share and learn. New initiatives were launched, discussions took place about local communities and sharing ideas, and several sessions focused on professional development. The full list is available [here](https://github.com/carpentries/carpentrycon/tree/master/Sessions) and updates from individual sessions will be coming soon! We hope other Carpenters will post reports - we will tweet those when we find them.
 
-The final feedback session generated both tears and laughter as attendees shared personal stories of what CarpentryCon had meant to them (They got a CarpentryCon T-shirt for their contributions). There was a lot of hugging as people reluctantly packed up to leave.
+The final feedback session generated both tears and laughter as attendees shared personal stories of what CarpentryCon had meant to them (They got a CarpentryCon T-shirt for their contributions. Didn't get a shirt? [You can buy one here](https://www.cafepress.com/carpentrycon2018)). There was a lot of hugging as people reluctantly packed up to leave.
 
 ### Global community
 
