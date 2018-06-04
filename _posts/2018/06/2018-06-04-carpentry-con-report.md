@@ -24,8 +24,6 @@ In between the four keynotes, there were skill-ups, breakouts, lightning talks, 
 
 The final feedback session generated both tears and laughter as attendees shared personal stories of what CarpentryCon had meant to them (They got a CarpentryCon T-shirt for their contributions). There was a lot of hugging as people reluctantly packed up to leave.
 
-We replicated the Carpentries symbol in [Bérénice Batut](https://twitter.com/bebatut)’s [fantastic group shot](/images/groupshotsymbol.jpg).
-
 ### Global community
 
 Huge thanks go to the [CarpentryCon Task Force](https://github.com/carpentries/carpentrycon), ably steered by Fotis Psomopoulos and Malvika Sharan. The other members were Mark Laufersweiler, SherAaron Hurt, Ivo Arrey, Danielle Quinn, Tracy Teal, Erin Becker, Elizabeth Williams and me. See the [repo](https://github.com/carpentries/carpentrycon) for the full list of people who worked on it.
