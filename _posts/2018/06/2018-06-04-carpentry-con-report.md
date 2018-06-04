@@ -28,7 +28,9 @@ We replicated the Carpentries symbol in [Bérénice Batut](https://twitter.com/b
 ### Global community
 
 I feel privileged to have been part of the Task Force that helped build CarpentryCon, and to have led sessions there, but most of all
-I feel lucky just to have been there and felt the power that belonging to such a great global community provides. For those who weren’t able to attend, check out the Twitter streams for [@carpentrycon](https://twitter.com/carpentrycon) and [#CarpentryCon2018](https://twitter.com/search?q=%23carpentryCon2018&src=tyah), and also check out [Berenice Batut's great pictures](https://www.flickr.com/photos/134305289@N03/sets/72157667641880727/). If you feel inspired, think about joining the Task Force to build the next CarpentryCon, or to help build regional _CarpentryConnect_ meetups to bring the spirit of CarpentryCon back home.
+I feel lucky just to have been there and felt the power that belonging to such a great global community provides. For those who weren’t able to attend, check out the Twitter streams for [@carpentrycon](https://twitter.com/carpentrycon) and [#CarpentryCon2018](https://twitter.com/search?q=%23carpentryCon2018&src=tyah), and also check out [Berenice Batut's great pictures](https://www.flickr.com/photos/134305289@N03/sets/72157667641880727/). 
+
+If they make you feel inspired, think about joining the Task Force to build the next CarpentryCon, or to help build regional _CarpentryConnect_ meetups to bring the spirit of CarpentryCon back home.
 
 ### Sponsors - Thank You !
 
