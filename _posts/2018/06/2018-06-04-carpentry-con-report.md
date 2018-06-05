@@ -8,8 +8,6 @@ time: "9:00:00"
 tags: ["Conferences", "Community", "CarpentryCon"]
 ---
 
-## CarpentryCon 2018
-
 Warm. Open. Diverse. Welcoming. Inspiring.
 
 Those words go some way towards summing up the three fantastic days of keynotes, lightning talks, skill-ups, breakout discussions, workshops, and networking that comprised the first-ever CarpentryCon held at [University College Dublin](https://www.ucd.ie/). This event drew an audience of more than 110 people from right round the globe.
@@ -18,7 +16,7 @@ After a welcome from the CarpentryCon Task Force, the event kicked off with [Val
 
 A story circle icebreaker followed before we all descended on the fantastic morning tea provided by the UCD caterers. The food was outstanding all through CarpentryCon, as was the local support from Dr. Norman Davey and the local UCD volunteers.
 
-The Carpentries' Executive Director Tracy Teal's talk _The State of the Carpentries_ brought us all up to date on where we are post-merger, highlighting that "You Belong in the Carpentries". She also kicked off the new [virtual listening tour](https://carpentries.org/carpentrieslistens/). Greg Wilson's _Late Night Thoughts on Listening to Ike Quebec_ keynote on how to leave brought forth a few tears, while Desmond Higgins' recap of CLUSTAL development was a funny and informative dash through the pre-GitHub, pioneer days of software sharing. Anelda van der Walt's keynote _It Takes a [Global] Village_ brought the whole African Task Force on to the stage, and highlighted not just the spread and reach of The Carpentries, but also the transformative power this community has on people's lives and careers.
+The Carpentries' Executive Director Tracy Teal's talk _The State of the Carpentries_ brought us all up to date on where we are post-merger, highlighting that "You Belong in the Carpentries". She also kicked off the new [virtual listening tour](https://carpentries.org/carpentrieslistens/). Greg Wilson's _Late Night Thoughts on Listening to Ike Quebec_ [keynote](http://third-bit.com/2018/05/30/late-nights-thoughts.html) on how to leave brought some audience members to tears, while Desmond Higgins' recap of CLUSTAL development was a funny and informative dash through the pre-GitHub, pioneer days of software sharing. Anelda van der Walt's keynote _It Takes a [Global] Village_ brought the whole African Task Force on to the stage, and highlighted not just the spread and reach of The Carpentries, but also the transformative power this community has on people's lives and careers.
 
 In between the four keynotes, there were skill-ups, breakouts, lightning talks, posters and birds-of-a-feather. These sessions were all suggested, prepared and run by members of the community and highlighted the variety of topics and skills our community wanted to share and learn. New initiatives were launched, discussions took place about local communities and sharing ideas, and several sessions focused on professional development. The full list is available [here](https://github.com/carpentries/carpentrycon/tree/master/Sessions) and updates from individual sessions will be coming soon! We hope other Carpenters will post reports - we will tweet those when we find them.
 
