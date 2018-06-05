@@ -28,8 +28,12 @@ The final feedback session generated both tears and laughter as attendees shared
 
 Huge thanks go to the [CarpentryCon Task Force](https://github.com/carpentries/carpentrycon), ably steered by Fotis Psomopoulos and Malvika Sharan. The other members were Mark Laufersweiler, SherAaron Hurt, Ivo Arrey, Danielle Quinn, Tracy Teal, Erin Becker, Elizabeth Williams and me. See the [repo](https://github.com/carpentries/carpentrycon) for the full list of people who worked on it.
 
+![Carpentries group shot](/images/groupshot.jpg)
+
+[Bérénice Batut](https://twitter.com/bebatut) took this picture of attendees - we are embodying The Carpentries symbol. This is one of [many pictures](https://www.flickr.com/photos/134305289@N03/sets/72157667641880727) Bérénice took at CarpentryCon.
+
 I feel privileged to have been part of the Task Force that helped build CarpentryCon, and to have led sessions there, but most of all I feel lucky to have been there and felt the power that belonging to such a great global community provides.
- For those who weren’t able to attend, check out the Twitter streams for [@carpentrycon](https://twitter.com/carpentrycon) and [#CarpentryCon2018](https://twitter.com/search?q=%23carpentryCon2018&src=tyah), and also check out [Berenice Batut's great pictures](https://www.flickr.com/photos/134305289@N03/sets/72157667641880727/). 
+ For those who weren’t able to attend, check out the Twitter streams for [@carpentrycon](https://twitter.com/carpentrycon) and [#CarpentryCon2018](https://twitter.com/search?q=%23carpentryCon2018&src=tyah), and also check out [Bérénice Batut's great pictures](https://www.flickr.com/photos/134305289@N03/sets/72157667641880727/). 
 
 If they make you feel inspired, think about joining the Task Force to build the next CarpentryCon, or to help build regional _CarpentryConnect_ meetups to bring the spirit of CarpentryCon back home.
 
