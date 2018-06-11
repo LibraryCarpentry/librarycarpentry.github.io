@@ -3,7 +3,6 @@ layout: page
 title: "Thoughts on CarpentryCon: the Value of Community"
 authors: "Toby Hodges"
 category: ["blog"]
-permalink: "/2018/06/carpentrycon-tweets"
 comments: true
 show_meta: true
 ---
