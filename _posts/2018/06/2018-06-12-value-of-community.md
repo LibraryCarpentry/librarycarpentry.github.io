@@ -7,10 +7,6 @@ comments: true
 show_meta: true
 ---
 
-> "I've found my tribe."
-
-_Quote from a CarpentryCon attendee._
-
 [Belinda Weaver has already given a great overview of CarpentryCon](https://carpentries.org/blog/2018/06/carpentry-con-report/),
 praising both the program and the atmosphere of the conference. One of the
 most important lessons that I learned during the conference was how great it is
@@ -88,3 +84,6 @@ https://bio-it-embl.piratenpad.de/building-communities
 Thanks for reading. I look forward to seeing you all at the next CarpentryCon! :)
 
 \*If you're not holding the stick, you shouldn't be talking!
+
+_Note: this version has been modified from the original blogpost. A quote was removed from the beginning of the post,
+after the author was made aware that language in the quote could be offensive to some groups._
