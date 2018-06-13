@@ -18,7 +18,7 @@ These sessions are regular, one-hour online meetings that bring together trainee
 teaching experience and prepare for future workshops. The job of the host is to participate in and facilitate these discussions, 
 and to make sure that all participants have an equal opportunity to participate in the conversation.
 
-I've been hosting discussion sessions for a year or so now and continue to find them very rewarding. They're a valuable way 
+I've been hosting discussion sessions for a year or so now and [continue to find them very rewarding](https://carpentries.org/blog/2018/06/value-of-community/). They're a valuable way 
 of getting tips and advice on teaching and of learning from experiences other than my own. They are always enjoyable to 
 be part of, and a great opportunity to get to know other instructors and the tips and resources that they use during 
 their workshops. Each session is one hour long, with a short questionnaire for the host to fill out after the call has 
