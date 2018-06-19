@@ -5,7 +5,7 @@ teaser: "2012-2018 Programmatic Assessment Report Published"
 title: "The Carpentries' Programmatic Assessment"
 date: 2018-06-19
 time: "09:00:00"
-category: ["Assessment", "Statistics", "Instructor numbers", "Workshop numbers"]
+tags: ["Assessment", "Statistics", "Instructor numbers", "Workshop numbers"]
 ---
 
 Starting this year, we are releasing quarterly programmatic assessment reports 
