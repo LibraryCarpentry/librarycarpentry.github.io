@@ -24,7 +24,7 @@ and understand the data we have been collecting. We have a rich set of data and 
 questions that our community members would like to be able to answer from this data. 
 
 We’ve put together an
-[initial draft](https://github.com/carpentries/assessment/blob/master/programmatic-assessment/workshops/final_report_draft.ipynb) 
+[initial draft](https://github.com/carpentries/assessment/blob/89645da33597935149cc742e0609926e4971c573/programmatic-assessment/workshops/final_report_draft.ipynb) 
 analysis of this data and would now like to invite the community to get involved with shaping the analyses and the final report. 
 Please speak up and tell us how this data can be used to answer questions that are important to your community. 
 We greatly value involvement of our community members in conducting these analyses, as your perspectives can 
@@ -33,7 +33,7 @@ help us to understand what questions are worth asking. Here are some ways you ca
 - Help address some [issues](https://github.com/carpentries/assessment/issues) we’ve encountered in analyzing this data
 
 - Explore these analyses interactively in 
-the [Python Jupyter notebook](https://github.com/carpentries/assessment/blob/master/programmatic-assessment/workshops/final_report_draft.ipynb)
+the [Python Jupyter notebook](https://github.com/carpentries/assessment/blob/89645da33597935149cc742e0609926e4971c573/programmatic-assessment/workshops/final_report_draft.ipynb)
 
 - Download the [raw data](https://github.com/carpentries/assessment/tree/master/programmatic-assessment/workshops/data_files) 
 and conduct your own analyses
