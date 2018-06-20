@@ -11,7 +11,7 @@ widget1:
   title: "What we do"
   url: 'https://carpentries.org/about'
   icon: "fas fa-laptop"
-  text: 'The Carpentries teach foundational computational, coding, and data science skills to researchers worldwide. Software Carpentry and Data Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
+  text: 'The Carpentries teach foundational coding, and data science skills to researchers worldwide. Software Carpentry and Data Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who we are"
   url: 'https://carpentries.org/about'
