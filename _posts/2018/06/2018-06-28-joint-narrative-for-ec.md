@@ -19,7 +19,7 @@ as a joint organisation since we began to work together more closely from Januar
 Two key milestones during that time were the creation and launch 
 of both [The Carpentries Handbook](https://docs.carpentries.org/) and the new Carpentries [website](https://carpentries.org/).
 
-See our report: https://zenodo.org/record/1294081#.Wyq0CBJKi_E
+See our report: [https://doi.org/10.5281/zenodo.1294080](https://doi.org/10.5281/zenodo.1294080)
 
 We wanted to provide an overview of what we have jointly achieved and provide an update on the status of our 
 various programs. The report complements 
@@ -31,12 +31,12 @@ assessment, instructor training, curriculum development and maintenance, communi
 volunteer management, and communications. If you want to get a broad overview of what is happening in The 
 Carpentries, this is the place to start!
 
-The report is published on Zenodo: https://zenodo.org/record/1294081#.Wyq0CBJKi_E
+The report is published on Zenodo: [https://doi.org/10.5281/zenodo.1294080](https://doi.org/10.5281/zenodo.1294080)
 
 Stay tuned for a report from the EC meeting. This report will appear on
 The Carpentries [blog](https://carpentries.org/blog), and a link to it will also be 
 shared via our [Twitter feed](https://twitter.com/thecarpentries), 
-our [Facebook](https://facebook.com/carpentries)page, and 
+our [Facebook](https://facebook.com/carpentries) page, and 
 our [mailing lists](https://carpentries.topicbox.com/). 
 
 We welcome your feedback.
