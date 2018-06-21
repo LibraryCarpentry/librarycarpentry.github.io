@@ -114,11 +114,13 @@ lesson stay up to date with advances in technology. Being a Curriculum Advisor i
 network with other domain experts in The Carpentries community.
 
 * [Duties](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html)
-* [Current members](http://www.datacarpentry.org/lesson-leadership/)
-* Apply to join: We are not currently seeking new members of the Curriculum Advisory Committees. 
+* [Current Data Carpentry CAC members](http://www.datacarpentry.org/lesson-leadership/)
+* [Current Software Carpentry CAC](https://software-carpentry.org/blog/2018/05/swc-cac.html)
+* Apply to join: We are not currently seeking new members of the Data Carpentry Curriculum Advisory Committees. 
 * Upcoming meetings: Each CAC meets bi-annually in advance of lesson releases.
-* [Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
-* [Contact](mailto:ebecker@carpentries.org)
+* [Data Carpentry CAC Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
+* [Data Carpentry CAC contact](mailto:ebecker@carpentries.org)
+* [Software Carpentry CAC contact](mailto:jduckles@carpentries.org)
 
 ### Assessment Network
 
@@ -186,10 +188,9 @@ The Carpentry Instructor community in Africa is growing, with over a hundred cer
 
 ### CarpentryCon
 
-The Carpentries host an annual meeting for our global community. 
-This meeting is organised by the community. [CarpentryCon 2018](http://www.carpentrycon.org/) will be held from
-30 May to 1 June in Dublin, Ireland. If you are interested in helping to organise the next CarpentryCon, 
-contact [The Carpentries](mailto:team@carpentries.org).
+The Carpentries host CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:team@carpentries.org). 
+
+A global CarpentryCon will be held every two years, with locally organised CarpentryConnect events held in the off years.
 
 ###  Network
 
