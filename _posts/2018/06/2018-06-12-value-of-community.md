@@ -5,6 +5,7 @@ authors: "Toby Hodges"
 category: ["blog"]
 comments: true
 show_meta: true
+tags: ["Community-building"]
 ---
 
 [Belinda Weaver has already given a great overview of CarpentryCon](https://carpentries.org/blog/2018/06/carpentry-con-report/),
