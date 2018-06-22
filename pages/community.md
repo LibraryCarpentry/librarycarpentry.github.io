@@ -32,7 +32,7 @@ and research software development through building local and global communities 
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
     * [Community calendar](#community-events)
     * [Networking opportunities](#network)
-    * [Mailing lists](#mailing-lists)
+    * [Mailing lists](https://carpentries.topicbox.com/latest)
 
 
 ### Instructors
@@ -211,7 +211,9 @@ going on throughout our community.
 
 <hr> 
 
-### Mailing lists
+
+
+<!--- ### Mailing lists
 
 <table class="table table-striped">
    
@@ -377,7 +379,7 @@ going on throughout our community.
             unmoderated
         </td>
     </tr>
-
+--->
 
 </table>
 
