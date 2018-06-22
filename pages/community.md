@@ -196,10 +196,8 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 
 - Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for many of our sub-communities.
 - Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
-- Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
-- Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>.
 - Going to an event? Hoping to connect with other people from the Carpentries? List the event and your your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup). 
-- Join and contribute to some of our [mailing lists](#mailing-lists).
+- Join and contribute to some of our [mailing lists](https://carpentries.topicbox.com/latest).
 - Read our twice-monthly <a href="{{site.url}}/newsletter">newsletter</a>, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
 
 <hr>
