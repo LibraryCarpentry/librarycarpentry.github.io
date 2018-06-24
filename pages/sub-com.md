@@ -12,9 +12,10 @@ The African Task Force is involved in workshop support and instructor mentoring 
 ![CarpentryCon Task Force](/images/atf.jpg "CarpentryCon Task Force")
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/41614266805/in/album-72157667641880727/). 
 
-Back row: (L-R)  Nikki Gentle, Mesfin Diro, Caoline F. Ajilogba, Anelda van der Walt, Ian van der Linde, Ivo Arrey.
-Middle row: (L-R) Lactatia Motsuku, Jessicas Upani, ?, ?, Katrin Tirok, Kayleigh Lino.
-Front row: (L-R) Juan Steyn, ?, Erika Mias, Zak van Heerden.
+Back row: (L-R)  Nikki Gentle, Mesfin Diro, Caoline F. Ajilogba, Anelda van der Walt, Ian van der Linde, Ivo Arrey Agbor.
+Middle row: (L-R) Lactatia Motsuku, Jessicas Upani, Rhoda Aremu, Motlagomang (Mamsie) Khantsi, Katrin Tirok, Kayleigh Lino.
+Front row: (L-R) Juan Steyn, Martin Dreyer, Zak van Heerden.
+Front: Erika Mias.
 
 #### Carpentries en Latinoamérica 
 
@@ -24,6 +25,7 @@ This group works to build a sustainable and active community in Latin America.
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/).
 
 (L-R): Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolas Palopoli, Gladys Nalvarte.
+Not pictured: Rayna Harris.
 
 ####  CarpentryCon Task Force
 
@@ -34,6 +36,6 @@ The mission of the 2018 task force was to organise and host a meeting to bring t
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/).
 
 Back row: Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.
-Front row: (L-R) Ivo Arrey, Malvika Sharan, Elizabeth Williams
+Front row: (L-R) Ivo Arrey Agbor, Malvika Sharan, Elizabeth Williams.
 
 
