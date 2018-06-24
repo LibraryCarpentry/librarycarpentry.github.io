@@ -12,6 +12,9 @@ The African Task Force is involved in workshop support and instructor mentoring 
 ![CarpentryCon Task Force](/images/atf.jpg "CarpentryCon Task Force")
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/41614266805/in/album-72157667641880727/). 
 
+Back row: (L-R)  ?, Mesfin Diro, Caoline F. Ajilogba, Anelda van der Walt, ?, Ivo Arrey.
+Middle row: (L-R) Lactatia Motsuku, Jessicas Upani, ?, ?, Katrin Tirok, Kayleigh Lino.
+Front row: (L-R) Juan Steyn, ?, Erika, Mias, Zan van Heerden.
 
 #### Carpentries en Latinoamérica 
 
@@ -20,11 +23,17 @@ This group works to build a sustainable and active community in Latin America.
 ![Carpentries en Latinoamérica ](/images/carplatam.jpg "Carpentries en Latinoamérica")
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/).
 
+(L-R): Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolas Palopoli, Gladys Nalvarte.
+
 ####  CarpentryCon Task Force
 
 The mission of the 2018 task force was to organise and host a meeting to bring together members of the global Carpentries community and people with similar interests. 
 
+
 ![CarpentryCon Task Force](/images/cctf.jpg "CarpentryCon Task Force")
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/).
+
+Back row: Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.
+Front row: (L-R) Ivo Arrey, Malvika Sharan, Elizabeth Williams
 
 
