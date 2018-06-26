@@ -32,17 +32,22 @@ commit you to anything but you will be able to find out what it entails.
 
 ### Sign up for an onboarding session 
 
-To help people understand the dual roles of host and co-host/notetaker, there will be two onboarding sessions held next week, 2 July 
+There will be two onboarding sessions held next week, 2 July 
 (this might be 3 July for some of you). Times and details are on 
 [this etherpad](http://pad.software-carpentry.org/instructor-discussion) around line 100. You can sign up there too.
+Whether you are interested in being a host, or if you would prefer to start off as a co-host or notetaker, this is 
+the session that can help.
 
 #### The first session is Monday, 2 July  at 13:00 UTC. 
 [See date and time in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Discussions+Host+onboarding&iso=20180702T13&p1=%3A&ah=1).
-[Sign up at line 100](http://pad.software-carpentry.org/instructor-discussion).
 
-#### The second session is Monday 2 July at 22:00 UTC. (This will be 3 July south of the equator).
+[Sign up at line 100 on the etherpad](http://pad.software-carpentry.org/instructor-discussion).
+
+#### The second session is Monday 2 July at 22:00 UTC. 
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Discussions+Host+onboarding&iso=20180702T22&ah=1).
-[Sign up at line 100](http://pad.software-carpentry.org/instructor-discussion).
+
+[Sign up at line 100 on the etherpad](http://pad.software-carpentry.org/instructor-discussion).
+
 
 I will be attending the second session so I look forward to meeting some of you there.
 
