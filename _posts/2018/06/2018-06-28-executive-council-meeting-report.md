@@ -3,7 +3,7 @@ layout: page
 authors: ["Karen Cranston"]
 title: "Report from 2018 In-person Executive Council Meeting"
 teaser: "Executive Council met to discuss mission and vision of The Carpentries"
-date: 2018-06-26
+date: 2018-06-28
 time: "0:00:00"
 tags: ["Mission", "Vision", "Executive Council"]
 ---
