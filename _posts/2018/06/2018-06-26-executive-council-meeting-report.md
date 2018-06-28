@@ -5,14 +5,14 @@ title: "Report from 2018 In-person Executive Council Meeting"
 teaser: "Executive Council met to discuss mission and vision of The Carpentries"
 date: 2018-06-26
 time: "0:00:00"
-tags: ["Mission", "Vision","Executive Council"]
+tags: ["Mission", "Vision", "Executive Council"]
 ---
 
 The 2018 Executive Council met face-to-face for the first time last week (June 18-19) in Gainesville, Florida in the USA. So, this seems like a good time to give everyone a sense of what we discussed at the in-person meeting, and what is in store for the next several months.  
 
-# Why an 'Executive Council?'
+# Why an 'Executive Council'?
 
-First, I want to talk about the name "Executive Council (EC)". Why are we an EC, and not a 'Board of Directors'? In the US, a 'Board of Directors' has a specific meaning, and suggests financial and legal responsibility. Because we are not our own non-profit, but are fiscally-sponsored by Community Initiatives, we do not have our own Board of Directors (noting that CI, which _is_ a non-profit,  _does_ have a Board of Directors). We also felt that 'Executive Council' better captured the level of commitment and responsibility of the members than 'Steering Committee' (thinking about getting credit, often on academic CVs, for the work of the EC).
+First, I want to talk about the name 'Executive Council (EC)'. Why are we an EC, and not a 'Board of Directors'? In the US, a 'Board of Directors' has a specific meaning, and suggests financial and legal responsibility. Because we are not our own non-profit, but are fiscally-sponsored by Community Initiatives, we do not have our own Board of Directors (noting that CI, which _is_ a non-profit,  _does_ have a Board of Directors). We also felt that 'Executive Council' better captured the level of commitment and responsibility of the members than 'Steering Committee' (thinking about getting credit, often on academic CVs, for the work of the EC).
 
 # In-person meeting outcomes
 
