@@ -22,14 +22,14 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 10px;
+    line-height: 20px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #999;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
