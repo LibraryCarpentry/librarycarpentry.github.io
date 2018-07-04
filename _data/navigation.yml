@@ -61,7 +61,7 @@
   - title: "Our Staff"
     url: "/team/"
   - title: "Our Instructors"
-    url: "https://software-carpentry.org/team/"
+    url: "/instructors/"
   - title: "Our Maintainers"
     url: "/maintainers/"
   - title: "Our Trainers"

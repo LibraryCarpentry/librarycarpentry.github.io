@@ -1,0 +1,40 @@
+---
+layout: page
+permalink: /instructors/
+---
+<section id="team" class="bg-light-gray">
+<div class="container">
+
+
+<h1>Our Instructor Community</h1>
+
+
+{% for person in site.data.publish_instructors %}
+
+{% assign loopindex = forloop.index | modulo: 4 %}
+
+{% if loopindex == 1 %}
+<div class="row">
+{% endif %}
+
+
+<div class="medium-3 columns">
+<div class="team-member">
+  <img src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 class="img-responsive img-circle" alt="">
+  <h4>{{ person.person_name }}</h4>
+  <ul class="list-inline social-buttons">
+      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
+      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
+      {% if person.orcid %}<li> <a href="https://orcid.org/{{ person.orcid }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
+      {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
+  </ul>
+</div>
+</div>
+
+
+{% if loopindex == 0 %}
+</div>
+{% endif %}
+
+{% endfor %}
+</div>
