@@ -15,7 +15,3 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
-
-- name: "Status"
-- url: "https://status.carpentries.org/"
-- title: "Systems status"
