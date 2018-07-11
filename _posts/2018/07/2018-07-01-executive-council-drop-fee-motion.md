@@ -3,7 +3,7 @@ layout: page
 authors: ["Sue McClatchy", "Amy Hodge", "Maneesha Sane"]
 title: "No More Self-organized Workshop Fees"
 teaser: "Executive Council moves to eliminate self-organized workshop fees"
-date: 2018-07-01
+date: 2018-07-12
 time: "0:00:00"
 tags: ["Community", "Finances", "Executive Council"]
 ---
