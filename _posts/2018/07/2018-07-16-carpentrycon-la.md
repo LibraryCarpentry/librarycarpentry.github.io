@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Raniere Silva", "Paula Andrea", "Francisco Palm", "Gladys Nalvarte", "Nicolás Palopoli", "Renato Santos"]
+authors: ["Raniere Silva", "Paula Andrea", "Francisco Palm", "Gladys Nalvarte", "Nicolás Palopoli", "Renato Santos", "Ian Flores"]
 teaser: "That's one small step for The Carpentries, one giant leap for Latin America."
 title: "CarpentryCon Experienced by Latin American attendees"
 date: 2018-07-16
@@ -155,6 +155,33 @@ or encourage the organization of workshops in Brazil and South America,
 and with a lot of new good friends.
 As a PhD student in Bioinformatics,
 it was impressive to realize the great representativeness of people from my field in this community.
+
+## Ian Flores
+
+I am 19 years old from Puerto Rico so coming to CarpentryCon was, at least, intimidating.
+However, since the first moment,
+I felt more than welcome.
+And this is not to say a cliche.
+Since my first conversation,
+I got connected to other attendees who were working on translating the CarpentryCon lessons into Spanish
+(my main reason for coming to CarpentryCon).
+I got to learn not only about coding
+but also about how to work collaboratively in a safe environment
+for all kinds of people.
+I was surprised at how diverse the conference was.
+I got to learn so many wonderful people from the African Carpentry Task Force
+that got me inspired to work in the Caribbean
+to improve data literacy and access to open data.
+As a final note, coming from Puerto Rico,
+I had very high expectations from the food,
+and it didn't disappoint,
+the variety, the options for vegetarians and vegans,
+and its tastefulness were great.
+I am also grateful to all the wonderful people whom I met
+that helped me in some way or another,
+be it through a small conversation,
+life advice for a young scientist like myself,
+or through graduate school advice.
 
 ## Raniere Silva
 
