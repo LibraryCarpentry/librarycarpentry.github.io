@@ -16,10 +16,9 @@ manner in which the organization is structured and led by both community and sta
 We hope to reflect and honor both the cultures of Software Carpentry and Data Carpentry, as well as the larger, 
 more diverse community which continues to develop. 
 
-The Executive Council represents the community, so we are eager to solicit input from you about the direction we're 
-taking these important decisions. Watch next week for an announcement asking for your input on the proposed 
+The Executive Council represents the community, so we are eager to solicit input from you about the direction we're taking with these important decisions. Watch next week for an announcement asking for your input on the proposed 
 mission and vision, and another soon after on our proposed bylaws. These requests will take the form of 
-Requests for Comment ([RFCs](https://participedia.net/en/methods/notice-and-request-public-comment)), 
+Requests for Comment ([RFCs](https://participedia.net/en/methods/notice-and-request-public-comment), 
 also called Requests for Public Comment). RFCs are a tool used by organizations or governments to solicit 
 feedback on planned actions which may affect a broad community. 
 
