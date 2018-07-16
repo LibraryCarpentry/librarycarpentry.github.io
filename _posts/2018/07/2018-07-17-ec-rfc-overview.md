@@ -3,7 +3,7 @@ layout: page
 authors: ["Kate Hertweck"]
 teaser: "The Executive Council has been working on revising and solidifying the mission, vision, and bylaws for The Carpentries"
 title: "Mission, vision, and bylaws for The Carpentries"
-date: 2018-07-13
+date: 2018-07-17
 time: "09:00:00"
 tags: ["Executive Council", "The Carpentries"]
 comments: true
