@@ -89,7 +89,7 @@ The personality and the dynamics that I found in the Carpentry group is the clos
 in this group this dynamic is very well balanced so it makes this initiative sustainable.
 
 During my master and PhD time I was always afraid to go for the experimental part,
-there were too many risk and uncertainties so my decision was always for the numerical part (the safe side),
+there were too many risks and uncertainties so my decision was always for the numerical part (the safe side),
 after all I thought, the results depend just on me, on my own effort, on a good computer and finally on my own capacity.
 But when I faced real life challenges
 I learnt that experiments are the only way to prove our theories
