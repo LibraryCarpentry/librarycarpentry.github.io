@@ -1,9 +1,9 @@
 ---
 layout: page
 authors: ["Raniere Silva", "Paula Andrea Martinez", "Francisco Palm", "Gladys Nalvarte", "Nicolás Palopoli", "Renato Santos", "Ian Flores"]
-teaser: "That's one small step for The Carpentries, one giant leap for Latin America."
+teaser: "That's one small step for The Carpentries, one giant leap for Latin America"
 title: "CarpentryCon Experienced by Latin American attendees"
-date: 2018-07-16
+date: 2018-07-18
 time: "09:00:00"
 tags: [ "CarpentryCon"]
 ---
@@ -24,18 +24,18 @@ Yes, I was super eager to meet the online community in person.
 Interacting with people online
 and then to see familiar faces
 and add a hug to each of the greetings was very gratifying.
-I've been working with the carpentry community for three years and a bit more,
+I've been working with the Carpentry community for three years and a bit more,
 and since last year, having many online meetings, multiple email and issue threads.
 All of you were part of my days,
 also I've missed not seeing some of you.
-For me, It was a sharing kind of event, people are so passionate
+For me, it was a sharing kind of event, people are so passionate
 and interested in taking this forwards
 so it was always very nice to hear the stories behind what has been achieved.
 It also gladly surprised me to have heard so many "thank you" phrases flowing one way or the other.
 Thanks for every person who made the event possible
 and looking forward to keep on the train of the communities.
 A personal highlight,
-when I presented the work of The Carpentries in Latinamerica in a short talk,
+when I presented the work of The Carpentries in Latin America in a short talk,
 I felt the need to continue with this,
 because many people will benefit of this amazing community.
 
@@ -49,7 +49,7 @@ and to have the opportunity to share with so many people who love science
 and contribute significantly to it,
 not only from the point of view of science itself
 but also from the human point of view,
-participate in CarpentryCon was truly a dream come true.
+to participate in CarpentryCon was truly a dream come true.
 
 Due to Venezuela's economic difficulties,
 I had to make several requests that in other contexts would have seemed absurd
@@ -63,7 +63,7 @@ And every time I remember what I experienced,
 I feel like I'm learning new things.
 
 I was filled with many interesting ideas about how to strengthen communities from the inside out,
-how evolve scientific software development that addresses particular needs,
+how to evolve scientific software development that addresses particular needs,
 how to be a true community leader (thank you Greg),
 how to shape training content collaboratively,
 and much, much more.
@@ -71,31 +71,31 @@ Thank you very much.
 
 ## Gladys Nalvarte
 
-I am Mariana’s mother, Peruvian, mechanical engineer.
+I am Mariana's mother, Peruvian, mechanical engineer.
 I became a CFD specialist, in Brazil,
 after eleven fantastic years in the university then I decided to find my place in the industry.
 I used to work in a Norwegian company and it was great experience.
 When my time in the private industry ended,
-I went back to my origins, to the university.
-This time in Oslo and I found fantastic people there,
+I went back to my origins, to the university,
+this time in Oslo and I found fantastic people there,
 my good friends Ana Costa and Anne Fouilloux,
-them introduced me to The Carpentries.
+they introduced me to The Carpentries.
 
 I realized working in the private industry,
 that each group of people has its own personality, its own dynamics.
-It is an entity even if we don’t notice.
+It is an entity even if we don't notice.
 That is the same everywhere at home, in the university, in the industry.
 The personality and the dynamics that I found in the Carpentry group is the closest that I found to satisfy my need of sharing and receiving,
 in this group this dynamic is very well balanced so it makes this initiative sustainable.
 
-During my master and PhD time I was always afraid to go for the experimental part,
+During my master's and PhD time, I was always afraid to go for the experimental part,
 there were too many risks and uncertainties so my decision was always for the numerical part (the safe side),
-after all I thought, the results depend just on me, on my own effort, on a good computer and finally on my own capacity.
-But when I faced real life challenges
+after all I thought, the results depend just on me, on my own effort, on a good computer, and finally on my own capacity.
+But when I faced real life challenges,
 I learnt that experiments are the only way to prove our theories
 so to me The Carpentry is the best way to prove that it is easy to learn new skills,
-it is fun to do it together
-and that you don’t need to be a super specialist to help other people to solve their problems. 
+it is fun to do it together,
+and that you don't need to be a super specialist to help other people to solve their problems. 
 
 CarpentryCon 2018, to me, gave faces to this wonderful community.
 The dynamic of this community makes us feel closer and familiar.
@@ -114,8 +114,8 @@ I had only taken one Software Carpentry course many years ago,
 which left me with a great sense of accomplishment
 and high expectations for the initiative.
 Unfortunately, being based in South America,
-we are still far from the Carpentries.
-We hope CarpentryCon marked the occasion where this started to change.
+we are still far from The Carpentries.
+We hope CarpentryCon marked the occasion where this starts to change.
 
 As a local volunteer in Dublin,
 I was lucky to greet many people
@@ -123,7 +123,7 @@ and feel their excitement about this first global meeting.
 This was the only conference I've ever attended
 where people honestly cared about every other person,
 regardless of their role.
-There was a sense of equality among all participants that permeated every lecture, workshop and informal gathering.
+There was a sense of equality among all participants that permeated every lecture, workshop, and informal gathering.
 This was especially motivated by the openness of the many high-achieving
 and recognized members of the community who attended,
 who always behaved as real allies to the rest of us.
@@ -136,18 +136,18 @@ with lots of attention to small and big details alike.
 The program was intense but the atmosphere was relaxed;
 the website was informative and functional,
 the venue was comfortable and the food was exceptional;
-logistics were mostly solved in advanced (but properly improvised when needed).
+logistics were mostly solved in advance (but properly improvised when needed).
 CarpentryCon has left me with many new friends
 and a firm commitment to help.
 We have the necessity and capacity for putting the many useful resources of this community
 to good use in training our current
 and future researchers in Latin America.
-We'll work hard towards expanding the Carpentries across our region — I'm sure it won't be long till I'm a local CarpentryCon volunteer again!​
+We'll work hard towards expanding The Carpentries across our region — I'm sure it won't be long till I'm a local CarpentryCon volunteer again!
 
 ## Renato Santos
 
 CarpentryCon 2018 was the best conference I have ever attended — a mixture of brilliant
-and enthusiastic people that are not only interested in results, conclusions, and getting funding,
+and enthusiastic people who are not only interested in results, conclusions, and getting funding,
 but also on how people are learning, teaching, interacting with each other, and getting involved.
 A very inclusive environment that reflects how this amazing community acts worldwide!
 I came back to Brazil with new ideas on how to organize
@@ -163,7 +163,7 @@ However, since the first moment,
 I felt more than welcome.
 And this is not to say a cliche.
 Since my first conversation,
-I got connected to other attendees who were working on translating the CarpentryCon lessons into Spanish
+I got connected to other attendees who were working on translating the Software Carpentry lessons into Spanish
 (my main reason for coming to CarpentryCon).
 I got to learn not only about coding
 but also about how to work collaboratively in a safe environment
@@ -187,16 +187,16 @@ or through graduate school advice.
 
 For me,
 CarpentryCon was the best 5 years anniversary for contributing to a project that I could have,
-I have a life long debt with everyone that help this amazing event to happen
+I have a lifelong debt with everyone that helped this amazing event to happen
 because only another event organiser knows how much work is involved.
 Greg, in his keynote, mentioned his surprise to the first email that I've sent him,
-but he didn't mentioned the date; it was that around [middle June, 2013](https://blog.mozilla.org/blog/2013/06/14/5992/).
-The Carpentries has a important part of my life
+but he didn't mention the date; it was that around [middle June, 2013](https://blog.mozilla.org/blog/2013/06/14/5992/).
+The Carpentries has been an important part of my life
 and I can only remember happy moments
-like meet the first Steering Committee in JFK airport, New York, US
+like meeting the first Steering Committee in JFK airport, New York, US
 or teaching a workshop in Brazil during a big university union strike
 at the same time that Jonah Duckles was visiting Brazil.
-Was a enormous pleasure to meet you all in CarpentryCon
+It was a enormous pleasure to meet you all in CarpentryCon
 and I'm looking to co-write the next 5 years of The Carpentries history with you!
 
 ## Final words
