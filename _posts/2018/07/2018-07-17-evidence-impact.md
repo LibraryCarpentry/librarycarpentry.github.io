@@ -76,8 +76,8 @@ below provides a visual representation of their responses, comparing them before
 
 The comparison above is paired, meaning, we are comparing those who provided us with a unique identifier and who completed both the pre- and post-workshop survey. The data shows, for multiple factors, a full point increase in mean score. We are significantly impacting respondents’ confidence in their ability to work with programming software, to write programs to solve problems, and to overcome problems if they get stuck.
 
-We invite you to read the [report]() in its entirety, and download 
-the [data](https://github.com/carpentries/assessment/tree/master/learner-assessment/data) and [source code](https://github.com/carpentries/assessment/tree/master/learner-assessment/code) to run your own analysis. Share with us what’s striking about this data on [Twitter](https://twitter.com/thecarpentries) using the hashtag #carpentriesassessment.
+We invite you to read the [report](https://carpentries.github.io/assessment/learner-assessment/reports/2018-07-learners-pre-post-surveys.html) in its entirety, and download 
+the [data](https://github.com/carpentries/assessment/tree/master/learner-assessment/data) and [source code](https://github.com/carpentries/assessment/blob/master/learner-assessment/reports-src/2018-07-learners-pre-post-surveys.Rmd) to run your own analysis. Share with us what’s striking about this data on [Twitter](https://twitter.com/thecarpentries) using the hashtag #carpentriesassessment.
 
 ### Rationale for data collection
 
