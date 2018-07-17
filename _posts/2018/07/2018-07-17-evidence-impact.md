@@ -61,24 +61,18 @@ One compelling argument you can make when telling friends/colleagues about Carpe
 learners' skills and confidence. For example, in Data Carpentry's surveys,we ask respondents to rate their level of 
 agreement with the following statements related to Data Carpentry’s workshop goals and learning objectives. 
 
-*Write Program*: I can write a small program/script/macro to solve a problem in my own work.
-
-*Search Online*: I know how to search for answers to my technical questions online.
-
-*Raw Data*: Having access to the original, raw data is important to be able to repeat an analysis.
-
-*Programming Efficient*: Using a programming language (like R or Python) can make me more efficient at working with data.
-
-*Programming Confident*: I am confident in my ability to make use of programming software to work with data.
-
-*Overcome Problem*: While working on a programming project, if I get stuck, I can find ways of overcoming the problem.
-
-*Analyses Easier*: Using a programming language (like R or Python) can make my analyses easier to reproduce.
+- *Write Program*: I can write a small program/script/macro to solve a problem in my own work.
+- *Search Online*: I know how to search for answers to my technical questions online.
+- *Raw Data*: Having access to the original, raw data is important to be able to repeat an analysis.
+- *Programming Efficient*: Using a programming language (like R or Python) can make me more efficient at working with data.
+- *Programming Confident*: I am confident in my ability to make use of programming software to work with data.
+- *Overcome Problem*: While working on a programming project, if I get stuck, I can find ways of overcoming the problem.
+- *Analyses Easier*: Using a programming language (like R or Python) can make my analyses easier to reproduce.
 
 The scoring for the above factors ranges from _strongly disagree_ (1) to _strongly agree_ (5). The figure 
 below provides a visual representation of their responses, comparing them before the workshop and after the workshop.
 
-![]()
+![Pre- and Post Comparison](/images/kplot.jpg)
 
 The comparison above is paired, meaning, we are comparing those who provided us with a unique identifier and who completed both the pre- and post-workshop survey. The data shows, for multiple factors, a full point increase in mean score. We are significantly impacting respondents’ confidence in their ability to work with programming software, to write programs to solve problems, and to overcome problems if they get stuck.
 
