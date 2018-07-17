@@ -45,7 +45,7 @@ the [comprehensive report](https://carpentries.github.io/assessment/learner-asse
 and feel free to [contribute analysis](https://github.com/carpentries/assessment/blob/master/learner-assessment/README.md) 
 through an issue or pull request to add to and/or improve the code from this report.
 
-### Survey Analysis
+### Survey analysis
 
 In addition to the ASEE long-term impact paper and report, we recently published 
 an [Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys](). 
