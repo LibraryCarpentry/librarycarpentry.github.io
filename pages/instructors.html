@@ -2,6 +2,8 @@
 layout: page
 permalink: /instructors/
 ---
+{% include lazyload.html %}
+
 <section id="team" class="bg-light-gray">
 <div class="container">
 
@@ -20,7 +22,7 @@ permalink: /instructors/
 
 <div class="medium-3 columns">
 <div class="team-member">
-  <img src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 class="img-responsive img-circle" alt="Profile photo of {{person.person_name}}">
+  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
   <h3>{{ person.person_name }}</h3>
   <ul class="list-inline social-buttons">
       {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
