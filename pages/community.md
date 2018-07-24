@@ -78,7 +78,7 @@ The Trainer community is a group of experienced Instructors who inspire and prep
 * [Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
-* Apply to join - our next Trainer cohort will start training in northern hemisphere Autumn (Fall) 2018. Watch this space for more information.
+* [Apply to join](https://carpentries.org/blog/2018/07/apply-to-train/) - Our next Trainer cohort will start training in northern hemisphere Autumn (Fall) 2018.
 * [Upcoming meetings](http://pad.software-carpentry.org/trainers)
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/)
