@@ -27,7 +27,7 @@ author: weaverbel
 url: 'https://librarycarpentry.org'
 baseurl: ''
 filesurl: 'https://librarycarpentry.org/files'
-contact: "chris@carpentries.org"
+contact: 'chris@carpentries.org'
 
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
