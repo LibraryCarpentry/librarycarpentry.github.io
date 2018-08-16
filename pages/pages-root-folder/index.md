@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "What we do"
   url: 'https://librarycarpentry.org/about'
