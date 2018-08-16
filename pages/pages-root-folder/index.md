@@ -9,19 +9,19 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "What we do"
-  url: 'https://carpentries.org/about'
+  url: 'https://librarycarpentry.org/about'
   icon: "fas fa-laptop"
-  text: 'The Carpentries teach foundational coding, and data science skills to researchers worldwide. Software Carpentry and Data Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
+  text: 'Library Carpentry teaches software and data science skills to library professionals and to others in library-related roles. Our workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow The Carpentries' <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who we are"
-  url: 'https://carpentries.org/about'
+  url: 'https://librarycarpentry.org/about'
   icon: 'fas fa-users'
-  text: 'We are a diverse, global community of volunteer <a href="https://software-carpentry.org/team/">Instructors</a>, helpers, <a href="../trainers/">Trainers</a>, <a href="../maintainers/">Maintainers</a>, champions, <a href="../members/">member organisations</a>, supporters, and <a href="../team/">staff</a>. <a href="https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271">Join us</a> at <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a> in Dublin, our key community-building and networking event this year.'
+  text: 'We are a diverse, global community of volunteer <a href="https://carpentries.org/team/">Instructors</a>, helpers, and Maintainers. '
 widget3:
   title: "Get involved"
-  url: 'https://carpentries.org/join'
+  url: 'https://librarycarpentry.org/contact'
   icon: 'fas fa-comment-dots'
-  text: 'See all the <a href="../community/">ways you can engage</a> with the Carpentries. Get information about upcoming events such as workshops, meetups, and discussions from our <a href="../community/#community-events">community calendar</a>, or from our twice-monthly <a href="../newsletter">newsletter</a>, <em>Carpentry Clippings</em>. Follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, and <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
+  text: 'See all the <a href="../contact/">ways you can engage</a> with Library Carpentry. Follow us on <a href="https://twitter.com/libcarpentry/">Twitter</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
