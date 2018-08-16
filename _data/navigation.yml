@@ -23,8 +23,8 @@
   dropdown:
   - title: "Lessons"
     url: "/lessons/"
-  - title: "Become an Instructor"
-    url: "/become-instructor/"
+  - title: "Lesson statuses"
+    url: "/lesson-status/"
 
 - title: Learn
   url: "/learn/"
