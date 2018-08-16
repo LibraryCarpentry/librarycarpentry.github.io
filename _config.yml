@@ -24,9 +24,9 @@ author: weaverbel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://librarycarpentry.org'
+url: 'https://librarycarpentry.github.io/test'
 baseurl: ''
-filesurl: 'https://librarycarpentry.org/files'
+filesurl: 'https://librarycarpentry.github.io/test/files'
 contact: 'chris@carpentries.org'
 
 # Website configuration links
@@ -43,7 +43,7 @@ mailing_lists   : "http://carpentries.topicbox.com/groups"
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://librarycarpentry.org/images/'
+urlimg: 'https://librarycarpentry.github.io/test/images/'
 
 
 # Logo size is 600x80 pixels
@@ -204,7 +204,7 @@ og_url:                           "https://thecarpentries.org"
 #
 # used in _includes/comments
 
-disqus_shortname: carpentries
+disqus_shortname: librarycarpentry
 
 
 #      _____
