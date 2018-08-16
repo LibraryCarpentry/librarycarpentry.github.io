@@ -8,15 +8,15 @@
 #                                                 /____/
 #
 # Title of your website
-title: "The Carpentries"
+title: "Library Carpentry"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "We teach foundational coding and data science skills to researchers worldwide."
+slogan: "Software and data skills for library professionals"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The Carpentries is a fiscally sponsored project of <a href='http://communityin.org/'>Community Initiatives</a>, a registered 501(c)3 non-profit organisation based in California, USA. We are a global community teaching foundational computational and data science skills to researchers in academia, industry and government."
+description: "Library Carpentry is a global community teaching software and data skills to library professionals."
 
 # Main author of the website
 # See > authors.yml
@@ -24,10 +24,10 @@ author: weaverbel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://carpentries.org'
+url: 'https://librarycarpentry.org'
 baseurl: ''
-filesurl: 'https://carpentries.org/files'
-contact: "team@carpentries.org"
+filesurl: 'https://librarycarpentry.org/files'
+contact: "chris@carpentries.org"
 
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
@@ -43,11 +43,11 @@ mailing_lists   : "http://carpentries.topicbox.com/groups"
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://carpentries.org/images/'
+urlimg: 'https://librarycarpentry.org/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "TheCarpentries.svg"
+logo: "lc_logo_1.png"
 
 
 # Paginates all X entries
