@@ -21,7 +21,7 @@
   url: "/teach/"
   side: left
   dropdown:
-  - title: "Lessons"
+  - title: "Our Lessons"
     url: "/lessons/"
   - title: "Lesson statuses"
     url: "/lesson-status/"
@@ -42,12 +42,12 @@
   - title: "Get Involved"
     url: "/contact/"
 
-- title: Our Team
+- title: People
   url: "/team/"
   side: left
   dropdown:
-  - title: "Staff"
-    url: "/contact/"
+  - title: "Governance Group"
+    url: "/team/"
 
 
 - title: Connect
