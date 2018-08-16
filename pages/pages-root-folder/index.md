@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-bg.jpg
+  image_fullwidth: minibook.jpg
 widget1:
   title: "What we do"
   url: 'https://librarycarpentry.org/about'
