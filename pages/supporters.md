@@ -4,7 +4,7 @@ title: "Our Sponsors and Supporters"
 permalink: "/supporters/"
 ---
 
-Although Library Carpentry is not tied to any institution or person, it is associated with, and organisationally supported by, <a href="https://carpentries.org/">The Carpentries</a>, a merger of Software Carpentry and Data Carpentry, non-profit volunteer projects and individual lesson organisations whose members teach foundational coding and data science skills to researchers.
+Although Library Carpentry is not tied to any one institution or person, it is associated with, and organisationally supported by, <a href="https://carpentries.org/">The Carpentries</a>, a merger of Software Carpentry and Data Carpentry, non-profit volunteer projects and individual lesson organisations whose members teach foundational coding and data science skills to researchers.
 
 
 Library Carpentry has received funding from the <a href="http://software.ac.uk/">Software Sustainability Institute</a>. The Software Sustainability Institute cultivates world-class research with software. The Institute is based at the universities of Edinburgh, Manchester, Southampton, and Oxford.
