@@ -13,19 +13,68 @@ people:
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - icon: fa fa-envelope
       url: mailto:chris@carpentries.org
-      
-- name: Belinda Weaver
-  pic: belindaweaver
-  position: Member of Governance Group
+
+- name: John Chodacki (USA)
+  pic: chodacki
   social:
-    - icon: fab fa-twitter
+    - title: fab fa-twitter
+      url: https://twitter.com/chodacki
+    - title: fa fa-github
+      url: https://github.com/chodacki
+      
+- name: Jez Cope (UK)
+  pic: jezcope
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/jezcope
+    - title: fa fa-github
+      url: https://github.com/jezcope
+
+- name: Tim Dennis (USA)
+  pic: timdennis
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/jt14den
+    - title: fab fa-github
+      url: https://github.com/jt14den  
+
+- name: Chris Erdmann (Coordinator, USA)
+  pic: chriserdmann
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/libcce
+    - title: fab fa-github
+      url: https://github.com/libcce
+      
+- name: Kayleigh Lino (South Africa)
+  pic: kayleighlino
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/CuratorKay
+      
+- name: Cam Macdonell (Canada)
+  pic: cammacdonell
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/cjmacdonell
+    - title: fab fa-github 
+      url: https://github.com/cmacdonell
+  
+- name: Juliane Schneider (USA)
+  pic: julianeschneider
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/JulianeS
+    - title: fab fa-github
+      url: https://github.com/pitviper6
+ 
+- name: Belinda Weaver (Australia)
+  pic: belindaweaver
+  social:
+    - title: fab fa-twitter
       url: https://twitter.com/cloudaus
-    - icon: fab fa-github
+    - title: fab fa-github
       url: https://github.com/weaverbel
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/belinda-weaver-8525526/
-    - icon: fa fa-envelope
-      url: mailto:bweaver@carpentries.org
 
       
 
