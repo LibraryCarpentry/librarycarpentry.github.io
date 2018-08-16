@@ -11,7 +11,7 @@ widget1:
   title: "What we do"
   url: 'https://librarycarpentry.org/about'
   icon: "fas fa-laptop"
-  text: 'Library Carpentry teaches software and data science skills to library professionals and to others in library-related roles. Our workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow The Carpentries' <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
+  text: 'Library Carpentry teaches software and data science skills to library professionals and others in library-related roles. Our workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow The Carpentries <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who we are"
   url: 'https://librarycarpentry.org/about'
