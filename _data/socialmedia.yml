@@ -1,21 +1,16 @@
 - name: GitHub
-  url: https://github.com/carpentries
+  url: https://github.com/librarycarpentry
   class: fa-github
   title: ""
 
 - name: Twitter
-  url: https://twitter.com/thecarpentries
+  url: https://twitter.com/libcarpentry
   class: fa-twitter
   title: ""
-  
-- name: Facebook
-  url: http://www.facebook.com/carpentries
-  class: fa-facebook
-  title: ""
 
-- name: Slack
-  url: https://swc-slack-invite.herokuapp.com/
-  class: fa-slack 
+- name: Gitter
+  url: https://gitter.im/LibraryCarpentry/Lobby
+  class: fa-gitter
   title: ""
 
 
