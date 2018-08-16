@@ -40,18 +40,15 @@
   side: left
   dropdown:
   - title: "Get Involved"
-    url: "/community/"
+    url: "/contact/"
 
 - title: Our Team
   url: "/team/"
   side: left
   dropdown:
   - title: "Staff"
-    url: "/../
-  - title: "Our Governance Group"
-    url: "/../"
-  - title: "Our Curriculum Advisory Committee"
-    url: "/../"
+    url: "/contact/"
+
 
 - title: Connect
   url: "/connect/"
