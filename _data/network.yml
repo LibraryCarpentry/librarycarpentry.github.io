@@ -7,15 +7,4 @@
 - name: "Our Privacy Policy"
   url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   title: "Privacy Policy"
-  
-- name: "Software Carpentry website"
-  url: "https://software-carpentry.org/"
-  title: "Software Carpentry"
-  
-- name: "Data Carpentry website"
-  url: "http://www.datacarpentry.org/"
-  title: "Data Carpentry"
-  
-- name: "Frequently Asked Questions"
-  url: "https://info.carpentries.org/"
-  title: "FAQs"
+
