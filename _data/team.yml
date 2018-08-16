@@ -1,122 +1,6 @@
 # Social icon names are the fully qualified
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
-- name: Tracy K. Teal, PhD
-  pic: tracyteal
-  position: Executive Director
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/tracykteal
-    - icon: fab fa-github
-      url: https://github.com/tracykteal
-    - icon: fa fa-envelope
-      url: mailto:tkteal@carpentries.org
-
-- name: Erin Becker, PhD
-  pic: erinbecker
-  position: Associate Director
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/ErinSBecker
-    - icon: fab fa-github
-      url: https://github.com/erinbecker
-    - icon: fa fa-envelope
-      url: mailto:ebecker@carpentries.org
-
-- name: Jonah Duckles
-  pic: jonahduckles
-  position: Director of Membership and Technology
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/jduckles
-    - icon: fab fa-github
-      url: https://github.com/jduckles
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/jduck
-    - icon: fa fa-envelope
-      url: mailto:jduckles@carpentries.org
-
-- name: Kari L. Jordan, PhD
-  pic: karijordan
-  position: Director of Assessment and Community Equity
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/drkariljordan
-    - icon: fab fa-github
-      url: https://github.com/kariljordan
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/kariljordan/
-    - icon: fa fa-envelope
-      url: mailto:kariljordan@carpentries.org
-
-- name: Belinda Weaver
-  pic: belindaweaver
-  position: Community and Communications Lead
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/cloudaus
-    - icon: fab fa-github
-      url: https://github.com/weaverbel
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/belinda-weaver-8525526/
-    - icon: fa fa-envelope
-      url: mailto:bweaver@carpentries.org
-
-- name: François Michonneau, PhD
-  pic: francoismichonneau
-  position: Curriculum Development Lead
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/fmic_
-    - icon: fab fa-github
-      url: https://github.com/fmichonneau
-    - icon: fa fa-envelope
-      url: mailto:francois@carpentries.org
-
-- name: Maneesha Sane
-  pic: maneeshasane
-  position: Program Manager
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/maneeshasane
-    - icon: fab fa-github
-      url: https://github.com/maneesha
-    - icon: fa fa-envelope
-      url: mailto:maneesha@carpentries.org
-
-- name: Elizabeth Williams
-  pic: elizabethwilliams
-  position: Business Administrator
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/ecwilliams8
-    - icon: fab fa-github
-      url: https://github.com/elizabethwilliams8
-    - icon: fa fa-envelope
-      url: mailto:ewilliams@carpentries.org
-
-- name: SherAaron Hurt
-  pic: sheraaronhurt
-  position: Workshop Administrator
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/SherAaronHurt
-    - icon: fab fa-github
-      url: https://github.com/sheraaron
-    - icon: fa fa-envelope
-      url: mailto:sheraaron@carpentries.org
-
-- name: Karen Word, PhD
-  pic: karenword
-  position: Deputy Director of Instructor Training (affiliate staff member)
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/karen_word
-    - icon: fab fa-github
-      url: https://github.com/karenword
-    - icon: fa fa-envelope
-      url: mailto:krword@carpentries.org
-      
 - name: Chris Erdmann
   pic: chriserdmann
   position: Library Carpentry Community and Development Director
@@ -129,3 +13,19 @@ people:
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - icon: fa fa-envelope
       url: mailto:chris@carpentries.org
+      
+- name: Belinda Weaver
+  pic: belindaweaver
+  position: Member of Governance Group
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/cloudaus
+    - icon: fab fa-github
+      url: https://github.com/weaverbel
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/belinda-weaver-8525526/
+    - icon: fa fa-envelope
+      url: mailto:bweaver@carpentries.org
+
+      
+
