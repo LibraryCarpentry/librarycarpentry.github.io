@@ -1,10 +1,9 @@
 ---
-layout: blog-post
-authors: [“Joshua Dull”, “Thea Atwood”, “Andrew Creamer”, “Julie Goldman”, “Kristin Lee”, “Lora Leligdon”, “Sara Oelker”, “Chris Erdmann”]
+layout: page
+authors: ["Joshua Dull","“Thea Atwood", "Andrew Creamer", "Julie Goldman", "Kristin Lee", "Lora Leligdon", "Sara Oelker", "Chris Erdmann"]
 title: "New England Libraries Team Up to Become Carpentries Members"
 teaser: "Developing the New England Software Carpentry Library Consortium and a Community of Practice"
 tags: ["Carpentries", "Library Carpentry", "Workshops", "Member Organization", "Consortium", "New England"]
-category: ["blog"]
 ---
 
 By [Joshua Dull](https://github.com/JoshuaDull), [Thea Atwood](https://twitter.com/librarianthea), [Andrew Creamer](https://twitter.com/andydrewcreamer), [Julie Goldman](https://twitter.com/jgolds2), [Kristin Lee](https://twitter.com/kristydawnl), [Lora Leligdon](https://github.com/leligdon), [Sara Oelker](https://twitter.com/sarahoelker), [Chris Erdmann](https://twitter.com/libcce)
