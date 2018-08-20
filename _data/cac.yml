@@ -1,0 +1,45 @@
+# Social icon names are the fully qualified
+#   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
+people:
+
+- name: Tim Dennis (USA)
+  pic: timdennis
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/jt14den
+    - icon: fab fa-github
+      url: https://github.com/jt14den  
+
+- name: Chris Erdmann (Coordinator, USA)
+  pic: chriserdmann
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/libcce
+    - icon: fab fa-github
+      url: https://github.com/libcce
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - icon: fa fa-envelope
+      url: mailto:chris@carpentries.org
+      
+- name: Carmi Cronje (Australia)
+  pic: kayleighlino
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/CuratorKay
+      
+- name: Mark Laufersweiler (USA)
+  pic: cammacdonell
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/cjmacdonell
+    - icon: fab fa-github 
+      url: https://github.com/cmacdonell
+  
+- name: Erika Mias (South Africa)
+  pic: julianeschneider
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/JulianeS
+    - icon: fab fa-github
+      url: https://github.com/pitviper6
