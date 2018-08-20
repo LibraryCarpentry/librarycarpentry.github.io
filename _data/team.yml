@@ -1,18 +1,6 @@
 # Social icon names are the fully qualified
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
-- name: Chris Erdmann
-  pic: chriserdmann
-  position: Library Carpentry Community and Development Director
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/libcce
-    - icon: fab fa-github
-      url: https://github.com/libcce
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
-    - icon: fa fa-envelope
-      url: mailto:chris@carpentries.org
 
 - name: John Chodacki (USA)
   pic: chodacki
@@ -45,6 +33,10 @@ people:
       url: https://twitter.com/libcce
     - icon: fab fa-github
       url: https://github.com/libcce
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - icon: fa fa-envelope
+      url: mailto:chris@carpentries.org
       
 - name: Kayleigh Lino (South Africa)
   pic: kayleighlino
