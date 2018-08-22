@@ -21,25 +21,35 @@ people:
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - icon: fa fa-envelope
       url: mailto:chris@carpentries.org
-      
+
 - name: Carmi Cronje (Australia)
-  pic: kayleighlino
+  pic: carmicronje
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/CuratorKay
+      url: https://twitter.com/machinical
+    - icon: fab fa-github 
+      url: https://github.com/ccronje      
       
 - name: Mark Laufersweiler (USA)
-  pic: cammacdonell
+  pic: marklaufersweiler
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/cjmacdonell
+      url: https://twitter.com/laufers
     - icon: fab fa-github 
-      url: https://github.com/cmacdonell
+      url: https://github.com/laufers
   
 - name: Erika Mias (South Africa)
-  pic: julianeschneider
+  pic: erikamias
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/JulianeS
+      url: https://twitter.com/erikamias
     - icon: fab fa-github
-      url: https://github.com/pitviper6
+      url: https://github.com/erikamias
+      
+- name: Katrin Leinweber (Germany)
+  pic: katrinleinweber
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/gittaca
+    - icon: fab fa-github
+      url: https://github.com/katrinleinweber
