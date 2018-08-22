@@ -50,7 +50,8 @@
   dropdown:
   - title: "Governance Group"
     url: "/team/"
-
+  - title: "Curriculum Advisory Committee"
+    url: "/cac/"
 
 - title: Connect
   url: "/connect/"
