@@ -18,4 +18,4 @@ Thanks go to the <a href="https://www.nsla.org.au/">National and State Libraries
 
 Thanks also go to <a href="https://www.universitiesnz.ac.nz/">Universities New Zealand</a> for funding a 2018 Library Carpentry roadshow for academic libraries in New Zealand.
 
-<img src="../images/city-logo-1894.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/universities-logo.svg" class="img-responsive img-centered" width="200" alt=""><img src="../images/unzlogo.jpg" class="img-responsive img-centered" width="200" alt=""><img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt="">
+<img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/city-logo-1894.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/universities-logo.svg" class="img-responsive img-centered" width="200" alt=""><img src="../images/unzlogo.jpg" class="img-responsive img-centered" width="200" alt="">
