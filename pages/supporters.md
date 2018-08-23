@@ -6,6 +6,44 @@ permalink: "/supporters/"
 
 Although Library Carpentry is not tied to any one institution or person, it is associated with, and organisationally supported by, <a href="https://carpentries.org/">The Carpentries</a>, a merger of Software Carpentry and Data Carpentry, non-profit volunteer projects and individual lesson organisations whose members teach foundational coding and data science skills to researchers.
 
+<table border="0" cellpadding="5">
+  <tr>
+    <td>
+    <a href="https://carpentries.org/">
+    <img src="../images/TheCarpentries.png" class="img-responsive img-centered" width="200" alt="">
+    </a>
+    </td>
+    <td>
+    <a href="http://software.ac.uk/">
+    <img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" width="200" alt="">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="http://software.ac.uk/">
+    <img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" width="200" alt="">
+    </a>
+    </td>
+    <td>
+    <a href="https://www.imls.gov/">
+    <img src="../images/imls.jpg" class="img-responsive img-centered" width="200" alt="">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://www.nsla.org.au/">
+    <img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt="">
+    </a>
+    </td>
+    <td>
+    <a href="https://www.universitiesnz.ac.nz/">
+    <img src="../images/universities-logo.svg" class="img-responsive img-centered" width="200" alt="">
+    </a>
+    </td>
+  </tr>
+</table>
 
 Library Carpentry has received funding from the <a href="http://software.ac.uk/">Software Sustainability Institute</a>. The Software Sustainability Institute cultivates world-class research with software. The Institute is based at the universities of Edinburgh, Manchester, Southampton, and Oxford.
 
@@ -17,20 +55,4 @@ Thanks go to the <a href="https://www.nsla.org.au/">National and State Libraries
 
 Thanks also go to <a href="https://www.universitiesnz.ac.nz/">Universities New Zealand</a> for funding a 2018 Library Carpentry roadshow for academic libraries in New Zealand.
 
-<a href="https://carpentries.org/">
-                        <img src="../images/TheCarpentries.png" class="img-responsive img-centered" alt="">
-                    </a>
                 
-<a href="http://software.ac.uk/">
-                        <img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" alt="">
-                    </a>
-
-<a href="https://www.imls.gov/">
-                        <img src="../images/imls.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-<a href="https://www.nsla.org.au/">
-                        <img src="../images/nsla.png" class="img-responsive img-centered" alt="">
-                    </a>
-<a href="https://www.universitiesnz.ac.nz/">
-                        <img src="../images/universities-logo.svg" class="img-responsive img-centered" alt="">
-                    </a>
