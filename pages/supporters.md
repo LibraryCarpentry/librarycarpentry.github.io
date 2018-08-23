@@ -16,6 +16,25 @@ Thanks go to the <a href="https://www.nsla.org.au/">National and State Libraries
 
 Thanks also go to <a href="https://www.universitiesnz.ac.nz/">Universities New Zealand</a> for funding a 2018 Library Carpentry roadshow for academic libraries in New Zealand.
 
+
+<div class="medium-4 columns>
+  <div>
+    <a href="https://carpentries.org/">
+    <img src="../images/TheCarpentries.png" class="img-responsive img-centered" width="200" alt="">
+    </a>
+  </div>
+  <div>
+    <a href="http://software.ac.uk/">
+    <img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" width="200" alt="">
+    </a>                                                                                          
+  </div>
+  <div>
+    <a href="http://software.ac.uk/">
+    <img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" width="200" alt="">
+    </a>                                                                                                   
+  </div>
+</div>
+
 <table border="0" cellpadding="5" bgcolor="#ffffff">
   <tr>
     <td>
