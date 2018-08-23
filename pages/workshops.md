@@ -5,9 +5,7 @@ permalink: /workshops/
 ---
 
 Library Carpentry develops and teaches interactive, hands-on
-workshops for learning core software and data skills of relevance to those in library roles. [Data 
-Carpentry workshops](http://www.datacarpentry.org/workshops/) are domain-specific, and focus on teaching skills
-for working with data effectively and reproducibly. Our workshops are domain agnostic though datasets used will be familiar to library staff. 
+workshops for learning core software and data skills of relevance to those in library roles. Our workshops are domain-agnostic though datasets used will be familiar to library staff. 
 
 Library Carpentry workshops are in-person events and are 
 taught by volunteer Instructors. Our Instructors are [trained in pedagogy](http://carpentries.github.io/instructor-training/) with
