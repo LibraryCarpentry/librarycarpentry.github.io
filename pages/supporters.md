@@ -6,7 +6,7 @@ permalink: "/supporters/"
 
 Although Library Carpentry is not tied to any one institution or person, it is associated with, and organisationally supported by, <a href="https://carpentries.org/">The Carpentries</a>, a merger of Software Carpentry and Data Carpentry, non-profit volunteer projects and individual lesson organisations whose members teach foundational coding and data science skills to researchers.
 
-<img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/TheCarpentries.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/imls.jpg" class="img-responsive img-centered" width="200" alt=""><img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/universities-logo.svg" class="img-responsive img-centered" width="200" alt="">
+<img src="../images/SSILogo4Citations-small.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/TheCarpentries.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/imls.jpg" class="img-responsive img-centered" width="200" alt=""><img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt="">
 
 Library Carpentry has received funding from the <a href="http://software.ac.uk/">Software Sustainability Institute</a>. The Software Sustainability Institute cultivates world-class research with software. The Institute is based at the universities of Edinburgh, Manchester, Southampton, and Oxford.
 
@@ -18,5 +18,5 @@ Thanks go to the <a href="https://www.nsla.org.au/">National and State Libraries
 
 Thanks also go to <a href="https://www.universitiesnz.ac.nz/">Universities New Zealand</a> for funding a 2018 Library Carpentry roadshow for academic libraries in New Zealand.
 
-<img src="../images/city-logo-1894.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/png unzlogo.jpg" class="img-responsive img-centered" width="200" alt=""><img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/universities-logo.svg" class="img-responsive img-centered" width="200" alt="">
+<img src="../images/city-logo-1894.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/unzlogo.jpg" class="img-responsive img-centered" width="200" alt=""><img src="../images/nsla.png" class="img-responsive img-centered" width="200" alt=""><img src="../images/universities-logo.svg" class="img-responsive img-centered" width="200" alt="">
 
