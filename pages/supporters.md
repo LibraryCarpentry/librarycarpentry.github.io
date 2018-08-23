@@ -132,7 +132,7 @@ Thanks also go to <a href="https://www.universitiesnz.ac.nz/">Universities New Z
   </div>
 </div>
 
-<table border="0" cellpadding="5" bgcolor="#ffffff">
+<table border="0" cellpadding="5" bgcolor="#ffffff" clss="">
   <tr>
     <td>
     <a href="https://carpentries.org/">
