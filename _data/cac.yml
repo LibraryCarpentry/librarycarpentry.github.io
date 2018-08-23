@@ -3,7 +3,7 @@
 people:
 
 - name: Tim Dennis (USA)
-  pic: timdennis
+  pic: timdennis.jpg
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/jt14den
@@ -11,7 +11,7 @@ people:
       url: https://github.com/jt14den  
 
 - name: Chris Erdmann (Coordinator, USA)
-  pic: chriserdmann
+  pic: chriserdmann.jpg
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/libcce
@@ -23,7 +23,7 @@ people:
       url: mailto:chris@carpentries.org
 
 - name: Carmi Cronje (Australia)
-  pic: carmicronje
+  pic: carmicronje.jpeg
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/machinical
@@ -31,7 +31,7 @@ people:
       url: https://github.com/ccronje      
       
 - name: Mark Laufersweiler (USA)
-  pic: marklaufersweiler
+  pic: marklaufersweiler.jpg
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/laufers
@@ -39,7 +39,7 @@ people:
       url: https://github.com/laufers
   
 - name: Erika Mias (South Africa)
-  pic: erikamias
+  pic: erikamias.jpeg
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/erikamias
@@ -47,7 +47,7 @@ people:
       url: https://github.com/erikamias
       
 - name: Katrin Leinweber (Germany)
-  pic: katrinleinweber
+  pic: katrinleinweber.jpeg
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/gittaca
