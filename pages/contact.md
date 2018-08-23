@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Contact Us"
-permalink: /contact
+permalink: /contact/
 ---
 
 There are several ways to get in touch. 
