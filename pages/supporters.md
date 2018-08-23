@@ -18,19 +18,19 @@ Thanks go to the <a href="https://www.nsla.org.au/">National and State Libraries
 Thanks also go to <a href="https://www.universitiesnz.ac.nz/">Universities New Zealand</a> for funding a 2018 Library Carpentry roadshow for academic libraries in New Zealand.
 
 <a href="https://carpentries.org/">
-                        <img src="img/logos/TheCarpentries.png" class="img-responsive img-centered" alt="">
+                        <img src="../images/logos/TheCarpentries.png" class="img-responsive img-centered" alt="">
                     </a>
                 
 <a href="http://software.ac.uk/">
-                        <img src="img/logos/SSILogo4Citations-small.png" class="img-responsive img-centered" alt="">
+                        <img src="../images/logos/SSILogo4Citations-small.png" class="img-responsive img-centered" alt="">
                     </a>
 
 <a href="https://www.imls.gov/">
-                        <img src="img/logos/imls.jpg" class="img-responsive img-centered" alt="">
+                        <img src="../images/logos/imls.jpg" class="img-responsive img-centered" alt="">
                     </a>
 <a href="https://www.nsla.org.au/">
-                        <img src="img/logos/nsla.png" class="img-responsive img-centered" alt="">
+                        <img src="../images/logos/nsla.png" class="img-responsive img-centered" alt="">
                     </a>
 <a href="https://www.universitiesnz.ac.nz/">
-                        <img src="img/logos/universities-logo.svg" class="img-responsive img-centered" alt="">
+                        <img src="../images/logos/universities-logo.svg" class="img-responsive img-centered" alt="">
                     </a>
