@@ -7,9 +7,7 @@ permalink: /workshops/
 Library Carpentry develops and teaches interactive, hands-on
 workshops for learning core software and data skills of relevance to those in library roles. Our workshops are domain-agnostic though datasets used will be familiar to library staff. 
 
-Library Carpentry workshops are in-person events and are 
-taught by volunteer Instructors. Our Instructors are [trained in pedagogy](http://carpentries.github.io/instructor-training/) with
-a focus on creating a motivating and engaging learning environment. 
+Library Carpentry workshops are in-person events and are taught by at least one volunteer certified Instructor. Our Instructors are [trained in pedagogy](http://carpentries.github.io/instructor-training/) with a focus on creating a motivating and engaging learning environment. 
 
 Our lesson materials are collaboratively developed by our volunteer community. All of our lessons are open source, and are hosted on 
 <a href="https://github.com/librarycarpentry">GitHub</a>. 
