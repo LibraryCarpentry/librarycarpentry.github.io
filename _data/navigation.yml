@@ -10,7 +10,7 @@
     url: "/about/"
   - title: "Our Audience"
     url: "/audience/"  
-  - title: "Carpentries Code of Conduct"
+  - title: "Code of Conduct"
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Governance"
     url: "/governance"
