@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Background"
-permalink: /about/
+title: "Timeline"
+permalink: /timeline/
 ---
 
 ### 2013 
