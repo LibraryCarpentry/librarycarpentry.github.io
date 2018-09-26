@@ -7,6 +7,7 @@ excerpt: Stories from individuals and instutions
 
 ### Institutions  
   
+  
 **University of Oregon Libraries and Oregon State University Libraries Team Up to Teach First Library Carpentry Workshop in Oregon**  
 _On March 16 and March 23, the University of Oregon Libraries and Oregon State University Libraries teamed up to teach the first Library Carpentry workshops in the state of Oregon, which were open to all Orbis Cascade Alliance members._  
 [Read More](https://librarycarpentry.org/blog/2018/08/20/oregon-libraries-report/)
@@ -32,6 +33,7 @@ _Recently, I was lucky to participate in an innovative workshop held at Technisc
 
 ### Individuals  
   
+  
 **Library Carpentry** by Anton Angelo  
 _I had no idea why I was being encouraged to get into librarianship. I was an IT guy working at the University of Otago in Dunedin, with a 10 years of IT training experience, a bit of systems administrations and programming, and facing redundancy. I had been working in the library as the local IT support, and the managers there were all suggesting I should become a librarian. I had all the usual preconceptions of libraries as outdated book museums, but I was (reasonably gently) set right. Libraries are the access point for vast digital collections, with complex and nuanced systems based on all sorts of technologies._  
 [Read More](http://www.anton.angelo.nz/2018/09/17/library-carpentry/)
@@ -45,9 +47,9 @@ _What does Carpentries involvement bring to your life? In the first of what we h
 ---------------------------------------
 
 **Helping the Helper - practical advice for Library Carpentry Helpers** by Claire Wallnutt  
-_A couple of months ago my line manager asked if I would be interested in helping out at an upcoming workshop our Library was helping to deliver. The workshop was entitled Library Carpentry._
+_A couple of months ago my line manager asked if I would be interested in helping out at an upcoming workshop our Library was helping to deliver. The workshop was entitled Library Carpentry._  
 [Read More](https://librarycarpentry.org/blog/2017/08/04/helping-the-helper/)
   
 ---------------------------------------
 
-_Have a story of your own you'd like to share? For indiviuals, [let us know](https://goo.gl/forms/n2jQOlKKVK01y7V92). For institutions, [submit your story](https://goo.gl/forms/xXDUwhq0rPY0jC5r2)._
+_Have a story of your own you'd like to share? For indiviuals, [let us know](https://goo.gl/forms/n2jQOlKKVK01y7V92). For institutions, [submit your story](https://goo.gl/forms/xXDUwhq0rPY0jC5r2)._  
