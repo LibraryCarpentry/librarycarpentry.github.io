@@ -22,13 +22,8 @@
     url: "/our-stories/"
     
 - title: "Our Lessons"
-  url: "/teach/"
+  url: "/lessons/"
   side: left
-  dropdown:
-  - title: "Our Lessons"
-    url: "/lessons/"
-  - title: "Lesson statuses"
-    url: "/lesson-status/"
 
 - title: Our Workshops
   url: "/workshops/"
@@ -51,6 +46,8 @@
   url: "/contact/"
   side: left
   dropdown:
+  - title: "Contact"
+    url: "/contact/"
   - title: "Blog"
     url: "/blog/"
   - title: "Our Events"
@@ -66,8 +63,4 @@
   
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
