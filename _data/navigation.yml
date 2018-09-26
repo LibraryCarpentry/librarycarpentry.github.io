@@ -28,6 +28,11 @@
 - title: Our Workshops
   url: "/workshops/"
   side: left
+  dropdown:
+  - title: "Upcoming Workshops"
+    url: "https://carpentries.org/"
+  - title: "Inspired Workshops"
+    url: ""
 
 - title: Get Involved
   url: "/join/"
