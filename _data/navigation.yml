@@ -53,7 +53,7 @@
   dropdown:
   - title: "Blog"
     url: "/blog/"
-  - title: "Events"
+  - title: "Our Events"
     url: "/events/"
   - title: "Chatroom"
     url: "https://gitter.im/LibraryCarpentry/Lobby"
