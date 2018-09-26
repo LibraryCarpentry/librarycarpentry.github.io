@@ -8,10 +8,12 @@ There are several ways to get in touch.
 
 * Our main communication channel is our [Library Carpentry Topicbox Group](https://carpentries.topicbox.com/groups/discuss-library-carpentry). Sign up to stay in touch via email.
 
-* You can also chat to others in our [Gitter chatroom](https://gitter.im/LibraryCarpentry/Lobby). Join us there with your GitHub username or Twitter handle to join in the conversation.
+* You can also chat with community members in our [Gitter chatroom](https://gitter.im/LibraryCarpentry/Lobby). Join with your GitHub username or Twitter handle.
 
-* If you are new to the community, please fill out our [engagement form](https://docs.google.com/forms/d/e/1FAIpQLScd90vQzJcxGsT3rRtY5bZsf4oMRX0HEhzfLV16bDSDVtxNrw/viewform) so we can understand how you want to take part in what we do.
+* If you are new to the community and have questions, reach out to community members via the channels above and/or the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:chris@carpentries.org).
 
-* Want a Library Carpentry workshop at your institution? [Request one](https://software-carpentry.org/workshops/request/). The Carpentries(https://carpentries.org) are helping us with this process for now so we are using their request form.  
+* Want a Library Carpentry workshop at your institution? [Request one](https://software-carpentry.org/workshops/request/). [The Carpentries](https://carpentries.org), note your interest in Library Carpentry, and also reach out to the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:chris@carpentries.org).
 
-* You can raise issues on any of the lesson repositories or against this site through the [Library Carpentry GitHub organisation](https://github.com/LibraryCarpentry).
+* You can raise issues and/or pull requests on any of the lesson repositories and this site through the [Library Carpentry GitHub organisation](https://github.com/LibraryCarpentry).
+
+* Library Carpentry also maintains a [Twitter handle](https://twitter.com/LibCarpentry) which you can follow and learn about what community members are doing.
