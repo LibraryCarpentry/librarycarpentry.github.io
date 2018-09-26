@@ -21,7 +21,7 @@
   - title: "Our Stories"
     url: "/our-stories/"
     
-- title: "Teach"
+- title: "Our Lessons"
   url: "/teach/"
   side: left
   dropdown:
@@ -30,21 +30,13 @@
   - title: "Lesson statuses"
     url: "/lesson-status/"
 
-- title: Learn
-  url: "/learn/"
+- title: Our Workshops
+  url: "/workshops/"
   side: left
-  dropdown:
-  - title: "Our Workshops"
-    url: "/workshops/"
-  - title: "Request a Workshop"
-    url: "https://software-carpentry.org/workshops/request/"
 
-- title: Join Us
+- title: Get Involved
   url: "/join/"
   side: left
-  dropdown:
-  - title: "Get Involved"
-    url: "/contact/"
 
 - title: People
   url: "/team/"
@@ -56,13 +48,21 @@
     url: "/cac/"
 
 - title: Connect
-  url: "/connect/"
+  url: "/contact/"
   side: left
   dropdown:
   - title: "Blog"
     url: "/blog/"
+  - title: "Events"
+    url: "/events/"
   - title: "Chatroom"
     url: "https://gitter.im/LibraryCarpentry/Lobby"
+  - title: "Listserv"
+    url: "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
+  - title: "Twitter"
+    url: "https://twitter.com/LibCarpentry"
+  - title: "GitHub"
+    url: "https://github.com/LibraryCarpentry"
   
 - title: "Search"
   url: "/search/"
