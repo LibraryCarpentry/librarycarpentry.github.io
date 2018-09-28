@@ -49,7 +49,7 @@ people:
 - name: Katrin Leinweber (Germany)
   pic: katrinleinweber.jpeg
   social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/gittaca
+    - icon: fab fa-envelope
+      url: mailto:katrin.leinweber@tib.eu
     - icon: fab fa-github
       url: https://github.com/katrinleinweber
