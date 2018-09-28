@@ -9,14 +9,14 @@ Library Carpentry develops lessons and teaches workshops for and with people wor
 Originally based on lessons developed by [The Carpentries](https://carpentries.org), Library Carpentry has evolved, and aims to help people working in library- and information-related roles work more efficiently, and potentially teach the skills they have learned to colleagues, students, and researchers. Training takes place in face-to-face workshops. Lesson materials are all available [online](lessons/), under a CC BY license, for self-directed study or for adaptation and re-use.
 
 ### Who owns Library Carpentry?   
-Though Library Carpentry is not currently tied to any institution or person, the project has opened discussions with [The Carpentries](https://carpentries.org) (Software Carpentry and Data Carpentry) about becoming a lesson organisation under The Carpentries' umbrella. Library Carpentry will, however, remain a distinct lesson project that welcomes participation and contributions from its community.
+Library Carpentry was originally developed with support of the Software Sustainability Institute and is now being incubated as a Lesson Program with [The Carpentries](https://carpentries.org). Like Software Carpentry and Data Carpentry it will maintain its own lessons and Curriculum Advisory Committee.
 
 ### What is a Library Carpentry Workshop?   
 An official Library Carpentry workshop must include our [core lessons](https://librarycarpentry.github.io/test/lessons/). Alternatively, you can consider running a Library Carpentry-inspired workshop. See _[What constitutes a Library Carpentry workshop?](https://librarycarpentry.org/blog/2018/08/07/what-is-a-workshop/)_ and _[Seventy-One Workshops… and Counting](https://librarycarpentry.org/blog/2018/08/01/seventy-one-and-counting/)_ for further information. Ideally attendees will bring their own laptops to workshops so that skills learnt can be replicated after the workshop without the need for any additional setup or software installation.
 
 Workshops are run by a team. Ideally this will consist of:   
 * a Host, who is the principal local contact for the workshop and who negotiates with Instructors about what lessons will be taught  
-* at least one Lead Instructor and other Instructors who teach the lessons and lead the practical exercises  
+* at least one Certified Carpentries Instructor and other Instructors who teach the lessons and lead the practical exercises  
 * Helpers who provide assistance to learners during practical sessions  
 * Workshops can be any size but it is recommended that the helper-to-learners ratio not exceed 1:8.  
 
