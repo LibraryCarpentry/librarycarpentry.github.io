@@ -36,7 +36,6 @@ First Mozilla Global Sprint - Library Carpentry lesson development led by [Belin
 First Carpentries instructor training for librarians and Library Carpentry at [csv,conf,v3](https://csvconf.com/) in Portland, OR. The National and State Libraries of Australasia fund an all-capital cities roadshow in Australia for Library Carpentry workshops. 
 
 * _[Software Carpentry / Data Carpentry Instructor Training for Librarians](http://uc3.cdlib.org/2016/12/08/software-carpentry-data-carpentry-instructor-training-for-librarians/)_ by John Chodacki
-
 * _[NSLA Roadshow](https://weaverbel.github.io/nsla-roadshow/)_ by Belinda Weaver
 
 
