@@ -5,10 +5,12 @@
     </tr>
   </thead> -->
   <tbody>
-    {% for w in site.data.workshops.workshops_past %}
+    {% for w in site.data.workshops %}
       <tr>
         <!-- TODO: Add flag or other indicator of country -->
+        <td class="ws-date">{{w.who}} (Instructors)</ br> {{w.who}} (Helpers)</td>
         <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
+        <td class="ws-venue">{{w.country}}</td>
         <td class="ws-date">{{w.humandate}}</td>
       </tr>
     {% endfor %}
