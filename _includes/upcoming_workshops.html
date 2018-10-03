@@ -12,7 +12,7 @@ excerpt: Find upcoming Library Carpentry workshops around the world.
     </tr>
   </thead> -->
   <tbody>
-    {% for w in include.workshops %}
+    {% for w in site.data.workshops %}
       <tr>
         <!-- TODO: Add flag or other indicator of country -->
         <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
@@ -21,3 +21,4 @@ excerpt: Find upcoming Library Carpentry workshops around the world.
     {% endfor %}
   </tbody>
 </table>
+
