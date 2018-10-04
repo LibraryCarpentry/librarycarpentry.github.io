@@ -30,8 +30,8 @@
   side: left
   dropdown:
   - title: "Upcoming Workshops"
-    url: "https://carpentries.org/"
-  - title: "Inspired Workshops"
+    url: "/upcoming_workshops/"
+  - title: "Past Workshops"
     url: ""
 
 - title: Get Involved
