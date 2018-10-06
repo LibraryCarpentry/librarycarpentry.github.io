@@ -1,19 +1,13 @@
-<table class="workshops" align="center">
- <!-- <thead>
-    <tr>
-      <th class="ws-venue">Workshops</th>
-    </tr>
-  </thead> -->
-  <tbody>
-    {% for w in site.data.workshops %}
-      <tr>
-        <!-- TODO: Add flag or other indicator of country -->
-        <td class="ws-date">{{w.who}} (Instructors)</ br> {{w.who}} (Helpers)</td>
-        <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
-        <td class="ws-venue">{{w.country}}</td>
-        <td class="ws-date">{{w.humandate}}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
+<table class="table table-striped workshops">
+{% for w in site.data.workshops  %}
+	<tr>
+	<td>
+		<img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
+			<a href="{{w.url}}">{{w.venue}}</a>
+	</td>
+	<td>
+		{{w.humandate}}
+	</td>
+	</tr>
+{% endfor %}
 </table>
-
