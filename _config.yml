@@ -20,7 +20,7 @@ description: "Library Carpentry is a global community teaching software and data
 
 # Main author of the website
 # See > authors.yml
-author: weaverbel
+author: libcce
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -30,7 +30,7 @@ filesurl: 'https://librarycarpentry.github.io/test/files'
 contact: 'chris@carpentries.org'
 
 # Website configuration links
-mailing_lists   : "http://carpentries.topicbox.com/groups"
+mailing_lists   : "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
 
 
 # This is for the editing function in _/includes/improve_content
@@ -110,7 +110,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: weaverbel     # Default author for pages
+      author: libcce     # Default author for pages
   -
     scope:
       path: ""
@@ -119,7 +119,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: weaverbel     # Default author for posts
+      author: libcce     # Default author for posts
 
 
 
@@ -180,9 +180,9 @@ msapplication_tilecolor:                "#ffffff"
 og_image:                         "TheCarpentries-opengraph.png"
 og_locale:                        "en_EN"
 og_type:                          "website"
-og_title:                         "The Carpentries"
-og_description:                   "We teach foundational coding and data science skills to researchers worldwide."
-og_url:                           "https://thecarpentries.org"
+og_title:                         "Library Carpentry"
+og_description:                   "Software and data skills for people working in library- and information-related roles"
+og_url:                           "https://librarycarpentry.org/"
 
 
 #      _____            _       __   __  ___         ___
@@ -228,7 +228,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-118122261-1
+google_analytics_tracking_id: UA-86167534
 
 
 
