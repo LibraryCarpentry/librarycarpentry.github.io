@@ -41,10 +41,9 @@ First Carpentries instructor training for librarians and Library Carpentry at [c
 
 ### 2018
 
-IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. Incubation of Library Carpentry as a Carpentries lesson organisation. [Universities NZ](https://www.universitiesnz.ac.nz/)'s Library Carpentry workshop tour across New Zealand. Instructor training for librarians held at the University of Calgary Libraries.
+IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. Incubation of Library Carpentry as a Carpentries lesson organisation. Instructor training for librarians held at the University of Calgary Libraries.
 
 * _[Skills Training for Librarians: Expanding Library Carpentry](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)_ by John Chodacki
 * _[Welcome Chris Erdmann, Library Carpentry Community and Development Director](https://www.cdlib.org/cdlinfo/2018/04/17/welcome-chris-erdmann-library-carpentry-community-and-development-director/)_ by John Chodacki
-* _[Eight Days, Four Workshops, Two Islands, One Earthquake](https://librarycarpentry.org/blog/2018/07/18/lc-nz-roadshow/)_ by Belinda Weaver
 * _[Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries](https://carpentries.org/blog/2018/05/lc-merger-talks/)_ by Tracy Teal, Belinda Weaver
 * _[Report back from the University of Calgary Libraries](https://librarycarpentry.org/blog/2018/09/05/report-from-calgary-workshops/)_ by Chris Erdmann
