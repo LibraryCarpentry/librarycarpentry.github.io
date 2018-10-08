@@ -3,7 +3,7 @@ workshops:
     who: Hugo Huurdeman, Fredrik Hovind Juell, Ahmed Abdi Mohammed, Dan Michael O. Heggø, Kyrre Traavik Låberg
     help: 
     venue: University of Oslo Science Library
-    country: n-o
+    country: nor
     latitude: 59.9399586
     longitude: 10.7217496
     start: 2017-06-14
@@ -63,7 +63,7 @@ workshops:
     who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
     help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
     venue: University of Bergen
-    country: -no
+    country: nor
     latitude: 60.38783
     longitude: 5.31968
     start: 2018-09-25
@@ -1098,7 +1098,7 @@ workshops:
     who: Elin Stangeland
     help: 
     venue: University of Oslo
-    country: no
+    country: nor
     latitude: 59.9399586
     longitude: 10.7217496
     start: 2016-03-17
