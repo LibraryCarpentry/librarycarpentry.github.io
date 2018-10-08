@@ -1,0 +1,907 @@
+workshops:
+- &id_ws_past # past workshops
+  - venue: "City University London"
+    humandate: "Nov 2015"
+    start: 2015-11-09
+    end: 2015-11-30
+    latitude: 51.5280395
+    longitude: -0.1015937
+    who: "James Baker"
+    numbers: 59
+    what: null
+    notes: null
+    url: "https://cradledincaricature.com/2015/12/01/library-carpentry-in-words-and-numbers-all-code-no-woodwork/"
+    blogs: "https://cradledincaricature.com/2015/12/01/library-carpentry-in-words-and-numbers-all-code-no-woodwork/"
+  - venue: "Brisbane ResBaz"
+    humandate: "Feb 2016"
+    start: 2016-02-02
+    end: 2016-02-02
+    latitude: null
+    longitude: null
+    who: "Belinda Weaver"
+    numbers: "15-20?"
+    what: "LC Module 1 only (jargon, data structures, regex)"
+    notes: null
+    blogs: null
+  - venue: "University of Oslo"
+    humandate: "17-18 March 2016"
+    start: 2016-03-17
+    end: 2016-03-18
+    latitude: 59.9399586
+    longitude: 10.7217496
+    who: "Elin Stangeland"
+    numbers: null
+    url: "https://scriptotek.github.io/2016-03-17-BS/"
+    notes: null
+    blogs: "http://software-carpentry.org/blog/2016/04/carpentry_week_2016_oslo.html"
+  - venue: "University of Queensland"
+    humandate: "13-14 June 2016"
+    start: 2016-06-13
+    end: 2016-06-14
+    latitude: -27.4954306
+    longitude: 153.0120301
+    who: "Belinda Weaver"
+    numbers: 18
+    url: "http://weaverbel.github.io/2016-06-13-LibCarp/index.html"
+    notes: "Taught 1-4 (regex, shell, git, OR)"
+    blogs: "http://software-carpentry.org/blog/2016/06/LCworkshop.html"
+  - venue: "Basel University Library, Switzerland"
+    humandate: "23-24 June 2016"
+    start: 2016-06-23
+    end: 2016-06-24
+    latitude: 47.559404
+    longitude: 7.581200999999999
+    who: "Thomas Guignard et al."
+    numbers: 39
+    url: "https://swissbib.github.io/2016-06-23-basel/"
+    notes: "Regular Software Carpentry workshop + modified OR lesson."
+    blogs: null
+  - venue: "James Cook Uni, Townsville"
+    humandate: "14-15 July 2016"
+    start: 2016-07-14
+    end: 2016-07-15
+    latitude: -19.3275726
+    longitude: 146.7580624
+    who: "Daniel Baird, Jay van Schyndel"
+    numbers: null
+    url: "https://jcu-eresearch.github.io/2016-07-LibraryCarpentry/index.html"
+    notes: "Taught 1-4 (regex, shell, git, OR)"
+    blogs: "http://software-carpentry.org/blog/2016/07/librarycarpentry-jcu.html"
+  - venue: "UC San Diego "
+    humandate: "18-22 July 2016"
+    start: 2016-07-18
+    end: 2016-07-22
+    latitude: 32.8800604
+    longitude: -117.2340135
+    who: "Juliane Schneider/Tim Dennis"
+    numbers: "37-40"
+    url: "https://ucsdlib.github.io/2016-07-18-UCSD/"
+    notes: "Taught 1-4 (regex, shell, git, OR)"
+    blogs: "http://software-carpentry.org/blog/2016/08/lc-at-ucsd.html"
+  - venue: "University of Toronto"
+    humandate: "28-29 July 2016"
+    start: 2016-07-28
+    end: 2016-07-29
+    latitude: 43.6628917
+    longitude: -79.39565640000001
+    who: "Thomas Guignard et al."
+    numbers: 40
+    url: "https://code4libtoronto.github.io/2016-07-28-librarycarpentry/"
+    notes: "XPath/XQuery, regex, OR, Python, Web Scraping"
+    blogs: "http://software-carpentry.org/blog/2016/07/library-carpentry-in-toronto.html"
+  - venue: "ALIA Nat Conf"
+    humandate: "August 2016"
+    start: null
+    end: null
+    latitude: null
+    longitude: null
+    who: "Belinda Weaver"
+    numbers: null
+    what: "LC workshop - intro + OR (not the full workshop)"
+    notes: "Bits of 1 and 4"
+    blogs: null
+  - venue: "Pretoria, South Africa"
+    humandate: "25-26 August 2016"
+    start: 2016-08-25
+    end: 2016-08-26
+    latitude: -25.7478676
+    longitude: 28.2292712
+    who: "Anelda van der Walt / Cam Macdonell"
+    numbers: 30
+    what: "LC Module 1, OpenRefine, git/github, and a lesson sprint"
+    notes: "Host: http://www.csir.co.za/; with: https://nedicc.com/"
+    blogs: null
+  - venue: "QULOC "
+    humandate: "9 September 2016"
+    start: 2016-09-09
+    end: 2016-09-09
+    latitude: null
+    longitude: null
+    who: "Belinda Weaver"
+    numbers: null
+    what: "LC workshop - intro + OR (not the full workshop)"
+    notes: "Bits of 1 and 4"
+    blogs: null
+  - venue: "UC Berkeley/BIDS"
+    humandate: "10-11 October 2016"
+    start: 2016-10-10
+    end: 2016-10-11
+    latitude: 37.8746662
+    longitude: -122.2570491
+    who: "Tim Dennis/Harrison Dekker"
+    numbers: 37
+    url: "https://jt14den.github.io/2016-10-10-UCB/"
+    notes: "TBD, def. OF/regex"
+    blogs: null
+  - venue: "Macquarie University Library, Sydney"
+    humandate: "4 November 2016"
+    start: 2016-11-04
+    end: 2016-11-04
+    latitude: -33.7757052
+    longitude: 151.1130988
+    who: "Carmi Cronje"
+    numbers: 5
+    what: "Data-Intro"
+    notes: "Small pilot"
+    blogs: null
+  - venue: "Macquarie University Library, Sydney"
+    humandate: "11 November 2016"
+    start: 2016-11-11
+    end: 2016-11-11
+    latitude: -33.7757052
+    longitude: 151.1130988
+    who: "Carmi Cronje"
+    numbers: 7
+    what: "OpenRefine"
+    notes: "Small pilot"
+    blogs: null
+  - venue: "University of Cambridge"
+    humandate: "17-18 November 2016"
+    start: 2016-11-17
+    end: 2016-11-18
+    latitude: 52.2042666
+    longitude: 0.1149085
+    who: "Brenda Moon, Laurent Gatto"
+    numbers: "tbc"
+    what: "LC Open Refine, LC SQL, library-python (\"An introduction to working with data for Humanities Researchers - Cambridge Digital Humanities Network\")"
+    notes: null
+    blogs: null
+  - venue: "The University of Leeds"
+    humandate: "21-22 November 2016"
+    start: 2016-11-21
+    end: 2016-11-22
+    latitude: 53.8066815
+    longitude: -1.5550328
+    who: 40
+    numbers: "tbc"
+    url: "https://arcleeds.github.io/2016-11-21-leeds/"
+    notes: null
+    blogs: null
+  - venue: "Macquarie University Library, Sydney"
+    humandate: "25 November 2016"
+    start: 2016-11-25
+    end: 2016-11-25
+    latitude: -33.7757052
+    longitude: 151.1130988
+    who: "Carmi Cronje"
+    numbers: 7
+    what: "Unix Shell"
+    notes: "Small pilot"
+    blogs: null
+  - venue: "DTU Library Copenhagen"
+    humandate: "7 December 2016"
+    start: 2016-12-07
+    end: 2016-12-07
+    latitude: 55.786896
+    longitude: 12.523244
+    who: "Baker"
+    numbers: 40
+    what: "Shell Lesson only, as part of http://www.dst4l.info/ event"
+    notes: null
+    blogs: null
+  - venue: "Macquarie University Library, Sydney"
+    humandate: "9 December 2016"
+    start: 2016-12-09
+    end: 2016-12-09
+    latitude: -33.7757052
+    longitude: 151.1130988
+    who: "Carmi Cronje"
+    numbers: 6
+    what: "Git/GitHub using GitHub for Desktop (adapted from DST4L 2015)"
+    notes: "Small pilot"
+    blogs: null
+  - venue: "University of Oslo Science Library"
+    humandate: "1-3 February 2017\n"
+    start: 2017-02-01
+    end: 2017-02-03
+    latitude: 59.9399586
+    longitude: 10.7217496
+    who: "Elin Stangeland, Dan Michael Heggø, Kyrre Traavik Låberg"
+    numbers: "tbc"
+    what: "Part of ResBaz2017 Oslo https://2017.resbaz.com/oslo http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html"
+    url: "http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html"
+    notes: "Full LC"
+    blogs: null
+  - address: Information Commons, University of Sheffield, Sheffield
+    contact: j.s.cope@sheffield.ac.uk
+    country: gb
+    start: 2017-03-07
+    end: 2017-03-23
+    eventbrite_id: ''
+    humandate: 7 & 23 Jun 2017
+    latitude:  41.7901128
+    longitude: -87.6007318
+    slug: 2017-03-07-sheffield-lc
+    tags:
+    - {name: LC}
+    url: https://jezcope.github.io/2017-03-07-sheffield-lc/
+    venue: University of Sheffield
+    who: "Jez Cope, Martin Callaghan, Elly Cope"
+    numbers: 50
+    what: "Data Intro, Spreadsheets (from DC), OpenRefine, Python"
+    notes: null
+    blogs: null
+  - venue: "University of Cambridge"
+    humandate: "3, 6, 10, 13 April 2017"
+    start: 2017-04-03
+    end: 2017-04-03
+    latitude: 52.2042666
+    longitude: 0.1149085
+    who: "Nicholas Cutler"
+    numbers: "???"
+    what: "Bespoke shell, refine, python"
+    notes: "Locally run event not directly supported by LC https://camlit.wordpress.com/2017/02/01/software-skills-for-librarians/ http://www.cl.cam.ac.uk/~ncc25/libcarp/index.html"
+    blogs: null
+  - venue: "University of Cape Town"
+    humandate: "5 May 2017"
+    start: 2017-05-05
+    end: 2017-05-05
+    latitude: -33.957652
+    longitude: 18.4611991
+    who: "Isak van der Walt; Erika Mias; Kayleigh Roos"
+    numbers: "???"
+    url: "http://www.eresearch.ac.za/programme-2017#Friday,_05_May_2017"
+    notes: "Part of eResearch Africa. Intro and Open Refine"
+    blogs: null
+  - venue: "Boston/Cambridge"
+    humandate: "15 May 2017"
+    start: 2017-05-15
+    end: 2017-05-15
+    latitude: 42.363042
+    longitude: -71.08616099999999
+    who: "Belinda Weaver, Juliane Schneider"
+    numbers: 30
+    url: "https://weaverbel.github.io/2017-05-11-lc-boston/"
+    notes: "Regex, bash, refine"
+    blogs: null
+  - venue: "University of Manchester"
+    humandate: "18 May 2017"
+    start: 2017-05-18
+    end: 2017-05-18
+    latitude: 53.4668498
+    longitude: -2.2338837
+    who: "Jez Cope, Guyda Armstrong"
+    numbers: "tbc"
+    what: "Parts of data intro and shell lessons (half-day taster)"
+    notes: "Part of 2-day Digital Humanities workshop"
+    blogs: null
+  - venue: "University of Pittsburgh\n"
+    humandate: "18 May 2017"
+    start: 2017-05-18
+    end: 2017-05-18
+    latitude: 40.4443533
+    longitude: -79.960835
+    who: "Matt Burton, Tim Dennis, James Baker"
+    numbers: 37
+    what: "Bash and OF "
+    url: "https://datascienceinlibraries.github.io/2017-05-18-pitt/"
+    notes: "Attached to IMLS Data Science in Libraries workshop. For librarians at the Carnegie Library of Pittsburgh, the University of Pittsburgh Library of System, and Carnegie Mellon Libraries."
+    blogs: null
+  - venue: "Macquarie University Library, Sydney"
+    humandate: "31 May 2017"
+    start: 2017-05-31
+    end: 2017-05-31
+    latitude: -33.7757052
+    longitude: 151.1130988
+    who: "Carmi Cronje, Fiona Jones"
+    numbers: 10
+    what: "OpenRefine"
+    notes: null
+    blogs: null
+  - address: The Glass Box, Taunton Library, Taunton
+    contact: 
+    country: gb
+    start: 2017-06-15
+    end: 2017-06-15
+    eventbrite_id: ''
+    humandate: 15 June 2017
+    latitude: 51.013490
+    longitude: -3.101578
+    slug: 2017-06-15-taunton
+    tags:
+    - {name: LC}
+    url: https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629
+    venue: Taunton Library
+    who: "Dave Rowe"
+    numbers: "???"
+    what: "Intro, Git, Maps (bespoke)"
+    notes: "https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629"
+    blogs: null
+  - venue: "Canberra (Australian Library and Information Association, New Librarians Symposium)"
+    humandate: "23 June 2017"
+    start: 2017-06-23
+    end: 2017-06-23
+    latitude: -35.321288
+    longitude: 149.095531
+    who: "Carmi Cronje, Fiona Jones"
+    numbers: 20
+    url: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
+    notes: "Parts of 1 and 4"
+    blogs: null
+  - venue: "University of Sussex"
+    humandate: "12 July 2017"
+    start: null
+    end: null
+    latitude: 50.867090
+    longitude: -0.087914
+    who: "Suzanne Tatham, Antony Groves, James Baker"
+    numbers: null
+    what: "Shell, Git, Refine"
+    url: "https://sussexlibrarycarpentry.eventbrite.co.uk"
+    blogs: null
+  - venue: "LINC Tasmania, Hobart"
+    humandate: "17 July, 2017"
+    start: null
+    end: null
+    latitude: -42.881679
+    longitude: 147.3227953
+    who: "Belinda Weaver"
+    numbers: 26
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
+  - venue: "State Library of Queensland, Brisbane"
+    humandate: "19 July, 2017"
+    start: null
+    end: null
+    latitude: -27.4711579
+    longitude: 153.0159242
+    who: "Belinda Weaver, Sam Hames"
+    numbers: 7
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
+  - venue: "State Library of South Australia, Adelaide"
+    humandate: "31 July, 2017"
+    start: null
+    end: null
+    latitude: -34.92034
+    longitude: 138.6001495
+    who: "Belinda Weaver, Liz Walkley-Hall, AImee Said"
+    numbers: 28
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
+  - venue: "State Library of Victoria, Melbourne"
+    humandate: "7 August, 2017"
+    start: null
+    end: null
+    latitude: -37.8098087
+    longitude: 144.963001
+    who: "Belinda Weaver, Aimee Said"
+    numbers: 24
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
+  - venue: "University Libraries, University of Arizona, Tucson, AZ, USA"
+    humandate: "9 August, 2017"
+    start: null
+    end: null
+    latitude: 32.231187
+    longitude: -110.950624
+    who: "Jeff Oliver"
+    numbers: null
+    what: "Jargon busting, regex, Shell, Open Refine, Git"
+    notes: null
+    url: "https://jcoliver.github.io/2017-08-09-lc-tucson/"
+    blogs: null
+  - venue: "State Library of NSW, Sydney"
+    humandate: "14 August, 2017"
+    start: null
+    end: null
+    latitude: -33.86686
+    longitude: 151.2106624
+    who: "Belinda Weaver, Weisi Chen"
+    numbers: null
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
+  - venue: "National Library of Australia, Canberra"
+    humandate: "21 August, 2017"
+    start: null
+    end: null
+    latitude: -35.2966195
+    longitude: 149.1276331
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
+  - venue: "State Library of Western Australia, Perth"
+    humandate: "28 August, 2017"
+    start: null
+    end: null
+    latitude: -31.9488801
+    longitude: 115.8583056
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    blogs: null
+  - venue: "Curtin University, Western Australia"
+    humandate: "29 August, 2017"
+    start: null
+    end: null
+    latitude: -32.0061951
+    longitude: 115.8944182
+    who: "Belinda Weaver"
+    numbers: "~20"
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: 
+    blogs: "n/a"
+  - venue: "UCLA"
+    humandate: "8 September, 2017"
+    start: null
+    end: null
+    latitude: 34.068921
+    longitude: -118.4473698
+    who: "Scott Peterson, Juliane Schneider, Tim Dennis"
+    numbers: ""
+    what: "Shell, Open Refine, SQL"
+    url: "https://ucla-data-archive.github.io/2017-09-08-ucla/"
+    notes: 
+    blogs: "n/a"    
+  - venue: "University of Padua"
+    humandate: "14-15 September, 2017"
+    start: null
+    end: null
+    latitude: 45.406435
+    longitude: 11.876761
+    who: "James Baker, Dan Michael Olsen Heggø"
+    numbers: "~100"
+    what: "Shell, Git, Open Refine, SQL"
+    url: "http://bibliotecadigitale.cab.unipd.it/news/14-15-settembre.-library-carpentry.-software-skills-for-library-professionals.-workshop"
+    notes: 
+    blogs: "n/a"
+  - venue: "Library Carpentry, South Africa"
+    humandate: "30 September - 1 October, 2017"
+    start: null
+    end: null
+    latitude: -26.1917112
+    longitude: 28.0306693
+    who: "Juan Steyn, Time Dennis"
+    numbers: null
+    what: "Jargon busting, regex, Shell, Open Refine"
+    url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
+    notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
+    blogs: null 
+  - venue: "The National Archives, Kew, UK"
+    start: 2017-11-07
+    end: 2017-11-07
+    eventbrite_id: ''
+    humandate: 7 November, 2017
+    latitude: 51.4816
+    longitude: 0.2799
+    who: "James Baker"
+    numbers: null
+    what: "Intro, regex, Shell"
+    url: "https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-day-tickets-36187449636"
+    blogs: null
+  - venue: "QULOC-LISWP, The University of Queensland"
+    start: 2017-11-03
+    end: 2017-11-03
+    eventbrite_id: ''
+    humandate: 3 November, 2017
+    latitude: -27.496990
+    longitude: 153.011403
+    who: "Belinda Weaver, Paula Martinez"
+    numbers: null
+    what: "Intro, Shell, OpenRefine"
+    url: https://weaverbel.github.io/2017-11-03-liswp/
+    blogs: null
+  - venue: "UC Riverside"
+    start: 2018-03-01
+    end: 2018-03-01
+    eventbrite_id: ''
+    humandate: 1 March, 2018
+    latitude: -117.327482
+    longitude: 33.972643
+    who: " Laura Smart, Danielle Kane, Noah Geraci, Kat Koziar, Scott Peterson"
+    numbers: null
+    what: "Data Intro, Shell"
+    url: https://ljsmart.github.io/2018-03-01-UCDLF/
+    blogs: null
+  - venue: "Jean and Alexander Heard Library, Vanderbilt University"
+    start: 2018-04-05
+    end: 2018-04-06
+    eventbrite_id: ''
+    humandate: 5-6 April, 2018
+    latitude: -86.8024317
+    longitude: 36.145687
+    who: "Veronica Ikeshoji-Orlati"
+    numbers: null
+    what: "Tidy data, Shell, OpenRefine, Git"
+    url: https://vai2fc.github.io/2018-04-05-vanderbilt/
+    blogs: null
+  - venue: "ALLA 2018 conference, Darwin"
+    start: 2018-05-02
+    end: 2018-05-02
+    eventbrite_id: ''
+    humandate: 2 May, 2018
+    latitude: -27.496990
+    longitude: 153.011403
+    who: "Richard Vankoningsveld"
+    numbers: null
+    what: "Intro, OpenRefine, Python"
+    url: "http://allaconference.com.au/2018/index.php/program/workshops/"
+    blogs: null
+  - venue: "University of Melbourne"
+    start: 2018-05-04
+    end: 2018-05-04
+    eventbrite_id: ''
+    humandate: 4 May, 2018
+    latitude: -37.7969964
+    longitude: 144.9581026
+    who: "Belinda Weaver, Peter Neish"
+    numbers: null
+    what: "Intro to Data, OpenRefine, RegEx, Shell"
+    url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
+    blogs: null
+  - venue: "University of Edinburgh"
+    start: 2018-05-14
+    end: 2018-05-15
+    eventbrite_id: '43878554939'
+    humandate: 14-15 May, 2018
+    latitude: 55.9465787 
+    longitude: -3.2032139
+    who: "James Baker, Jez Cope"
+    what: "Intro to Data, OpenRefine, Unix shell, Intro to programming with Python"
+    url: "https://jezcope.github.io/2018-05-14-edinburgh/"
+    blogs: null
+  - venue: "UCLA Library"
+    start: 2018-05-24
+    end: 2018-05-25
+    eventbrite_id: ''
+    humandate: 24-25 May, 2018
+    latitude: 34.074969 
+    longitude: -118.441466
+    who: "Chris Erdmann, Juliane Schneider, John Chodacki"
+    what: "Intro to Data, OpenRefine"
+    url: "https://ucla-data-archive.github.io/2018-05-24-ucla/"
+    blogs: null
+  - venue: "SLA Baltimore"
+    start: 2018-06-10
+    end: 2018-06-10
+    eventbrite_id: ''
+    humandate: 10 June, 2018
+    latitude: 39.2853908
+    longitude: -76.6171126
+    who: "Tim Dennis"
+    numbers: null
+    what: "Intro, OpenRefine, Python"
+    url: "http://www.tim-dennis.com/2018-06-10-baltimore-sla/"
+    blogs: null
+  - venue: "Marburg, Germany"
+    start: 2018-06-25
+    end: 2018-06-26
+    eventbrite_id: ''
+    humandate: 25-26 June, 2018
+    latitude: 50.81346
+    longitude: 8.77164
+    who: "Evamaria Krause"
+    numbers: null
+    what: "Intro, OpenRefine, Python, Git"
+    url: "https://evamarik.github.io/2018-06-25-marburg/"
+    notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
+    blogs: null
+  - venue: "University of Otago, NZ"
+    start: 2018-07-05
+    end: 2018-07-05
+    eventbrite_id: ''
+    humandate: 5 July, 2018
+    latitude: -45.864683 
+    longitude: 170.514423
+    who: "Belinda Weaver"
+    numbers: null
+  - venue: "University of Canterbury, NZ"
+    start: 2018-07-09
+    end: 2018-07-09
+    eventbrite_id: ''
+    humandate: 9 July, 2018
+    latitude: -43.5235336
+    longitude: 172.5817293
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Data intro, Regex, OpenRefine, Shell"
+    url: "https://weaverbel.github.io/2018-07-09-canterbury/"
+    blogs: null
+  - venue: "Massey University, NZ"
+    start: 2018-07-11
+    end: 2018-07-11
+    eventbrite_id: ''
+    humandate: 11 July, 2018
+    latitude: -40.3844303
+    longitude: 175.5961245
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Data intro, Regex, OpenRefine, Shell"
+    url: "https://weaverbel.github.io/2018-07-11-massey/"
+    blogs: null
+  - venue: "University of Auckland, NZ"
+    start: 2018-07-12
+    end: 2018-07-12
+    eventbrite_id: ''
+    humandate: 12 July, 2018
+    latitude: -40.3844303
+    longitude: 175.5961245
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Data intro, Regex, OpenRefine, Shell"
+    url: "https://weaverbel.github.io/2018-07-12-auckland/"
+    blogs: null
+  - venue: "Lawrence, KS, USA"
+    start: 2018-07-11
+    end: 2018-07-31
+    eventbrite_id: ''
+    humandate: 11-31 July, 2018
+    latitude: 38.9543439
+    longitude: -95.2557961
+    who: "Jamene Brooks-Kieffer"
+    numbers: null
+    what: "Intro to Data, OpenRefine, SQL, Workflow Enhancement Tools"
+    url: "https://lib.ku.edu/library-carpentry"
+    notes: ""
+    blogs: null
+  - venue: "University of Arizona, Tucson, AZ, USA"
+    start: 2018-08-06
+    end: 2018-08-07
+    eventbrite_id: ''
+    humandate: 6-7 August, 2018
+    latitude: 32.232188
+    longitude: -110.949003
+    who: "Jeff Oliver"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Tidy Data for Librarians, SQL"
+    url: "https://jcoliver.github.io/2018-08-06-lc-tucson/"
+    notes: ""
+    blogs: null 
+  - venue: "St. Catharines, Canada"
+    start: 2018-08-13
+    end: 2018-08-14
+    eventbrite_id: ''
+    humandate: 13-14 August, 2018
+    latitude: 43.1175731
+    longitude: -79.2476925
+    who: "Tim Ribaric"
+    numbers: null
+    what: "Intro to Data, Shell, Git, OpenRefine"
+    url: "https://elibtronic.github.io/2018-08-13-BrockU/"
+    notes: ""
+    blogs: null
+  - venue: "Yale University Library"
+    start: 2018-08-15
+    end: 2018-08-16
+    eventbrite_id: ''
+    humandate: 15-16 August, 2018
+    latitude: 41.312736
+    longitude: -72.923457
+    who: "Catherine DeRose, Joshua Dull, Kate Nyhan"
+    numbers: null
+    what: "Tidy Data, Intro to Python, Shell/OpeRefine"
+    url: "https://nesclic.github.io/2018-08-15-YUL/"
+    notes: ""
+    blogs: null
+  - venue: "ZB MED, Cologne, Germany"
+    start: 2018-08-22
+    end: 2018-08-23
+    eventbrite_id: ''
+    humandate: 22-23 August, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Silvia Di Giogio, Konrad Förstner"
+    numbers: null
+    what: "Intro, Shell, Python, Git"
+    url: "https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/"
+    notes: ""
+    blogs: null
+  - venue: "Los Angeles, CA, USA"
+    start: 2018-08-28
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: 28-29 August, 2018
+    latitude: 
+    longitude: 
+    who: "Tim Dennis"
+    numbers: null
+    what: "Intro to Data, Tidy Data for Librarians, Python"
+    url: "https://ucla-data-archive.github.io/2018-08-28-usc/"
+    notes: ""
+    blogs: null   
+  - venue: "Calgary, Canada"
+    start: 2018-08-28
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: 28-29 August, 2018
+    latitude: 51.077598
+    longitude: -114.129888
+    who: "Juliane Schneider"
+    numbers: null
+    what: "Intro to Data, Shell, Git, OpenRefine"
+    url: "https://libcce.github.io/2018-08-28-calgary/"
+    notes: ""
+    blogs: null
+  - venue: "Calgary, Canada"
+    start: 2018-08-30
+    end: 2018-08-31
+    eventbrite_id: ''
+    humandate: 30-31 August, 2018
+    latitude: 51.077598
+    longitude: -114.129888
+    who: "Juliane Schneider"
+    numbers: null
+    what: "Carpentries Instructor Training for Librarians"
+    url: "https://pitviper6.github.io/2018-08-30-ttt-calgary/"
+    notes: ""
+    blogs: "https://librarycarpentry.org/blog/2018/06/26/library-carpentry-inst-training/"
+  - venue: "HEANet, Dublin, Ireland"
+    start: 2018-08-31
+    end: 2018-08-31
+    eventbrite_id: ''
+    humandate: 31 August, 2018
+    latitude: 53.3496182
+    longitude: -6.2488661
+    who: "David Kane, Glenn Wearen, Peter Fleming"
+    numbers: null
+    what: "Intro to Data and UNIX Shell"
+    url: "https://www.heanet.ie/"
+    notes: ""
+    blogs: ""
+  - venue: "UC San Diego Library"
+    start: 2018-09-14
+    end: 2018-09-14
+    eventbrite_id: ''
+    humandate: 14 September, 2018
+    latitude: 32.8811507
+    longitude: -117.2396437
+    who: "Stephanie Labou (RAS), Reid Otsuji (RDC), Annelise Sklar (RAS)"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Tidy Data, OpenRefine"
+    url: "https://ucsdlib.github.io/2018-09-14-UCSDLC/"
+    notes: ""
+    blogs: ""
+- &id_ws_future # future workshops: move this line down as time passes
+  - venue: "Library of Congress, DC, USA"
+    start: 2018-09-18
+    end: 2018-09-19
+    eventbrite_id: ''
+    humandate: 18-19 September, 2018
+    latitude: 38.888684
+    longitude: -77.004719
+    who: "Chris Erdmann, Laura Wrubel, Megan Potterbusch"
+    numbers: null
+    what: "Intro to Data, OpenRefine, Python"
+    url: "https://libcce.github.io/2018-09-18-LC/"
+    notes: ""
+    blogs: ""
+  - venue: "ZB MED, Cologne, Germany"
+    start: 2018-09-21
+    end: 2018-09-24
+    eventbrite_id: ''
+    humandate: 21 and 24 September, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Silvia Di Giorgio, Konrad Förstner"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Git, Python"
+    url: "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/"
+    notes: ""
+    blogs: ""
+  - venue: "University of Bergen, Norway"
+    start: 2018-09-25
+    end: 2018-09-26
+    eventbrite_id: ""
+    humandate: 25-26 September, 2018
+    latitude: 60.387830
+    longitude: 5.319680
+    who: "Hans Gunnar, Slokvik Lian, Kyrre Traavik Låberg, Dan Michael, Olsen Heggø"
+    numbers: null
+    what: "Data Intro, Tidy Data, Shell, Git"
+    url: "https://scriptotek.github.io/2018-09-25-Bergen/"
+    notes: ""
+    blogs: ""
+  - venue: "Monash University Library"
+    start: 2018-10-08
+    end: 2018-10-08
+    eventbrite_id: ''
+    humandate: 8 October, 2018
+    latitude: -37.910480
+    longitude: 145.137217
+    who: "Belinda Weaver, Sonika Tyagi, Nick Wong"
+    numbers: 25
+    what: "Intro to Data, UNIX Shell, OpenRefine"
+    url: "https://weaverbel.github.io/2018-10-08-monash-lc/"
+    notes: ""
+    blogs: null
+  - venue: "UNC, Chapel Hill, NC, USA"
+    start: 2018-10-18
+    end: 2018-10-19
+    eventbrite_id: ''
+    humandate: 18-19 October, 2018
+    latitude: 35.911048
+    longitude: -79.0502437
+    who: "Chris Erdmann, Zac Painter, Lorin Bruckner, Matt Jansen, Nathan Kelber"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Git, OpenRefine"
+    url: "https://libcce.github.io/2018-10-18-UNC/"
+    notes: ""
+    blogs: null
+  - venue: "Brown University Library"
+    start: 2018-10-22
+    end: 2018-10-23
+    eventbrite_id: '48562683293'
+    humandate: 22-23 October, 2018
+    latitude: 41.825748
+    longitude: -71.405109
+    who: "Joshua Dull, Kate Nyhan, Andrew Creamer"
+    numbers: null
+    what: "Data Intro, Shell, Git, OpenRefine"
+    url: "https://nesclic.github.io/2018-10-22-NEASIST-Brown/"
+    notes: ""
+    blogs: null
+  - venue: "SUB Hamburg, Germany"
+    start: 2018-11-05
+    end: 2018-11-06
+    eventbrite_id: ''
+    humandate: 5-6 November, 2018
+    latitude: 53.56481
+    longitude: 9.98516
+    who: "Phú Tu"
+    numbers: null
+    what: "Intro, OpenRefine, Shell, Git"
+    url: "https://vdb-org.github.io/2018-11-05-Hamburg/"
+    notes: null
+    blogs: "https://www.vdb-online.org/veranstaltungen/807/"
+  - venue: "Cologne, Germany"
+    start: 2018-11-12
+    end: 2018-11-13
+    eventbrite_id: ''
+    humandate: 12-13 November, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Evamaria Krause"
+    numbers: null
+    what: "Intro, OpenRefine, Python, Git"
+    url: "https://evamarik.github.io/2018-11-12-cologne/"
+    notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
+    blogs: null
+  - venue: "MTSU, Murfreesboro, TN, USA"
+    start: 2019-01-07
+    end: 2019-01-09
+    eventbrite_id: ''
+    humandate: 7-9 January, 2019
+    latitude: 35.8486105
+    longitude: -86.3648813
+    who: "Chris Erdmann"
+    numbers: null
+    what: "Intro to Data, Shell, OpenRefine, Git, Python"
+    url: "https://libcce.github.io/2019-01-07-MTSU/"
+    notes: "Organized via MTSU and Tenn-Share"
+    blogs: null
+workshops_future: *id_ws_future
+workshops_past: *id_ws_past
