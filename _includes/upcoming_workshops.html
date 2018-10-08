@@ -4,11 +4,14 @@
 <tr>
     <td>
       <img src="{{site.url}}/files/flags/{{w.country | downcase}}.svg" 
-	   title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" width="30" />
+	   title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" width="40" />
     </td>
     <td>
 	    <a href="{{w.url}}">{{w.venue}}</a><br />
-	    Instructors: {{w.who}} Helpers: {{w.help}} 
+	    Instructors: {{w.who}} 
+	    {% if w.help != '' %}
+            Helpers: {{w.help}} 
+            {% endif %}
     </td>
     <td width="10%">
       {{w.start}}
