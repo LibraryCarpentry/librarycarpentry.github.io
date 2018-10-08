@@ -13,3 +13,21 @@
 	</tr>
 {% endfor %}
 </table>
+
+
+<table class="workshops" align="center">
+ <!-- <thead>
+    <tr>
+      <th class="ws-venue">Workshops</th>
+    </tr>
+  </thead> -->
+  <tbody>
+    {% for w in include.workshops %}
+      <tr>
+        <!-- TODO: Add flag or other indicator of country -->
+        <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
+        <td class="ws-date">{{w.humandate}}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
