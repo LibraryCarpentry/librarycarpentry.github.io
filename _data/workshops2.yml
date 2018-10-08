@@ -3,7 +3,7 @@ workshops:
     who: Hugo Huurdeman, Fredrik Hovind Juell, Ahmed Abdi Mohammed, Dan Michael O. Heggø, Kyrre Traavik Låberg
     help: 
     venue: University of Oslo Science Library
-    country: no
+    country: -no
     latitude: 59.9399586
     longitude: 10.7217496
     start: 2017-06-14
@@ -63,7 +63,7 @@ workshops:
     who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
     help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
     venue: University of Bergen
-    country: no
+    country: -no
     latitude: 60.38783
     longitude: 5.31968
     start: 2018-09-25
@@ -498,7 +498,7 @@ workshops:
     who: Tim Dennis, Erika Mias, Kayleigh Roos, Isak van der Walt
     help: Zine Sapula, Juan Steyn, Senzo Mpungose
     venue: Library Carpentry, South Africa
-    country: South Africa
+    country: za
     latitude: -26.1917112
     longitude: 28.0306693
     start: 2017-09-10-30
@@ -513,7 +513,7 @@ workshops:
     who: James Baker, Dan Michael Olsen Heggø
     help: Stefano Menegon, Giuseppe Profiti, Andrea Brugiolo, Yuri Carrer, Marco Naimoli, Tomaso Scarsi
     venue: University of Padua
-    country: Italy
+    country: it
     latitude: 45.406435
     longitude: 11.876761
     start: 2017-09-14
@@ -783,7 +783,7 @@ workshops:
     who: Isak van der Walt, Erika Mias, Kayleigh Roos
     help: 
     venue: University of Cape Town
-    country: South Africa
+    country: za
     latitude: -33.957652
     longitude: 18.4611991
     start: 2017-05-5
@@ -843,7 +843,7 @@ workshops:
     who: Fredrik Hovind Juell, Ahmed Abdi Mohammed, Hugo Huurdeman, Dan Michael O. Heggø, Kyrre Traavik Låberg
     help: 
     venue: University of Oslo Science Library
-    country: no
+    country: -no
     latitude: 59.9399586
     longitude: 10.7217496
     start: 2017-02-1
@@ -873,7 +873,7 @@ workshops:
     who: James Baker
     help: 
     venue: DTU Library, Copenhagen
-    country: Denmark
+    country: dk
     latitude: 55.786896
     longitude: 12.523244
     start: 2016-12-7
@@ -993,7 +993,7 @@ workshops:
     who: Anelda van der Walt, Cam Macdonell
     help: 
     venue: Council for Scientific and Industrial Research
-    country: South Africa
+    country: za
     latitude: -25.7478676
     longitude: 28.2292712
     start: 2016-08-25
@@ -1068,7 +1068,7 @@ workshops:
     who: Geoff Fucile, Stefan Pfenninger, Thomas Guignard
     help: Silvia Witzig, Lionel Walter, Martin Reisacher, Paul Coray, Sebastian Schuepbach, Thomas Julou
     venue: Basel University Library
-    country: Switzerland
+    country: ch
     latitude: 47.559404
     longitude: 7.581201
     start: 2016-06-23
