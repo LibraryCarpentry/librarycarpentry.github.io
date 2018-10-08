@@ -1,5 +1,5 @@
 <table class="table table-striped workshops">
-{% for w in include.workshops.future_workshops  %}
+{% for w in site.data.workshops.future_workshops  %}
 	<tr>
 	<td>
 		<!--<img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" 
@@ -22,11 +22,11 @@
     </tr>
   </thead> -->
   <tbody>
-    {% for w in data.workshops.future_workshops %}
+    {% for v in site.data.workshops2 %}
       <tr>
         <!-- TODO: Add flag or other indicator of country -->
-        <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
-        <td class="ws-date">{{w.humandate}}</td>
+        <td class="ws-venue"><a href="{{v.url}}">-{{v.venue}}-</a></td>
+        <td class="ws-date">{{v.humandate}}</td>
       </tr>
     {% endfor %}
   </tbody>
