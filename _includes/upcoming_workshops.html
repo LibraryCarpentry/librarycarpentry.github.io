@@ -3,12 +3,12 @@
 {% for w in site.data.workshops2.workshops  %}
 <tr>
     <td>
-      <img src="{{site.url}}/files/flags/{{site.flag_size}}/{{w.country | downcase}}.svg" 
-	   title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
+      <img src="{{site.url}}/files/flags/{{w.country | downcase}}.svg" 
+	   title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" width="10" />
       <a href="{{w.url}}">{{w.venue}}</a>
     </td>
     <td>
-      {{w.humandate}}
+      {{w.start}}
     </td>
 </tr>
 {% endfor %}
