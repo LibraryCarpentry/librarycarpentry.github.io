@@ -22,7 +22,7 @@
     </tr>
   </thead> -->
   <tbody>
-    {% for w in include.workshops %}
+    {% for w in include.workshops.future_workshops %}
       <tr>
         <!-- TODO: Add flag or other indicator of country -->
         <td class="ws-venue"><a href="{{w.url}}">{{w.venue}}</a></td>
