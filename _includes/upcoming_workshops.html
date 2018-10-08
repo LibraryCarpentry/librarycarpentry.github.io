@@ -5,10 +5,12 @@
     <td>
       <img src="{{site.url}}/files/flags/{{w.country | downcase}}.svg" 
 	   title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" width="30" />
+    </td>
+    <td>
 	    <a href="{{w.url}}">{{w.venue}}</a><br />
 	    Instructors: {{w.who}} Helpers: {{w.help}} 
     </td>
-    <td>
+    <td width="5%">
       {{w.start}}
     </td>
 </tr>
