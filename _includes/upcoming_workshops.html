@@ -9,8 +9,9 @@
     <td>
 	    <a href="{{w.url}}">{{w.venue}}</a><br />
 	    Instructors: {{w.who}} 
-	    {% if w.help != '' %}
-            Helpers: {{w.help}} 
+	    {% if w.help.strip != '' %}
+            <br />
+	    Helpers: {{w.help}} 
             {% endif %}
     </td>
     <td width="10%">
