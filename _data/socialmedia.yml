@@ -13,9 +13,9 @@
   class: fa-gitter
   title: ""
   
-- name: Mail
+- name: EMail
   url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
-  class: fa-mail
+  class: fa-email
   title: ""
 
 
