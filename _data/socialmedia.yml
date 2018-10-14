@@ -12,6 +12,11 @@
   url: https://gitter.im/LibraryCarpentry/Lobby
   class: fa-gitter
   title: ""
+  
+- name: Mail
+  url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
+  class: fa-mail
+  title: ""
 
 
 # - name: Soundcloud
