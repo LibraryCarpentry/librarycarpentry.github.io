@@ -6,13 +6,19 @@ workshops:
     country: nor
     latitude: 59.9399586
     longitude: 10.7217496
-    start: 2017-06-14
+    month: June
+    month_: 06
+    start_day: 14
+    end_day: 14
+    year: 2017
     end: 2017-06-14
+    date: 2017-06-14T00:00:00Z
+    start: 2017-06-14
     workshop: one-day
     blogs: 
     lessons: OpenRefine followed by training on using visualisation tools. 
     number: 20
-    notes: From Data to Visuals - Data Processing & Visualization workshop
+    notes: From Data to Visuals: Data Processing & Visualization workshop
     site: https://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170614.html
 -
     who: Danielle Kane, Laura Smart
@@ -21,8 +27,14 @@ workshops:
     country: us
     latitude: 33.3844
     longitude: 117.5033
-    start: 2018-03-28
+    month: March
+    month_: 03
+    start_day: 28
+    end_day: 29
+    year: 2018
     end: 2018-03-29
+    date: 2018-03-29T00:00:00Z
+    start: 2018-03-28
     workshop: two-day
     blogs: 
     lessons: Shell, Git, Python
@@ -36,8 +48,14 @@ workshops:
     country: us
     latitude: 35.8486105
     longitude: -86.3648813
-    start: 2019-01-07
+    month: January
+    month_: 01
+    start_day: 7
+    end_day: 9
+    year: 2019
     end: 2019-01-9
+    date: 2019-01-09T00:00:00Z
+    start: 2019-01-07
     workshop: multi-day
     blogs: 
     lessons: Intro to Data, Shell, OpenRefine, Git, Python
@@ -51,8 +69,14 @@ workshops:
     country: de
     latitude: 50.92597
     longitude: 6.92846
-    start: 2018-11-12
+    month: November
+    month_: 11
+    start_day: 12
+    end_day: 13
+    year: 2018
     end: 2018-11-13
+    date: 2018-11-13T00:00:00Z
+    start: 2018-11-12
     workshop: two-day
     blogs: 
     lessons: Intro, OpenRefine, Python, Git
@@ -66,8 +90,14 @@ workshops:
     country: nor
     latitude: 60.38783
     longitude: 5.31968
-    start: 2018-09-25
+    month: September
+    month_: 09
+    start_day: 25
+    end_day: 26
+    year: 2018
     end: 2018-09-26
+    date: 2018-09-26T00:00:00Z
+    start: 2018-09-25
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Tidy Data, Shell, Git
@@ -81,8 +111,14 @@ workshops:
     country: ca
     latitude: 53.5444
     longitude: -113.4909
-    start: 2018-08-15
+    month: August
+    month_: 08
+    start_day: 15
+    end_day: 31
+    year: 2018
     end: 2018-08-31
+    date: 2018-08-31T00:00:00Z
+    start: 2018-08-15
     workshop: multi-day
     blogs: 
     lessons: Intro to Data
@@ -96,8 +132,14 @@ workshops:
     country: ie
     latitude: 53.3496182
     longitude: -6.2466774
-    start: 2018-08-31
+    month: August
+    month_: 08
+    start_day: 31
+    end_day: 
+    year: 2018
     end: 2018-08-31
+    date: 2018-08-31T00:00:00Z
+    start: 2018-08-31
     workshop: one-day
     blogs: 
     lessons: Intro to Data, Unix Shell
@@ -111,8 +153,14 @@ workshops:
     country: ca
     latitude: 51.077598
     longitude: -114.129888
-    start: 2018-08-30
+    month: August
+    month_: 08
+    start_day: 30
+    end_day: 31
+    year: 2018
     end: 2018-08-31
+    date: 2018-08-31T00:00:00Z
+    start: 2018-08-30
     workshop: two-day
     blogs: https://librarycarpentry.org/blog/2018/06/26/library-carpentry-inst-training/
     lessons: Carpentries Instructor Training for Librarians
@@ -126,8 +174,14 @@ workshops:
     country: ca
     latitude: 51.077598
     longitude: -114.129888
-    start: 2018-08-28
+    month: August
+    month_: 08
+    start_day: 28
+    end_day: 29
+    year: 2018
     end: 2018-08-29
+    date: 2018-08-29T00:00:00Z
+    start: 2018-08-28
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Shell, Git, OpenRefine
@@ -141,8 +195,14 @@ workshops:
     country: us
     latitude: 34.0223519
     longitude: -118.2873057
-    start: 2018-08-28
+    month: August
+    month_: 08
+    start_day: 28
+    end_day: 29
+    year: 2018
     end: 2018-08-29
+    date: 2018-08-29T00:00:00Z
+    start: 2018-08-28
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Tidy Data for Librarians, Python
@@ -156,8 +216,14 @@ workshops:
     country: ca
     latitude: 43.1175731
     longitude: -79.2476925
-    start: 2018-08-13
+    month: August
+    month_: 08
+    start_day: 13
+    end_day: 14
+    year: 2018
     end: 2018-08-14
+    date: 2018-08-14T00:00:00Z
+    start: 2018-08-13
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Shell, Git, OpenRefine
@@ -171,8 +237,14 @@ workshops:
     country: us
     latitude: 32.231182
     longitude: -110.949154
-    start: 2018-08-06
+    month: August
+    month_: 08
+    start_day: 6
+    end_day: 7
+    year: 2018
     end: 2018-08-7
+    date: 2018-08-07T00:00:00Z
+    start: 2018-08-06
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Shell, Spreadsheets, SQL
@@ -186,8 +258,14 @@ workshops:
     country: us
     latitude: 38.9543439
     longitude: -95.2557961
-    start: 2018-07-11
+    month: July
+    month_: 07
+    start_day: 11
+    end_day: 31
+    year: 2018
     end: 2018-07-31
+    date: 2018-07-31T00:00:00Z
+    start: 2018-07-11
     workshop: multiday
     blogs: 
     lessons: Intro to Data, OpenRefine, SQL, Workflow Enhancement Tools
@@ -201,8 +279,14 @@ workshops:
     country: et
     latitude: 9.010413
     longitude: 38.7416403
-    start: 2018-07-25
+    month: July
+    month_: 07
+    start_day: 25
+    end_day: 27
+    year: 2018
     end: 2018-07-27
+    date: 2018-07-27T00:00:00Z
+    start: 2018-07-25
     workshop: multi-day
     blogs: 
     lessons: Data Intro, Shell, Spreadsheets, OpenRefine
@@ -216,8 +300,14 @@ workshops:
     country: nz
     latitude: -40.3844303
     longitude: 175.5961245
-    start: 2018-07-12
+    month: July
+    month_: 07
+    start_day: 12
+    end_day: 
+    year: 2018
     end: 2018-07-12
+    date: 2018-07-12T00:00:00Z
+    start: 2018-07-12
     workshop: one-day
     blogs: 
     lessons: Data intro, Regex, OpenRefine, Shell
@@ -231,8 +321,14 @@ workshops:
     country: nz
     latitude: -40.3844303
     longitude: 175.5961245
-    start: 2018-07-11
+    month: July
+    month_: 07
+    start_day: 11
+    end_day: 
+    year: 2018
     end: 2018-07-11
+    date: 2018-07-11T00:00:00Z
+    start: 2018-07-11
     workshop: one-day
     blogs: 
     lessons: Data intro, Regex, OpenRefine, Shell
@@ -246,8 +342,14 @@ workshops:
     country: nz
     latitude: -43.5235336
     longitude: 172.5817293
-    start: 2018-07-09
+    month: July
+    month_: 07
+    start_day: 9
+    end_day: 
+    year: 2018
     end: 2018-07-09
+    date: 2018-07-09T00:00:00Z
+    start: 2018-07-09
     workshop: one-day
     blogs: 
     lessons: Data intro, Regex, OpenRefine, Shell
@@ -261,8 +363,14 @@ workshops:
     country: nz
     latitude: -45.864683
     longitude: 170.514423
-    start: 2018-07-05
+    month: July
+    month_: 07
+    start_day: 5
+    end_day: 
+    year: 2018
     end: 2018-07-05
+    date: 2018-07-05T00:00:00Z
+    start: 2018-07-05
     workshop: one-day
     blogs: 
     lessons: 
@@ -276,8 +384,14 @@ workshops:
     country: de
     latitude: 50.81346
     longitude: 8.77164
-    start: 2018-06-25
+    month: June
+    month_: 06
+    start_day: 25
+    end_day: 26
+    year: 2018
     end: 2018-06-26
+    date: 2018-06-26T00:00:00Z
+    start: 2018-06-25
     workshop: two-day
     blogs: 
     lessons: Intro, OpenRefine, Python, Git
@@ -291,8 +405,14 @@ workshops:
     country: us
     latitude: 39.2853908
     longitude: -76.6171126
-    start: 2018-06-10
+    month: June
+    month_: 06
+    start_day: 10
+    end_day: 
+    year: 2018
     end: 2018-06-10
+    date: 2018-06-10T00:00:00Z
+    start: 2018-06-10
     workshop: one-day
     blogs: 
     lessons: Intro, OpenRefine, Python
@@ -306,8 +426,14 @@ workshops:
     country: us
     latitude: 42.346696
     longitude: -71.087095
-    start: 2018-06-08
+    month: June
+    month_: 06
+    start_day: 8
+    end_day: 
+    year: 2018
     end: 2018-06-08
+    date: 2018-06-08T00:00:00Z
+    start: 2018-06-08
     workshop: one-day
     blogs: 
     lessons: Data Intro, UNIX Shell
@@ -321,8 +447,14 @@ workshops:
     country: us
     latitude: 34.074969
     longitude: -118.441466
-    start: 2018-05-24
+    month: May
+    month_: 05
+    start_day: 24
+    end_day: 25
+    year: 2018
     end: 2018-05-25
+    date: 2018-05-25T00:00:00Z
+    start: 2018-05-24
     workshop: two-day
     blogs: 
     lessons: Intro to Data, OpenRefine
@@ -336,8 +468,14 @@ workshops:
     country: gb
     latitude: 55.9465787
     longitude: -3.2032139
-    start: 2018-05-14
+    month: May
+    month_: 05
+    start_day: 14
+    end_day: 15
+    year: 2018
     end: 2018-05-15
+    date: 2018-05-15T00:00:00Z
+    start: 2018-05-14
     workshop: two-day
     blogs: 
     lessons: Intro to Data, OpenRefine, Unix Shell, Python
@@ -351,8 +489,14 @@ workshops:
     country: au
     latitude: -37.7969964
     longitude: 144.9581026
-    start: 2018-05-04
+    month: May
+    month_: 05
+    start_day: 4
+    end_day: 
+    year: 2018
     end: 2018-05-04
+    date: 2018-05-04T00:00:00Z
+    start: 2018-05-04
     workshop: one-day
     blogs: 
     lessons: Intro to Data, OpenRefine, RegEx, Shell
@@ -366,8 +510,14 @@ workshops:
     country: au
     latitude: -27.49699
     longitude: 153.011403
-    start: 2018-05-02
+    month: May
+    month_: 05
+    start_day: 2
+    end_day: 
+    year: 2018
     end: 2018-05-02
+    date: 2018-05-02T00:00:00Z
+    start: 2018-05-02
     workshop: one-day
     blogs: 
     lessons: Intro, OpenRefine, Python
@@ -381,8 +531,14 @@ workshops:
     country: ie
     latitude: 52.2514862
     longitude: -7.1818075
-    start: 2018-04-26
+    month: April
+    month_: 04
+    start_day: 26
+    end_day: 
+    year: 2018
     end: 2018-04-26
+    date: 2018-04-26T00:00:00Z
+    start: 2018-04-26
     workshop: one-day
     blogs: 
     lessons: Intro to Data, UNIX Shell
@@ -396,8 +552,14 @@ workshops:
     country: us
     latitude: 36.145687
     longitude: -86.8024317
-    start: 2018-04-05
+    month: April
+    month_: 04
+    start_day: 5
+    end_day: 6
+    year: 2018
     end: 2018-04-6
+    date: 2018-04-06T00:00:00Z
+    start: 2018-04-05
     workshop: two-day
     blogs: 
     lessons: Tidy data, Shell, OpenRefine, Git
@@ -411,8 +573,14 @@ workshops:
     country: us
     latitude: 44.565074
     longitude: -123.2760409
-    start: 2018-03-23
+    month: March
+    month_: 03
+    start_day: 23
+    end_day: 
+    year: 2018
     end: 2018-03-23
+    date: 2018-03-23T00:00:00Z
+    start: 2018-03-23
     workshop: one-day
     blogs: 
     lessons: Data Intro, Tidy Data, OpenRefine
@@ -426,8 +594,14 @@ workshops:
     country: us
     latitude: 44.0463081
     longitude: -123.0753574
-    start: 2018-03-16
+    month: March
+    month_: 03
+    start_day: 16
+    end_day: 
+    year: 2018
     end: 2018-03-16
+    date: 2018-03-16T00:00:00Z
+    start: 2018-03-16
     workshop: one-day
     blogs: 
     lessons: Data Intro, Tidy Data, OpenRefine
@@ -441,8 +615,14 @@ workshops:
     country: us
     latitude: -117.327482
     longitude: 33.972643
-    start: 2018-03-01
+    month: March
+    month_: 03
+    start_day: 1
+    end_day: 
+    year: 2018
     end: 2018-03-01
+    date: 2018-03-01T00:00:00Z
+    start: 2018-03-01
     workshop: one-day
     blogs: 
     lessons: Data Intro, Shell
@@ -456,8 +636,14 @@ workshops:
     country: au
     latitude: -27.49699
     longitude: 153.011403
-    start: 2017-11-03
+    month: November
+    month_: 11
+    start_day: 3
+    end_day: 
+    year: 2017
     end: 2017-11-03
+    date: 2017-11-03T00:00:00Z
+    start: 2017-11-03
     workshop: one-day
     blogs: 
     lessons: Intro, Shell, OpenRefine
@@ -471,8 +657,14 @@ workshops:
     country: gb
     latitude: 51.4816
     longitude: 0.2799
-    start: 2017-11-07
+    month: November
+    month_: 11
+    start_day: 7
+    end_day: 
+    year: 2017
     end: 2017-11-07
+    date: 2017-11-07T00:00:00Z
+    start: 2017-11-07
     workshop: one-day
     blogs: 
     lessons: Intro, regex, Shell
@@ -486,8 +678,14 @@ workshops:
     country: us
     latitude: 38.9959508
     longitude: -77.101021
-    start: 2017-10-17
+    month: October
+    month_: 10
+    start_day: 17
+    end_day: 18
+    year: 2017
     end: 2017-10-18
+    date: 2017-10-18T00:00:00Z
+    start: 2017-10-17
     workshop: two-day
     blogs: 
     lessons: Data Intro, RegEx, OpenRefine, Unix Shell, Data Visualization with R
@@ -501,8 +699,14 @@ workshops:
     country: za
     latitude: -26.1917112
     longitude: 28.0306693
-    start: 2017-09-10-30
+    month: September-October
+    month_: 09-10
+    start_day: 30
+    end_day: 1
+    year: 2017
     end: 2017-09-10-1
+    date: 
+    start: 2017-09-10-30
     workshop: two-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -516,8 +720,14 @@ workshops:
     country: it
     latitude: 45.406435
     longitude: 11.876761
-    start: 2017-09-14
+    month: September
+    month_: 09
+    start_day: 14
+    end_day: 15
+    year: 2017
     end: 2017-09-15
+    date: 2017-09-15T00:00:00Z
+    start: 2017-09-14
     workshop: two-day
     blogs: 
     lessons: Shell, Git, Open Refine, SQL
@@ -531,8 +741,14 @@ workshops:
     country: us
     latitude: 34.068921
     longitude: -118.4473698
-    start: 2017-09-08
+    month: September
+    month_: 09
+    start_day: 8
+    end_day: 
+    year: 2017
     end: 2017-09-08
+    date: 2017-09-08T00:00:00Z
+    start: 2017-09-08
     workshop: one-day
     blogs: 
     lessons: Shell, Open Refine, SQL
@@ -542,12 +758,18 @@ workshops:
 -
     who: Belinda Weaver
     help: 
-    venue: Curtin University, Western au
+    venue: Curtin University, Western Australia
     country: au
     latitude: -32.0061951
     longitude: 115.8944182
-    start: 2017-08-29
+    month: August
+    month_: 08
+    start_day: 29
+    end_day: 
+    year: 2017
     end: 2017-08-29
+    date: 2017-08-29T00:00:00Z
+    start: 2017-08-29
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -557,12 +779,18 @@ workshops:
 -
     who: Belinda Weaver
     help: Janice Chan, Kate Perry, Katina Toufexis, Aimee Said
-    venue: State Library of Western au, Perth
+    venue: State Library of Western Australia, Perth
     country: au
     latitude: -31.9488801
     longitude: 115.8583056
-    start: 2017-08-18
+    month: August
+    month_: 08
+    start_day: 18
+    end_day: 
+    year: 2017
     end: 2017-08-18
+    date: 2017-08-18T00:00:00Z
+    start: 2017-08-18
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -572,12 +800,18 @@ workshops:
 -
     who: Belinda Weaver
     help: Narsimha Garlapati, Robert Fleet
-    venue: National Library of au, Canberra
+    venue: National Library of Australia, Canberra
     country: au
     latitude: -35.2966195
     longitude: 149.1276331
-    start: 2017-08-21
+    month: August
+    month_: 08
+    start_day: 21
+    end_day: 
+    year: 2017
     end: 2017-08-21
+    date: 2017-08-21T00:00:00Z
+    start: 2017-08-21
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -591,8 +825,14 @@ workshops:
     country: au
     latitude: -33.86686
     longitude: 151.2106624
-    start: 2017-08-14
+    month: August
+    month_: 08
+    start_day: 14
+    end_day: 
+    year: 2017
     end: 2017-08-14
+    date: 2017-08-14T00:00:00Z
+    start: 2017-08-14
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -606,8 +846,14 @@ workshops:
     country: us
     latitude: 32.231187
     longitude: -110.950624
-    start: 2017-08-09
+    month: August
+    month_: 08
+    start_day: 9
+    end_day: 
+    year: 2017
     end: 2017-08-09
+    date: 2017-08-09T00:00:00Z
+    start: 2017-08-09
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine, Git
@@ -621,8 +867,14 @@ workshops:
     country: au
     latitude: -37.8098087
     longitude: 144.963001
-    start: 2017-08-07
+    month: August
+    month_: 08
+    start_day: 7
+    end_day: 
+    year: 2017
     end: 2017-08-07
+    date: 2017-08-07T00:00:00Z
+    start: 2017-08-07
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -632,12 +884,18 @@ workshops:
 -
     who: Belinda Weaver
     help: Liz Walkley-Hall, Aimee Said
-    venue: State Library of South au, Adelaide
+    venue: State Library of South Australia, Adelaide
     country: au
     latitude: -34.92034
     longitude: 138.6001495
-    start: 2017-07-31
+    month: July
+    month_: 07
+    start_day: 31
+    end_day: 
+    year: 2017
     end: 2017-07-31
+    date: 2017-07-31T00:00:00Z
+    start: 2017-07-31
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -651,8 +909,14 @@ workshops:
     country: au
     latitude: -27.4711579
     longitude: 153.0159242
-    start: 2017-07-19
+    month: July
+    month_: 07
+    start_day: 19
+    end_day: 
+    year: 2017
     end: 2017-07-19
+    date: 2017-07-19T00:00:00Z
+    start: 2017-07-19
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -666,8 +930,14 @@ workshops:
     country: au
     latitude: -42.881679
     longitude: 147.3227953
-    start: 2017-07-17
+    month: July
+    month_: 07
+    start_day: 17
+    end_day: 
+    year: 2017
     end: 2017-07-17
+    date: 2017-07-17T00:00:00Z
+    start: 2017-07-17
     workshop: one-day
     blogs: 
     lessons: Jargon busting, regex, Shell, Open Refine
@@ -681,8 +951,14 @@ workshops:
     country: gb
     latitude: 50.86709
     longitude: -0.087914
-    start: 2017-07-12
+    month: July
+    month_: 07
+    start_day: 12
+    end_day: 
+    year: 2017
     end: 2017-07-12
+    date: 2017-07-12T00:00:00Z
+    start: 2017-07-12
     workshop: one-day
     blogs: 
     lessons: Shell, Git, Refine
@@ -692,12 +968,18 @@ workshops:
 -
     who: Carmi Cronje, Fiona Jones
     help: 
-    venue: Canberra (aun Library and Information Association, New Librarians Symposium)
+    venue: Canberra (Australian Library and Information Association, New Librarians Symposium)
     country: au
     latitude: -35.321288
     longitude: 149.095531
-    start: 2017-06-23
+    month: June
+    month_: 06
+    start_day: 23
+    end_day: 
+    year: 2017
     end: 2017-06-23
+    date: 2017-06-23T00:00:00Z
+    start: 2017-06-23
     workshop: one-day
     blogs: 
     lessons: 
@@ -711,8 +993,14 @@ workshops:
     country: us
     latitude: 51.01349
     longitude: -3.101578
-    start: 2017-06-15
+    month: June
+    month_: 06
+    start_day: 15
+    end_day: 
+    year: 2017
     end: 2017-06-15
+    date: 2017-06-15T00:00:00Z
+    start: 2017-06-15
     workshop: one-day
     blogs: 
     lessons: Intro, Git, Maps (bespoke)
@@ -726,8 +1014,14 @@ workshops:
     country: au
     latitude: -33.7757052
     longitude: 151.1130988
-    start: 2017-05-31
+    month: May
+    month_: 05
+    start_day: 31
+    end_day: 
+    year: 2017
     end: 2017-05-31
+    date: 2017-05-31T00:00:00Z
+    start: 2017-05-31
     workshop: one-day
     blogs: 
     lessons: OpenRefine
@@ -741,8 +1035,14 @@ workshops:
     country: us
     latitude: 40.4443533
     longitude: -79.960835
-    start: 2017-05-18
+    month: May
+    month_: 05
+    start_day: 18
+    end_day: 
+    year: 2017
     end: 2017-05-18
+    date: 2017-05-18T00:00:00Z
+    start: 2017-05-18
     workshop: one-day
     blogs: 
     lessons: Bash and OF 
@@ -756,8 +1056,14 @@ workshops:
     country: gb
     latitude: 53.4668498
     longitude: -2.2338837
-    start: 2017-05-18
+    month: May
+    month_: 05
+    start_day: 18
+    end_day: 
+    year: 2017
     end: 2017-05-18
+    date: 2017-05-18T00:00:00Z
+    start: 2017-05-18
     workshop: one-day
     blogs: 
     lessons: Parts of data intro and shell lessons (half-day taster)
@@ -771,8 +1077,14 @@ workshops:
     country: us
     latitude: 42.363042
     longitude: -71.086161
-    start: 2017-05-15
+    month: May
+    month_: 05
+    start_day: 15
+    end_day: 
+    year: 2017
     end: 2017-05-15
+    date: 2017-05-15T00:00:00Z
+    start: 2017-05-15
     workshop: one-day
     blogs: 
     lessons: 
@@ -786,8 +1098,14 @@ workshops:
     country: za
     latitude: -33.957652
     longitude: 18.4611991
-    start: 2017-05-5
+    month: May
+    month_: 05
+    start_day: 5
+    end_day: 
+    year: 2017
     end: 2017-05-5
+    date: 2017-05-05T00:00:00Z
+    start: 2017-05-5
     workshop: one-day
     blogs: 
     lessons: 
@@ -801,8 +1119,14 @@ workshops:
     country: gb
     latitude: 52.2042666
     longitude: 0.1149085
-    start: 2017-04-3
+    month: April
+    month_: 04
+    start_day: 3
+    end_day: 13
+    year: 2017
     end: 2017-04-13
+    date: 2017-04-13T00:00:00Z
+    start: 2017-04-3
     workshop: multi-day
     blogs: 
     lessons: Bespoke shell, refine, python
@@ -816,8 +1140,14 @@ workshops:
     country: gb
     latitude: 41.7901128
     longitude: -87.6007318
-    start: 2017-06-7
+    month: June
+    month_: 06
+    start_day: 7
+    end_day: 23
+    year: 2017
     end: 2017-06-23
+    date: 2017-06-23T00:00:00Z
+    start: 2017-06-7
     workshop: multi-day
     blogs: 
     lessons: Data Intro, Spreadsheets (from DC), OpenRefine, Python
@@ -831,8 +1161,14 @@ workshops:
     country: us
     latitude: 38.9959508
     longitude: -77.101021
-    start: 2017-02-6
+    month: February
+    month_: 02
+    start_day: 6
+    end_day: 7
+    year: 2017
     end: 2017-02-7
+    date: 2017-02-07T00:00:00Z
+    start: 2017-02-6
     workshop: two-day
     blogs: Blog story in 2018 where report(s) will be shared
     lessons: Data Intro, Unix Shell, Git, OpenRefine, Data Visualization w/ R
@@ -846,8 +1182,14 @@ workshops:
     country: nor
     latitude: 59.9399586
     longitude: 10.7217496
-    start: 2017-02-1
+    month: February
+    month_: 02
+    start_day: 1
+    end_day: 3
+    year: 2017
     end: 2017-02-3
+    date: 2017-02-03T00:00:00Z
+    start: 2017-02-1
     workshop: multi-day
     blogs: 
     lessons: Part of ResBaz2017 Oslo https://2017.resbaz.com/oslo http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html
@@ -861,8 +1203,14 @@ workshops:
     country: au
     latitude: -33.7757052
     longitude: 151.1130988
-    start: 2016-12-9
+    month: December
+    month_: 12
+    start_day: 9
+    end_day: 
+    year: 2016
     end: 2016-12-9
+    date: 2016-12-09T00:00:00Z
+    start: 2016-12-9
     workshop: one-day
     blogs: 
     lessons: Git/GitHub using GitHub for Desktop (adapted from DST4L 2015)
@@ -876,8 +1224,14 @@ workshops:
     country: dk
     latitude: 55.786896
     longitude: 12.523244
-    start: 2016-12-7
+    month: December
+    month_: 12
+    start_day: 7
+    end_day: 
+    year: 2016
     end: 2016-12-7
+    date: 2016-12-07T00:00:00Z
+    start: 2016-12-7
     workshop: one-day
     blogs: 
     lessons: Shell Lesson only, as part of http://www.dst4l.info/ event
@@ -891,8 +1245,14 @@ workshops:
     country: au
     latitude: -33.7757052
     longitude: 151.1130988
-    start: 2016-11-25
+    month: November
+    month_: 11
+    start_day: 25
+    end_day: 
+    year: 2016
     end: 2016-11-25
+    date: 2016-11-25T00:00:00Z
+    start: 2016-11-25
     workshop: one-day
     blogs: 
     lessons: Unix Shell
@@ -906,8 +1266,14 @@ workshops:
     country: gb
     latitude: 53.8066815
     longitude: -1.5550328
-    start: 2016-11-21
+    month: November
+    month_: 11
+    start_day: 21
+    end_day: 22
+    year: 2016
     end: 2016-11-22
+    date: 2016-11-22T00:00:00Z
+    start: 2016-11-21
     workshop: two-day
     blogs: 
     lessons: 
@@ -921,8 +1287,14 @@ workshops:
     country: gb
     latitude: 52.2042666
     longitude: 0.1149085
-    start: 2016-11-17
+    month: November
+    month_: 11
+    start_day: 17
+    end_day: 18
+    year: 2016
     end: 2016-11-18
+    date: 2016-11-18T00:00:00Z
+    start: 2016-11-17
     workshop: two-day
     blogs: 
     lessons: LC Open Refine, LC SQL, library-python ("An introduction to working with data for Humanities Researchers - Cambridge Digital Humanities Network")
@@ -936,8 +1308,14 @@ workshops:
     country: au
     latitude: -33.7757052
     longitude: 151.1130988
-    start: 2016-11-11
+    month: November
+    month_: 11
+    start_day: 11
+    end_day: 
+    year: 2016
     end: 2016-11-11
+    date: 2016-11-11T00:00:00Z
+    start: 2016-11-11
     workshop: one-day
     blogs: 
     lessons: OpenRefine
@@ -951,8 +1329,14 @@ workshops:
     country: au
     latitude: -33.7757052
     longitude: 151.1130988
-    start: 2016-11-4
+    month: November
+    month_: 11
+    start_day: 4
+    end_day: 
+    year: 2016
     end: 2016-11-4
+    date: 2016-11-04T00:00:00Z
+    start: 2016-11-4
     workshop: one-day
     blogs: 
     lessons: Data-Intro
@@ -966,8 +1350,14 @@ workshops:
     country: us
     latitude: 37.8746662
     longitude: -122.2570491
-    start: 2016-10-10
+    month: October
+    month_: 10
+    start_day: 10
+    end_day: 11
+    year: 2016
     end: 2016-10-11
+    date: 2016-10-11T00:00:00Z
+    start: 2016-10-10
     workshop: two-day
     blogs: 
     lessons: 
@@ -981,8 +1371,14 @@ workshops:
     country: au
     latitude: -27.4863935
     longitude: 153.0114678
-    start: 2016-09-9
+    month: September
+    month_: 09
+    start_day: 9
+    end_day: 
+    year: 2016
     end: 2016-09-9
+    date: 2016-09-09T00:00:00Z
+    start: 2016-09-9
     workshop: one-day
     blogs: 
     lessons: LC two-day - intro + OR (not the full two-day)
@@ -996,13 +1392,19 @@ workshops:
     country: za
     latitude: -25.7478676
     longitude: 28.2292712
-    start: 2016-08-25
+    month: August
+    month_: 08
+    start_day: 25
+    end_day: 26
+    year: 2016
     end: 2016-08-26
+    date: 2016-08-26T00:00:00Z
+    start: 2016-08-25
     workshop: two-day
     blogs: 
     lessons: LC Module 1, OpenRefine, git/github, and a lesson sprint
     number: 30
-    notes: With http://www.csir.co.za/ and https://nedicc.com/
+    notes: Host: http://www.csir.co.za/; with: https://nedicc.com/
     site: 
 -
     who: Belinda Weaver
@@ -1011,8 +1413,14 @@ workshops:
     country: au
     latitude: 
     longitude: 
-    start: 2016-08-30
+    month: August
+    month_: 08
+    start_day: 30
+    end_day: 30
+    year: 2016
     end: 2016-08-30
+    date: 2016-08-30T00:00:00Z
+    start: 2016-08-30
     workshop: other
     blogs: 
     lessons: LC two-day - intro + OR (not the full two-day)
@@ -1026,8 +1434,14 @@ workshops:
     country: ca
     latitude: 43.6628917
     longitude: -79.3956564
-    start: 2016-07-28
+    month: July
+    month_: 07
+    start_day: 28
+    end_day: 29
+    year: 2016
     end: 2016-07-29
+    date: 2016-07-29T00:00:00Z
+    start: 2016-07-28
     workshop: two-day
     blogs: http://software-carpentry.org/blog/2016/07/library-carpentry-in-toronto.html
     lessons: 
@@ -1041,8 +1455,14 @@ workshops:
     country: us
     latitude: 32.8800604
     longitude: -117.2340135
-    start: 2016-07-18
+    month: July
+    month_: 07
+    start_day: 18
+    end_day: 22
+    year: 2016
     end: 2016-07-22
+    date: 2016-07-22T00:00:00Z
+    start: 2016-07-18
     workshop: multi-day
     blogs: http://software-carpentry.org/blog/2016/08/lc-at-ucsd.html
     lessons: 
@@ -1056,8 +1476,14 @@ workshops:
     country: au
     latitude: -19.3275726
     longitude: 146.7580624
-    start: 2016-07-14
+    month: July
+    month_: 07
+    start_day: 14
+    end_day: 15
+    year: 2016
     end: 2016-07-15
+    date: 2016-07-15T00:00:00Z
+    start: 2016-07-14
     workshop: two-day
     blogs: http://software-carpentry.org/blog/2016/07/librarycarpentry-jcu.html
     lessons: 
@@ -1071,8 +1497,14 @@ workshops:
     country: ch
     latitude: 47.559404
     longitude: 7.581201
-    start: 2016-06-23
+    month: June
+    month_: 06
+    start_day: 23
+    end_day: 24
+    year: 2016
     end: 2016-06-24
+    date: 2016-06-24T00:00:00Z
+    start: 2016-06-23
     workshop: two-day
     blogs: 
     lessons: 
@@ -1086,8 +1518,14 @@ workshops:
     country: au
     latitude: -27.4954306
     longitude: 153.0120301
-    start: 2016-06-13
+    month: June
+    month_: 06
+    start_day: 13
+    end_day: 14
+    year: 2016
     end: 2016-06-14
+    date: 2016-06-14T00:00:00Z
+    start: 2016-06-13
     workshop: two-day
     blogs: http://software-carpentry.org/blog/2016/06/LCtwo-day.html
     lessons: 
@@ -1101,8 +1539,14 @@ workshops:
     country: nor
     latitude: 59.9399586
     longitude: 10.7217496
-    start: 2016-03-17
+    month: March
+    month_: 03
+    start_day: 17
+    end_day: 18
+    year: 2016
     end: 2016-03-18
+    date: 2016-03-18T00:00:00Z
+    start: 2016-03-17
     workshop: two-day
     blogs: http://software-carpentry.org/blog/2016/04/carpentry_week_2016_oslo.html
     lessons: 
@@ -1116,8 +1560,14 @@ workshops:
     country: au
     latitude: -27.3818631
     longitude: 152.713001
-    start: 2016-02-02
+    month: February
+    month_: 02
+    start_day: 
+    end_day: 2
+    year: 2016
     end: 2016-02-2
+    date: 2016-02-02T00:00:00Z
+    start: 2016-02-02
     workshop: other
     blogs: 
     lessons: LC Module 1 only (jargon, data structures, regex)
@@ -1131,8 +1581,14 @@ workshops:
     country: gb
     latitude: 51.5280395
     longitude: -0.1015937
-    start: 2015-11-09
+    month: November
+    month_: 11
+    start_day: 9
+    end_day: 30
+    year: 2015
     end: 2015-11-30
+    date: 2015-11-30T00:00:00Z
+    start: 2015-11-09
     workshop: other
     blogs: https://cradledincaricature.com/2015/12/01/library-carpentry-in-words-and-numbers-all-code-no-woodwork/
     lessons: 
@@ -1146,8 +1602,14 @@ workshops:
     country: ca
     latitude: 49.328984
     longitude: -123.165847
-    start: 2015-07-9
+    month: July
+    month_: 07
+    start_day: 9
+    end_day: 10
+    year: 2015
     end: 2015-07-10
+    date: 2015-07-10T00:00:00Z
+    start: 2015-07-9
     workshop: two-day
     blogs: 
     lessons: 
@@ -1161,8 +1623,14 @@ workshops:
     country: ca
     latitude: 53.542948
     longitude: -113.489552
-    start: 2014-12-15
+    month: December
+    month_: 12
+    start_day: 15
+    end_day: 16
+    year: 2014
     end: 2014-12-16
+    date: 2014-12-16T00:00:00Z
+    start: 2014-12-15
     workshop: two-day
     blogs: 
     lessons: 
@@ -1176,8 +1644,14 @@ workshops:
     country: us
     latitude: 40.751901
     longitude: -73.981692
-    start: 2014-08-6
+    month: August
+    month_: 08
+    start_day: 6
+    end_day: 7
+    year: 2014
     end: 2014-08-7
+    date: 2014-08-07T00:00:00Z
+    start: 2014-08-6
     workshop: two-day
     blogs: 
     lessons: 
@@ -1191,8 +1665,14 @@ workshops:
     country: ca
     latitude: 43.6628917
     longitude: -79.3956564
-    start: 2014-07-15
+    month: July
+    month_: 07
+    start_day: 15
+    end_day: 16
+    year: 2014
     end: 2014-07-16
+    date: 2014-07-16T00:00:00Z
+    start: 2014-07-15
     workshop: two-day
     blogs: 
     lessons: 
@@ -1206,8 +1686,14 @@ workshops:
     country: ca
     latitude: 53.542948
     longitude: -113.489552
-    start: 2014-07-10
+    month: July
+    month_: 07
+    start_day: 10
+    end_day: 11
+    year: 2014
     end: 2014-07-11
+    date: 2014-07-11T00:00:00Z
+    start: 2014-07-10
     workshop: two-day
     blogs: 
     lessons: 
@@ -1221,8 +1707,14 @@ workshops:
     country: ca
     latitude: 43.6628917
     longitude: -79.3956564
-    start: 2014-01-13
+    month: January
+    month_: 01
+    start_day: 13
+    end_day: 14
+    year: 2014
     end: 2014-01-14
+    date: 2014-01-14T00:00:00Z
+    start: 2014-01-13
     workshop: two-day
     blogs: 
     lessons: 
@@ -1236,8 +1728,14 @@ workshops:
     country: us
     latitude: 42.3770029
     longitude: -71.1166601
-    start: 2013-08-23
+    month: August
+    month_: 08
+    start_day: 23
+    end_day: 24
+    year: 2013
     end: 2013-08-24
+    date: 2013-08-24T00:00:00Z
+    start: 2013-08-23
     workshop: two-day
     blogs: http://library.harvard.edu/02042014-1336/harvard-library-offers-data-scientist-training
     lessons: 
