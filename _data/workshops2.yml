@@ -1,47 +1,5 @@
 workshops:
 -
-    who: Hugo Huurdeman, Fredrik Hovind Juell, Ahmed Abdi Mohammed, Dan Michael O. Heggø, Kyrre Traavik Låberg
-    help: 
-    venue: University of Oslo Science Library
-    country: nor
-    latitude: 59.9399586
-    longitude: 10.7217496
-    month: June
-    month_: 06
-    start_day: 14
-    end_day: 14
-    year: 2017
-    end: 2017-06-14
-    date: 2017-06-14T00:00:00Z
-    start: 2017-06-14
-    workshop: one-day
-    blogs: 
-    lessons: OpenRefine followed by training on using visualisation tools. 
-    number: 20
-    notes: From Data to Visuals: Data Processing & Visualization workshop
-    site: https://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170614.html
--
-    who: Danielle Kane, Laura Smart
-    help: Raymond Camero, Kelly Spring, Ashley Burke, Archana Chaudhri
-    venue: University of California, Irvine
-    country: us
-    latitude: 33.3844
-    longitude: 117.5033
-    month: March
-    month_: 03
-    start_day: 28
-    end_day: 29
-    year: 2018
-    end: 2018-03-29
-    date: 2018-03-29T00:00:00Z
-    start: 2018-03-28
-    workshop: two-day
-    blogs: 
-    lessons: Shell, Git, Python
-    number: 22
-    notes: 
-    site: https://uci-libraries.github.io/2018-03-28-UCI/
--
     who: Chris Erdmann, Juliane Schneider, Veronica Ikeshoji-Orlati
     help: Mary Ellen Sloane
     venue: Middle Tennesse State University
@@ -49,11 +7,11 @@ workshops:
     latitude: 35.8486105
     longitude: -86.3648813
     month: January
-    month_: 01
+    month_: 1
     start_day: 7
     end_day: 9
     year: 2019
-    end: 2019-01-9
+    end: 2019-01-09
     date: 2019-01-09T00:00:00Z
     start: 2019-01-07
     workshop: multi-day
@@ -91,7 +49,7 @@ workshops:
     latitude: 60.38783
     longitude: 5.31968
     month: September
-    month_: 09
+    month_: 9
     start_day: 25
     end_day: 26
     year: 2018
@@ -112,7 +70,7 @@ workshops:
     latitude: 53.5444
     longitude: -113.4909
     month: August
-    month_: 08
+    month_: 8
     start_day: 15
     end_day: 31
     year: 2018
@@ -133,7 +91,7 @@ workshops:
     latitude: 53.3496182
     longitude: -6.2466774
     month: August
-    month_: 08
+    month_: 8
     start_day: 31
     end_day: 
     year: 2018
@@ -154,7 +112,7 @@ workshops:
     latitude: 51.077598
     longitude: -114.129888
     month: August
-    month_: 08
+    month_: 8
     start_day: 30
     end_day: 31
     year: 2018
@@ -175,7 +133,7 @@ workshops:
     latitude: 51.077598
     longitude: -114.129888
     month: August
-    month_: 08
+    month_: 8
     start_day: 28
     end_day: 29
     year: 2018
@@ -196,7 +154,7 @@ workshops:
     latitude: 34.0223519
     longitude: -118.2873057
     month: August
-    month_: 08
+    month_: 8
     start_day: 28
     end_day: 29
     year: 2018
@@ -217,7 +175,7 @@ workshops:
     latitude: 43.1175731
     longitude: -79.2476925
     month: August
-    month_: 08
+    month_: 8
     start_day: 13
     end_day: 14
     year: 2018
@@ -238,11 +196,11 @@ workshops:
     latitude: 32.231182
     longitude: -110.949154
     month: August
-    month_: 08
+    month_: 8
     start_day: 6
     end_day: 7
     year: 2018
-    end: 2018-08-7
+    end: 2018-08-07
     date: 2018-08-07T00:00:00Z
     start: 2018-08-06
     workshop: two-day
@@ -259,7 +217,7 @@ workshops:
     latitude: 38.9543439
     longitude: -95.2557961
     month: July
-    month_: 07
+    month_: 7
     start_day: 11
     end_day: 31
     year: 2018
@@ -280,7 +238,7 @@ workshops:
     latitude: 9.010413
     longitude: 38.7416403
     month: July
-    month_: 07
+    month_: 7
     start_day: 25
     end_day: 27
     year: 2018
@@ -301,7 +259,7 @@ workshops:
     latitude: -40.3844303
     longitude: 175.5961245
     month: July
-    month_: 07
+    month_: 7
     start_day: 12
     end_day: 
     year: 2018
@@ -322,7 +280,7 @@ workshops:
     latitude: -40.3844303
     longitude: 175.5961245
     month: July
-    month_: 07
+    month_: 7
     start_day: 11
     end_day: 
     year: 2018
@@ -343,7 +301,7 @@ workshops:
     latitude: -43.5235336
     longitude: 172.5817293
     month: July
-    month_: 07
+    month_: 7
     start_day: 9
     end_day: 
     year: 2018
@@ -364,7 +322,7 @@ workshops:
     latitude: -45.864683
     longitude: 170.514423
     month: July
-    month_: 07
+    month_: 7
     start_day: 5
     end_day: 
     year: 2018
@@ -385,7 +343,7 @@ workshops:
     latitude: 50.81346
     longitude: 8.77164
     month: June
-    month_: 06
+    month_: 6
     start_day: 25
     end_day: 26
     year: 2018
@@ -406,7 +364,7 @@ workshops:
     latitude: 39.2853908
     longitude: -76.6171126
     month: June
-    month_: 06
+    month_: 6
     start_day: 10
     end_day: 
     year: 2018
@@ -427,7 +385,7 @@ workshops:
     latitude: 42.346696
     longitude: -71.087095
     month: June
-    month_: 06
+    month_: 6
     start_day: 8
     end_day: 
     year: 2018
@@ -448,7 +406,7 @@ workshops:
     latitude: 34.074969
     longitude: -118.441466
     month: May
-    month_: 05
+    month_: 5
     start_day: 24
     end_day: 25
     year: 2018
@@ -469,7 +427,7 @@ workshops:
     latitude: 55.9465787
     longitude: -3.2032139
     month: May
-    month_: 05
+    month_: 5
     start_day: 14
     end_day: 15
     year: 2018
@@ -490,7 +448,7 @@ workshops:
     latitude: -37.7969964
     longitude: 144.9581026
     month: May
-    month_: 05
+    month_: 5
     start_day: 4
     end_day: 
     year: 2018
@@ -511,7 +469,7 @@ workshops:
     latitude: -27.49699
     longitude: 153.011403
     month: May
-    month_: 05
+    month_: 5
     start_day: 2
     end_day: 
     year: 2018
@@ -532,7 +490,7 @@ workshops:
     latitude: 52.2514862
     longitude: -7.1818075
     month: April
-    month_: 04
+    month_: 4
     start_day: 26
     end_day: 
     year: 2018
@@ -553,11 +511,11 @@ workshops:
     latitude: 36.145687
     longitude: -86.8024317
     month: April
-    month_: 04
+    month_: 4
     start_day: 5
     end_day: 6
     year: 2018
-    end: 2018-04-6
+    end: 2018-04-06
     date: 2018-04-06T00:00:00Z
     start: 2018-04-05
     workshop: two-day
@@ -567,6 +525,27 @@ workshops:
     notes: 
     site: https://vai2fc.github.io/2018-04-05-vanderbilt/
 -
+    who: Danielle Kane, Laura Smart
+    help: Raymond Camero, Kelly Spring, Ashley Burke, Archana Chaudhri
+    venue: University of California, Irvine
+    country: us
+    latitude: 33.3844
+    longitude: 117.5033
+    month: March
+    month_: 3
+    start_day: 28
+    end_day: 29
+    year: 2018
+    end: 2018-03-29
+    date: 2018-03-29T00:00:00Z
+    start: 2018-03-28
+    workshop: two-day
+    blogs: 
+    lessons: Shell, Git, Python
+    number: 22
+    notes: 
+    site: https://uci-libraries.github.io/2018-03-28-UCI/
+-
     who: Sarah Seymore, Steven Van Tuyl, Clara Llebot
     help: Jonathan Cain, Ryan Wick
     venue: University of Oregon, Price Science Commons Library
@@ -574,7 +553,7 @@ workshops:
     latitude: 44.565074
     longitude: -123.2760409
     month: March
-    month_: 03
+    month_: 3
     start_day: 23
     end_day: 
     year: 2018
@@ -595,7 +574,7 @@ workshops:
     latitude: 44.0463081
     longitude: -123.0753574
     month: March
-    month_: 03
+    month_: 3
     start_day: 16
     end_day: 
     year: 2018
@@ -616,7 +595,7 @@ workshops:
     latitude: -117.327482
     longitude: 33.972643
     month: March
-    month_: 03
+    month_: 3
     start_day: 1
     end_day: 
     year: 2018
@@ -629,27 +608,6 @@ workshops:
     number: 18
     notes: 
     site: https://ljsmart.github.io/2018-03-01-UCDLF/
--
-    who: Belinda Weaver, Paula Martinez
-    help: Kylie Poulton, Julie Toohey, Richard Vankoningsveld
-    venue: QULOC-LISWP, The University of Queenslan
-    country: au
-    latitude: -27.49699
-    longitude: 153.011403
-    month: November
-    month_: 11
-    start_day: 3
-    end_day: 
-    year: 2017
-    end: 2017-11-03
-    date: 2017-11-03T00:00:00Z
-    start: 2017-11-03
-    workshop: one-day
-    blogs: 
-    lessons: Intro, Shell, OpenRefine
-    number: 26
-    notes: 
-    site: https://weaverbel.github.io/2017-11-03-liswp/
 -
     who: James Baker
     help: 
@@ -671,6 +629,27 @@ workshops:
     number: 
     notes: 
     site: https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-day-tickets-36187449636
+-
+    who: Belinda Weaver, Paula Martinez
+    help: Kylie Poulton, Julie Toohey, Richard Vankoningsveld
+    venue: QULOC-LISWP, The University of Queenslan
+    country: au
+    latitude: -27.49699
+    longitude: 153.011403
+    month: November
+    month_: 11
+    start_day: 3
+    end_day: 
+    year: 2017
+    end: 2017-11-03
+    date: 2017-11-03T00:00:00Z
+    start: 2017-11-03
+    workshop: one-day
+    blogs: 
+    lessons: Intro, Shell, OpenRefine
+    number: 26
+    notes: 
+    site: https://weaverbel.github.io/2017-11-03-liswp/
 -
     who: Chris Belter, Kate Masterton, Mike Davidson, Lisa Federer, Katie Chan
     help: Rachit Bahtia
@@ -700,12 +679,12 @@ workshops:
     latitude: -26.1917112
     longitude: 28.0306693
     month: September-October
-    month_: 09-10
+    month_: 9
     start_day: 30
     end_day: 1
     year: 2017
     end: 2017-09-10-1
-    date: 
+    date: 2017-10-01T00:00:00Z
     start: 2017-09-10-30
     workshop: two-day
     blogs: 
@@ -721,7 +700,7 @@ workshops:
     latitude: 45.406435
     longitude: 11.876761
     month: September
-    month_: 09
+    month_: 9
     start_day: 14
     end_day: 15
     year: 2017
@@ -742,7 +721,7 @@ workshops:
     latitude: 34.068921
     longitude: -118.4473698
     month: September
-    month_: 09
+    month_: 9
     start_day: 8
     end_day: 
     year: 2017
@@ -763,7 +742,7 @@ workshops:
     latitude: -32.0061951
     longitude: 115.8944182
     month: August
-    month_: 08
+    month_: 8
     start_day: 29
     end_day: 
     year: 2017
@@ -778,34 +757,13 @@ workshops:
     site: 
 -
     who: Belinda Weaver
-    help: Janice Chan, Kate Perry, Katina Toufexis, Aimee Said
-    venue: State Library of Western Australia, Perth
-    country: au
-    latitude: -31.9488801
-    longitude: 115.8583056
-    month: August
-    month_: 08
-    start_day: 18
-    end_day: 
-    year: 2017
-    end: 2017-08-18
-    date: 2017-08-18T00:00:00Z
-    start: 2017-08-18
-    workshop: one-day
-    blogs: 
-    lessons: Jargon busting, regex, Shell, Open Refine
-    number: 39
-    notes: This is one of a series of two-days funded by NSLA.
-    site: 
--
-    who: Belinda Weaver
     help: Narsimha Garlapati, Robert Fleet
     venue: National Library of Australia, Canberra
     country: au
     latitude: -35.2966195
     longitude: 149.1276331
     month: August
-    month_: 08
+    month_: 8
     start_day: 21
     end_day: 
     year: 2017
@@ -820,13 +778,34 @@ workshops:
     site: https://weaverbel.github.io/nsla-one-day/
 -
     who: Belinda Weaver
+    help: Janice Chan, Kate Perry, Katina Toufexis, Aimee Said
+    venue: State Library of Western Australia, Perth
+    country: au
+    latitude: -31.9488801
+    longitude: 115.8583056
+    month: August
+    month_: 8
+    start_day: 18
+    end_day: 
+    year: 2017
+    end: 2017-08-18
+    date: 2017-08-18T00:00:00Z
+    start: 2017-08-18
+    workshop: one-day
+    blogs: 
+    lessons: Jargon busting, regex, Shell, Open Refine
+    number: 39
+    notes: This is one of a series of two-days funded by NSLA.
+    site: 
+-
+    who: Belinda Weaver
     help: Weisi Chen, Daniel Bangert, Cristina Lee
     venue: State Library of NSW, Sydney
     country: au
     latitude: -33.86686
     longitude: 151.2106624
     month: August
-    month_: 08
+    month_: 8
     start_day: 14
     end_day: 
     year: 2017
@@ -847,7 +826,7 @@ workshops:
     latitude: 32.231187
     longitude: -110.950624
     month: August
-    month_: 08
+    month_: 8
     start_day: 9
     end_day: 
     year: 2017
@@ -868,7 +847,7 @@ workshops:
     latitude: -37.8098087
     longitude: 144.963001
     month: August
-    month_: 08
+    month_: 8
     start_day: 7
     end_day: 
     year: 2017
@@ -889,7 +868,7 @@ workshops:
     latitude: -34.92034
     longitude: 138.6001495
     month: July
-    month_: 07
+    month_: 7
     start_day: 31
     end_day: 
     year: 2017
@@ -910,7 +889,7 @@ workshops:
     latitude: -27.4711579
     longitude: 153.0159242
     month: July
-    month_: 07
+    month_: 7
     start_day: 19
     end_day: 
     year: 2017
@@ -931,7 +910,7 @@ workshops:
     latitude: -42.881679
     longitude: 147.3227953
     month: July
-    month_: 07
+    month_: 7
     start_day: 17
     end_day: 
     year: 2017
@@ -952,7 +931,7 @@ workshops:
     latitude: 50.86709
     longitude: -0.087914
     month: July
-    month_: 07
+    month_: 7
     start_day: 12
     end_day: 
     year: 2017
@@ -973,7 +952,7 @@ workshops:
     latitude: -35.321288
     longitude: 149.095531
     month: June
-    month_: 06
+    month_: 6
     start_day: 23
     end_day: 
     year: 2017
@@ -987,6 +966,27 @@ workshops:
     notes: Parts of 1 and 4
     site: http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf
 -
+    who: Jez Cope, Martin Callaghan, Elly Cope
+    help: Claire Green, Kat Koler, Anna Krystalli, Angus Taggart
+    venue: University of Sheffield
+    country: gb
+    latitude: 41.7901128
+    longitude: -87.6007318
+    month: June
+    month_: 6
+    start_day: 7
+    end_day: 23
+    year: 2017
+    end: 2017-06-23
+    date: 2017-06-23T00:00:00Z
+    start: 2017-06-07
+    workshop: multi-day
+    blogs: 
+    lessons: Data Intro, Spreadsheets (from DC), OpenRefine, Python
+    number: 51
+    notes: 
+    site: https://jezcope.github.io/2017-03-07-sheffield-lc/
+-
     who: Dave Rowe
     help: 
     venue: Taunton Public Library, Massachusetts
@@ -994,7 +994,7 @@ workshops:
     latitude: 51.01349
     longitude: -3.101578
     month: June
-    month_: 06
+    month_: 6
     start_day: 15
     end_day: 
     year: 2017
@@ -1008,6 +1008,27 @@ workshops:
     notes: https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629
     site: https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629
 -
+    who: Hugo Huurdeman, Fredrik Hovind Juell, Ahmed Abdi Mohammed, Dan Michael O. Heggø, Kyrre Traavik Låberg
+    help: 
+    venue: University of Oslo Science Library
+    country: nor
+    latitude: 59.9399586
+    longitude: 10.7217496
+    month: June
+    month_: 6
+    start_day: 14
+    end_day: 14
+    year: 2017
+    end: 2017-06-14
+    date: 2017-06-14T00:00:00Z
+    start: 2017-06-14
+    workshop: one-day
+    blogs: 
+    lessons: OpenRefine followed by training on using visualisation tools. 
+    number: 20
+    notes: From Data to Visuals: Data Processing & Visualization workshop
+    site: https://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170614.html
+-
     who: Carmi Cronje, Fiona Jones
     help: 
     venue: Macquarie University Library, Sydney
@@ -1015,7 +1036,7 @@ workshops:
     latitude: -33.7757052
     longitude: 151.1130988
     month: May
-    month_: 05
+    month_: 5
     start_day: 31
     end_day: 
     year: 2017
@@ -1036,7 +1057,7 @@ workshops:
     latitude: 40.4443533
     longitude: -79.960835
     month: May
-    month_: 05
+    month_: 5
     start_day: 18
     end_day: 
     year: 2017
@@ -1057,7 +1078,7 @@ workshops:
     latitude: 53.4668498
     longitude: -2.2338837
     month: May
-    month_: 05
+    month_: 5
     start_day: 18
     end_day: 
     year: 2017
@@ -1078,7 +1099,7 @@ workshops:
     latitude: 42.363042
     longitude: -71.086161
     month: May
-    month_: 05
+    month_: 5
     start_day: 15
     end_day: 
     year: 2017
@@ -1099,13 +1120,13 @@ workshops:
     latitude: -33.957652
     longitude: 18.4611991
     month: May
-    month_: 05
+    month_: 5
     start_day: 5
     end_day: 
     year: 2017
-    end: 2017-05-5
+    end: 2017-05-05
     date: 2017-05-05T00:00:00Z
-    start: 2017-05-5
+    start: 2017-05-05
     workshop: one-day
     blogs: 
     lessons: 
@@ -1120,40 +1141,19 @@ workshops:
     latitude: 52.2042666
     longitude: 0.1149085
     month: April
-    month_: 04
+    month_: 4
     start_day: 3
     end_day: 13
     year: 2017
     end: 2017-04-13
     date: 2017-04-13T00:00:00Z
-    start: 2017-04-3
+    start: 2017-04-03
     workshop: multi-day
     blogs: 
     lessons: Bespoke shell, refine, python
     number: 
     notes: Locally run event not directly supported by LC https://camlit.wordpress.com/2017/02/01/software-skills-for-librarians/ http://www.cl.cam.ac.uk/~ncc25/libcarp/index.html
     site: 
--
-    who: Jez Cope, Martin Callaghan, Elly Cope
-    help: Claire Green, Kat Koler, Anna Krystalli, Angus Taggart
-    venue: University of Sheffield
-    country: gb
-    latitude: 41.7901128
-    longitude: -87.6007318
-    month: June
-    month_: 06
-    start_day: 7
-    end_day: 23
-    year: 2017
-    end: 2017-06-23
-    date: 2017-06-23T00:00:00Z
-    start: 2017-06-7
-    workshop: multi-day
-    blogs: 
-    lessons: Data Intro, Spreadsheets (from DC), OpenRefine, Python
-    number: 51
-    notes: 
-    site: https://jezcope.github.io/2017-03-07-sheffield-lc/
 -
     who: Ben Busby, Chris Belter, Chris Maloney, Mike Davidson, Lisa Federer
     help: Kate Masterton, Liz Amos
@@ -1162,13 +1162,13 @@ workshops:
     latitude: 38.9959508
     longitude: -77.101021
     month: February
-    month_: 02
+    month_: 2
     start_day: 6
     end_day: 7
     year: 2017
-    end: 2017-02-7
+    end: 2017-02-07
     date: 2017-02-07T00:00:00Z
-    start: 2017-02-6
+    start: 2017-02-06
     workshop: two-day
     blogs: Blog story in 2018 where report(s) will be shared
     lessons: Data Intro, Unix Shell, Git, OpenRefine, Data Visualization w/ R
@@ -1183,13 +1183,13 @@ workshops:
     latitude: 59.9399586
     longitude: 10.7217496
     month: February
-    month_: 02
+    month_: 2
     start_day: 1
     end_day: 3
     year: 2017
-    end: 2017-02-3
+    end: 2017-02-03
     date: 2017-02-03T00:00:00Z
-    start: 2017-02-1
+    start: 2017-02-01
     workshop: multi-day
     blogs: 
     lessons: Part of ResBaz2017 Oslo https://2017.resbaz.com/oslo http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html
@@ -1208,9 +1208,9 @@ workshops:
     start_day: 9
     end_day: 
     year: 2016
-    end: 2016-12-9
+    end: 2016-12-09
     date: 2016-12-09T00:00:00Z
-    start: 2016-12-9
+    start: 2016-12-09
     workshop: one-day
     blogs: 
     lessons: Git/GitHub using GitHub for Desktop (adapted from DST4L 2015)
@@ -1229,9 +1229,9 @@ workshops:
     start_day: 7
     end_day: 
     year: 2016
-    end: 2016-12-7
+    end: 2016-12-07
     date: 2016-12-07T00:00:00Z
-    start: 2016-12-7
+    start: 2016-12-07
     workshop: one-day
     blogs: 
     lessons: Shell Lesson only, as part of http://www.dst4l.info/ event
@@ -1334,9 +1334,9 @@ workshops:
     start_day: 4
     end_day: 
     year: 2016
-    end: 2016-11-4
+    end: 2016-11-04
     date: 2016-11-04T00:00:00Z
-    start: 2016-11-4
+    start: 2016-11-04
     workshop: one-day
     blogs: 
     lessons: Data-Intro
@@ -1372,39 +1372,18 @@ workshops:
     latitude: -27.4863935
     longitude: 153.0114678
     month: September
-    month_: 09
+    month_: 9
     start_day: 9
     end_day: 
     year: 2016
-    end: 2016-09-9
+    end: 2016-09-09
     date: 2016-09-09T00:00:00Z
-    start: 2016-09-9
+    start: 2016-09-09
     workshop: one-day
     blogs: 
     lessons: LC two-day - intro + OR (not the full two-day)
     number: 12
     notes: Bits of 1 and 4
-    site: 
--
-    who: Anelda van der Walt, Cam Macdonell
-    help: 
-    venue: Council for Scientific and Industrial Research
-    country: za
-    latitude: -25.7478676
-    longitude: 28.2292712
-    month: August
-    month_: 08
-    start_day: 25
-    end_day: 26
-    year: 2016
-    end: 2016-08-26
-    date: 2016-08-26T00:00:00Z
-    start: 2016-08-25
-    workshop: two-day
-    blogs: 
-    lessons: LC Module 1, OpenRefine, git/github, and a lesson sprint
-    number: 30
-    notes: Host: http://www.csir.co.za/; with: https://nedicc.com/
     site: 
 -
     who: Belinda Weaver
@@ -1414,7 +1393,7 @@ workshops:
     latitude: 
     longitude: 
     month: August
-    month_: 08
+    month_: 8
     start_day: 30
     end_day: 30
     year: 2016
@@ -1428,6 +1407,27 @@ workshops:
     notes: Bits of 1 and 4
     site: 
 -
+    who: Anelda van der Walt, Cam Macdonell
+    help: 
+    venue: Council for Scientific and Industrial Research
+    country: za
+    latitude: -25.7478676
+    longitude: 28.2292712
+    month: August
+    month_: 8
+    start_day: 25
+    end_day: 26
+    year: 2016
+    end: 2016-08-26
+    date: 2016-08-26T00:00:00Z
+    start: 2016-08-25
+    workshop: two-day
+    blogs: 
+    lessons: LC Module 1, OpenRefine, git/github, and a lesson sprint
+    number: 30
+    notes: Host: http://www.csir.co.za/; with: https://nedicc.com/
+    site: 
+-
     who: Kim Pham, Leanne Trimble, Greg Wilson, Nich Worby, Thomas Guignard
     help: Nancy Fong, Leslie Barnes, Bella Ban, Sean Zhao, Stephanie Pegg, Andy Wagner
     venue: University of Toronto
@@ -1435,7 +1435,7 @@ workshops:
     latitude: 43.6628917
     longitude: -79.3956564
     month: July
-    month_: 07
+    month_: 7
     start_day: 28
     end_day: 29
     year: 2016
@@ -1456,7 +1456,7 @@ workshops:
     latitude: 32.8800604
     longitude: -117.2340135
     month: July
-    month_: 07
+    month_: 7
     start_day: 18
     end_day: 22
     year: 2016
@@ -1477,7 +1477,7 @@ workshops:
     latitude: -19.3275726
     longitude: 146.7580624
     month: July
-    month_: 07
+    month_: 7
     start_day: 14
     end_day: 15
     year: 2016
@@ -1498,7 +1498,7 @@ workshops:
     latitude: 47.559404
     longitude: 7.581201
     month: June
-    month_: 06
+    month_: 6
     start_day: 23
     end_day: 24
     year: 2016
@@ -1519,7 +1519,7 @@ workshops:
     latitude: -27.4954306
     longitude: 153.0120301
     month: June
-    month_: 06
+    month_: 6
     start_day: 13
     end_day: 14
     year: 2016
@@ -1540,7 +1540,7 @@ workshops:
     latitude: 59.9399586
     longitude: 10.7217496
     month: March
-    month_: 03
+    month_: 3
     start_day: 17
     end_day: 18
     year: 2016
@@ -1561,11 +1561,11 @@ workshops:
     latitude: -27.3818631
     longitude: 152.713001
     month: February
-    month_: 02
+    month_: 2
     start_day: 
     end_day: 2
     year: 2016
-    end: 2016-02-2
+    end: 2016-02-02
     date: 2016-02-02T00:00:00Z
     start: 2016-02-02
     workshop: other
@@ -1603,13 +1603,13 @@ workshops:
     latitude: 49.328984
     longitude: -123.165847
     month: July
-    month_: 07
+    month_: 7
     start_day: 9
     end_day: 10
     year: 2015
     end: 2015-07-10
     date: 2015-07-10T00:00:00Z
-    start: 2015-07-9
+    start: 2015-07-09
     workshop: two-day
     blogs: 
     lessons: 
@@ -1645,13 +1645,13 @@ workshops:
     latitude: 40.751901
     longitude: -73.981692
     month: August
-    month_: 08
+    month_: 8
     start_day: 6
     end_day: 7
     year: 2014
-    end: 2014-08-7
+    end: 2014-08-07
     date: 2014-08-07T00:00:00Z
-    start: 2014-08-6
+    start: 2014-08-06
     workshop: two-day
     blogs: 
     lessons: 
@@ -1666,7 +1666,7 @@ workshops:
     latitude: 43.6628917
     longitude: -79.3956564
     month: July
-    month_: 07
+    month_: 7
     start_day: 15
     end_day: 16
     year: 2014
@@ -1687,7 +1687,7 @@ workshops:
     latitude: 53.542948
     longitude: -113.489552
     month: July
-    month_: 07
+    month_: 7
     start_day: 10
     end_day: 11
     year: 2014
@@ -1708,7 +1708,7 @@ workshops:
     latitude: 43.6628917
     longitude: -79.3956564
     month: January
-    month_: 01
+    month_: 1
     start_day: 13
     end_day: 14
     year: 2014
@@ -1729,7 +1729,7 @@ workshops:
     latitude: 42.3770029
     longitude: -71.1166601
     month: August
-    month_: 08
+    month_: 8
     start_day: 23
     end_day: 24
     year: 2013
