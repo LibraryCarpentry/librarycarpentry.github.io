@@ -43,6 +43,8 @@ people:
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/CuratorKay
+    - icon: fab fa-github
+      url: https://github.com/Kakaalikins
       
 - name: Cam Macdonell (Canada)
   pic: cammacdonell
