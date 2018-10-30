@@ -148,6 +148,27 @@ workshops:
     notes: 
     site: https://weaverbel.github.io/2018-10-08-monash-lc/
 -
+    who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
+    help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
+    venue: University of Bergen
+    country: nor
+    latitude: 60.38783
+    longitude: 5.31968
+    month: September
+    month_: 9
+    start_day: 25
+    end_day: 26
+    year: 2018
+    end: 2018-09-26
+    date: 2018-09-26T00:00:00Z
+    start: 2018-09-25
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Tidy Data, Shell, Git
+    number: 
+    notes: 
+    site: https://scriptotek.github.io/2018-09-25-Bergen/
+-
     who: Silvia Di Giorgio, Konrad Förstner
     help: Christian Kurrat, Muhammad Elhossary
     venue: ZB MED
@@ -210,48 +231,6 @@ workshops:
     number: 
     notes: 
     site: https://ucsdlib.github.io/2018-09-14-UCSDLC/
--
-    who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
-    help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
-    venue: University of Bergen
-    country: nor
-    latitude: 60.38783
-    longitude: 5.31968
-    month: September
-    month_: 9
-    start_day: 25
-    end_day: 26
-    year: 2018
-    end: 2018-09-26
-    date: 2018-09-26T00:00:00Z
-    start: 2018-09-25
-    workshop: two-day
-    blogs: 
-    lessons: Intro to Data, Tidy Data, Shell, Git
-    number: 
-    notes: 
-    site: https://scriptotek.github.io/2018-09-25-Bergen/
--
-    who: Abigail Sparling, Celine Gareau-Brennan 
-    help: 
-    venue: University of Alberta Libraries
-    country: ca
-    latitude: 53.5444
-    longitude: -113.4909
-    month: August
-    month_: 8
-    start_day: 15
-    end_day: 15
-    year: 2018
-    end: 2018-08-15
-    date: 2018-08-15T00:00:00Z
-    start: 2018-08-15
-    workshop: one-day
-    blogs: 
-    lessons: Intro to Data
-    number: 31
-    notes: Two single sessions of Intro to Data
-    site: https://celinergb.github.io/2018-08-15-Edmonton/
 -
     who: David Kane, Breeda Herlihy
     help: 
@@ -378,6 +357,27 @@ workshops:
     number: 
     notes: 
     site: https://nesclic.github.io/2018-08-15-YUL/
+-
+    who: Abigail Sparling, Celine Gareau-Brennan 
+    help: 
+    venue: University of Alberta Libraries
+    country: ca
+    latitude: 53.5444
+    longitude: -113.4909
+    month: August
+    month_: 8
+    start_day: 15
+    end_day: 15
+    year: 2018
+    end: 2018-08-15
+    date: 2018-08-15T00:00:00Z
+    start: 2018-08-15
+    workshop: one-day
+    blogs: 
+    lessons: Intro to Data
+    number: 31
+    notes: Two single sessions of Intro to Data
+    site: https://celinergb.github.io/2018-08-15-Edmonton/
 -
     who: Tim Ribaric, James Desjardins
     help: John Fink, Mita Williams, Sarah Simpkin
