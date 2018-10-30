@@ -21,6 +21,48 @@ workshops:
     notes: Organized via MTSU and Tenn-Share
     site: https://libcce.github.io/2019-01-07-MTSU/
 -
+    who: Sherry Lake, Vanessa Guerra, Chris Erdmann
+    help: Peggy Griesinger, Debby Kermer, Andrew Stevens
+    venue: George Mason University
+    country: us
+    latitude: 38.8314936
+    longitude: -77.3114889
+    month: December
+    month_: 12
+    start_day: 13
+    end_day: 14
+    year: 2018
+    end: 2018-12-14
+    date: 2018-12-13T00:00:00Z
+    start: 2018-12-13
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Shell, Git, OpenRefine
+    number: 
+    notes: 
+    site: https://libcce.github.io/2018-12-13-GMU/ 
+-
+    who: Nilani Ganeshwaran, Phil Reed, Jane Gallagher
+    help: Jane Gallagher
+    venue: The University of Manchester Library
+    country: uk
+    latitude: 53.4809444
+    longitude: -2.2396331
+    month: November
+    month_: 11
+    start_day: 30
+    end_day: 30
+    year: 2018
+    end: 2018-11-30
+    date: 2018-11-30T00:00:00Z
+    start: 2018-11-30
+    workshop: one-day
+    blogs: 
+    lessons: Tidy Data, OpenRefine
+    number: 
+    notes: 
+    site: https://uom-nilani.github.io/2018-11-30-Manchester/     
+-
     who: Evamaria Krause, Konrad Förstner
     help: 
     venue: University of Cologne
@@ -64,20 +106,20 @@ workshops:
     site: https://scriptotek.github.io/2018-09-25-Bergen/
 -
     who: Abigail Sparling, Celine Gareau-Brennan 
-    help: Mariana Paredes-Olea, Maria Tan
-    venue: 
+    help: 
+    venue: University of Alberta Libraries
     country: ca
     latitude: 53.5444
     longitude: -113.4909
     month: August
     month_: 8
     start_day: 15
-    end_day: 31
+    end_day: 15
     year: 2018
-    end: 2018-08-31
-    date: 2018-08-31T00:00:00Z
+    end: 2018-08-15
+    date: 2018-08-15T00:00:00Z
     start: 2018-08-15
-    workshop: multi-day
+    workshop: one-day
     blogs: 
     lessons: Intro to Data
     number: 31
