@@ -61,7 +61,29 @@ workshops:
     lessons: Tidy Data, OpenRefine
     number: 
     notes: 
-    site: https://uom-nilani.github.io/2018-11-30-Manchester/  
+    site: https://uom-nilani.github.io/2018-11-30-Manchester/
+-
+    who: Joshua Dull, Kristin Lee, Kate Nyhan
+    help: Andrew Creamer, Ashley Champagne, Jeanette Norris, Crystal Brusch, Patrick Rashleigh
+    venue: Brown University Library
+    country: us
+    latitude: 41.825748
+    longitude: -71.405109
+    month: October
+    month_: 10
+    start_day: 22
+    end_day: 23
+    year: 2018
+    end: 2018-10-23
+    date: 2018-10-22T00:00:00Z
+    start: 2018-10-22
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Shell, OpenRefine, Git
+    number: 
+    notes: 
+    eventbrite_id: 48562683293
+    site: https://nesclic.github.io/2018-10-22-NEASIST-Brown/  
 -
     who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
     help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
