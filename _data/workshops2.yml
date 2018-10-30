@@ -84,6 +84,27 @@ workshops:
     notes: See also https://www.vdb-online.org/veranstaltung/800/ (in German)
     site: https://evamarik.github.io/2018-11-12-cologne/
 -
+    who: Dr. Katrin Leinweber (TIB), Felix Hemme (ZBW), Felix Lohmeier (SUB Hamburg), Phú Tu (UB Kiel)
+    help: Jens Wonke-Stehle (SUB Hamburg)
+    venue: SUB Hamburg
+    country: de
+    latitude: 53.56481
+    longitude: 9.98516
+    month: November
+    month_: 11
+    start_day: 5
+    end_day: 6
+    year: 2018
+    end: 2018-11-5
+    date: 2018-11-5T00:00:00Z
+    start: 2018-11-6
+    workshop: two-day
+    blogs: https://www.vdb-online.org/veranstaltungen/807/
+    lessons: Intro to Data, Shell, OpenRefine, Git
+    number: 
+    notes: 
+    site: https://vdb-org.github.io/2018-11-05-Hamburg/ 
+-
     who: Joshua Dull, Kristin Lee, Kate Nyhan
     help: Andrew Creamer, Ashley Champagne, Jeanette Norris, Crystal Brusch, Patrick Rashleigh
     venue: Brown University Library
