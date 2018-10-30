@@ -125,7 +125,91 @@ workshops:
     number: 
     notes: 
     eventbrite_id: 48562683293
-    site: https://nesclic.github.io/2018-10-22-NEASIST-Brown/  
+    site: https://nesclic.github.io/2018-10-22-NEASIST-Brown/
+-
+    who: Belinda Weaver
+    help: Sonika Tyagi, Nick Wong, Andrew Perry, Paul Harrison, Owen Kaluza, Richard Beare
+    venue: Monash University Library
+    country: au
+    latitude: -37.910480
+    longitude: 145.137217
+    month: October
+    month_: 10
+    start_day: 08
+    end_day: 08
+    year: 2018
+    end: 2018-10-08
+    date: 2018-10-08T00:00:00Z
+    start: 2018-10-08
+    workshop: one-day
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, OpenRefine
+    number: 25
+    notes: 
+    site: https://weaverbel.github.io/2018-10-08-monash-lc/
+-
+    who: Silvia Di Giorgio, Konrad Förstner
+    help: Christian Kurrat, Muhammad Elhossary
+    venue: ZB MED
+    country: de
+    latitude: 50.925970
+    longitude: 6.928460
+    month: September
+    month_: 09
+    start_day: 21
+    end_day: 24
+    year: 2018
+    end: 2018-09-24
+    date: 2018-09-21T00:00:00Z
+    start: 2018-09-21
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, Git, Python
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/
+-
+    who: Chris Erdmann, Laura Wrubel, Megan Potterbusch
+    help: Mike Davidson, Grace Thomas, Mark Cooper, Charles Hosale
+    venue: US Library of Congress
+    country: us
+    latitude: 38.888684
+    longitude: -77.004719
+    month: September
+    month_: 09
+    start_day: 18
+    end_day: 19
+    year: 2018
+    end: 2018-09-19
+    date: 2018-09-18T00:00:00Z
+    start: 2018-09-18
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, OpenRefine, Python
+    number: 
+    notes: 
+    site: https://libcce.github.io/2018-09-18-LC/  
+-
+    who: Stephanie Labou (RAS), Reid Otsuji (RDC), Annelise Sklar (RAS)
+    help: Ryan Johnson (DOMM), Peter Rolla (CARS)
+    venue: UC San Diego Library
+    country: us
+    latitude: 32.8811507
+    longitude: -117.2396437
+    month: September
+    month_: 09
+    start_day: 14
+    end_day: 14
+    year: 2018
+    end: 2018-09-14
+    date: 2018-09-14T00:00:00Z
+    start: 2018-09-14
+    workshop: one-day
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, Tidy Data, OpenRefine
+    number: 
+    notes: 
+    site: https://ucsdlib.github.io/2018-09-14-UCSDLC/
 -
     who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
     help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
@@ -212,7 +296,7 @@ workshops:
     site: https://pitviper6.github.io/2018-08-30-ttt-calgary/
 -
     who: Juliane Schneider, Chris Erdmann
-    help: John Brosz
+    help: Calum Center, John Brosz, Ingrid Reiche, Paul Pival
     venue: University of Calgary Libraries
     country: ca
     latitude: 51.077598
@@ -233,8 +317,8 @@ workshops:
     site: https://libcce.github.io/2018-08-28-calgary/
 -
     who: Kristian Allen, Tim Dennis
-    help: 
-    venue: University of Southern California
+    help: Jamie Jamison, Leigh Phan
+    venue: University of Southern California Library
     country: us
     latitude: 34.0223519
     longitude: -118.2873057
@@ -252,6 +336,48 @@ workshops:
     number: 
     notes: 
     site: https://ucla-data-archive.github.io/2018-08-28-usc/
+-
+    who: Silvia Di Giogio, Konrad Förstner
+    help: Christian Kurrat, Xin Hu, Michael Lackhoff
+    venue: ZB MED
+    country: de
+    latitude: 50.925970
+    longitude: 6.928460
+    month: August
+    month_: 8
+    start_day: 22
+    end_day: 23
+    year: 2018
+    end: 2018-08-23
+    date: 2018-08-22T00:00:00Z
+    start: 2018-08-22
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/
+-
+    who: Catherine DeRose, Joshua Dull, Kate Nyhan
+    help: 
+    venue: Yale University Library
+    country: us
+    latitude: 41.312736
+    longitude: -72.923457
+    month: August
+    month_: 8
+    start_day: 15
+    end_day: 16
+    year: 2018
+    end: 2018-08-16
+    date: 2018-08-15T00:00:00Z
+    start: 2018-08-15
+    workshop: two-day
+    blogs: 
+    lessons: Tidy Data, Intro to Python, UNIX Shell, OpeRefine
+    number: 
+    notes: 
+    site: https://nesclic.github.io/2018-08-15-YUL/
 -
     who: Tim Ribaric, James Desjardins
     help: John Fink, Mita Williams, Sarah Simpkin
