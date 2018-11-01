@@ -1,11 +1,10 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Elaine L. Westbrooks"]
 title: "The Strategic Value of Library Carpentry and The Carpentries to Research Libraries"
 teaser: "How your library can be a hub for data science activities in your community."
 date: 2018-08-22
 tags: ["Library Carpentry", "The Carpentries", "Community", "Stories"]
-category: ["blog"]
 ---
 
 ![Kenan Science Library & Science Annex](/img/BHDP-Kenan-Science-Library_003-768x512.jpg)
