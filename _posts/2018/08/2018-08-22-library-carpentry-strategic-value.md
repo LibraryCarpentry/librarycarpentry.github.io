@@ -7,7 +7,7 @@ date: 2018-08-22
 tags: ["Library Carpentry", "The Carpentries", "Community", "Stories"]
 ---
 
-![Kenan Science Library & Science Annex](/img/BHDP-Kenan-Science-Library_003-768x512.jpg)
+![Kenan Science Library & Science Annex](/images/BHDP-Kenan-Science-Library_003-768x512.jpg)
 
 By [Elaine L. Westbrooks](https://twitter.com/UNC_Librarian)
 
