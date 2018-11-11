@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann"]
 title: "We just passed 2K Twitter followers!"
 teaser: "In celebration of reaching 2K Twitter followers, here is a summary of our Twitter Analytics"
