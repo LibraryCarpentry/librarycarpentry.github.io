@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann", "Natasha Simons"]
 title: "Announcing the Top 10 FAIR Data Things Global Sprint"
 teaser: "A global sprint to develop 10 FAIR things resources for data in different disciplines"
