@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Belinda Weaver", "Chris Erdmann", "Tim Dennis", "Juliane Schneider", "Carmi Cronje", "Jez Cope"]
 title: "Seventy-One Workshops... and Counting"
 teaser: "How the Library Carpentry community began, and where it is going"
