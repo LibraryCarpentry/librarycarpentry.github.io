@@ -10,7 +10,7 @@ category: ["blog"]
 
 By [Chris Erdmann](https://twitter.com/libcce)
 
-![Taylor Family Digital Library at University of Calgary](/img/Taylor_Family_Digital_Library_University_of_Calgary.JPG)
+![Taylor Family Digital Library at University of Calgary](/images/Taylor_Family_Digital_Library_University_of_Calgary.JPG)
 
 ## Thanks to the University of Calgary Libraries
 
