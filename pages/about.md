@@ -6,7 +6,7 @@ permalink: /about/
 
 Library Carpentry develops lessons and teaches workshops for and with people working in library- and information-related roles. Our goal is to create an on-ramp to empower this community to use software and data in their own work as well as be advocates for and train others in efficient, effective and reproducible data and software practices.
 
-Originally based on lessons developed by [The Carpentries](https://carpentries.org), Library Carpentry has evolved, and aims to help people working in library- and information-related roles work more efficiently, and potentially teach the skills they have learned to colleagues, students, and researchers. Training takes place in face-to-face workshops. Lesson materials are all available [online](lessons/), under a CC BY license, for self-directed study or for adaptation and re-use.
+Originally based on lessons developed by [The Carpentries](https://carpentries.org), Library Carpentry has evolved, and aims to help people working in library- and information-related roles work more efficiently, and potentially teach the skills they have learned to colleagues, students, and researchers. Training takes place in face-to-face workshops. Lesson materials are all available [online](/lessons/), under a CC BY license, for self-directed study or for adaptation and re-use.
 
 ### Who owns Library Carpentry?   
 Library Carpentry was originally developed with support of the Software Sustainability Institute and is now being incubated as a Lesson Program with [The Carpentries](https://carpentries.org). Like Software Carpentry and Data Carpentry it will maintain its own lessons and Curriculum Advisory Committee.
