@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann"]
 title: "Report back from University of Calgary Libraries"
 teaser: "Workshop and instructor training for librarians"
