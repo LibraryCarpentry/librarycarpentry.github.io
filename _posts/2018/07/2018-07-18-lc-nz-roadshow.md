@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Eight Days, Four Workshops, Two Islands, One Earthquake"
 teaser: "Taking Library Carpentry on the road in New Zealand"
