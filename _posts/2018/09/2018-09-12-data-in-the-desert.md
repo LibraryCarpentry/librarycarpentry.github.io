@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Jeff Oliver"]
 title: "Data in the desert"
 teaser: "Library Carpentry workshop at the University of Arizona"
