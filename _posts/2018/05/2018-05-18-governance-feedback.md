@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 title: "Have your say"
 category: blog
 ---
