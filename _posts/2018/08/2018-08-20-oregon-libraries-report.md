@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: [“Jonathan Cain”, “Sarah Seymore”, “Steven Van Tuyl”, “Clara Llebot”, “Ryan Wick”, “Chris Erdmann”]
 title: "University of Oregon Libraries and Oregon State University Libraries Team Up to Teach First Library Carpentry Workshop in Oregon"
 teaser: "UO and OSU Library Carpentry report"
@@ -14,7 +14,7 @@ By [Jonathan Cain](https://library.uoregon.edu/users/jocain), [Sarah Seymore](ht
 
 [On March 16 and March 23](https://researchguides.uoregon.edu/c.php?g=818716&p=5843136 ), the University of Oregon Libraries and Oregon State University Libraries teamed up to teach the first Library Carpentry workshops in the state of Oregon, which were open to all [Orbis Cascade Alliance](https://www.orbiscascade.org/) members. These workshops were intended to help people working in library- and information-related roles in the Northwest improve their competencies and efficiencies through better understanding of the structure and organization data, automating repetitive, error prone tasks, and maintaining and analysing sustainable and reusable data.  
 
-![Price Science Commons Library](/img/price-science-commons-library-web-169_0.jpg)  
+![Price Science Commons Library](/images/price-science-commons-library-web-169_0.jpg)  
 
 40 participants came from across the Alliance with representatives from Oregon, Washington, and Idaho. Overall these sessions proved to be a success prompting requests for additional events like these. 
 
@@ -49,7 +49,7 @@ It was a great way to break down some of our library job silos. I hope you will 
 
 “I had a hard time seeing the relevance of regular expressions in my role - more demo of their usefulness might have helped.”
 
-![Valley Library OSU](/img/The_Valley_Library_OSU.png)  
+![Valley Library OSU](/images/The_Valley_Library_OSU.png)  
 
 ### Room for improvement:
 
