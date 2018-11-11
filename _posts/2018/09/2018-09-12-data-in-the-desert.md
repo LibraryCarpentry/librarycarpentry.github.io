@@ -19,7 +19,7 @@ computational tools and best practices in dealing with data.
 The workshop included 21 learners, five instructors, and two helpers, representing a total of nine departments 
 from the two universities.
 
-![The majestic Main Library at the University of Arizona. Photo by Aengus Anderson](/img/majestic-ual.png)
+![The majestic Main Library at the University of Arizona. Photo by Aengus Anderson](/images/majestic-ual.png)
 
 To guide the lesson material, the project team first surveyed potential participants to determine which 
 lessons to teach. Given our instructor pool, we asked respondents to rate their interest in the following 
@@ -56,7 +56,7 @@ nature of the workshop and the problem-solving approach adopted by the instructo
 construction of an SQL search, I asked Fernando what I was doing wrong - rather than telling me the answer, 
 he led me to figuring it out myself."_
 
-![Ben Hickson brings the UNIX command line to the libraries](/img/lc-shell.png)
+![Ben Hickson brings the UNIX command line to the libraries](/images/lc-shell.png)
 
 There was some uncertainty about the immediate applicability of some of the workshop topics. 
 For example, fewer than half of the participants felt confident in their ability to make use 
