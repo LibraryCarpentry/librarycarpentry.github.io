@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
 permalink: /our-stories/
-title: Stories from the Library Carpentry community
-excerpt: Stories from individuals and instutions
+title: Stories from the Library Carpentry Community
+excerpt: Stories from Institutions and Individuals
 ---
 
-### Institutions  
+### From Institutions  
   
   
 **University of Oregon Libraries and Oregon State University Libraries Team Up to Teach First Library Carpentry Workshop in Oregon**  
@@ -31,7 +31,7 @@ _Recently, I was lucky to participate in an innovative workshop held at Technisc
   
 ---------------------------------------
 
-### Individuals  
+### From Individuals  
   
   
 **Library Carpentry** by Anton Angelo  
