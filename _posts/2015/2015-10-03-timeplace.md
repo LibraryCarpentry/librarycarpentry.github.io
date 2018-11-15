@@ -1,7 +1,6 @@
 ---
-layout: blog-post
+layout: page
 title: Library Carpentry - Where and When
-category: blog
 ---
 
 Library Carpentry is an exploratory programme of four three-hour software skills sessions focused on the needs and requirements of the library professionals. For further details, see the [outline post](http://librarycarpentry.github.io/outline/).
