@@ -1,7 +1,6 @@
 ---
-layout: blog-post
+layout: page
 title: "Library Carpentry: Update from the Community Calls"
-category: blog
 ---
 
 Community members came together on 10-11 October for two calls about the future direction of Library Carpentry.
