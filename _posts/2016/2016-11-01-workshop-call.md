@@ -1,7 +1,6 @@
 ---
-layout: blog-post
+layout: page
 title: Library Carpentry workshop call
-category: blog
 ---
 
 Library Carpentry is software skills training aimed at the needs and requirements of library professionals (that is, coding and data manipulation that goes beyond the use of familiar office suites). It is made **by librarians, for librarians** to help you:
