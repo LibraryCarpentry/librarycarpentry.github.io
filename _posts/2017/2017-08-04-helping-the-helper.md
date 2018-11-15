@@ -1,7 +1,6 @@
 ---
-layout: blog-post
+layout: page
 title: "Helping the Helper - practical advice for Library Carpentry Helpers"
-category: blog
 ---
 
 Post by [Claire Wallnutt](https://twitter.com/_miss_golightly)
