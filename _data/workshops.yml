@@ -51,6 +51,23 @@ workshops:
     start_date: 2018-11-30
     end_date: 2018-11-30
 -
+    who: Fredrik Hovind Juell, Hans Gunnar Slokvik Lian, Annika Rockenberger, Dan Michael Olsen Heggø
+    help: 
+    venue: BI Norwegian Business School
+    country: nor
+    latitude: 59.948252
+    longitude: 10.768011
+    workshop: two-day
+    blogs: 
+    lessons: Data Intro, Python
+    number: 
+    notes: 
+    site: https://scriptotek.github.io/2018-11-19-python/
+    eventbrite_id: 
+    human_date: 19-20 November 2018
+    start_date: 2018-11-19
+    end_date: 2018-11-20
+-
     who: Evamaria Krause, Konrad Förstner
     help: Markus Hennies (HdM)
     venue: University of Cologne
@@ -119,7 +136,7 @@ workshops:
     start_date: 2018-10-08
     end_date: 2018-10-08
 -
-    who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael O. Heggø
+    who: Hans Gunnar Slokvik Lian, Kyrre Traavik Låberg, Dan Michael Olsen Heggø
     help: Tarje Lavik, Ahl Vegard Nilsen, Simon Mitternacht
     venue: University of Bergen
     country: nor
@@ -128,7 +145,7 @@ workshops:
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Tidy Data, Shell, Git
-    number: 
+    number: 17
     notes: 
     site: https://scriptotek.github.io/2018-09-25-Bergen/
     eventbrite_id: 
