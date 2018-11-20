@@ -12,7 +12,7 @@ There are several ways to get in touch.
 
 * If you are new to the community and have questions, reach out to community members via the channels above and/or the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:chris@carpentries.org).
 
-* Want a Library Carpentry workshop at your institution? [Request one](https://software-carpentry.org/workshops/request/). [The Carpentries](https://carpentries.org), note your interest in Library Carpentry, and also reach out to the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:chris@carpentries.org).
+* Want a Library Carpentry workshop at your institution? [Request one](https://amy.software-carpentry.org/forms/workshop/). Note your interest in Library Carpentry, and also reach out to the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:chris@carpentries.org).
 
 * You can raise issues and/or pull requests on any of the lesson repositories and this site through the [Library Carpentry GitHub organisation](https://github.com/LibraryCarpentry).
 
