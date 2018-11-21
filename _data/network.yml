@@ -8,3 +8,6 @@
   url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   title: "Privacy Policy"
 
+- name: "Our Style Guide"
+  url: "https://github.com/LibraryCarpentry/lc-styleguide"
+  title: "Style Guide"
