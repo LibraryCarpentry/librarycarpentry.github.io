@@ -15,7 +15,7 @@
   
 - name: EMail
   url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
-  class: fa-email
+  class: fa-envelope
   title: ""
 
 
