@@ -15,7 +15,7 @@ Join us on 29-30 November 2018, for the Top 10 FAIR Data Things Global Sprint! T
 Research Data Alliance [Libraries for Research Data Interest Group](https://www.rd-alliance.org/groups/libraries-research-data.html) 
 in collaboration with [FOSTER Open Science](https://www.fosteropenscience.eu/), [OpenAire](https://www.openaire.eu/), 
 [RDA Europe](https://www.rd-alliance.org/rda-europe), [Data Management Training Clearinghouse](http://dmtclearinghouse.esipfed.org/), 
-[California Digital Library](https://www.cdlib.org/), [Dryad](http://datadryad.org/), [AARNet](https://www.aarnet.edu.au/), and DANS.  
+[California Digital Library](https://www.cdlib.org/), [Dryad](http://datadryad.org/), [AARNet](https://www.aarnet.edu.au/), [Center for Digital Scholarship at the Leiden University](https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship), and [DANS](https://dans.knaw.nl/nl).  
 
 ## The Goal of the Sprint  
 
@@ -87,7 +87,7 @@ The Twitter handles of the sprint organizers are: [@LibCarpentry](https://twitte
 [@ands_nectar_rds](https://twitter.com/ands_nectar_rds), [@resdatall](https://twitter.com/resdatall), 
 [@RDA_Europe](https://twitter.com/RDA_Europe), [@fosterscience](https://twitter.com/fosterscience), 
 [@aarnet](https://twitter.com/aarnet), [@ESIPfed](https://twitter.com/ESIPfed), [@CalDigLib](https://twitter.com/CalDigLib), 
-[@datadryad](https://twitter.com/datadryad), [@AARNet](https://twitter.com/AARNet), and [@DANSKNAW](https://twitter.com/DANSKNAW). If you post images on Instagram or Facebook, please send us a link via the 
+[@datadryad](https://twitter.com/datadryad), [@AARNet](https://twitter.com/AARNet), [ubleiden](https://twitter.com/ubleiden), and [@DANSKNAW](https://twitter.com/DANSKNAW). If you post images on Instagram or Facebook, please send us a link via the 
 chat room so we can tweet them.  
   
 Please Note: If you would like to include your organization as a collaborator, please contact [Natasha Simons](natasha.simons@ands.org.au) and [Chris Erdmann](chris@carpentries.org).
