@@ -11,3 +11,7 @@
 - name: "Our Style Guide"
   url: "https://github.com/LibraryCarpentry/lc-styleguide"
   title: "Style Guide"
+  
+- name: "The Carpentries"
+  url: "https://carpentries.org/"
+  title: "The Carpentries"
