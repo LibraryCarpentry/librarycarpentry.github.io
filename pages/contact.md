@@ -17,3 +17,5 @@ There are several ways to get in touch.
 * You can raise issues and/or pull requests on any of the lesson repositories and this site through the [Library Carpentry GitHub organisation](https://github.com/LibraryCarpentry).
 
 * Library Carpentry also maintains a [Twitter handle](https://twitter.com/LibCarpentry) which you can follow and learn about what community members are doing.
+
+* For general Carpentries information, inquiries or comments, please get in touch via team@carpentries.org.
