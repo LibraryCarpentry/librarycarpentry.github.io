@@ -34,6 +34,23 @@ workshops:
     start_date: 2018-12-13
     end_date: 2018-12-14
 -
+    who: Silvia Di Giorgio, Konrad Förstner
+    help: Eva Seidlmayer, Christian Kurrat
+    venue: ZB MED
+    country: de
+    latitude: 50.9245672
+    longitude: 6.9151462
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Python, Unix Shell, Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2018-12-12-Library_Carpentry_Cologne/
+    eventbrite_id: 
+    human_date: 12-13 December 2018
+    start_date: 2018-12-12
+    end_date: 2018-12-13
+-
     who: Nilani Ganeshwaran, Phil Reed, Jane Gallagher
     help: Jane Gallagher
     venue: The University of Manchester Library
