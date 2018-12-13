@@ -1,4 +1,18 @@
-Starting in 2017, Curtin University Library in Perth, Western Australia hosted a series of Library Carpentry workshops that were well attended. Staff feedback suggested that they would like to learn more and apply these new skills to their day-to-day work. The Library looked to Software Carpentry and borrowed the HackyHour concept, to create a space where staff could continue to apply what they've learned. [HackyHour](https://twitter.com/CUHackyHour) at Curtin University Library happens every second Thursday, in the Library Makerspace, from 12:00 to 13:00.  
+---
+layout: page
+authors: ["Janice Chan"]
+title: "Library HackyHour at Curtin University Library"
+teaser: "A space where staff can continue to apply what they've learned from Library Carpentry workshops"
+date: 2018-12-12
+tags: ["Curtin University Library", "Library Carpentry", "Library HackyHour"]
+category: ["blog"]
+---
+
+By [Janice Chan](https://twitter.com/icecjan)  
+
+![Curtin University Library](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/OIC_curtin_2005_library.jpg/640px-OIC_curtin_2005_library.jpg)  
+
+Starting in 2017, Curtin University Library in Perth, Western Australia hosted a series of Library Carpentry workshops that were well attended. Staff feedback suggested that they would like to learn more and apply these new skills to their day-to-day work. The Library looked to Software Carpentry and borrowed the HackyHour concept, to create a space where staff could continue to apply what they've learned. Library HackyHour at Curtin University Library happens every second Thursday, in the Library Makerspace, from 12:00 to 13:00.  
 
 Library Carpentry is about hands-on learning, and Library HackyHour is when people come together to ask questions, discuss a project/data problem, get help, or learn something together. The aim is to foster a peer support network and encourage staff to try something new for themselves in a supportive and safe environment.  
 
