@@ -20,7 +20,7 @@ Workshops are run by a team. Ideally this will consist of:
 * Helpers who provide assistance to learners during practical sessions  
 * Workshops can be any size but it is recommended that the helper-to-learners ratio not exceed 1:8.  
 
-To maintain the quality of Library Carpentry workshops, at least one Carpentries-certified instructor must be present at each workshop. For more about Carpentries instructor training, see [this curriculum](http://carpentries.github.io/instructor-training/).  
+To maintain the quality of Library Carpentry workshops, at least one of the Instructors teaching must be a Carpentries-certified instructor. For more about Carpentries instructor training, see [this curriculum](http://carpentries.github.io/instructor-training/).  
 
 ### What is a Lesson?   
 A Library Carpentry lesson is a set of training materials that can be used to run hands-on training or as self-directed learning. Each lesson comprises 3-4 sections, is interactive, works across Windows, Mac OS X, and Linux operating systems (with all setup instructions included) and has a combination of follow-the-leader sections and exercises that map to library practices and workflows. Lessons introduce software and data concepts relevant to people working in library- and information-related roles and are based on open source software. Data used in exercises is library-related, e.g. bibliographic data.
