@@ -41,7 +41,7 @@ First Carpentries instructor training for librarians and Library Carpentry at [c
 
 ### 2018
 
-IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. The Carpentries opens Lesson Organisation discussions with Library Carpentry 21 May 2018 and joins The Carpentries as an official Lesson Program on 1 November 2018. 
+IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. The Carpentries opened Lesson Organisation discussions with Library Carpentry on 21 May 2018 and joined The Carpentries as an official Lesson Program on 1 November 2018. 
 
 * _[Skills Training for Librarians: Expanding Library Carpentry](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)_ by John Chodacki
 * _[Welcome Chris Erdmann, Library Carpentry Community and Development Director](https://www.cdlib.org/cdlinfo/2018/04/17/welcome-chris-erdmann-library-carpentry-community-and-development-director/)_ by John Chodacki
