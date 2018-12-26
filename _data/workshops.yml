@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Kristin Lee
+    help: Bill Barthelmy, Ceilyn Boyd, Jess Cohen-Tanugi, Cole Crawford, Julie Goldman, Jeremy Guillette, Hugh Truslow
+    venue: Harvard University
+    country: us
+    latitude: 42.372784
+    longitude: -71.1176597
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Shell, Tidy Data, OpenRefine
+    number: 
+    notes: 
+    site: https://nesclic.github.io/2019-01-15-harvard/
+    eventbrite_id: 
+    human_date: 15-16 January 2019
+    start_date: 2019-01-15
+    end_date: 2019-01-16
+-
     who: Chris Erdmann, Juliane Schneider, Meredith Broadway, Anna Oates
     help: Mary Ellen Sloane, Suzanne Mangrum, Robert T. Wilson
     venue: Middle Tennesse State University
