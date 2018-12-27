@@ -14,7 +14,7 @@ Prior to and following each workshop, instructors have surveys available to them
 
 Our lesson materials are collaboratively developed by our volunteer community. All of our lessons are open source, and are hosted on [GitHub](https://github.com/librarycarpentry). 
 
->To request a workshop at your institution, visit the [The Carpentries](https://amy.software-carpentry.org/forms/workshop/) workshop request page. Indicate in the form that you are interested in hosting a Library Carpentry workshop. In addition, please notify [Chris Erdmann](mailton:chris@carpentries.org), Library Carpentry Community and Development Director.
+>To request a workshop at your institution, visit the [The Carpentries](https://amy.software-carpentry.org/forms/workshop/) workshop request page. Indicate in the form that you are interested in hosting a Library Carpentry workshop. If you're interested other ways Library Carpentry lessons can be used at your site, please contact [Chris Erdmann](mailton:chris@carpentries.org), Library Carpentry Community and Development Director. Please note, to list your workshop via the Library Carpentry [upcoming workshops](https://librarycarpentry.org/upcoming_workshops/) page, submit a pull request to [workshops.yml](https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/_data/workshops.yml) and/or contact [Chris Erdmann](mailton:chris@carpentries.org).
 
 If you're running a workshop, check out our guides for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) a workshop. 
   
