@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-01-15
     end_date: 2019-01-16
 -
+    who: Silvia Di Giorgio, Konrad Förstner
+    help: 
+    venue: ZB MED
+    country: de
+    latitude: 50.92465
+    longitude: 6.9142713
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Shell, Git, Python
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/
+    eventbrite_id: 
+    human_date: 15-16 January 2019
+    start_date: 2019-01-15
+    end_date: 2019-01-16
+-
     who: Chris Erdmann, Juliane Schneider, Meredith Broadway, Anna Oates
     help: Mary Ellen Sloane, Suzanne Mangrum, Robert T. Wilson
     venue: Middle Tennesse State University
