@@ -12,7 +12,7 @@ By [Chris Erdmann](https://twitter.com/libcce)
 
 ## Lesson Program Implementation
 
-As mentioned in a recent Carpentries [blog post](https://carpentries.org/blog/2018/11/welcoming-library-carpentry/) on 1 November 2018, Library Carpentry is now an official Lesson Program of The Carpentries. In the post, we outlined our next steps, in other words, our implementation plan to make this so. We’d like to update you on where we are at with regard to the plan.
+As mentioned in a recent Carpentries [blog post](https://carpentries.org/blog/2018/11/welcoming-library-carpentry/) on 1 November 2018, Library Carpentry is now an official Lesson Program of The Carpentries. In the post, we outlined our next steps, in other words, our implementation plan to make this so. We’d like to update the community on where we are at with regard to the plan.
 
 The official Lesson Program language has been integrated in a number of Carpentries resources including our Library Carpentry websites, GitHub organization and instructional repositories, policies, handbook, onboarding material, request forms, surveys, one pagers, slides, badges, trainer/instructor etherpads/documents, and social media profiles. We’ve added collaborators from The Carpentries staff, Library Carpentry Curriculum Advisory Committee and Governance Group to our GitHub organisations. Also, [Cam Macdonell](https://twitter.com/cjmacdonell) (MacEwan University), a longtime member of the Library Carpentry community, has joined The Carpentries infrastructure group.
 
