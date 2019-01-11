@@ -30,4 +30,4 @@ During our most recent meeting on 10 January 2019, Governance Group members disc
 
 Next week, 14-17 January 2019, Library Carpentry Maintainers ([listed here](https://librarycarpentry.org/lessons/)) will have a chance to discuss different aspects of being a Maintainer, from the technical side to updates to the lessons. 
 
-The Top 10 FAIR Data Things sprinters will finalize their [Things]() by 18 January 2019 and the resulting work will be published via Zenodo by 30 January 2019. 
+The Top 10 FAIR Data Things sprinters will finalize the [resources](https://librarycarpentry.org/Top-10-FAIR/) they developed during the November 2018 [sprint](https://librarycarpentry.org/blog/2018/10/top-ten-fair-announcement/) by 18 January 2019 and the resulting work will be published via Zenodo by 30 January 2019. 
