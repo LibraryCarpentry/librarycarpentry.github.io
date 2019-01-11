@@ -2,7 +2,7 @@
 layout: page
 authors: ["Chris Erdmann"]
 title: "Lesson Program Implementation, Governance Group Meeting, and Community Updates"
-teaser: "News on Library Carpentry’s Lesson Program implementation with The Carpentries"
+teaser: "News on Library Carpentry’s Lesson Program Implementation with The Carpentries"
 date: 2019-01-10
 tags: ["Library Carpentry", “Lesson Program Implementation”, "Governance Group", “Community Updates”]
 category: ["blog"]
