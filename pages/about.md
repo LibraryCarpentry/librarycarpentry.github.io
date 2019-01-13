@@ -12,7 +12,7 @@ Originally based on lessons developed by [The Carpentries](https://carpentries.o
 Library Carpentry was originally developed with support of the Software Sustainability Institute and has been incorporated as a Lesson Program with [The Carpentries](https://carpentries.org). Like [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](https://datacarpentry.org/lessons/), it maintains [its own lessons](/lessons/), [governance team](/team/) and [Curriculum Advisory Committee](/cac/).
 
 ### What is a Library Carpentry Workshop?   
-An official Library Carpentry workshop must include our [core lessons](/lessons/). All workshops that are reported to Library Carpentry are listed in the 'Upcoming Workshops' section of this site and range from 1-day to multi-day. See _[What constitutes a Library Carpentry workshop?](https://librarycarpentry.org/blog/2018/08/07/what-is-a-workshop/)_ and _[Seventy-One Workshops… and Counting](https://librarycarpentry.org/blog/2018/08/01/seventy-one-and-counting/)_ for further information. Ideally attendees will bring their own laptops to workshops so that skills learnt can be replicated after the workshop without the need for any additional setup or software installation.
+An official Library Carpentry workshop must include our [core lessons](/lessons/). All workshops that are reported to Library Carpentry are listed in the 'Upcoming Workshops' section of this site and range from 1-day to multi-day. See _[What constitutes a Library Carpentry workshop?](https://librarycarpentry.org/blog/2018/08/07/what-is-a-workshop/)_ and _[Seventy-One Workshops… and Counting](https://librarycarpentry.org/blog/2018/08/01/seventy-one-and-counting/)_ for further information. Ideally attendees will bring their own laptops to workshops so that skills learned can be replicated after the workshop without the need for any additional setup or software installation.
 
 Workshops are run by a team. Ideally this will consist of:   
 * a Host, who is the principal local contact for the workshop and who negotiates with Instructors about what lessons will be taught  
@@ -20,7 +20,7 @@ Workshops are run by a team. Ideally this will consist of:
 * Helpers who provide assistance to learners during practical sessions  
 * Workshops can be any size but it is recommended that the helper-to-learners ratio not exceed 1:8.  
 
-To maintain the quality of Library Carpentry workshops, at least one of the Instructors teaching must be a Carpentries-certified instructor. For more about Carpentries instructor training, see [this curriculum](http://carpentries.github.io/instructor-training/).  
+To maintain the quality of Library Carpentry workshops, at least one of the Instructors teaching must be a Carpentries-certified instructor. For more about Carpentries instructors, see the [Carpentries section on instructors](https://carpentries.org/community/#instructors).  
 
 ### What is a Lesson?   
 A Library Carpentry lesson is a set of training materials that can be used to run hands-on training or as self-directed learning. Each lesson comprises 3-4 sections, is interactive, works across Windows, Mac OS X, and Linux operating systems (with all setup instructions included) and has a combination of follow-the-leader sections and exercises that map to library practices and workflows. Lessons introduce software and data concepts relevant to people working in library- and information-related roles and are based on open source software. Data used in exercises is library-related, e.g. bibliographic data.
