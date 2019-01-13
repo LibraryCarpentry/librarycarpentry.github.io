@@ -18,4 +18,6 @@ There are several ways to get in touch.
 
 * Library Carpentry also maintains a [Twitter handle](https://twitter.com/LibCarpentry) which you can follow and learn about what community members are doing.
 
+* Find out about the many ways you can [connect with The Carpentries](https://carpentries.org/connect/) community via social media, Slack, email lists, blog, community calendar, and newsletter. 
+
 * For general information, inquiries or comments, please get in touch via [team@carpentries.org](mailto:team@carpentries.org).
