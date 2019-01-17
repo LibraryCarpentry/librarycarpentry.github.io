@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Rachel Wang
+    help: Jordan Pedersen, Sarah Gorman, Angel Su, Dominique Glassman
+    venue: University of Toronto
+    country: ca
+    latitude: 42.372784
+    longitude: -71.1176597
+    workshop: lesson
+    blogs: 
+    lessons: OpenRefine
+    number: 
+    notes: 
+    site: https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/
+    eventbrite_id: 
+    human_date: 11 March 2019
+    start_date: 2019-03-11
+    end_date: 2019-03-11
+-
     who: Kristin Lee
     help: Bill Barthelmy, Ceilyn Boyd, Jess Cohen-Tanugi, Cole Crawford, Julie Goldman, Jeremy Guillette, Hugh Truslow
     venue: Harvard University
