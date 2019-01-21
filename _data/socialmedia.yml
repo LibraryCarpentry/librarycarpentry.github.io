@@ -1,22 +1,22 @@
 - name: GitHub
   url: https://github.com/librarycarpentry
   class: fa-github
-  title: GitHub
+  title: ""
 
 - name: Twitter
   url: https://twitter.com/libcarpentry
   class: fa-twitter
-  title: Twitter
+  title: ""
 
 - name: Gitter
   url: https://gitter.im/LibraryCarpentry/Lobby
   class: fa-gitter
-  title: Gitter
+  title: ""
   
 - name: EMail
   url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
   class: fa-envelope
-  title: E-mail
+  title: ""
 
 
 # - name: Soundcloud
