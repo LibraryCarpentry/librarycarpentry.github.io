@@ -58,3 +58,15 @@ $font-size-small:   0.8em;
 .font-size-h3   { font-size: $font-size-h3; }
 .font-size-h4   { font-size: $font-size-h4; }
 .font-size-h5   { font-size: $font-size-h5; }
+
+/* Adding for accessibility. Adapted from Bootstrap */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  border: 0;
+}
