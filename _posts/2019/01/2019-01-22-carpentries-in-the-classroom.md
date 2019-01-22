@@ -4,7 +4,7 @@ authors: ["Denice Adkins"]
 title: "The Carpentries in the Classroom"
 teaser: "Reflections on Holding a Carpentries-Inspired Workshop in my Library and Information Science (LIS) Class"
 date: 2019-01-22
-tags: ["Library Carpentry", “Carpentries-inspired”, "Graduate Students", “Library and Information Science Curriculum”]
+tags: ["Library Carpentry", "Carpentries-inspired", "Graduate Students", "Library and Information Science Curriculum"]
 category: ["blog"]
 ---
 
@@ -12,7 +12,7 @@ By [Denice Adkins](mailto:adkinsde@missouri.edu)
 
 ## Incorporating The Carpentries into my Curriculum
 
-As a Library and Information Science (LIS) professor at University of Missouri, one of my concerns is that students get a mix of theoretical knowledge and practical learning to help them through the rest of their graduate program and in the workplace. As a veteran of [Library Carpentries Instructor Training"](https://librarycarpentry.org/blog/2018/09/report-from-calgary-workshops/), I knew I wanted to do some sort of Carpentries-related instructional component in my class, but I also knew that the classroom has constraints that a dedicated Carpentries session does not have. This blog post describes my experience with adding a Carpentries lesson to one of my classes in Fall 2018 semester.
+As a Library and Information Science (LIS) professor at University of Missouri, one of my concerns is that students get a mix of theoretical knowledge and practical learning to help them through the rest of their graduate program and in the workplace. As a veteran of [Library Carpentries Instructor Training](https://librarycarpentry.org/blog/2018/09/report-from-calgary-workshops/), I knew I wanted to do some sort of Carpentries-related instructional component in my class, but I also knew that the classroom has constraints that a dedicated Carpentries session does not have. This blog post describes my experience with adding a Carpentries lesson to one of my classes in Fall 2018 semester.
 
 ### About the Class
 My class was [ISLT 7301 Introduction to Information Technology](https://www.coursicle.com/missouri/courses/ISLT/7301/). The instructional goal for the course is to orient students to library technology, so they can assess the value of those technologies in the workplace. This is a required class for our MLIS students, typically taken in their first semester or two. Strategies and skills students get from this class could, if transferred, make the rest of their academic careers simpler. 
@@ -44,11 +44,14 @@ The course took place both in Zoom (for screen sharing and conversation) and the
 ### Reflections
 So what have I learned from this experience? 
 
-*I need more time!* When I had three students in the same room, we got through a lot pretty quickly. However, I would have loved to have more time to give them exercises or help them share practical examples. When I had 51 students online, having only 75 minutes meant I was only able to hit some highlights, and I wasn't able to get into anything as deeply as I would like. Unfortunately, class length is pretty standardized, so I probably won't get much more time to offer content in a standard classroom setting. However, this might make a great exercise for Orientation Day or a presession for our student conference in April. 
+**I need more time!**  
+When I had three students in the same room, we got through a lot pretty quickly. However, I would have loved to have more time to give them exercises or help them share practical examples. When I had 51 students online, having only 75 minutes meant I was only able to hit some highlights, and I wasn't able to get into anything as deeply as I would like. Unfortunately, class length is pretty standardized, so I probably won't get much more time to offer content in a standard classroom setting. However, this might make a great exercise for Orientation Day or a presession for our student conference in April. 
 
-*This stuff is really useful!* Almost everything in the Introduction to Data curriculum was well-received, and several students said they wished they had known about topics like file structure earlier, to help them maintain their online space. For the next class, I've scheduled this for the second synchronous session (Searching databases with our library liaison is still the first session, and it provides some foundation for regular expressions). Because this information is so helpful and they can use it during their entire student career, it really is most approprite for an orientation session. 
+**This stuff is really useful!**  
+Almost everything in the Introduction to Data curriculum was well-received, and several students said they wished they had known about topics like file structure earlier, to help them maintain their online space. For the next class, I've scheduled this for the second synchronous session (Searching databases with our library liaison is still the first session, and it provides some foundation for regular expressions). Because this information is so helpful and they can use it during their entire student career, it really is most approprite for an orientation session. 
 
-*I really need some helpers!* With three face-to-face students, I didn't need helpers. But with 51 students online, I did, very much! Next time I do this, I might try asking some of my faculty colleagues or more advanced students to join us as  helpers.  
+**I really need some helpers!**  
+With three face-to-face students, I didn't need helpers. But with 51 students online, I did, very much! Next time I do this, I might try asking some of my faculty colleagues or more advanced students to join us as  helpers.  
 
 ### The Future
 Now that I have tried this once, I'm excited to share Carpentries resources with my colleagues and to hold more Carpentries-inspired workshops with my students. Having curricular materials already prepared and available through the Carpentries' web sites means that I know there's a structured plan for successful mastery of the basics. I also appreciate the reflections on a supportive learning community, and how we (students and I) can help create an atmosphere of support. Fellow Carpentries Instructor Training veteran Nina Exner and I plan to present more about Carpentries instruction nationally, to our peers at other LIS education programs. 
