@@ -50,5 +50,5 @@ So what have I learned from this experience?
 
 *I really need some helpers!* With three face-to-face students, I didn't need helpers. But with 51 students online, I did, very much! Next time I do this, I might try asking some of my faculty colleagues or more advanced students to join us as  helpers.  
 
-###The Future
+### The Future
 Now that I have tried this once, I'm excited to share Carpentries resources with my colleagues and to hold more Carpentries-inspired workshops with my students. Having curricular materials already prepared and available through the Carpentries' web sites means that I know there's a structured plan for successful mastery of the basics. I also appreciate the reflections on a supportive learning community, and how we (students and I) can help create an atmosphere of support. Fellow Carpentries Instructor Training veteran Nina Exner and I plan to present more about Carpentries instruction nationally, to our peers at other LIS education programs. 
