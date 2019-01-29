@@ -6,7 +6,7 @@ workshops:
     country: ca
     latitude: 42.372784
     longitude: -71.1176597
-    workshop: lesson
+    workshop: half-day
     blogs: 
     lessons: OpenRefine
     number: 
@@ -16,6 +16,23 @@ workshops:
     human_date: 11 March 2019
     start_date: 2019-03-11
     end_date: 2019-03-11
+-
+    who: Juan Steyn
+    help: Retha Langa, Pelumi Oladokun
+    venue: NEPTTP WITS Library Carpentry Workshop
+    country: za
+    latitude: -26.175525
+    longitude: 28.2461456
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Tidy Data, OpenRefine, Unix Shell
+    number: 
+    notes: 
+    site: https://dh-southernafrica.github.io/2019-01-30-WITS-LC/
+    eventbrite_id: 
+    human_date: 30 January 2019
+    start_date: 2019-01-30
+    end_date: 2019-02-01
 -
     who: Kristin Lee
     help: Bill Barthelmy, Ceilyn Boyd, Jess Cohen-Tanugi, Cole Crawford, Julie Goldman, Jeremy Guillette, Hugh Truslow
