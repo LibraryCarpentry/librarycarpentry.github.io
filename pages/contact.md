@@ -8,7 +8,7 @@ There are several ways to get in touch.
 
 * Our main communication channel is our [Library Carpentry Topicbox Group](https://carpentries.topicbox.com/groups/discuss-library-carpentry). Sign up to stay in touch via email.
 
-* You can also chat with community members in our [Gitter chatroom](https://gitter.im/LibraryCarpentry/Lobby). Join with your GitHub username or Twitter handle.
+* You can also chat with community members in our [Gitter chatroom](https://gitter.im/LibraryCarpentry/Lobby). Join with your GitHub username or Twitter handle. You can also join The Carpentries [#libraries Slack channel](https://swc-slack-invite.herokuapp.com).
 
 * If you are new to the community and have questions, reach out to community members via the channels above and/or the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:chris@carpentries.org).
 
