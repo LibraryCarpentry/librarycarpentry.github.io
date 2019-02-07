@@ -1,40 +1,24 @@
 - name: GitHub
   url: https://github.com/librarycarpentry
   class: fa-github
-  title: ""
+  title: "Library Carpentry GitHub"
 
 - name: Twitter
   url: https://twitter.com/libcarpentry
   class: fa-twitter
-  title: ""
+  title: "Library Carpentry Twitter"
 
 - name: Gitter
   url: https://gitter.im/LibraryCarpentry/Lobby
   class: fa-gitter
-  title: ""
+  title: "Library Carpentry Gitter"
   
-- name: EMail
+- name: Topicbox
   url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
-  class: fa-envelope
-  title: ""
+  class: fa-mail
+  title: "Discuss Library Carpentry Topicbox"
 
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+- name: Connect
+  url: https://librarycarpentry.org/contact/
+  class: fa-chat
+  title: "Connect with Library Carpentry"
