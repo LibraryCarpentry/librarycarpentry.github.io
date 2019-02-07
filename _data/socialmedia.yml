@@ -15,10 +15,10 @@
   
 - name: Topicbox
   url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
-  class: fa-mail
+  class: fa-envelope-square
   title: "Discuss Library Carpentry Topicbox"
 
 - name: Connect
   url: https://librarycarpentry.org/contact/
-  class: fa-chat
+  class: fa-comment-alt
   title: "Connect with Library Carpentry"
