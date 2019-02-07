@@ -20,5 +20,5 @@
 
 - name: Connect
   url: https://librarycarpentry.org/contact/
-  class: fa-arrow
+  class: fa-question-circle
   title: "Connect with Library Carpentry"
