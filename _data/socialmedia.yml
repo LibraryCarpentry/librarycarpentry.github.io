@@ -8,17 +8,7 @@
   class: fa-twitter
   title: "Library Carpentry Twitter"
 
-- name: Gitter
-  url: https://gitter.im/LibraryCarpentry/Lobby
-  class: fa-gitter
-  title: "Library Carpentry Gitter"
-  
-- name: Topicbox
-  url: https://carpentries.topicbox.com/groups/discuss-library-carpentry
-  class: fa-arrow
-  title: "Discuss Library Carpentry Topicbox"
-
 - name: Connect
   url: https://librarycarpentry.org/contact/
-  class: fa-question-circle
+  class: fa-gitter
   title: "Connect with Library Carpentry"
