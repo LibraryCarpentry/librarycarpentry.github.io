@@ -82,7 +82,16 @@ format: frontpage
 
 
     <div class="row">
-        <div class="medium-6 columns">
+      <div class="medium-6 columns">
+        <p>
+          In addition of the posts below,
+          find out what's happening in our community through
+          <a href="https://carpentries.org/blog">The Carpentries blog</a>,
+          a great resource that collates posts from Data Carpentry,
+          Library Carpentry, and Software Carpentry, and
+          publishes updates of general interest to the community.
+        </p>
+
             {% for post in site.posts limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
