@@ -2,7 +2,7 @@
 
 - name: "Contact"
   url: "/contact/"
-  title: "Contact"
+  title: "There are several ways to get in touch with us"
 
 - name: "RSS"
   url: "/feed.xml"
