@@ -69,9 +69,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background: url('../../images/header-bg.jpg') $swc-blue-light;
-    background-size: cover;
-    background-position: 50%;
+    background-color: $swc-blue-light;
 }
 #masthead-no-image-header {
     background-color: $swc-blue-light;
