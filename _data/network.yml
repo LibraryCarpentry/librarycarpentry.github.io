@@ -2,16 +2,16 @@
 
 - name: "Our Code of Conduct"
   url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  title: "Code of Conduct"
+  title: "The Carpentries Code of Conduct"
 
 - name: "Our Privacy Policy"
   url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
-  title: "Privacy Policy"
+  title: "The Carpentries Privacy Policy"
 
 - name: "Our Style Guide"
   url: "https://github.com/LibraryCarpentry/lc-styleguide"
-  title: "Style Guide"
+  title: "Library Carpentry branding information"
   
 - name: "The Carpentries"
   url: "https://carpentries.org/"
-  title: "The Carpentries"
+  title: "The Carpentries website"
