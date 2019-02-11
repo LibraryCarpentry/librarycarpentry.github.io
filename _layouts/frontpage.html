@@ -95,8 +95,15 @@ format: frontpage
 
 
         <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+          <p><strong>{{ site.data.language.more_articles }}</strong></p>
+          {% include list-posts entries='5' offset='1' %}
+          <p style="font-size: small; font-style: italic;">
+          In addition of the posts above,
+          find out what's happening in our community through
+          <a href="https://carpentries.org/blog">The Carpentries blog</a>,
+          a great resource that collates posts from Data Carpentry,
+          Library Carpentry, and Software Carpentry, and
+          publishes updates of general interest to the community.
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
