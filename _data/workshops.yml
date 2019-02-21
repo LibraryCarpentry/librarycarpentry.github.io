@@ -34,6 +34,23 @@ workshops:
     start_date: 2019-02-28
     end_date: 2019-03-01
 -
+    who: Jordan Pedersen, May Chan
+    help: Chuck McAndrew, Ryan Wick
+    venue: Code4Lib2019 San Jose
+    country: us
+    latitude: 37.371590
+    longitude: -121.922546
+    workshop: half-day
+    blogs: 
+    lessons: Intro to Data, Tidy Data, SQL (Library Carpentry-based)
+    number: 
+    notes: Documentation can be found at https://bit.ly/2EnFFA3
+    site: https://2019.code4lib.org/workshops/Introduction-to-Handling-Data-and-SQL
+    eventbrite_id: 
+    human_date: 19 February 2019
+    start_date: 2019-02-19
+    end_date: 2019-02-19
+-
     who: Matthias Liffers
     help: Carmi Cronje, Tom Honeyman, Liz Stokes
     venue: The University of Sydney
