@@ -1,5 +1,107 @@
 workshops:
 -
+    who: Rachel Wang
+    help: Jordan Pedersen, Sarah Gorman, Angel Su, Dominique Glassman
+    venue: University of Toronto
+    country: ca
+    latitude: 42.372784
+    longitude: -71.1176597
+    workshop: half-day
+    blogs: 
+    lessons: OpenRefine
+    number: 
+    notes: 
+    site: https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/
+    eventbrite_id: 
+    human_date: 11 March 2019
+    start_date: 2019-03-11
+    end_date: 2019-03-11
+-
+    who: Konrad Förstner, Till Sauerwein
+    help: 
+    venue: FU Berlin
+    country: de
+    latitude: 52.452644
+    longitude: 13.2875223
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Unix Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-02-28-Library_Carpentry_Berlin/
+    eventbrite_id: 
+    human_date: 28 February - 01 March 2019
+    start_date: 2019-02-28
+    end_date: 2019-03-01
+-
+    who: Jordan Pedersen, May Chan
+    help: Chuck McAndrew, Ryan Wick
+    venue: Code4Lib2019 San Jose
+    country: us
+    latitude: 37.371590
+    longitude: -121.922546
+    workshop: half-day
+    blogs: 
+    lessons: Carpentries Inspired (Data intro for librarians, Tidy data for librarians and SQL for librarians)
+    number: 
+    notes: Documentation can be found at https://bit.ly/2EnFFA3
+    site: 
+    eventbrite_id: 
+    human_date: 19 February 2019
+    start_date: 2019-02-19
+    end_date: 2019-02-19
+-
+    who: Matthias Liffers
+    help: Carmi Cronje, Tom Honeyman, Liz Stokes
+    venue: The University of Sydney
+    country: au
+    latitude: 
+    longitude: 
+    workshop: half-day
+    blogs: 
+    lessons: OpenRefine
+    number: 
+    notes: https://pad.carpentries.org/2019-02-15-lc-sydney
+    site: https://mpfl.github.io/2019-02-15-sydney/
+    eventbrite_id: 
+    human_date: 15 February 2019
+    start_date: 2019-02-15
+    end_date: 2019-02-15
+-
+    who: Matthias Liffers
+    help: Janice Chan
+    venue: Technology Park Function Centre
+    country: au
+    latitude: -31.997340
+    longitude: 115.890680
+    workshop: half-day
+    blogs: 
+    lessons: OpenRefine
+    number: 
+    notes: https://pad.carpentries.org/2019-02-11-lc-perth 
+    site: https://mpfl.github.io/2019-02-11-perth/
+    eventbrite_id: 
+    human_date: 11 February 2019
+    start_date: 2019-02-11
+    end_date: 2019-02-11
+-
+    who: Juan Steyn
+    help: Retha Langa, Pelumi Oladokun
+    venue: NEPTTP WITS Library Carpentry Workshop
+    country: za
+    latitude: -26.175525
+    longitude: 28.2461456
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Tidy Data, OpenRefine, Unix Shell
+    number: 
+    notes: 
+    site: https://dh-southernafrica.github.io/2019-01-30-WITS-LC/
+    eventbrite_id: 
+    human_date: 30 January - 1 February 2019
+    start_date: 2019-01-30
+    end_date: 2019-02-01
+-
     who: Kristin Lee
     help: Bill Barthelmy, Ceilyn Boyd, Jess Cohen-Tanugi, Cole Crawford, Julie Goldman, Jeremy Guillette, Hugh Truslow
     venue: Harvard University
@@ -1648,4 +1750,3 @@ workshops:
     human_date: 23-24 August 2013
     start_date: 2013-08-23
     end_date: 2013-08-24
-
