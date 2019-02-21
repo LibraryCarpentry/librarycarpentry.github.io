@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-03-11
     end_date: 2019-03-11
 -
+    who: Konrad Förstner, Till Sauerwein
+    help: 
+    venue: FU Berlin
+    country: de
+    latitude: 52.452644
+    longitude: 13.2875223
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Unix Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-02-28-Library_Carpentry_Berlin/
+    eventbrite_id: 
+    human_date: 28 February - 01 March 2019
+    start_date: 2019-02-28
+    end_date: 2019-03-01
+-
     who: Matthias Liffers
     help: Carmi Cronje, Tom Honeyman, Liz Stokes
     venue: The University of Sydney
