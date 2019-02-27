@@ -12,6 +12,10 @@
   url: "https://github.com/LibraryCarpentry/lc-styleguide"
   title: "Library Carpentry branding information"
   
+- name: "CC BY 4.0 License"
+  url: "https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/LICENSE-WEBSITE"
+  title: "Creative Commons International 4.0 License"
+  
 - name: "The Carpentries"
   url: "https://carpentries.org/"
   title: "The Carpentries website"
