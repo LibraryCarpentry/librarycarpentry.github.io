@@ -24,7 +24,7 @@ A number of lessons are still in beta status, meaning they are largely complete 
 
 Meanwhile, Curriculum Advisory Committee (CAC) members are looking into clarifying how the lessons can help librarians in their daily work. For instance, stories from participants of the workshops on how the training helped them address challenges in their libraries might help. The CAC is also exploring lesson combinations that address certain themes and help with delivering lessons more flexibly. Much of the Maintainer work will feed into the CAC’s ongoing discussions.
 
-There are also new lessons being developed, from Wikidata to Digital Preservation. Many of the lessons are still experimental and are listed in the following Etherpad:
+There are also new lessons being developed, from *Wikidata* to *Digital Preservation*. Many of the lessons are still experimental and are listed in the following Etherpad:
 
 - [Library Carpentry Experimental Lessons](https://pad.carpentries.org/lc-experimental-lessons)
 
@@ -37,4 +37,4 @@ There are also new lessons being developed, from Wikidata to Digital Preservatio
 There will be more updates to come from the Library Carpentry Maintainer community and the CAC, but in the meantime, thanks to all of their work to improve the lessons and develop new lessons. If you are interested in helping out as a Maintainer for one of the Library Carpentry lesson, contact [chris@carpentries.org](mailto:chris@carpentries.org).
 
 **Thank you Maintainers!**  
-Carmi Cronje, Paul Pival, Shari Laster*, Anton Angelo, James Baker, Belinda Weaver, Tim Dennis, Danielle Kane, Nilani Ganeshwaran*, Owen Stephens, Juliane Schneider, Kristin Lee, Erin Carrillo*, Chris Erdmann, Thea Atwood, Drew Heles*, Katrin Leinweber, Eva Seidlmayer, Jez Cope, Sherry Lake*, Erika Mias, Jordan Pedersen*, Elaine Wong, Janice Chan, Joshua Dull*, Thomas Guignard, Konrad Foerstner, Elizabeth Wickes, Laura Wrubel*, Carlos Martinez, Richard Vankoningsveld, Jenny Bunn*, Noah Geraci, Muhammad Elhossary, Till Sauerwein, Peter Neish, Jaye Weatherburn, Lachlan Glanville, Erika Mias, Catherine DeRose, Kristian Allen, Jay Forrest, Harrison Dekker, Katrin Leinweber, and Mark Laufersweiler.
+Carmi Cronje, Paul Pival, Shari Laster, Anton Angelo, James Baker, Belinda Weaver, Tim Dennis, Danielle Kane, Nilani Ganeshwaran, Owen Stephens, Juliane Schneider, Kristin Lee, Erin Carrillo, Chris Erdmann, Thea Atwood, Drew Heles, Katrin Leinweber, Eva Seidlmayer, Jez Cope, Sherry Lake, Erika Mias, Jordan Pedersen, Elaine Wong, Janice Chan, Joshua Dull, Thomas Guignard, Konrad Foerstner, Elizabeth Wickes, Laura Wrubel, Carlos Martinez, Richard Vankoningsveld, Jenny Bunn, Noah Geraci, Muhammad Elhossary, Till Sauerwein, Peter Neish, Jaye Weatherburn, Lachlan Glanville, Erika Mias, Catherine DeRose, Kristian Allen, Jay Forrest, Harrison Dekker, Katrin Leinweber, and Mark Laufersweiler.
