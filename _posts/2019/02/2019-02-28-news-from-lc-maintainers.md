@@ -36,5 +36,5 @@ There are also new lessons being developed, from Wikidata to Digital Preservatio
  
 There will be more updates to come from the Library Carpentry Maintainer community and the CAC, but in the meantime, thanks to all of their work to improve the lessons and develop new lessons. If you are interested in helping out as a Maintainer for one of the Library Carpentry lesson, contact [chris@carpentries.org](mailto:chris@carpentries.org).
 
-*Thank you Maintainers!*  
+**Thank you Maintainers!**  
 Carmi Cronje, Paul Pival, Shari Laster*, Anton Angelo, James Baker, Belinda Weaver, Tim Dennis, Danielle Kane, Nilani Ganeshwaran*, Owen Stephens, Juliane Schneider, Kristin Lee, Erin Carrillo*, Chris Erdmann, Thea Atwood, Drew Heles*, Katrin Leinweber, Eva Seidlmayer, Jez Cope, Sherry Lake*, Erika Mias, Jordan Pedersen*, Elaine Wong, Janice Chan, Joshua Dull*, Thomas Guignard, Konrad Foerstner, Elizabeth Wickes, Laura Wrubel*, Carlos Martinez, Richard Vankoningsveld, Jenny Bunn*, Noah Geraci, Muhammad Elhossary, Till Sauerwein, Peter Neish, Jaye Weatherburn, Lachlan Glanville, Erika Mias, Catherine DeRose, Kristian Allen, Jay Forrest, Harrison Dekker, Katrin Leinweber, and Mark Laufersweiler.
