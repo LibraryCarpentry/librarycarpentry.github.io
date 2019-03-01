@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Janice Chan, Anton Angelo
+    help: Chew Shu Wen, Dong Danping, Lavanya Asokan, Malar Thomas, Schusie Sun Guangyuan
+    venue: Library Association of Singapore
+    country: sg
+    latitude: 1.34446
+    longitude: 103.6785903
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, OpenRefine, Tidy Data
+    number: 
+    notes: 
+    site: https://antonangelo.github.io/2019-06-11-las/
+    eventbrite_id: 
+    human_date: 11-12 June 2019
+    start_date: 2019-06-11
+    end_date: 2019-06-12
+-
     who: Rachel Wang
     help: Jordan Pedersen, Sarah Gorman, Angel Su, Dominique Glassman
     venue: University of Toronto
