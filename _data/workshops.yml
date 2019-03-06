@@ -323,6 +323,23 @@ workshops:
     start_date: 2018-09-25
     end_date: 2018-09-26
 -
+    who: Alehegn Adane, Dagim Yoseph, Mesfin Diro
+    help: 
+    venue: University of Gonder
+    country: et
+    latitude: 12.581942
+    longitude: 37.442062
+    workshop: two-day
+    blogs: 
+    lessons: Data Intro, UNIX Shell, Git, SQL
+    number: 
+    notes: 
+    site: https://mesfind.github.io/2018-09-24-LC-UOG/
+    eventbrite_id: 
+    human_date: 24-25 September 2018
+    start_date: 2018-09-24
+    end_date: 2018-09-25
+-
     who: Silvia Di Giorgio, Konrad Förstner
     help: Christian Kurrat, Muhammad Elhossary
     venue: ZB MED
@@ -849,6 +866,23 @@ workshops:
     human_date: 1-1 March 2018
     start_date: 2018-03-01
     end_date: 2018-03-01
+-
+    who: Kayleigh Lino, Mesfin Diro, Yosef Abate
+    help: Bonny Adane, Dagim Yoseph, Behailu Korma
+    venue: The Ethiopian Research and Education Network
+    country: et
+    latitude: 9.03403
+    longitude: 38.76620
+    workshop: three-day
+    blogs: 
+    lessons: Data Intro, UNIX Shell, Git, OpenRefine, Using Spreadsheet
+    number: 
+    notes: 
+    site: https://mesfind.github.io/2018-01-29-Ethiopia/
+    eventbrite_id: 
+    human_date: 29 January - 2 February 2018
+    start_date: 2018-01-29
+    end_date: 2018-02-02
 -
     who: James Baker
     help: 
