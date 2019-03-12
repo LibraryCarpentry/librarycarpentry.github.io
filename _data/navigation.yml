@@ -27,6 +27,8 @@
   url: "/lessons/"
   side: left
   dropdown:
+  - title: "Our Lessons"
+    url: "/lessons/"
   - title: "Top 10 FAIR Data & Software Things"
     url: "https://librarycarpentry.org/Top-10-FAIR/"
 
