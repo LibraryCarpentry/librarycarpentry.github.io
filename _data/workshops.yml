@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Juliane Schneider, Tim Dennis
+    help: David Kane
+    venue: LIBER - Carpentries Instructor Training for Librarians
+    country: sg
+    latitude: 53.308244
+    longitude: -6.2241652
+    workshop: two-day
+    blogs: 
+    lessons: Carpentries Instructor Training for Librarians
+    number: 
+    notes: 
+    site: https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/
+    eventbrite_id: 
+    human_date: 24-25 June 2019
+    start_date: 2019-06-24
+    end_date: 2019-06-25
+-
     who: Janice Chan, Anton Angelo
     help: Chew Shu Wen, Dong Danping, Lavanya Asokan, Malar Thomas, Schusie Sun Guangyuan
     venue: Library Association of Singapore
