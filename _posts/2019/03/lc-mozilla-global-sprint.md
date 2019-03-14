@@ -47,7 +47,7 @@ When you decide on what you and/or your group would like to work on, please list
 
 People can start working today. There will be people available to answer questions at most times before and during the sprint. We will use the chatroom to wrangle those questions and offer any clarifications. We will also have a dedicated Zoom channel with calls happening at the top of the hour for most of the sprint. The Zoom channel will be:
 
-[https://carpentries.zoom.us/j/593996265](https://carpentries.zoom.us/j/593996265)
+[https://UCOP.zoom.us/j/575467341](https://UCOP.zoom.us/j/575467341)
 
 You will be able to ask questions via the video calls as well (which we will also use for networking). If you are not sure about something, please post a question in the chatroom (directed to someone in particular, if need be) and someone will get back to you.
 
