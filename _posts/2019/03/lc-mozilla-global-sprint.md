@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Chris Erdmann"]
-title: "Library Carpentry Sprint, 30-31 May, 2019"
+title: "Mozilla-Library Carpentry Global Sprint, 30-31 May, 2019"
 teaser: "Upcoming sprint to update and develop Library Carpentry material"
 date: 2019-03-XX
 tags: ["Library Carpentry", “Mozilla Global Sprint”, “lesson development”, “hackathon”]
