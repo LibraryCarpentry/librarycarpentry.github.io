@@ -34,6 +34,23 @@ workshops:
     start_date: 2019-06-11
     end_date: 2019-06-12
 -
+    who: Karen Gutzman, Adam Hecktman, Avishek Kumar, Will Trimble
+    help: Juliane Schneider
+    venue: Microsoft Technology Center
+    country: us
+    latitude: 41.885303
+    longitude: -87.621521
+    workshop: two-day
+    blogs: 
+    lessons: Using City Data w/ Excel, UNIX Shell, Git, OpenRefine
+    number: 
+    notes: 
+    site: https://pitviper6.github.io/2019-05-23-chicagoMSTech/
+    eventbrite_id: 
+    human_date: 23-24 May 2019
+    start_date: 2019-05-23
+    end_date: 2019-05-24
+-
     who: Rachel Wang
     help: Jordan Pedersen, Sarah Gorman, Angel Su, Dominique Glassman
     venue: University of Toronto
