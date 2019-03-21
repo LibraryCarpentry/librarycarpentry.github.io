@@ -51,6 +51,23 @@ workshops:
     start_date: 2019-05-23
     end_date: 2019-05-24
 -
+    who: Joshua Dull
+    help: 
+    venue: KINBERCON 2019
+    country: us
+    latitude: 39.947939
+    longitude: -75.166428
+    workshop: half-day
+    blogs: 
+    lessons: Data Intro, OpenRefine, Consortium
+    number: 
+    notes: 
+    site: https://nesclic.github.io/2019-04-03-KINBERCON/
+    eventbrite_id: 
+    human_date: 3 April 2019
+    start_date: 2019-04-03
+    end_date: 2019-04-03
+-
     who: Rachel Wang
     help: Jordan Pedersen, Sarah Gorman, Angel Su, Dominique Glassman
     venue: University of Toronto
