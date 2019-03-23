@@ -51,6 +51,23 @@ workshops:
     start_date: 2019-05-23
     end_date: 2019-05-24
 -
+    who: Konrad Förstner, Till Sauerwein
+    help: Silvia Di Giorgio, Eva Seidlmayer
+    venue: Technische Hochschule Köln
+    country: de
+    latitude: 50.919450
+    longitude: 6.966870
+    workshop: two-day
+    blogs: 
+    lessons: Data Intro, UNIX Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbiw.github.io/2019-04-02-Library_Carpentry_TH_Koeln_ZBIW/
+    eventbrite_id: 
+    human_date: 2-3 April 2019
+    start_date: 2019-04-02
+    end_date: 2019-04-03
+-
     who: Joshua Dull
     help: 
     venue: KINBERCON 2019
