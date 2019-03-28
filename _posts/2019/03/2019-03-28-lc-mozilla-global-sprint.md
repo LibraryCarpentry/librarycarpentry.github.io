@@ -3,7 +3,7 @@ layout: page
 authors: ["Chris Erdmann"]
 title: "Mozilla-Library Carpentry Global Sprint, 30-31 May, 2019"
 teaser: "Upcoming Sprint to improve and develop Library Carpentry material"
-date: 2019-03-XX
+date: 2019-03-28
 tags: ["Library Carpentry", “Mozilla Global Sprint”, “lesson development”, “hackathon”]
 category: ["blog"]
 ---
@@ -13,7 +13,7 @@ By [Chris Erdmann](https://twitter.com/libcce)
 
 ## Library Carpentry Sprint, 30-31 May, 2019
 
-The Library Carpentry Sprint is part of the [2019 Mozilla Global Sprint](https://medium.com/read-write-participate/mozillas-global-sprint-is-becoming-even-more-open-dac2de762429), which will take place worldwide throughout the month of May. You can find us on [Mozilla Pulse]().
+The Library Carpentry Sprint is part of the [2019 Mozilla Global Sprint](https://medium.com/read-write-participate/mozillas-global-sprint-is-becoming-even-more-open-dac2de762429), which will take place worldwide throughout the month of May. You can find us on [Mozilla Pulse](https://www.mozillapulse.org).
 
 We've participated in a number of sprints over the years. Have a look at a couple of our past sprints:
 
