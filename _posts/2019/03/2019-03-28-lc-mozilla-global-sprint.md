@@ -39,7 +39,7 @@ You can participate in the Sprint by:
 
 * Helping with the Library Carpentry website - There are a handful of [issues](https://github.com/LibraryCarpentry/librarycarpentry.github.io/issues) already but you can also create new issues to be addressed and/or submit pull requests to correct issues. You can also do the same if you have suggestions to improve the design and content of the website.
 
-* Testing the Top 10 FAIR Data & Software Things to see if Carpentries approaches can be applied to teaching them - During a Sprint in [November 2018](https://librarycarpentry.org/blog/2019/02/top-10-fair-published/), a number of brief guides on FAIR data & software called [Top 10 Things](https://librarycarpentry.org/Top-10-FAIR/) were created to help communities within disciplines understand the [FAIR Principles](https://www.incf.org/activities/standards-and-best-practices/what-is-fair). For the Sprint, you can test these guides to see whether [Carpentries approaches](https://carpentries.github.io/instructor-training/) can be used to teach them. Submit your teaching suggestions as [issues and/or pull requests](https://github.com/LibraryCarpentry/Top-10-FAIR). 
+* Testing the Top 10 FAIR Data & Software Things - During a sprint in [November 2018](https://librarycarpentry.org/blog/2019/02/top-10-fair-published/), a number of brief guides on FAIR data & software called [Top 10 Things](https://librarycarpentry.org/Top-10-FAIR/) were created to help discipline-based communities understand the [FAIR Principles](https://www.incf.org/activities/standards-and-best-practices/what-is-fair). For this Sprint, you can test these guides to see whether [Carpentries approaches](https://carpentries.github.io/instructor-training/) can be used to teach them. Submit your teaching suggestions as [issues and/or pull requests](https://github.com/LibraryCarpentry/Top-10-FAIR). 
 
 * Joining our chatroom - If you are still not sure what you would like to help with during the Sprint, reach out to us via the [chatroom](https://gitter.im/LibraryCarpentry/Lobby) and we can help you find something.
 
@@ -64,4 +64,5 @@ If you tweet, please tweet about the event using the handle [@LibCarpentry](http
 ## If you want to choose a different time?
 If the Sprint dates/times, 30-31 May 2019, do not work for you and/or your group, no problem. Feel free to arrange separate sprint dates/times. This year the Mozilla Global Sprint is flexible and you can sprint all throughout the month of May. If you do choose separate dates/times, please note when you will be meeting in the Etherpad next to your name/group name information and the project. This way, others will know what you are working on and can get in touch.
 
-## See you at the Sprint!
+## See you at the Sprint!  
+  
