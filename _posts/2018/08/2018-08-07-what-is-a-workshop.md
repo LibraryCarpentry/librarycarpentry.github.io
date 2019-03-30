@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann", "Belinda Weaver", "John Chodacki", "Juliane Schneider", "Jez Cope", "Kayleigh Lino", “"Tim Dennis", "Cam Macdonell"]
 title: "What constitutes a Library Carpentry workshop?"
 teaser: "What is considered a Library Carpentry workshop vs a roadshow"

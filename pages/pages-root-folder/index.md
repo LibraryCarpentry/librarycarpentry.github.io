@@ -16,7 +16,7 @@ widget2:
   title: "Who we are"
   url: '/audience/'
   icon: 'fas fa-users'
-  text: 'We are a diverse, global community of volunteer <a href="https://carpentries.org/team/">Instructors</a>, helpers, and Maintainers. Library Carpentry is guided by an <a href="team/">interim governance group</a> and a <a href="cac/">curriculum advisory committee</a>. <a href="audience/">Our audience</a> are primarily people working in library- and information-related roles.'
+  text: 'We are a diverse, global community of <a href="https://carpentries.org/volunteer/">volunteers</a>. Our community includes Instructors, helpers, Trainers, <a href="https://carpentries.org/maintainers/">Maintainers</a>, <a href="http://static.carpentries.org/mentors/">Mentors</a>, community champions, <a href="https://carpentries.org/members/">member organisations</a>, supporters, workshop organisers, and <a href="https://carpentries.org/team/">staff</a>. Library Carpentry is guided by a <a href="team/">Advisory Group</a> and a <a href="cac/">Curriculum Advisory Committee</a>. <a href="audience/">Our audience</a> are primarily people working in library- and information-related roles.'
 widget3:
   title: "Get involved"
   url: '/join/'

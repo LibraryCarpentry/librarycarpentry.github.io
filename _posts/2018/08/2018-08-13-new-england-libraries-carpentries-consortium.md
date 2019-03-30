@@ -13,7 +13,7 @@ How can libraries get involved and become Carpentries members? The New England l
 
 NESCLiC shares the costs and benefits that go along with [Gold Tier membership](https://carpentries.org/membership/), but the Consortium also allows staff from the different areas of academic librarianship and technology, including the digital humanities, statistics, high performance computing, sciences, engineering, medical libraries, and data services, to work together on Carpentries initiatives in their libraries.
 
-![Instructor training workshop at Brown](/img/brown-it-2.jpg)  
+![Instructor training workshop at Brown](/images/brown-it-2.jpg)  
 
 ## What was their motivation?
 
@@ -21,7 +21,7 @@ NESCLiC library staff initially discussed developing advanced training for their
 
 Following the MIT Library Carpentry workshop, their goal was to create a network of Carpentries instructors in New England, to share instruction, and ultimately, to develop new lesson material. Sharing the membership between the seven libraries allowed NESCLiC members to pilot the Carpentries approach together, rather than separately, and to lower the costs for each institution.
 
-![Library Carpentry workshop at Yale](/img/yale-lc.jpg)   
+![Library Carpentry workshop at Yale](/images/yale-lc.jpg)   
 
 ### What has NESCLiC been doing since?
 
@@ -36,4 +36,4 @@ All 15 founding NESCLiC members recently completed instructor training in the Wi
 
 Moving forward, NESCLiC plans to extend their membership to other academic institutions and help onboard additional certified instructors.
 
-![Instructor training workshop at Brown](/img/brown-it.jpg)  
+![Instructor training workshop at Brown](/images/brown-it.jpg)  

@@ -1,8 +1,7 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Juliane Schneider"]
 title: "Pancakes on a Stick, and Other Things I Learned at UCLA"
-category: blog
 ---
 
 By [Juliane Schneider](https://twitter.comJulianeS)

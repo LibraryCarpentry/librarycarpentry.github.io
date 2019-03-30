@@ -9,7 +9,7 @@ permalink: /lessons/
 <p>Library Carpentry workshops teach people working in library- and information-related roles how to:</p>
 <ul>
    <li>Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;</li>
-   <li>Identify and use best practice in data structures;</li>
+   <li>Identify and use best practices in data structures;</li>
    <li>Learn how to programmatically transform and map data from one form to another;</li>
    <li>Work effectively with researchers, IT, and systems colleagues;</li>
    <li>Automate repetitive, error prone tasks.</li>
@@ -19,10 +19,10 @@ permalink: /lessons/
 <h3 id="-core-curriculum"><a id="core-curriculum"></a>Our Core Curriculum</h3>
 
 <p>Our Core Curriculum consists of the lessons in the table below. These have been taught many times, and have been further refined 
-   after instructor and learner feedback. For more information regarding core lessons and workshops, see <a href="/test/workshops/">Our Workshops</a>.</p>
+   after instructor and learner feedback. For more information regarding core lessons and workshops, see <a href="/workshops/">Our Workshops</a>.</p>
 
 <p>The lessons introduce terms, phrases, and concepts in software development and data science, how to best work with 
-   data structures, and use regular expressions in searches. We introduce the Unix-style command line interface, andteach 
+   data structures, and use regular expressions in searches. We introduce the Unix-style command line interface, and teach 
    basic shell navigation, as well as the use of `loops` and pipes for linking shell commands. We also introduce
    `grep` for searching and subsetting data across files. Exercises cover the counting and mining of data. In addition, we 
    cover working with OpenRefine to transform and clean data, and the benefits of working collaboratively via Git/GitHub and 
@@ -39,6 +39,113 @@ permalink: /lessons/
       <th>Status</th>
       <th>Maintainer(s)</th>
    </tr>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Course",
+"accessMode": [
+"textual",
+"visual"
+],
+"accessModeSufficient": [
+"textual",
+"visual"
+],
+"accessibilityControl": [
+"fullKeyboardControl",
+"fullMouseControl"
+],
+"accessibilityFeature": [
+"alternativeText",
+"tableOfContents"
+],
+"accessibilitySummary": "Short descriptions are present but long descriptions will be needed for non-visual users",
+"audience": {
+"@type": "EducationalAudience",
+"educationalRole": "students"
+},
+"citation": {
+"@type": "CreativeWork",
+"name": "Community-Driven Data Analysis Training for Biology",
+"url": "https://doi.org/10.1016/j.cels.2018.05.012"
+},
+"copyrightHolder": {
+"@type": "Organization",
+"email": "team@carpentries.org",
+"name": "The Carpentries",
+"url": "https://carpentries.org/"
+},
+"discussionUrl": "https://gitter.im/LibraryCarpentry/Lobby",
+"headline": "Library Carpentry: Introduction to Data",
+"inLanguage": {
+"@type": "Language",
+"name": "English",
+"alternateName": "en"
+},
+"interactivityType": "mixed",
+"isAccessibleForFree": true,
+"license": "https://librarycarpentry.org/lc-data-intro/LICENSE.html",
+"producer": {
+"@type": "Organization",
+"email": "team@carpentries.org",
+"name": "The Carpentries",
+"url": "https://carpentries.org/"
+},
+"provider": {
+"@type": "Organization",
+"email": "team@carpentries.org",
+"name": "The Carpentries",
+"url": "https://carpentries.org/"
+},
+"sourceOrganization": {
+"@type": "Organization",
+"email": "team@carpentries.org",
+"name": "The Carpentries",
+"url": "https://carpentries.org/"
+},
+"courseCode": "librarycarpentry / lc-data-intro",
+"isPartOf": {
+"@type": "CreativeWork",
+"name": "Library Carpentry: Introduction to Data",
+"description": "This Library Carpentry lesson introduces librarians and others to working with data. At the conclusion of the lesson you will: define terms, phrases, and concepts in software development and data science; identify and use best practices in data structures; use regular expressions in searches.",
+"url": "https://librarycarpentry.org/lc-data-intro/"
+},
+"learningResourceType": "tutorial",
+"name": "Library Carpentry: Introduction to Data",
+"description": "This Library Carpentry lesson introduces librarians and others to working with data. At the conclusion of the lesson you will: define terms, phrases, and concepts in software development and data science; identify and use best practices in data structures; use regular expressions in searches.",
+"hasPart": [
+{
+"@type": "Course",
+"url": "https://librarycarpentry.org/lc-data-intro/",
+"name": "Hands-on Library Carpentry 'Introduction to Data' tutorial",
+"learningResourceType": "hands-on tutorial",
+"interactivityType": "expositive"
+},
+],
+"author": [
+{
+"@type": "Person",
+"name": "Library Carpentry Community",
+"url": "https://github.com/orgs/LibraryCarpentry/people"
+}
+],
+"contributor": [
+{
+"@type": "Person",
+"name": "Library Carpentry Community",
+"url": "https://github.com/orgs/LibraryCarpentry/people"
+}
+],
+"about": [
+{
+"@type": "CreativeWork",
+"name": "Library Carpentry: Introduction to Data",
+"description": "This Library Carpentry lesson introduces librarians and others to working with data. At the conclusion of the lesson you will: define terms, phrases, and concepts in software development and data science; identify and use best practices in data structures; use regular expressions in searches.",
+"url": "https://librarycarpentry.org/lc-data-intro/"
+}
+]
+}
+</script>
    <tr>
       <td>Introduction to Data</td>
       <td><a href="https://librarycarpentry.github.io/lc-data-intro/" target="_blank" class="icon-browser" title="Website for Introduction to Data lesson"></a></td>
@@ -46,7 +153,7 @@ permalink: /lessons/
       <td><a href="https://librarycarpentry.github.io/lc-data-intro/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Data lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-data-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for Introduction to Data lesson"></a></td>
       <td>Stable</td>
-      <td>Carmi Cronje and James Baker</td>
+      <td>Carmi Cronje, Paul Pival, Shari Laster*, Anton Angelo (Past Maintainer: James Baker)</td>
    </tr>
    <tr>
       <td>The UNIX Shell</td>
@@ -55,16 +162,16 @@ permalink: /lessons/
       <td><a href="https://librarycarpentry.github.io/lc-shell/reference.html" target="_blank" class="icon-eye" title="Reference for UNIX Shell lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-shell/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for UNIX Shell lesson"></a></td>
       <td>Stable</td>
-      <td>Belinda Weaver and Tim Dennis</td>
+      <td>Belinda Weaver, Tim Dennis, Danielle Kane*, Nilani Ganeshwaran, John Wright</td>
    </tr>
    <tr>
       <td>OpenRefine</td>
-      <td><a href="https://librarycarpentry.github.io/lc-open-refine/" target="_blank" class="icon-browser" title="Website for OpenRefine Ecology lesson"></a></td>
+      <td><a href="https://librarycarpentry.github.io/lc-open-refine/" target="_blank" class="icon-browser" title="Website for OpenRefine lesson"></a></td>
       <td><a href="https://github.com/librarycarpentry/lc-open-refine/" target="_blank" class="icon-github" title="Repository for OpenRefine lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-open-refine/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-open-refine/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for OpenRefine lesson"></a></td>
       <td>Stable</td>
-      <td>Owen Stephens, Juliane Schneider, and Carmi Cronje</td>
+      <td>Owen Stephens, Juliane Schneider, Paul Pival, Kristin Lee, Erin Carrillo* (Past Maintainer: Carmi Cronje)</td>
    </tr>
    <tr>
       <td>Introduction to Git</td>
@@ -73,7 +180,7 @@ permalink: /lessons/
       <td><a href="https://librarycarpentry.github.io/lc-git/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Git lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-git/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for Introduction to Git lesson"></a></td>
       <td>Beta</td>
-      <td>Belinda Weaver and Jez Cope</td>
+      <td>Chris Erdmann, Thea Atwood, Drew Heles*, Katrin Leinweber, Eva Seidlmayer (Past Maintainers: Belinda Weaver, Jez Cope)</td>
    </tr>
 </table>
 <hr />
@@ -97,13 +204,22 @@ permalink: /lessons/
       <th>Maintainer(s)</th>
    </tr>
    <tr>
+      <td>Tidy Data</td>
+      <td><a href="https://librarycarpentry.github.io/lc-spreadsheets/" target="_blank" class="icon-browser" title="Website for Tidy Data lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-spreadsheets/" target="_blank" class="icon-github" title="Repository for Tidy Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.github.io/lc-spreadsheets/reference.html" target="_blank" class="icon-eye" title="Reference for Tidy Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.github.io/lc-spreadsheets/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for Tidy Data lesson"></a></td>
+      <td>Beta</td>
+      <td>Tim Dennis, Thea Atwood, Sherry Lake*, Erika Mias (Past Maintainer: Jez Cope)</td>
+   </tr>
+   <tr>
       <td>SQL</td>
       <td><a href="https://librarycarpentry.github.io/lc-sql/" target="_blank" class="icon-browser" title="Website for SQL lesson"></a></td>
       <td><a href="https://github.com/librarycarpentry/lc-sql/" target="_blank" class="icon-github" title="Repository for SQL lesson"></a></td>
-      <td><a href="https://librarycarpentry.github.io/lc-data-intro/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Data lesson"></a></td>
-      <td><a href="https://librarycarpentry.github.io/lc-data-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for Introduction to Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.github.io/lc-sql/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.github.io/lc-sql/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for Introduction to Data lesson"></a></td>
       <td>Beta</td>
-      <td>Elaine Wong and Janice Chan</td>
+      <td>Kristin Lee, Chris Erdmann, Jordan Pedersen* (Past Maintainers: Elaine Wong, Janice Chan)</td>
    </tr>
    <tr>
       <td>Webscraping</td>
@@ -112,7 +228,7 @@ permalink: /lessons/
       <td><a href="https://librarycarpentry.github.io/lc-webscraping/reference.html" target="_blank" class="icon-eye" title="Reference for UNIX Shell lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-webscraping/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for UNIX Shell lesson"></a></td>
       <td>Alpha</td>
-      <td>Belinda Weaver and Thomas Guignard</td>
+      <td>Joshua Dull*, Thomas Guignard (Past Maintainer: Belinda Weaver)</td>
    </tr>
    <tr>
       <td>Introduction to Python</td>
@@ -121,7 +237,7 @@ permalink: /lessons/
       <td><a href="https://librarycarpentry.github.io/lc-python-intro/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-python-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for OpenRefine lesson"></a></td>
       <td>Alpha</td>
-      <td>Carlos Martinez and Richard Vankoningsveld</td>
+      <td>Konrad Foerstner, Drew Heles, Elizabeth Wickes, Laura Wrubel* (Past Maintainers: Carlos Martinez, Richard Vankoningsveld)</td>
    </tr>
    <tr>
       <td>Introduction to Data for Archivists</td>
@@ -130,16 +246,22 @@ permalink: /lessons/
       <td><a href="https://librarycarpentry.github.io/lc-data-intro-archives/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Git lesson"></a></td>
       <td><a href="https://librarycarpentry.github.io/lc-data-intro-archives/guide/" target="_blank" class="icon-circle-with-plus" title="Guide for Introduction to Git lesson"></a></td>
       <td>Alpha</td>
-      <td>Jenny Bunn, Noah Geraci, and James Baker</td>
+      <td>Jenny Bunn*, Noah Geraci, and James Baker (Looking for new Maintainers)</td>
    </tr>
 </table>
 <hr />
 
-<h3 id="-experimental-curriculum"><a id="experimental-curriculum"></a>Experimental Curriculum</h3>
+<em>* Indicates Lead Maintainer</em>
 
-<p>The following Etherpad contains Library Carpentry experimental lessons that are currently being discussed and/or under development.</p>
+<br><br>
 
-<h4 id="lessons"><a href="https://pad.carpentries.org/lc-experimental-lessons">Lessons Under Development</a></h4>
+<h3 id="-experimental-curriculum"><a id="experimental-curriculum"></a>Experimental/Conceptual Curriculum</h3>
+
+<p>The following Etherpad contains Library Carpentry experimental/conceptual lessons that are currently being discussed and/or under development.</p>
+
+<h4 id="lessons"><a href="https://pad.carpentries.org/lc-experimental-lessons">Lessons Under Development</a> (<a href="https://pad.carpentries.org/lc-experimental-lessons/export/html">HTML version</a>)</h4>
+
+<h4 id="lessons"><a href="https://librarycarpentry.org/Top-10-FAIR/">Top 10 FAIR Data & Software Things</a> (Pilot)</h4>
 
 <hr />
 
@@ -203,7 +325,7 @@ link to your lesson repository as an <strong>alpha</strong> lesson.
 <p>In order to maintain consistent quality and style in the Library Carpentry lessons, we have a community-driven 
 set of expectations for what a good lesson should look like. These should guide the review process at steps 5 and 8 
 above. Lesson developers and reviewers should also review The Carpentries Handbook, especially the section on 
-   <a href="https://docs.carpentries.org/topic_folders/lesson_development/index.html">Lesson Development</a> and consult with the <a href="/test/cac/">Curriculum Advisory Committee</a>.</p>
+   <a href="https://docs.carpentries.org/topic_folders/lesson_development/index.html">Lesson Development</a> and consult with the <a href="/cac/">Curriculum Advisory Committee</a>.</p>
 
 <h4 id="-stable-lessons"><a id="stable-lessons"></a>All stable lessons should:</h4>
 <p>

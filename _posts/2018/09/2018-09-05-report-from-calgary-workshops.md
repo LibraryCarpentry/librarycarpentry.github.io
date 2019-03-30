@@ -38,7 +38,8 @@ learning OpenRefine while some were positive about the UNIX Shell lesson.
 <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> 
 <a href="https://twitter.com/hashtag/libcarpcon?src=hash&amp;ref_src=twsrc%5Etfw">#libcarpcon</a> 
 <a href="https://t.co/8Svr6TCU8T">pic.twitter.com/8Svr6TCU8T</a></p>&mdash; Juliane Schneider (@JulianeS) 
-<a href="https://twitter.com/JulianeS/status/1035517345140109312?ref_src=twsrc%5Etfw">August 31, 2018</a></blockquote>
+<a href="https://twitter.com/JulianeS/status/1035517345140109312?ref_src=twsrc%5Etfw">August 31, 2018</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The Unix Shell lesson, initially planned for the first day of the workshop, had to be pushed back due to configuration 
@@ -53,7 +54,8 @@ the classroom at <a href="https://twitter.com/UCalgaryLibrary?ref_src=twsrc%5Etf
 <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> 
 <a href="https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw">@LibCarpentry</a> 
 <a href="https://t.co/vUQ5YSalgw">pic.twitter.com/vUQ5YSalgw</a></p>&mdash; Juliane Schneider (@JulianeS) 
-<a href="https://twitter.com/JulianeS/status/1034873916118855680?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
+<a href="https://twitter.com/JulianeS/status/1034873916118855680?ref_src=twsrc%5Etfw">August 29, 2018</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Instructor Training 
@@ -75,7 +77,8 @@ workshop, the overall feedback was positive and the group is well on their way t
 <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a>⁩ , and our hosts the 
 ⁦<a href="https://twitter.com/UCalgaryLibrary?ref_src=twsrc%5Etfw">@UCalgaryLibrary</a>⁩ for a great 2 day instructor training! 
 <a href="https://t.co/zkCpx1n6ti">pic.twitter.com/zkCpx1n6ti</a></p>&mdash; Renée A.N. Walsh (@reneedata) 
-<a href="https://twitter.com/reneedata/status/1035944897008820226?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
+<a href="https://twitter.com/reneedata/status/1035944897008820226?ref_src=twsrc%5Etfw">September 1, 2018</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Prizes!

@@ -6,7 +6,7 @@ permalink: /timeline/
 
 ### 2013 
 
-The first Software Carpentry for Librarians workshops were held at Harvard University, University of Toronto, Edmonton Public Library, University of Toronto, New York Public Library, Edmonton Public Library, and West Vancouver Memorial Library. 
+The first [Software Carpentry workshops](https://software-carpentry.org/workshops/) for librarians were held at [Harvard University](https://swcarpentry.github.io/2013-08-23-harvard/), [University of Toronto](https://swcarpentry.github.io/2014-07-15-toronto/), [Edmonton Public Library](https://vixvarga.github.io/12-14-epl/), [New York Public Library](https://swcarpentry.github.io/2014-08-06-nypl/), and [West Vancouver Memorial Library](https://cmacdonell.github.io/2015-07-09-vpl/). 
 
 * _[Teaching Librarians Programming](http://pgbovine.net/teaching-librarians-programming.htm): My experience helping out at a Software Carpentry boot camp_ by Philip J. Guo 
 * _[Three Bootcamps for Librarians](https://software-carpentry.org/blog/2014/08/bootcamps-for-librarians.html)_ by Cameron Macdonell
@@ -41,9 +41,11 @@ First Carpentries instructor training for librarians and Library Carpentry at [c
 
 ### 2018
 
-IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. Incubation of Library Carpentry as a Carpentries lesson organisation. Instructor training for librarians held at the University of Calgary Libraries.
+IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. The Carpentries opened Lesson Organisation discussions with Library Carpentry on 21 May 2018 and joined The Carpentries as an official Lesson Program on 1 November 2018. 
 
 * _[Skills Training for Librarians: Expanding Library Carpentry](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)_ by John Chodacki
 * _[Welcome Chris Erdmann, Library Carpentry Community and Development Director](https://www.cdlib.org/cdlinfo/2018/04/17/welcome-chris-erdmann-library-carpentry-community-and-development-director/)_ by John Chodacki
 * _[Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries](https://carpentries.org/blog/2018/05/lc-merger-talks/)_ by Tracy Teal, Belinda Weaver
 * _[Report back from the University of Calgary Libraries](https://librarycarpentry.org/blog/2018/09/05/report-from-calgary-workshops/)_ by Chris Erdmann
+* _[
+Library Carpentry is now officially a Lesson Program!](https://carpentries.org/blog/2018/11/welcoming-library-carpentry/)_ by Tracy Teal and Chris Erdmann

@@ -1,6 +1,6 @@
 
 <table class="table table-striped" style="width: 100%;">
-{% for w in site.data.workshops2.workshops  %}
+{% for w in site.data.workshops.workshops  %}
 <tr>
     <td>
       <img src="{{site.url}}/files/flags/{{w.country | downcase}}.svg" 
@@ -13,7 +13,7 @@
 	    Helpers: {{w.help}} 
     </td>
     <td width="18%">
-      {{w.month}} {{w.start_day}}-{{w.end_day}}, {{w.year}}
+      {{w.human_date}}
     </td>
 </tr>
 {% endfor %}

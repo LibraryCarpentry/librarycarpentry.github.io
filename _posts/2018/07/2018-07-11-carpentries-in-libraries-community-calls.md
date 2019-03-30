@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann"]
 title: "Carpentries in the Libraries Community Calls"
 teaser: "Time to talk about data and software skills in libraries"

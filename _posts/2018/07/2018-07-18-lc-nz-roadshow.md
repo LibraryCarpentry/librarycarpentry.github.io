@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Eight Days, Four Workshops, Two Islands, One Earthquake"
 teaser: "Taking Library Carpentry on the road in New Zealand"
@@ -32,13 +32,13 @@ Otago museum. My voice started to give way about lunchtime so Jonah Duckles step
 I then croaked my way to the finish line, ably asisted by Jonah and Merrin Brewster who worked as a helper. 
 We had a lot of fun! Big thanks to Merrin and to [Shiobhan Smith](https://twitter.com/ShiobhanSmith) for organising this.
 
-![Otago learners](/img/otago.jpg)
+![Otago learners](/images/otago.jpg)
 
 ### University of Canterbury
 
 Stuart Broughton was the local organiser here, and we had about 15 people attending, mostly from the University of Canterbury but a couple from Lincoln University nearby. Alexandra Pawlik helped teach the shell here and also helped out while I taught. We had a few laptop issues because power cables were not available, but the group worked hard. Half the group opted out of sticking round for regular expressions at the end so we didn't get a group shot (very sad!). I managed to meet up with local Carpenters [Arin Basu](https://twitter.com/arinbasu) and [Sung Eun Bae](https://twitter.com/sungeunbae_nz) which was a treat. Anton Angelo was sick on the day and couldn't help but we met the next day to make plans to take Library Carpentry forward in New Zealand.
 
-![Canterbury learners](/img/canter.jpg)
+![Canterbury learners](/images/canter.jpg)
 
 ### Massey University
 
@@ -52,13 +52,13 @@ use it to wrangle collection weeding spreadsheets. We had absolutely zero proble
 which certainly saved a bit of time. Everyone had the exact same bash shell, which is a luxury you don't often have. 
 Thanks to [Heather Lamond](https://twitter.com/hmlamond) for organising this workshop.
 
-![Massey learners](/img/massey2.jpg)
+![Massey learners](/images/massey2.jpg)
 
 ### University of Auckland
 
 My final stop at the University of Auckland was also my largest group, with 23 signed up, one an import from Massey. I had a lot of great helpers here, including Rachel Chidlow (organiser) and [Laura Armstrong](https://twitter.com/finlibash), whom I had previously met at eResearch Australasia. Feedback was generally good, especially for OpenRefine (as usual) but also for regular expressions. I also sparked some interest in using Markdown and Pandoc for reusable texts.
 
-![Auckland learners](/img/auckland1.jpg)
+![Auckland learners](/images/auckland1.jpg)
 
 ### Practical use cases
 
@@ -76,7 +76,7 @@ It is also worth engaging with the Library Carpentry community worldwide.
 While I was venturing very far south in the dead of winter for this roadshow, New Zealand did turn on some glorious sunny days. 
 On my last day, I managed to get down to the Auckland harbour and very nice it was!
 
-![Auckland harbour](/img/auckharbour.jpg)
+![Auckland harbour](/images/auckharbour.jpg)
 
 ### I am grateful !
 

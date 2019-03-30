@@ -24,9 +24,9 @@ author: libcce
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://librarycarpentry.github.io/test'
+url: 'https://librarycarpentry.org'
 baseurl: ''
-filesurl: 'https://librarycarpentry.github.io/test/files'
+filesurl: 'https://librarycarpentry.org/files'
 contact: 'chris@carpentries.org'
 
 # Website configuration links
@@ -43,7 +43,7 @@ mailing_lists   : "https://carpentries.topicbox.com/groups/discuss-library-carpe
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://librarycarpentry.github.io/test/images/'
+urlimg: 'https://librarycarpentry.org/images/'
 
 
 # Logo size is 600x80 pixels
@@ -228,7 +228,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-86167534
+google_analytics_tracking_id: UA-86167534-1
 
 
 

@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 title: "Library Carpentry Hackathon a Great Success"
 category: blog
 ---
@@ -67,11 +67,11 @@ and [Twitter](https://twitter.com/libcarpentry).
 Non-technological sweeteners included Belinda's hazelnut torte in Brisbane along with scrumptious-looking cakes from the 
 Melbourne team and the UCLA team.
 
-![Belinda's cake](/img/belcake.jpg)
+![Belinda's cake](/images/belcake.jpg)
 
-![Melbourne's cake](/img/melbcake.jpg)
+![Melbourne's cake](/images/melbcake.jpg)
 
-![UCLA's cake](/img/ucla.jpg)
+![UCLA's cake](/images/ucla.jpg)
 
 Library Carpentry has pretty much singlehandedly made the Twitter hashtag [#mozcake](https://twitter.com/search?q=mozcake&src=typd) a thing! 
 

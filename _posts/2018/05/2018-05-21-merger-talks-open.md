@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Tracy Teal", "Belinda Weaver"]
 title: "Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries"
 category: blog

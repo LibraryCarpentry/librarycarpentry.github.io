@@ -7,15 +7,12 @@ $('audio,video').mediaelementplayer();
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
-
 {% if page.header.image_fullwidth %}
 <script>
-    $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700, alt: ''});
-    $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700, alt: ''});
+    $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700, alt: 'Library Carpentry Masthead'});
+    $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700, alt: 'Library Carpentry Masthead'});
 </script>
 {% endif %}
-
-
 
 {% if site.google_analytics_tracking_id %}
 <script>

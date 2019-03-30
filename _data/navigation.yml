@@ -14,8 +14,10 @@
     url: "/audience/"  
   - title: "Code of Conduct"
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Governance"
-    url: "/team/"
+  - title: "Our Advisory Group"
+    url: "/team/"  
+  - title: "Instructor Onboarding"
+    url: "https://docs.google.com/presentation/d/1Tv7LiJAzsn8CkfS-KDjwxDppiBhr6SHmI1HEa2czNrY/edit?usp=sharing"
   - title: "Supporters"
     url: "/supporters/"
   - title: "Our Stories"
@@ -24,6 +26,11 @@
 - title: "Our Lessons"
   url: "/lessons/"
   side: left
+  dropdown:
+  - title: "Our Lessons"
+    url: "/lessons/"
+  - title: "Top 10 FAIR Data & Software Things"
+    url: "https://librarycarpentry.org/Top-10-FAIR/"
 
 - title: Our Workshops
   url: "/workshops/"
@@ -40,7 +47,7 @@
   url: "/team/"
   side: left
   dropdown:
-  - title: "Governance Group"
+  - title: "Advisory Group"
     url: "/team/"
   - title: "Curriculum Advisory Committee"
     url: "/cac/"

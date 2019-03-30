@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann"]
 title: "A Carpentries-Based Approach to Teaching FAIR Data and Software Principles"
 teaser: "A report from the TIB Hannover FAIR Data & Software Workshop (9-13 July, 2018)"
@@ -19,7 +19,8 @@ FAIR Principles can be applied and assessed at various points. For instance, at 
 Plenary Meeting in Berlin](https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany), 
 FAIR was mentioned in at least 23 of the sessions:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I was struck by how often FAIR was mentioned at <a href="https://twitter.com/hashtag/RDAplenary?src=hash&amp;ref_src=twsrc%5Etfw">#RDAplenary</a> so added up. It&#39;s mentioned in no less than 23 of the session descriptions, covering topics as diverse as aircraft systems data, agriculture, costs and ethics. Amazing a policy initiative has such broad uptake so quickly</p>&mdash; Sarah Jones (@sjDCC) <a href="https://twitter.com/sjDCC/status/979260449303814144?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I was struck by how often FAIR was mentioned at <a href="https://twitter.com/hashtag/RDAplenary?src=hash&amp;ref_src=twsrc%5Etfw">#RDAplenary</a> so added up. It&#39;s mentioned in no less than 23 of the session descriptions, covering topics as diverse as aircraft systems data, agriculture, costs and ethics. Amazing a policy initiative has such broad uptake so quickly</p>&mdash; Sarah Jones (@sjDCC) <a href="https://twitter.com/sjDCC/status/979260449303814144?ref_src=twsrc%5Etfw">March 29, 2018</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Researchers are already starting to ask, _How can my research be more FAIR?_ Thanks to 
@@ -39,7 +40,8 @@ reuse and develop them further. Video recordings will also be available at the [
 addition, I and other participants tweeted non-stop to document the workshop for others following along remotely via the 
 hashtag [#TIBFDS](https://twitter.com/search?f=tweets&vertical=default&q=%23TIBFDS&src=typd).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy to teach today and tomorrow <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> at <a href="https://twitter.com/TIBHannover?ref_src=twsrc%5Etfw">@TIBHannover</a> at the <a href="https://twitter.com/hashtag/FAIR?src=hash&amp;ref_src=twsrc%5Etfw">#FAIR</a> Data and Software workshop based on <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a>. Todays topic is <a href="https://twitter.com/hashtag/Accesible?src=hash&amp;ref_src=twsrc%5Etfw">#Accesible</a> which is now introduced by Katrin Leinweber and Angelina Kraft. <a href="https://twitter.com/hashtag/TIBFDS?src=hash&amp;ref_src=twsrc%5Etfw">#TIBFDS</a> <a href="https://t.co/6TS6j2WoVo">pic.twitter.com/6TS6j2WoVo</a></p>&mdash; Konrad Förstner (@konradfoerstner) <a href="https://twitter.com/konradfoerstner/status/1016583405612552192?ref_src=twsrc%5Etfw">July 10, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy to teach today and tomorrow <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> at <a href="https://twitter.com/TIBHannover?ref_src=twsrc%5Etfw">@TIBHannover</a> at the <a href="https://twitter.com/hashtag/FAIR?src=hash&amp;ref_src=twsrc%5Etfw">#FAIR</a> Data and Software workshop based on <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a>. Todays topic is <a href="https://twitter.com/hashtag/Accesible?src=hash&amp;ref_src=twsrc%5Etfw">#Accesible</a> which is now introduced by Katrin Leinweber and Angelina Kraft. <a href="https://twitter.com/hashtag/TIBFDS?src=hash&amp;ref_src=twsrc%5Etfw">#TIBFDS</a> <a href="https://t.co/6TS6j2WoVo">pic.twitter.com/6TS6j2WoVo</a></p>&mdash; Konrad Förstner (@konradfoerstner) <a href="https://twitter.com/konradfoerstner/status/1016583405612552192?ref_src=twsrc%5Etfw">July 10, 2018</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Katrin (left) and Angelina (pictured above) demonstrated that you can successfully pair background information on the 
