@@ -9,6 +9,6 @@ admin: # replace this with your info
   name: "Library Carpentry Administrator"
   siterole: "webmaster"
   uri: https://librarycarpentry.org/
-  email: chris@carpentries.org
+  email: Christopher.Erdmann@ucop.edu
   twitter: "@libcarpentry"
 # you can add more authors here
