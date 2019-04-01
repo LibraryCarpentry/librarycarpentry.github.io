@@ -27,7 +27,7 @@ author: libcce
 url: 'https://librarycarpentry.org'
 baseurl: ''
 filesurl: 'https://librarycarpentry.org/files'
-contact: 'chris@carpentries.org'
+contact: 'Christopher.Erdmann@ucop.edu'
 
 # Website configuration links
 mailing_lists   : "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
