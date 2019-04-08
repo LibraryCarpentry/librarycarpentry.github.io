@@ -22,7 +22,7 @@ Now that the primary aim of the Group is complete, members decided to shift to a
 * Yared Abera Ergu, Mizan-Tepi Unversity
 * Tim Ribaric, Brock University
 * David Kane, Waterford Institute of Technology
-* TBD
+* Ariel Deardorff, University of California, San Francisco
 * TBD
 
 The Advisory Group will have their first meeting in the coming months. Their initial tasks will involve refining the Group's [description and goals](https://librarycarpentry.org/team/). 
