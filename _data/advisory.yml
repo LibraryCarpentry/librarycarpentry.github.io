@@ -56,7 +56,13 @@ people:
       
       
       
-      
+- name: John Chodacki (USA)
+  pic: chodacki
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/chodacki
+    - icon: fab fa-github
+      url: https://github.com/chodacki      
       
 - name: Chris Erdmann (Coordinator, USA)
   pic: erdmann
