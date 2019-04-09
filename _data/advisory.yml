@@ -1,0 +1,55 @@
+# Social icon names are the fully qualified
+#   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
+people:
+
+- name: David Kane (Ireland)
+  pic: kane
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/davidfkane
+    - icon: fab fa-github
+      url: https://github.com/davidfkane
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/davidfkane/
+    - icon: fa fa-envelope
+      url: mailto:dkane@wit.ie
+      
+- name: Tim Ribaric (Canada)
+  pic: ribaric
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/elibtronic
+    - icon: fab fa-github
+      url: https://github.com/elibtronic
+    - icon: fa fa-link
+      url: http://elibtronic.ca 
+    - icon: fa fa-envelope
+      url: mailto:tribaric@brocku.ca
+
+- name: Konrad Foerstner (Germany)
+  pic: foerstner
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/konradfoerstner
+    - icon: fab fa-github
+      url: https://github.com/konrad
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/foerstner/
+    - icon: fa fa-link
+      url: https://konrad.foerstner.org/
+    - icon: fa fa-envelope
+      url: mailto:foerster@zbmed.de
+
+- name: Chris Erdmann (Coordinator, USA)
+  pic: chriserdmann
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/libcce
+    - icon: fab fa-github
+      url: https://github.com/libcce
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - icon: fa fa-envelope
+      url: mailto:Christopher.Erdmann@ucop.edu
+
+      
