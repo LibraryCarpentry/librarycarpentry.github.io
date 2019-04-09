@@ -40,8 +40,26 @@ people:
     - icon: fa fa-envelope
       url: mailto:foerster@zbmed.de
 
+- name: Jeff Oliver (USA)
+  pic: oliver
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/jcoliverAZ
+    - icon: fab fa-github
+      url: https://github.com/jcoliver
+    - icon: fa fa-link
+      url: https://profiles.arizona.edu/person/jcoliver
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/jeffrey-oliver-79643510a
+    - icon: fa fa-envelope
+      url: mailto:jcoliver@email.arizona.edu
+      
+      
+      
+      
+      
 - name: Chris Erdmann (Coordinator, USA)
-  pic: chriserdmann
+  pic: erdmann
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/libcce
@@ -51,5 +69,4 @@ people:
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - icon: fa fa-envelope
       url: mailto:Christopher.Erdmann@ucop.edu
-
       
