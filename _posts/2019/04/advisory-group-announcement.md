@@ -15,7 +15,7 @@ The Governance Group, first called the Steering Group, was [formed in October 20
 
 Now that the primary aim of the Group is complete, members decided to shift to an advisory role with a [focus towards growing the Library Carpentry community](https://github.com/LibraryCarpentry/governance/issues/11). Members moving off the group will welcome the Group’s new members:
 
-* Konrad Foerstner, German National Library of Medicine (ZB MED)
+* Konrad Förstner, ZB MED – Information Centre for Life Science and TH Köln – University of Applied Sciences
 * Julie Goldman, Harvard University 
 * Liz Stokes, Australian Research Data Commons (ARDC)
 * Birgit Schmidt, University of Goettingen
