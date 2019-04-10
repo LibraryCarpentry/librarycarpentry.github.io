@@ -33,6 +33,8 @@ people:
       url: https://twitter.com/kechure
     - icon: fab fa-github
       url: https://github.com/Jaredabera
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/yared-abera-72528257/
     - icon: fa fa-envelope
       url: mailto:yared3778@gmail.com
 
@@ -113,7 +115,6 @@ people:
       url: https://www.linkedin.com/in/jeffrey-oliver-79643510a
     - icon: fa fa-envelope
       url: mailto:jcoliver@email.arizona.edu
-     
       
 - name: John Chodacki (USA)
   pic: chodacki
