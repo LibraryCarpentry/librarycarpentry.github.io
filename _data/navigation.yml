@@ -15,7 +15,7 @@
   - title: "Code of Conduct"
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Our Advisory Group"
-    url: "/team/"  
+    url: "/advisory/"  
   - title: "Instructor Onboarding"
     url: "https://docs.google.com/presentation/d/1Tv7LiJAzsn8CkfS-KDjwxDppiBhr6SHmI1HEa2czNrY/edit?usp=sharing"
   - title: "Supporters"
@@ -44,7 +44,7 @@
   side: left
 
 - title: People
-  url: "/team/"
+  url: "/advisory/"
   side: left
   dropdown:
   - title: "Advisory Group"
