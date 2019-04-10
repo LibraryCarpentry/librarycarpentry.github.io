@@ -13,6 +13,18 @@ people:
       url: https://www.linkedin.com/in/birgitschmidt/
     - icon: fa fa-envelope
       url: mailto:bschmidt@sub.uni-goettingen.de
+      
+- name: Yared Abera Ergu (Ethiopia)
+  pic: ergu
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/kechure
+    - icon: fab fa-github
+      url: https://github.com/Jaredabera
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/yared-abera-72528257/
+    - icon: fa fa-envelope
+      url: mailto:yared3778@gmail.com
 
 - name: Liz Stokes (Australia)
   pic: stokes
@@ -25,18 +37,6 @@ people:
       url: https://www.linkedin.com/in/liz-stokes-b724b82b
     - icon: fa fa-envelope
       url: mailto:liz.stokes@ardc.edu.au
-
-- name: Yared Abera Ergu (Ethiopia)
-  pic: ergu
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/kechure
-    - icon: fab fa-github
-      url: https://github.com/Jaredabera
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/yared-abera-72528257/
-    - icon: fa fa-envelope
-      url: mailto:yared3778@gmail.com
 
 - name: David Kane (Ireland)
   pic: kane
