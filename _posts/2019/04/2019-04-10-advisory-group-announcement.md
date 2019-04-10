@@ -3,7 +3,7 @@ layout: page
 authors: ["Chris Erdmann"]
 title: "Announcing the Library Carpentry Advisory Group"
 teaser: "The Group will advise on ways to foster greater participation in the Library Carpentry community"
-date: 2019-04-XX
+date: 2019-04-10
 tags: ["Library Carpentry", “Advisory Group”, “Community”]
 category: ["blog"]
 ---
