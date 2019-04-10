@@ -2,6 +2,18 @@
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
 
+- name: Birgit Schmidt (Germany)
+  pic: schmidt
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/bschmid1
+    - icon: fab fa-github
+      url: https://github.com/gitti1
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/birgitschmidt/
+    - icon: fa fa-envelope
+      url: mailto:bschmidt@sub.uni-goettingen.de
+
 - name: Liz Stokes (Australia)
   pic: stokes
   social:
