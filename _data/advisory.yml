@@ -26,6 +26,16 @@ people:
     - icon: fa fa-envelope
       url: mailto:liz.stokes@ardc.edu.au
 
+- name: Yared Abera Ergu (Ethiopia)
+  pic: ergu
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/kechure
+    - icon: fab fa-github
+      url: https://github.com/Jaredabera
+    - icon: fa fa-envelope
+      url: mailto:yared3778@gmail.com
+
 - name: David Kane (Ireland)
   pic: kane
   social:
