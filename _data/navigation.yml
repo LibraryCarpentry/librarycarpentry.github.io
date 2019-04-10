@@ -48,7 +48,7 @@
   side: left
   dropdown:
   - title: "Advisory Group"
-    url: "/team/"
+    url: "/advisory/"
   - title: "Curriculum Advisory Committee"
     url: "/cac/"
 
