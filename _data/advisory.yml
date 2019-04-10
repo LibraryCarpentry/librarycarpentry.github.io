@@ -2,6 +2,18 @@
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
 
+- name: Liz Stokes (Australia)
+  pic: stokes
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/ragamouf
+    - icon: fab fa-github
+      url: https://github.com/ragamouf
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/liz-stokes-b724b82b
+    - icon: fa fa-envelope
+      url: mailto:liz.stokes@ardc.edu.au
+
 - name: David Kane (Ireland)
   pic: kane
   social:
