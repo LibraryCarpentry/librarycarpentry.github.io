@@ -19,7 +19,7 @@ Now that the primary aim of the Group is complete, members decided to shift to a
 * Julie Goldman, Harvard University 
 * Liz Stokes, Australian Research Data Commons (ARDC)
 * Birgit Schmidt, University of Goettingen
-* Yared Abera Ergu, Mizan-Tepi Unversity
+* Yared Abera Ergu, Mizan-Tepi University
 * Tim Ribaric, Brock University
 * David Kane, Waterford Institute of Technology
 * Ariel Deardorff, University of California, San Francisco
