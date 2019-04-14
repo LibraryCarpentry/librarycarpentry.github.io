@@ -50,6 +50,23 @@ workshops:
     human_date: 23-24 May 2019
     start_date: 2019-05-23
     end_date: 2019-05-24
+-    
+    who: Rachel Wang
+    help: May Chan, Jordan Pedersen
+    venue: Ryerson University Library Collaboratory
+    country: ca
+    latitude: 43.6579406
+    longitude: -79.3827685
+    workshop: one-day
+    blogs:
+    lessons: OpenRefine
+    number:
+    notes:
+    site: https://rwangca.github.io/2019-04-18-Ryerson/
+    eventbrite_id:
+    human_date: 18 April 2019
+    start_date: 2019-04-18
+    end_date: 2019-04-18
 -
     who: Konrad Förstner, Till Sauerwein
     help: Silvia Di Giorgio, Eva Seidlmayer
