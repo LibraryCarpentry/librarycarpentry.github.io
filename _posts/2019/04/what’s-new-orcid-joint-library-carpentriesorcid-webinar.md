@@ -17,6 +17,6 @@ _Schema changes._ To ensure everyone can see the source of information on ORCID 
 
 We’re especially pleased that we will be joined by some special guests from the Environmental Molecular Sciences Laboratory (EMSL) at Pacific Northwest National Laboratory (PNNL), an ORCID member organization and early adopter of our API 3.0. Their Deputy for User Services, Terry J Law, and her colleagues Nathan Tenney (Developer) and Courtney Carpenter (Data Analyst) will share their experience of implementing the new API, including adding information about EMSL’s resources to their researchers’ records (see example below).
 
-![ORCID Screenshot](orcid-screenshot.png)
+![ORCID Screenshot](images/orcid-screenshot.png)
 
 We warmly invite anyone who’s interested in learning more about ORCID’s new API v3.0 to join us on May 16!
