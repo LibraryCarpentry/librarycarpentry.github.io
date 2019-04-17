@@ -2,7 +2,7 @@
 layout: page
 authors: ["Alice Meadows","Chris Erdmann"]
 title: "What’s New at ORCID? A Joint Library Carpentries/ORCID Webinar!"
-teaser: "What's New at ORCID? Learn about new features available via ORCID's API 3.0 to connect and share more of your own and community's contributions."
+teaser: "What's new at ORCID? Learn about new features available via ORCID's API 3.0 to connect and share more of your own and community's contributions."
 date: 2019-04-17
 tags: ["Library Carpentry", “ORCID”, “Community”, "API"]
 category: ["blog"]
