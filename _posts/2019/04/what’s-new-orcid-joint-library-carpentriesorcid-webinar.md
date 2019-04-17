@@ -1,3 +1,13 @@
+---
+layout: page
+authors: ["Alice Meadows","Chris Erdmann"]
+title: "What’s New at ORCID? A Joint Library Carpentries/ORCID Webinar!"
+teaser: "What's New at ORCID? Learn about new features available via ORCID's API 3.0 to connect and share more of your own and community's contributions."
+date: 2019-04-18
+tags: ["Library Carpentry", “ORCID”, “Community”, "API"]
+category: ["blog"]
+---
+
 By [Alice Meadows](https://twitter.com/alicejmeadows), [Chris Erdmann](https://twitter.com/libcce)
 
 We are delighted to announce that Library Carpentries and ORCID are co-hosting a [webinar on What’s New at ORCID](href="https://librarycarpentry.org/events). Registration is free -- just add your name [here](https://pad.carpentries.org/lc-community-calls) -- and there will be plenty of opportunity for questions and discussion.  
