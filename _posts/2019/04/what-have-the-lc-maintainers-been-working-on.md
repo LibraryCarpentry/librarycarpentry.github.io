@@ -1,3 +1,15 @@
+---
+layout: page
+authors: ["Chris Erdmann"]
+title: "What have the Library Carpentry Maintainers been working on?"
+teaser: "An update on what the Library Carpentry Maintainers have been working on since January 2019."
+date: 2019-04-19
+tags: ["Library Carpentry", “Maintainers”, “Community”, "Lessons"]
+category: ["blog"]
+---
+
+By [Chris Erdmann](https://twitter.com/libcce)
+
 In January 2019, the Library Carpentry Maintainers met online to discuss a variety of topics from communication channels to giving credit. The discussions helped with tackling big questions and understanding how we wanted to work as Maintainers.  
 
 See [News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee](https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/)
