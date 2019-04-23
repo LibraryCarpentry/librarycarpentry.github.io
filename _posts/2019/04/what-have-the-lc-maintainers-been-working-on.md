@@ -45,7 +45,7 @@ _Joshua Dull*, Thomas Guignard, Belinda Weaver_
 The Maintainers hope to review the lesson this summer and invite new Maintainers to help.  
 
 **Introduction to Python**  
-_Laura Wrubel*, Konrad Foerstner, Drew Heles, Elizabeth Wickes (Past Maintainers: Carlos Martinez, Richard Vankoningsveld)_  
+_Laura Wrubel*, Konrad Förstner, Drew Heles, Elizabeth Wickes (Past Maintainers: Carlos Martinez, Richard Vankoningsveld)_  
 The Python lesson maintainers have been reviewing several repositories with Python-related lesson content, cleaning up outstanding issues and PRs, and working on revised learning objectives and a lesson design document. They are taking a fresh look at the interfaces used in the lessons (e.g. Spyder and Jupyter) and planning to use their design document to guide lesson improvements.  
 
 **Introduction to Data for Archivists**  
@@ -53,7 +53,7 @@ _Jenny Bunn*, Noah Geraci, and James Baker_
 This lesson is still looking for new Maintainers as the current Maintainers have moved on.  
 
 **Wikidata**  
-_Muhammad Elhossary Till Sauerwein Konrad Förstner_  
+_Muhammad Elhossary, Till Sauerwein, Konrad Förstner_  
 The group held a [brainstorming session](https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Tamalpais_3B_-_WikiCite_in_education) at WikiCite 2018 in Berkeley which laid the foundation for the lesson and set the scope of the content. There have been 3 sprints with the latest one in April. Members of the community are invited to join the sprints which are announced on the Wikidata mailing list. The draft lesson can be found at [https://librarycarpentry.org/lc-wikidata/](https://librarycarpentry.org/lc-wikidata/).
 
 On the near horizon, each lesson Maintainer group will be looking into whether their lesson is ready to publish (for example, see this[OpenRefine issue](https://github.com/LibraryCarpentry/lc-open-refine/issues/40)). The community will also be working on improving Library Carpentry material in an upcoming [Mozilla-Library Carpentry Global Sprint](https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/) this May.
