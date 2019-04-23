@@ -14,7 +14,7 @@ In January 2019, the Library Carpentry Maintainers met online to discuss a varie
 
 See [News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee](https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/)
 
-What have the Maintainers been up to since then? This blog post will catch you up on what all the lesson Maintainer teams have been doing since January. The following are brief reports from the groups:  
+What have the Maintainers been up to since then? This blog post will catch you up on what all the lesson Maintainer teams have been doing since January. The following are brief reports from the lesson Maintainer groups:  
 
 **Introduction to Data**  
 _Carmi Cronje, Paul Pival, Shari Laster*, Anton Angelo, James Baker_  
@@ -22,7 +22,7 @@ The group met for the first time in February. They discussed how they will work 
 
 **The UNIX Shell**  
 _Danielle Kane*, Nilani Ganeshwaran, John Wright, Anna Oates, Belinda Weaver, Tim Dennis_  
-They will meet soon in April/May with members of the group already expressing interest in adding more library examples to the lesson.  
+They will meet soon on 25 April 2019. Members of the group have already expressed interest in adding more library examples to the lesson.  
 
 **OpenRefine**  
 _Owen Stephens, Juliane Schneider, Paul Pival, Kristin Lee, Erin Carrillo*, Carmi Cronje_  
@@ -38,7 +38,7 @@ The Maintainers will meet in the next 2-3 months.
 
 **SQL**  
 _Kristin Lee, Chris Erdmann, Jordan Pedersen*, Elaine Wong, Janice Chan_  
-TBD
+The group has met online 2 times and agreed to create a set of issues to outline their next steps to improve the lesson. They initially reached out to instructors that have taught the lesson before to gather feedback to help inform their work. They recently added library examples to the lesson to help people in library and information related roles understand why they might use SQL in their work.
 
 **Webscraping**  
 _Joshua Dull*, Thomas Guignard, Belinda Weaver_  
