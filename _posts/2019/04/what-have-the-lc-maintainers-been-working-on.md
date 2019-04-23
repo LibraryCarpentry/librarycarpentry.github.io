@@ -42,7 +42,7 @@ The group has met online 2 times and agreed to create a set of issues to outline
 
 **Webscraping**  
 _Joshua Dull*, Thomas Guignard, Belinda Weaver_  
-The Maintainers hope to return to the lesson over the summer months and add new Maintainers.  
+The Maintainers hope to review the lesson this summer and invite new Maintainers to help.  
 
 **Introduction to Python**  
 _Konrad Foerstner, Drew Heles, Elizabeth Wickes, Laura Wrubel* (Past Maintainers: Carlos Martinez, Richard Vankoningsveld)_  
