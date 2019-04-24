@@ -52,11 +52,11 @@ The Maintainers have been reviewing several repositories with Python-related les
 _Jenny Bunn*, Noah Geraci, and James Baker_  
 This lesson is still looking for new Maintainers as the current Maintainers have moved on.  
 
-[Wikidata](https://librarycarpentry.org/lc-wikidata/)(Experimental Lesson)  
+[Wikidata](https://librarycarpentry.org/lc-wikidata/) (Experimental Lesson)  
 _Muhammad Elhossary, Till Sauerwein, Konrad Förstner_  
 The Maintainers and lesson volunteers held a [brainstorming session](https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Tamalpais_3B_-_WikiCite_in_education) at WikiCite 2018 in Berkeley which laid the foundation and set the scope for the lesson. There have been 3 sprints with the latest one in April. Members of the community are invited to join the sprints which are announced on the [Wikidata mailing list](https://lists.wikimedia.org/mailman/listinfo/wikidata).
 
-On the near horizon, Maintainers will be looking into whether their lessons are ready to formally publish (for example, see this[OpenRefine issue](https://github.com/LibraryCarpentry/lc-open-refine/issues/40)). Also, the community will be working on improving Library Carpentry material in an upcoming [Mozilla-Library Carpentry Global Sprint](https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/) this May.
+On the near horizon, Maintainers will be looking into whether their lessons are ready to formally publish (for example, see this [OpenRefine issue](https://github.com/LibraryCarpentry/lc-open-refine/issues/40)). Also, the community will be working on improving Library Carpentry material in an upcoming [Mozilla-Library Carpentry Global Sprint](https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/) this May.
 
 The best way to track the work of the Maintainers is by looking at the issues and pull requests in each lesson repository under the [Library Carpentry GitHub organization](https://github.com/LibraryCarpentry). If you are interested in becoming a Maintainer, please contact [Chris Erdmann](mailto:Christopher.Erdmann@ucop.edu).
 
