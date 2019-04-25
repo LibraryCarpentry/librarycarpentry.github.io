@@ -3,7 +3,7 @@ layout: page
 authors: ["Chris Erdmann"]
 title: "What have the Library Carpentry Maintainers been working on?"
 teaser: "An update on what the Library Carpentry Maintainers have been working on since January 2019."
-date: 2019-04-19
+date: 2019-04-25
 tags: ["Library Carpentry", “Maintainers”, “Community”, "Lessons"]
 category: ["blog"]
 ---
