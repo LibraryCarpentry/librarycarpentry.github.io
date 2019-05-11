@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-06-24
     end_date: 2019-06-25
 -
+    who: Barbara Esty, Kate Nyhan, Catherine DeRose, David Cirella, Joshua Dull, Sawyer Newman
+    help: Yale University Library Staff
+    venue: Yale University Library
+    country: us
+    latitude: 41.312756
+    longitude: -72.923454
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Tidy Data, OpenRefine, UNIX Shell, Collecting Data Online
+    number: 
+    notes: 
+    site: https://nesclic.github.io/2019-06-12-Yale/
+    eventbrite_id: 
+    human_date: 12-13 June 2019
+    start_date: 2019-06-12
+    end_date: 2019-06-13
+-
     who: Janice Chan, Anton Angelo
     help: Chew Shu Wen, Dong Danping, Lavanya Asokan, Malar Thomas, Schusie Sun Guangyuan
     venue: Library Association of Singapore
