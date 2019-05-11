@@ -84,6 +84,23 @@ workshops:
     human_date: 15-16 May 2019
     start_date: 2019-05-15
     end_date: 2019-05-16
+-
+    who: Martin Dreyer
+    help: 
+    venue: CSIR Knowledge Commons
+    country: za
+    latitude: -25.7450727
+    longitude: 28.2782068
+    workshop: one-day
+    blogs: 
+    lessons: Intro to Library Carpentry, UNIX Shell, OpenRefine
+    number: 
+    notes: 
+    site: https://saoug.org.za/2019/04/29/introduction-to-library-carpentry/
+    eventbrite_id: 
+    human_date: 15 May 2019
+    start_date: 2019-05-15
+    end_date: 2019-05-15
 -  
     who: Rachel Wang
     help: May Chan, Jordan Pedersen
