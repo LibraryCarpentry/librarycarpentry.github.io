@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Elaine Wong, Jordan Pedersen
+    help: 
+    venue: Bank of Canada
+    country: ca
+    latitude: 45.4208
+    longitude: 75.7029
+    workshop: two-day
+    blogs: 
+    lessons: Introduction to Data, Tidy Data, OpenRefine, Introduction to Git, FAIR (pilot)
+    number: 
+    notes: 
+    site: https://jordanpedersen.github.io/2019-05-27-BoC/
+    eventbrite_id: 
+    human_date: 27 May - 28 May 2019
+    start_date: 2019-05-27
+    end_date: 2019-05-28
+-
     who: Juliane Schneider, Tim Dennis
     help: David Kane
     venue: LIBER - Carpentries Instructor Training for Librarians
