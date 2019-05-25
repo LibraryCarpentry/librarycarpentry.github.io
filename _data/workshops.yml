@@ -1,22 +1,5 @@
 workshops:
 -
-    who: Elaine Wong, Jordan Pedersen
-    help: 
-    venue: Bank of Canada
-    country: ca
-    latitude: 45.4208
-    longitude: 75.7029
-    workshop: two-day
-    blogs: 
-    lessons: Introduction to Data, Tidy Data, OpenRefine, Introduction to Git, FAIR (pilot)
-    number: 
-    notes: 
-    site: https://jordanpedersen.github.io/2019-05-27-BoC/
-    eventbrite_id: 
-    human_date: 27 May - 28 May 2019
-    start_date: 2019-05-27
-    end_date: 2019-05-28
--
     who: Juliane Schneider, Tim Dennis
     help: David Kane
     venue: LIBER - Carpentries Instructor Training for Librarians
@@ -33,6 +16,23 @@ workshops:
     human_date: 24-25 June 2019
     start_date: 2019-06-24
     end_date: 2019-06-25
+-
+    who: Konrad Förstner, Till Sauerwein
+    help: Ingrid Haas, Andrea Torggler
+    venue: TU Wien
+    country: de
+    latitude: 48.19918
+    longitude: 16.3658413
+    workshop: two-day
+    blogs: 
+    lessons: Introduction to Data, The UNIX Shell, Introduction to Python, Introduction to Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-06-13-Library_Carpentry_TU_Wien/
+    eventbrite_id: 
+    human_date: 13-14 June 2019
+    start_date: 2019-06-13
+    end_date: 2019-06-14    
 -
     who: Barbara Esty, Kate Nyhan, Catherine DeRose, David Cirella, Joshua Dull, Sawyer Newman
     help: Yale University Library Staff
@@ -67,6 +67,41 @@ workshops:
     human_date: 11-12 June 2019
     start_date: 2019-06-11
     end_date: 2019-06-12
+-
+    who: Elaine Wong, Jordan Pedersen
+    help: 
+    venue: Bank of Canada
+    country: ca
+    latitude: 45.4208
+    longitude: 75.7029
+    workshop: two-day
+    blogs: 
+    lessons: Introduction to Data, Tidy Data, OpenRefine, Introduction to Git, FAIR (pilot)
+    number: 
+    notes: 
+    site: https://jordanpedersen.github.io/2019-05-27-BoC/
+    eventbrite_id: 
+    human_date: 27 May - 28 May 2019
+    start_date: 2019-05-27
+    end_date: 2019-05-28
+-
+    who: Konrad Förstner, Till Sauerwein
+    help: Mathias Bornschein
+    venue: FU Berlin
+    country: de
+    latitude: 52.4420345
+    longitude: 13.2824302
+    workshop: two-day
+    blogs: 
+    lessons: Introduction to Data, The UNIX Shell, Introduction to Git, Introduction to Python
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-05-27-Library_Carpentry_FU_Berlin/
+    eventbrite_id: 
+    human_date: 27 May - 28 May 2019
+    start_date: 2019-05-27
+    end_date: 2019-05-28
+
 -
     who: Karen Gutzman, Adam Hecktman, Avishek Kumar, Will Trimble
     help: Juliane Schneider
