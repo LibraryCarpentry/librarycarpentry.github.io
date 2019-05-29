@@ -53,7 +53,7 @@ Thanks to community involvement in developing the lessons and more instructors c
 ### Growing the instructor pool
 
 A dedicated Carpentries instructor training for libraries will be run in Calgary from 30-31 August. 
-[Read more](https://librarycarpentry.org/blog/2018/06/26/library-carpentry-inst-training/). This will help grow the community of instructors to allow Library Carpentry to respond to more requests for workshops.
+[Read more](https://librarycarpentry.org/blog/2018/06/library-carpentry-inst-training/). This will help grow the community of instructors to allow Library Carpentry to respond to more requests for workshops.
 
 ### What has been taught
 
