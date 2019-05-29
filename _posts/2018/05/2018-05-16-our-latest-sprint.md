@@ -11,7 +11,7 @@ annual [Mozilla Global Sprint](https://foundation.mozilla.org/opportunity/global
 
 This was the third hackathon run by the worldwide Library Carpentry community. As ever, it was a great success, 
 pulling in a number of people new to this community. Sprint participants from Melbourne had attended their first-ever 
-[Library Carpentry workshop](http://librarycarpentry.org/blog/2018/05/11/unimelb-workshop/) only a week before. 
+[Library Carpentry workshop](http://librarycarpentry.org/blog/2018/05/unimelb-workshop/) only a week before. 
 
 Pre-sprint, all the repositories formerly housed in [`data-lessons`](https://github.com/data-lessons) were 
 moved over to the new [Library Carpentry organisation on GitHub](https://github.com/LibraryCarpentry). 

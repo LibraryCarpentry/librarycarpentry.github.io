@@ -90,4 +90,4 @@ The Twitter handles of the sprint organizers are: [@LibCarpentry](https://twitte
 [@datadryad](https://twitter.com/datadryad), [@AARNet](https://twitter.com/AARNet), [@ubleiden](https://twitter.com/ubleiden), and [@DANSKNAW](https://twitter.com/DANSKNAW). If you post images on Instagram or Facebook, please send us a link via the 
 chat room so we can tweet them.  
   
-Please Note: If you would like to include your organization as a collaborator, please contact [Natasha Simons](natasha.simons@ands.org.au) and [Chris Erdmann](chris@carpentries.org).
+Please Note: If you would like to include your organization as a collaborator, please contact [Natasha Simons](mailto:natasha.simons@ands.org.au) and [Chris Erdmann](mailto:chris@carpentries.org).
