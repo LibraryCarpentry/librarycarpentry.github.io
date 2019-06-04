@@ -22,7 +22,7 @@ The sprint started earlier in the month with Centre for Digital Scholarship at L
 
 For the month of May, there were 56 active authors, 82 active issues, 77 active pull requests, and 197 commits.
 
-| LC Reposiotry](https://github.com/LibraryCarpentry)           | Active Authors | Active Issues | Active Pull Requests | Commits | 
+| [LC Reposiotry](https://github.com/LibraryCarpentry)           | Active Authors | Active Issues | Active Pull Requests | Commits | 
 |------------------------|----------------|---------------|----------------------|---------| 
 | lc-shell               | 6              | 5             | 10                   | 22      | 
 | lc-sql                 | 6              | 10            | 18                   | 41      | 
