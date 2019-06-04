@@ -1,4 +1,16 @@
-Thanks to everyone that participated in the 4th Mozilla-Library Carpentry Global Sprint. Unlike the 3 previous sprints, this year’s sprint stretched across the full month of May with the majority of the sprint taking place 30-31 May 2019. 
+---
+layout: page
+authors: ["Chris Erdmann"]
+title: "It's a Wrap! The 4th Library Carpentry-Mozilla Global Sprint Concludes."
+teaser: "63 sprinters from 8 countries and 35 institutions took part in the May 2019 sprint."
+date: 2019-04-25
+tags: ["Library Carpentry",“Mozilla”,“Global Sprint", "Lessons", "Top 10 FAIR Data & Software"]
+category: ["blog"]
+---
+
+By [Chris Erdmann](https://twitter.com/libcce)
+
+Thanks to everyone that participated in the [4th Mozilla-Library Carpentry Global Sprint](https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/). Unlike the 3 previous sprints, this year’s sprint stretched across the full month of May with the majority of the sprint taking place 30-31 May 2019. 
 
 The sprint started earlier in the month with Centre for Digital Scholarship at Leiden University Libraries drafting a Top 10 FAIR Data & Software Things for Astronomy. 
 
@@ -10,7 +22,7 @@ The sprint started earlier in the month with Centre for Digital Scholarship at L
 
 For the month of May, there were 56 active authors, 82 active issues, 77 active pull requests, and 197 commits.
 
-| LC Reposiotry          | Active Authors | Active Issues | Active Pull Requests | Commits | 
+| LC Reposiotry](https://github.com/LibraryCarpentry)           | Active Authors | Active Issues | Active Pull Requests | Commits | 
 |------------------------|----------------|---------------|----------------------|---------| 
 | lc-shell               | 6              | 5             | 10                   | 22      | 
 | lc-sql                 | 6              | 10            | 18                   | 41      | 
@@ -30,7 +42,7 @@ For the month of May, there were 56 active authors, 82 active issues, 77 active 
 
 For the latter half of the Sprint, 21 May - 3 June, the Library Carpentry lesson repositories received 4382 views and 389 unique visitors. 
 
-| LC Reposiotry          | Views | Unique Vistors | 
+| [LC Reposiotry](https://github.com/LibraryCarpentry)          | Views | Unique Vistors | 
 |------------------------|-------|----------------| 
 | lc-shell               | 385   | 35             | 
 | lc-sql                 | 351   | 39             | 
