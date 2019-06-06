@@ -34,6 +34,23 @@ workshops:
     start_date: 2019-06-13
     end_date: 2019-06-14    
 -
+    who: Ari Gofman, Kristin Lee, Travis Lilleberg, Berika Williams
+    help: Lee LaFleur, Becky Morin, Adrienne Pruit, Chelcie Rowell
+    venue: Tisch Library, Tufts University
+    country: us
+    latitude: 42.406172
+    longitude: -71.1210287
+    workshop: two-day
+    blogs: 
+    lessons: Introduction to Data, The UNIX Shell, Spreadsheets and Pivot Tables, OpenRefine
+    number: 
+    notes: 
+    site: https://nesclic.github.io/2019-06-13-tuftsLibs/
+    eventbrite_id: 
+    human_date: 13-14 June 2019
+    start_date: 2019-06-13
+    end_date: 2019-06-14    
+-
     who: Barbara Esty, Kate Nyhan, Catherine DeRose, David Cirella, Joshua Dull, Sawyer Newman
     help: Yale University Library Staff
     venue: Yale University Library
