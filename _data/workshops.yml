@@ -1,5 +1,23 @@
 workshops:
 -
+    who: Jamie Jamison, Leigh Phan, Kristian Allen
+    help: David George
+    venue: UCLA Library 
+    country: eu
+    latitude: 34.075059
+    longitude: -118.441303
+    workshop: two-day
+    blogs:
+    lessons: Introduction to Data, The UNIX Shell, Introduction to Python, OpenRefine
+    number:
+    notes:
+    site: https://ucla-data-archive.github.io/2019-07-24-ucla/
+    eventbrite_id:
+    human_date: 24-25, July 2019
+    start_date: 2019-07-24
+    end_date: 2019-07-25
+    
+-
     who: Juliane Schneider, Tim Dennis
     help: David Kane
     venue: LIBER - Carpentries Instructor Training for Librarians
