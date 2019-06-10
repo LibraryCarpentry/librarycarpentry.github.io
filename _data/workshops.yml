@@ -76,7 +76,7 @@ workshops:
     longitude: -72.923454
     workshop: two-day
     blogs: 
-    lessons: Intro to Data, Tidy Data, OpenRefine, UNIX Shell, Collecting Data Online
+    lessons: Introduction to Data, Tidy Data, OpenRefine, The UNIX Shell, Collecting Data Online
     number: 
     notes: 
     site: https://nesclic.github.io/2019-06-12-Yale/
