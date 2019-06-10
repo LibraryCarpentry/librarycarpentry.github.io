@@ -3,7 +3,7 @@ workshops:
     who: Jamie Jamison, Leigh Phan, Kristian Allen
     help: David George
     venue: UCLA Library 
-    country: eu
+    country: us
     latitude: 34.075059
     longitude: -118.441303
     workshop: two-day
@@ -16,7 +16,6 @@ workshops:
     human_date: 24-25, July 2019
     start_date: 2019-07-24
     end_date: 2019-07-25
-    
 -
     who: Juliane Schneider, Tim Dennis
     help: David Kane
