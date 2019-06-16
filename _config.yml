@@ -76,6 +76,9 @@ exclude:
     - README.md
     - INSTALL.md
 
+# Jekyll maps plugin
+plugins:
+  - jekyll-maps
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
