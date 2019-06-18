@@ -8,7 +8,7 @@ tags: ["Library Carpentry",“HackyHours”,“Community”,"Digital Literacy","
 category: ["blog"]
 ---
 
-By [Eva Seidlmayer](), [Konrad Förstner](), [Silvia Di Giorgio](), [Chris Erdmann]()
+By [Eva Seidlmayer](https://twitter.com/kivilih), [Konrad Förstner](https://twitter.com/konradfoerstner), [Silvia Di Giorgio](https://twitter.com/digiorgiosilvia), [Chris Erdmann](https://twitter.com/libcce)
 
 [ZB MED](http://zbmed.de/) – Information Centre for Life Sciences is the national library of Germany for medicine, health sciences, nutrition, agriculture and the environment. For the life sciences community, ZB MED provides invaluable services such as [PUBLISSO](https://publisso.de), an open access publication portal and [LIVIVO](http://livivo.de/), a literature discovery service. It has also established a scientific program covering a broad spectrum of data science applications including text- and data mining as well as bioinformatics. This is all a part of ZB MED’s digital transformation to an information centre with a broad spectrum of services and training is a critical part of it. ZB MED uses Library, Data, and Software Carpentry material to give its employees a foundation in software and data skills.
 
@@ -16,7 +16,7 @@ The team at ZB MED sees their data science training activities as an important s
 
 What happens after Library Carpentry workshops? While the workshops provide learners with a jumpstart, there is still a great deal of learning ahead. To support this ongoing professional development, ZB MED hosts [HackyHours](https://hackyhour.github.io/Cologne/) on a weekly basis.
 
-![HackyHour @ ZB MED](hackyhour_zbmed.jpg)
+![HackyHour @ ZB MED](/images/hackyhour_zbmed.jpg)
 
 HackyHours at ZB MED are informal social gatherings that give attendees the opportunity to talk about code, tools, and research. The name and concept was brought from Würzburg, where Till, Silvia and Konrad had taught several Software Carpentry workshop with other instructors. Free coffee is provided and everyone can bring a topic (which might not be discussed directly in the session). It is up to the moderators to balance the interests and demands of the attendees.
 
