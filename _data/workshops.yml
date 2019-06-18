@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-07-24
     end_date: 2019-07-25
 -
+    who: Elisabeth Shook
+    help: Stacy Curry-Johnson, Sarah Swanz, Jamen McGranahan
+    venue: Vanderbilt University 
+    country: us
+    latitude: 36.146050
+    longitude: -86.799610
+    workshop: two-day
+    blogs:
+    lessons: Introduction to Data, Tidy Data, The UNIX Shell, Version Control with Git, OpenRefine
+    number:
+    notes:
+    site: https://eshook2010.github.io/2019-07-18-vanderbilt/
+    eventbrite_id:
+    human_date: 18-19, July 2019
+    start_date: 2019-07-18
+    end_date: 2019-07-19
+-
     who: Juliane Schneider, Tim Dennis
     help: David Kane
     venue: LIBER - Carpentries Instructor Training for Librarians
