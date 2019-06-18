@@ -51,6 +51,23 @@ workshops:
     start_date: 2019-07-18
     end_date: 2019-07-19
 -
+    who: Katrin Leinweber (TIB), Konrad Förstner (ZB MED)
+    help: Thomas Gerd tom Markotten (PH-Bibliothek Freiburg), Ralf Weber (BLB Karlsruhe)
+    venue: Library Carpentry für die Bibliothek: Workshop des VDB-Regionalverbands Südwest an der Badischen Landesbibliothek
+    country: de
+    latitude: 49.00782
+    longitude: 8.39902
+    workshop: two-day
+    blogs: 
+    lessons: Data Intro, Shell, Python, OpenRefine
+    number: 
+    notes: 
+    site: https://vdb-org.github.io/2019-06-26-blb-karlsruhe/
+    eventbrite_id: 
+    human_date: 26-27 June 2019
+    start_date: 2019-06-26
+    end_date: 2019-06-27
+-
     who: Juliane Schneider, Tim Dennis
     help: David Kane
     venue: LIBER - Carpentries Instructor Training for Librarians
