@@ -16,7 +16,7 @@ The team at ZB MED sees their data science training activities as an important s
 
 What happens after Library Carpentry workshops? While the workshops provide learners with a jumpstart, there is still a great deal of learning that is needed. To support this ongoing professional development, ZB MED hosts [HackyHours](https://hackyhour.github.io/Cologne/) on a weekly basis.
 
-![HackyHour @ ZB MED](/images/hackyhour_zbmed.jpg)
+![HackyHour @ ZB MED](/images/zbmed-sprint.jpg)
 
 HackyHours at ZB MED are informal social gatherings that give attendees the opportunity to talk about code, tools, and research. The name and concept was brought from Würzburg, where Till, Silvia and Konrad had taught several Software Carpentry workshop with other instructors. Free coffee is provided and everyone can bring a topic (which might not be discussed directly in the session). It is up to the moderators to balance the interests and demands of the attendees.
 
