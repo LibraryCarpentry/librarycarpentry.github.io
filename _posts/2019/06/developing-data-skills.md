@@ -1,8 +1,16 @@
-Developing Data Skills via Library Carpentry at Macquarie University Library
+---
+layout: page
+authors: ["Grai Calvey","Fiona Jones","Heather Cooper"]
+title: "Developing Data Skills via Library Carpentry at Macquarie University Library"
+teaser: ""
+date: 2019-06-XX
+tags: ["Library Carpentry","The Carpentries","Macquarie University Library","Data Science","Data Skills","eResearch","Community of Practice","Workshops","Lessons"]
+category: ["blog"]
+---
 
 By [Grai Calvey](https://twitter.com/grai_calvey), [Fiona Jones](https://twitter.com/FionaJ_Lib) and [Heather Cooper](https://twitter.com/coopshe1)
 
-In 2016, Macquarie University delivered a [Data Science and eResearch Platform Strategy](https://staff.mq.edu.au/research/strategy-priorities-and-initiatives/data-science-and-eresearch/Data-Science-and-eResearch-Platform-STRATEGY.pdf). In response, the Library embarked on a series of initiatives including: 
+In 2016, [Macquarie University](https://www.mq.edu.au/) delivered a [Data Science and eResearch Platform Strategy](https://staff.mq.edu.au/research/strategy-priorities-and-initiatives/data-science-and-eresearch/Data-Science-and-eResearch-Platform-STRATEGY.pdf). In response, the [Library](https://www.mq.edu.au/about/campus-services-and-facilities/library) embarked on a series of initiatives including: 
 
 - Developing workshops to improve the data skills of all our library staff
 - To grow confidence when engaging in data science practice, eResearch conversations and the support of researchers
@@ -25,7 +33,7 @@ We developed our community of practice via:
 -	An online hub for sharing workshop and learning material, links to resources, and discussion
 -	Regular hacky hour meetings for demonstration of tools and techniques, troubleshooting data difficulties, feeding back learning from webinars etc, and asking questions to inform future meetings
 
-For our face-to-face workshops we created two bespoke Data Skills modules based on the Library Carpentry lessons Introduction to Data and OpenRefine. We began by writing competencies and learning outcomes for our own context, then assessed The Carpentries lessons to choose suitable content and activities. We used a flipped classroom model, using pre- and post- workshop activities for the introduction of concepts and practice via self-directed learning, with face-to-face workshop time used for “live-coding” demonstration, activities, and learner-centred discussion. 
+For our face-to-face workshops we created two bespoke Data Skills modules based on the [Library Carpentry lessons](https://librarycarpentry.org/lessons/) Introduction to Data and OpenRefine. We began by writing competencies and learning outcomes for our own context, then assessed The Carpentries lessons to choose suitable content and activities. We used a flipped classroom model, using pre- and post- workshop activities for the introduction of concepts and practice via self-directed learning, with face-to-face workshop time used for “live-coding” demonstration, activities, and learner-centred discussion. 
 
 We have delivered Library Data Skills modules to three groups of library staff who attended two 2-hour sessions each. A total of 52 staff members have attended the training between December 2017 and February 2019. Each time we repeat them, there is an opportunity for members of our community of practice to ‘step up’, with our goal being to take people on a journey from learners --> helpers --> instructors.
 
