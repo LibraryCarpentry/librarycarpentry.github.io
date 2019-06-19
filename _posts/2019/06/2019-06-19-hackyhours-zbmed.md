@@ -24,6 +24,6 @@ In addition to negotiating the different backgrounds of the attendees, the Hacky
 
 HackHours programmes at ZB MED are very diverse as they are often influenced by schedules and deadlines. Since November 2018, HackyHours have come to include not only the local ZB MED community but also colleagues from other institutions. Topics in the meantime have covered introduction to Python, experiences using different integrated development environments or IDEs, single board computer Arduino projects, and Docker containers.
 
->> Prof. Rebholz-Schuhmann, Scientific Director of ZB MED, says: “HackyHours at ZB MED have provided an opportunity for people to come together, share and discuss different topics, and to continue learning. This is an important task for us as an information centre." 
+> Prof. Rebholz-Schuhmann, Scientific Director of ZB MED, says: “HackyHours at ZB MED have provided an opportunity for people to come together, share and discuss different topics, and to continue learning. This is an important task for us as an information centre." 
 
 ZB MED and their community are curious to see where their HackyHours will lead them to in the near future. The combination of The Carpentries training and HackyHours provide a helpful framework for expanding digital literacy at ZB MED and preparing the centre for research services moving forward.
