@@ -14,7 +14,7 @@ By [Eva Seidlmayer](https://twitter.com/kivilih), [Konrad Förstner](https://twi
 
 The team at ZB MED sees their data science training activities as an important service for both the library and life science research communities.  They have three trained certified instructors (Silvia Di Giorgio, Till Sauerwein, Konrad Förstner) and one trainer, who can train certified instructors  (Konrad Förstner). In addition, the same team members assist with the maintenance and development of Library Carpentry lessons  (Git – Eva Seidlmayer and Silvia Di Giorgio, Python – Konrad Förstner, and Wikidata – Muhammad Elhossary, Till Sauerwein, Konrad Förstner). Since mid 2018, ZB MED has hosted and run (in-house) five Library Carpentry workshops and one Software Carpentry workshop and taught additional workshops at the University of Cologne, ZBIW, TIB Hannover, DRL Berlin, FU Berlin, and TU Vienna. There is one question that often comes up after these workshops:
 
-What happens after Library Carpentry workshops? While the workshops provide learners with a jumpstart, there is still a great deal of learning that is needed. To support this ongoing professional development, ZB MED hosts [HackyHours](https://hackyhour.github.io/Cologne/) on a weekly basis.
+What happens after Library Carpentry workshops? While the workshops provide learners with a jumpstart, learners need to continue learning and apply what they have learned. To support this ongoing professional development, ZB MED hosts [HackyHours](https://hackyhour.github.io/Cologne/) on a weekly basis.
 
 ![HackyHour @ ZB MED](/images/zbmed-sprint.jpg)
 
@@ -24,6 +24,6 @@ In addition to negotiating the different backgrounds of the attendees, the Hacky
 
 HackHours programmes at ZB MED are very diverse as they are often influenced by schedules and deadlines. Since November 2018, HackyHours have come to include not only the local ZB MED community but also colleagues from other institutions. Topics in the meantime have covered introduction to Python, experiences using different integrated development environments or IDEs, single board computer Arduino projects, and Docker containers.
 
-Prof. Rebholz-Schuhmann, Scientific Director of ZB MED, says: “HackyHours at ZB MED have provided an opportunity for people to come together, share and discuss different topics, and to continue learning. This is an important task for us as an information centre." 
+>> Prof. Rebholz-Schuhmann, Scientific Director of ZB MED, says: “HackyHours at ZB MED have provided an opportunity for people to come together, share and discuss different topics, and to continue learning. This is an important task for us as an information centre." 
 
 ZB MED and their community are curious to see where their HackyHours will lead them to in the near future. The combination of The Carpentries training and HackyHours provide a helpful framework for expanding digital literacy at ZB MED and preparing the centre for research services moving forward.
