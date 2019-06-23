@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Anton Angelo
+    help: 
+    venue: Massey University, NZ
+    country: nz
+    latitude: -40.386070
+    longitude: 175.616320
+    workshop: two-day
+    blogs:
+    lessons: Introduction to Data, Open Refine, Introduction to Python
+    number:
+    notes: https://pad.carpentries.org/2019-08-26-massey
+    site: https://antonangelo.github.io/2019-08-26-massey/
+    eventbrite_id:  
+    human_date: 26/27 August 2019
+    start_date: 2019-08-26
+    end_date: 2019-08-27
+-
     who: Scott Peterson, Zac Painter
     help: Eric Lopatin, John Chodacki, Ariel Deardorff
     venue: California Digital Library
