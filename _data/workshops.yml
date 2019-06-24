@@ -4,8 +4,8 @@ workshops:
     help: 
     venue: Massey University, NZ
     country: nz
-    latitude: -40.386070
-    longitude: 175.616320
+    latitude: 37.8084796
+    longitude: -122.2696674
     workshop: two-day
     blogs:
     lessons: Introduction to Data, Open Refine, Introduction to Python
