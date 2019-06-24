@@ -4,8 +4,8 @@ workshops:
     help: 
     venue: Massey University, NZ
     country: nz
-    latitude: 37.8084796
-    longitude: -122.2696674
+    latitude: -40.38607
+    longitude: 175.6141313
     workshop: two-day
     blogs:
     lessons: Introduction to Data, Open Refine, Introduction to Python
@@ -13,7 +13,7 @@ workshops:
     notes: https://pad.carpentries.org/2019-08-26-massey
     site: https://antonangelo.github.io/2019-08-26-massey/
     eventbrite_id:  
-    human_date: 26/27 August 2019
+    human_date: 26-27 August 2019
     start_date: 2019-08-26
     end_date: 2019-08-27
 -
