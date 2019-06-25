@@ -4,8 +4,8 @@ workshops:
     help: TBA
     venue: University College, Dublin
     country: ie
-    latitude: 53.3496182
-    longitude: -6.2466774
+    latitude: 53.306881
+    longitude: -6.222980
     workshop: two-day
     blogs: 
     lessons: Intro to Data, Unix Shell, SQL, Python
