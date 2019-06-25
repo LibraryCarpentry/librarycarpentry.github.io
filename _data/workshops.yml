@@ -1,5 +1,22 @@
 workshops:
 -
+    who: TBA
+    help: TBA
+    venue: University College, Dublin
+    country: ie
+    latitude: 53.3496182
+    longitude: -6.2466774
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Unix Shell, SQL, Python
+    number: 
+    notes: 
+    site: https://lirgroup.heanet.ie/
+    eventbrite_id: 
+    human_date: 22-23 August 2019
+    start_date: 2019-08-22
+    end_date: 2019-08-23
+-
     who: Anton Angelo
     help: 
     venue: Massey University, NZ
