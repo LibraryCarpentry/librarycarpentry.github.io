@@ -68,6 +68,23 @@ workshops:
     start_date: 2019-07-18
     end_date: 2019-07-19
 -
+    who: Marianne Corvellec, Nilani Ganeshwaran
+    help: Baha Thabet
+    venue: Università di Parma 
+    country: it
+    latitude: 44.765092
+    longitude: 10.311768
+    workshop: two-day
+    blogs:
+    lessons: Introduction to data, tidy data..., OpenRefine, Introduction to R for data analysis, R for data visualization and dynamic reports
+    number:
+    notes:
+    site: https://fmichonneau.github.io/2019-07-04-parma/
+    eventbrite_id:
+    human_date: 4-5 July 2019
+    start_date: 2019-07-04
+    end_date: 2019-07-05
+-
     who: Katrin Leinweber (TIB), Konrad Förstner (ZB MED)
     help: Thomas Gerd tom Markotten (PH-Bibliothek Freiburg), Ralf Weber (BLB Karlsruhe)
     venue: Library Carpentry für die Bibliothek - Workshop des VDB-Regionalverbands Südwest an der Badischen Landesbibliothek
