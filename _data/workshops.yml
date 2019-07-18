@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Agnes Brauer, Markus Hennies, Evamaria Krause, Christian Krippes, Till Sauerwein
+    help: Stephan Lenartz, Jakob Frohmann
+    venue: Die Goethe-Universität Frankfurt am Main
+    country: de
+    latitude: 50.128280
+    longitude: 8.664950
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, Python, OpenRefine
+    number: 
+    notes: 
+    site: https://evamarik.github.io/2019-11-frankfurt/
+    eventbrite_id: 
+    human_date: 18-19 November 2019
+    start_date: 2019-11-18
+    end_date: 2019-11-19
+-
     who: David Kane
     help: 
     venue: University College, Dublin
