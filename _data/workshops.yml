@@ -102,6 +102,22 @@ workshops:
     start_date: 2019-07-18
     end_date: 2019-07-19
 -
+    who: Erin Carrillo, Nina Exner
+    venue: Virginia Comonwealth University Libraries
+    country: us
+    latitude: 37.5479242
+    longitude: -77.4538725
+    workshop: 3 half-days
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, OpenRefine
+    number: 
+    notes: 
+    site: https://www.library.vcu.edu/
+    eventbrite_id: 
+    human_date: 16-18 July 2019
+    start_date: 2019-07-16
+    end_date: 2019-07-18
+-
     who: Marianne Corvellec, Nilani Ganeshwaran
     help: Baha Thabet
     venue: Università di Parma 
