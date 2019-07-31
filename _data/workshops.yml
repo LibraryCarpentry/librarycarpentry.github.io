@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-11-18
     end_date: 2019-11-19
 -
+    who: Joshua Dull
+    help: 
+    venue: Brown University Library
+    country: us
+    latitude: 41.825748
+    longitude: -71.405109
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, GitHub, OpenRefine, Tidy Data
+    number: 
+    notes: 
+    site: https://nesclic.github.io/2019-10-21-NEASIST-Brown/
+    eventbrite_id: 
+    human_date: 21-22 October 2019
+    start_date: 2019-10-21
+    end_date: 2019-10-22
+-
     who: David Kane
     help: 
     venue: University College, Dublin
