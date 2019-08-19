@@ -56,6 +56,6 @@ Library Carpentry, the Australian Research Data Commons, and the Research Data A
 
 * _[Top 10 FAIR Data & Software Things Published](https://librarycarpentry.org/blog/2019/02/top-10-fair-published/)_ by Chris Erdmann and Natasha Simons
 * _[News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee](https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/)_ by Chris Erdmann
-* [Announcing the Library Carpentry Advisory Group](https://librarycarpentry.org/blog/2019/04/advisory-group-announcement/)
+* _[Announcing the Library Carpentry Advisory Group](https://librarycarpentry.org/blog/2019/04/advisory-group-announcement/)_
 * [Library Carpentry, LIBER, LIR and the UCD Library host an instructor training workshop geared towards librarians](https://libereurope.eu/events/liber-2019-satellite-event-library-carpentry-training-for-trainers/)
 * _[Announcing the June 2019 lesson release!](https://carpentries.org/blog/2019/07/lesson-release/)_
