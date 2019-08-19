@@ -37,15 +37,25 @@ First Carpentries instructor training for librarians and Library Carpentry at [c
 
 * _[Software Carpentry / Data Carpentry Instructor Training for Librarians](http://uc3.cdlib.org/2016/12/08/software-carpentry-data-carpentry-instructor-training-for-librarians/)_ by John Chodacki
 * _[NSLA Roadshow](https://weaverbel.github.io/nsla-roadshow/)_ by Belinda Weaver
+* _[Skills Training for Librarians: Expanding Library Carpentry](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)_ by John Chodacki
 
 
 ### 2018
 
 IMLS grant awarded to the California Digital Library to further develop Library Carpentry. Chris Erdmann hired as the Community and Development Director. The Carpentries opened Lesson Organisation discussions with Library Carpentry on 21 May 2018 and joined The Carpentries as an official Lesson Program on 1 November 2018. 
 
-* _[Skills Training for Librarians: Expanding Library Carpentry](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/)_ by John Chodacki
 * _[Welcome Chris Erdmann, Library Carpentry Community and Development Director](https://www.cdlib.org/cdlinfo/2018/04/17/welcome-chris-erdmann-library-carpentry-community-and-development-director/)_ by John Chodacki
-* _[Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries](https://carpentries.org/blog/2018/05/lc-merger-talks/)_ by Tracy Teal, Belinda Weaver
+* _[Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries](https://carpentries.org/blog/2018/05/lc-merger-talks/)_ by Tracy Teal and Belinda Weaver
 * _[Report back from the University of Calgary Libraries](https://librarycarpentry.org/blog/2018/09/report-from-calgary-workshops/)_ by Chris Erdmann
 * _[
 Library Carpentry is now officially a Lesson Program!](https://carpentries.org/blog/2018/11/welcoming-library-carpentry/)_ by Tracy Teal and Chris Erdmann
+
+### 2019
+
+Library Carpentry, the Australian Research Data Commons, and the Research Data Alliance Libraries for Research Data Interest Group organised a worldwide sprint with over 20 organisations to develop and publish Top 10 FAIR Data & Software Things to provide domain level guidance on the FAIR principles. The Library Carpentry Maintainer community ran a series of calls to get to know each other, look at what needed to be developed in the lessons, and understand how they wanted to work as groups. The Governance Group transitioned into the Advisory Group which works towards fostering greater participation in the Library Carpentry community. Library Carpentry, LIBER, LIR, and the UCD Library host a Carpentries instructor training workshop for librarians. 5 Library Carpentry lessons part of The Carpentries June 2019 lesson release. 
+
+* _[Top 10 FAIR Data & Software Things Published](https://librarycarpentry.org/blog/2019/02/top-10-fair-published/)_ by Chris Erdmann and Natasha Simons
+* _[News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee](https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/)_ by Chris Erdmann
+* [Announcing the Library Carpentry Advisory Group](https://librarycarpentry.org/blog/2019/04/advisory-group-announcement/)
+* [Library Carpentry, LIBER, LIR and the UCD Library host an instructor training workshop geared towards librarians](https://libereurope.eu/events/liber-2019-satellite-event-library-carpentry-training-for-trainers/)
+* _[Announcing the June 2019 lesson release!](https://carpentries.org/blog/2019/07/lesson-release/)_
