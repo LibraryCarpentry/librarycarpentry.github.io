@@ -25,9 +25,16 @@ _Back by popular demand, the University of Arizona Libraries held its second Lib
 [Read More](https://librarycarpentry.org/blog/2018/09/data-in-the-desert/)
   
 ---------------------------------------
-**A Carpentries-Based Approach to Teaching FAIR Data and Software Principles**  
-_Recently, I was lucky to participate in an innovative workshop held at Technische Informationsbibliothek (TIB) Hannover from 9 - 13 July, 2018, which paired The Carpentries’ pedagogical style of teaching and lesson material with in-depth background on the FAIR Data Principles. FAIR comprises a set of guiding principles to make data findable, accessible, interoperable and reusable (Wilkinson et al., 2016)._  
-[Read More](https://librarycarpentry.org/blog/2018/07/tib-hannover-fair-report/)
+
+**Building a Community for Digital Literacy at ZB MED: The Carpentries and HackyHours**  
+_A place where everyone can come together to share topics and learn from each other._  
+[Read More](https://librarycarpentry.org/blog/2019/06/hackyhours-zbmed/)
+  
+---------------------------------------
+
+**Developing Data Skills at Macquarie University Library**  
+_Drawing on Library Carpentry lessons, pedagogy and community._  
+[Read More](https://librarycarpentry.org/blog/2019/06/developing-data-skills/)
   
 ---------------------------------------
 
@@ -49,6 +56,12 @@ _What does Carpentries involvement bring to your life? In the first of what we h
 **Helping the Helper - practical advice for Library Carpentry Helpers** by Claire Wallnutt  
 _A couple of months ago my line manager asked if I would be interested in helping out at an upcoming workshop our Library was helping to deliver. The workshop was entitled Library Carpentry._  
 [Read More](https://librarycarpentry.org/blog/2017/08/helping-the-helper/)
+  
+---------------------------------------
+
+**The Carpentries in the Classroom** by Denice Adkins
+_Reflections on Holding a Carpentries-Inspired Workshop in my Library and Information Science (LIS) Class._  
+[Read More](https://librarycarpentry.org/blog/2019/01/carpentries-in-the-classroom/)
   
 ---------------------------------------
 
