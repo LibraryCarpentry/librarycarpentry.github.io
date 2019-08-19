@@ -22,7 +22,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:Christopher.Erdmann@ucop.edu
 
-- name: Carmi Cronje (Australia)
+- name: Carmi Cronje (Chair, Australia)
   pic: carmicronje.jpeg
   social:
     - icon: fab fa-twitter
@@ -46,10 +46,12 @@ people:
     - icon: fab fa-github
       url: https://github.com/erikamias
       
-- name: Katrin Leinweber (Chair, Germany)
-  pic: katrinleinweber.jpeg
+- name: Phil Reed (United Kingdom)
+  pic: philreed.jpeg
   social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/philreeddata
     - icon: fab fa-envelope
-      url: mailto:katrin.leinweber@tib.eu
+      url: mailto:Phil.Reed@manchester.ac.uk
     - icon: fab fa-github
-      url: https://github.com/katrinleinweber
+      url: https://github.com/philreeddata
