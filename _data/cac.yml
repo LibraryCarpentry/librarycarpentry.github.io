@@ -51,7 +51,5 @@ people:
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/philreeddata
-    - icon: fab fa-envelope
-      url: mailto:Phil.Reed@manchester.ac.uk
     - icon: fab fa-github
       url: https://github.com/philreeddata
