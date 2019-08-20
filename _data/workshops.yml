@@ -34,6 +34,23 @@ workshops:
     start_date: 2019-10-21
     end_date: 2019-10-22
 -
+    who: Rooweither Mabuya, Raniere Silva, Oghenere Salubi
+    help: 
+    venue: University of the Western Cape
+    country: za
+    latitude: -33.932095
+    longitude: 18.626972
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Unix Shell, Git, OpenRefine
+    number: 
+    notes: 
+    site: https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/
+    eventbrite_id: 
+    human_date: 3-4 September 2019
+    start_date: 2019-09-03
+    end_date: 2019-09-04
+-
     who: David Kane
     help: 
     venue: University College, Dublin
