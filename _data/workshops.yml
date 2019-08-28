@@ -85,6 +85,23 @@ workshops:
     start_date: 2019-08-26
     end_date: 2019-08-27
 -
+    who: Jennifer Nichols, Jeff Oliver, Niamh Wallace, Fernando Rios
+    help: Lauren Washuk
+    venue: University of Arizona
+    country: us
+    latitude: 32.230928
+    longitude: -110.949606
+    workshop: two-day
+    blogs:
+    lessons: Introduction to Data, Open Refine, SQL, Tidy Data
+    number:
+    notes: https://jcoliver.github.io/2019-08-22-lc-tucson/
+    site: 
+    eventbrite_id:  
+    human_date: 22-23 August 2019
+    start_date: 2019-08-22
+    end_date: 2019-08-23
+-
     who: Scott Peterson, Zac Painter
     help: Eric Lopatin, John Chodacki, Ariel Deardorff, Celia Emmelhainz, Rick Jaffe
     venue: California Digital Library
