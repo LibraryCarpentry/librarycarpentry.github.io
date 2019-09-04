@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-11-18
     end_date: 2019-11-19
 -
+    who: Karolin Bove, Martin Czygan, Ronny Gey, Peter Mühleder, Florian Rämisch
+    help:
+    venue: Leipzig University Library
+    country: de
+    latitude: 51.3325
+    longitude: 12.3682
+    workshop: two-day
+    blogs:
+    lessons: UNIX Shell, git, OpenRefine, Python
+    number:
+    notes:
+    site: https://github.com/ubleipzig/2019-11-04-leipzig
+    eventbrite_id:
+    human_date: 4-5 November 2019
+    start_date: 2019-11-04
+    end_date: 2019-11-05
+-
     who: Joshua Dull
     help: 
     venue: Brown University Library
