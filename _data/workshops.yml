@@ -59,12 +59,12 @@ workshops:
     longitude: -77.003087
     workshop: two-day
     blogs: 
-    lessons: Tidy Data, Shell, OpenRefine, Python
+    lessons: Intro to Data, Shell, OpenRefine, Python
     number: 
     notes: 
     site: https://morskyjezek.github.io/2019-09-24-libraryofcongress/
     eventbrite_id: 
-    human_date: 24 September 2019
+    human_date: 24-25 September 2019
     start_date: 2019-09-24
     end_date: 2019-09-25
 -
