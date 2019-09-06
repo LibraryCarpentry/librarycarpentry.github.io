@@ -51,6 +51,23 @@ workshops:
     start_date: 2019-10-21
     end_date: 2019-10-22
 -
+    who: Chris Erdmann, Jesse Johnston, Laura Wrubel
+    help: Mark Cooper, Mike Davidson, Rachel Trent
+    venue: Library of Congress
+    country: us
+    latitude: 38.888490
+    longitude: -77.003087
+    workshop: two-day
+    blogs: 
+    lessons: Tidy Data, Shell, OpenRefine, Python
+    number: 
+    notes: 
+    site: https://morskyjezek.github.io/2019-09-24-libraryofcongress/
+    eventbrite_id: 
+    human_date: 24 September 2019
+    start_date: 2019-09-24
+    end_date: 2019-09-25
+-
     who: Sarah Seymore, Rochelle Lundy, Kate Hertweck, Karalyn Ostler
     help: Erika Bailey
     venue: University of Washington
