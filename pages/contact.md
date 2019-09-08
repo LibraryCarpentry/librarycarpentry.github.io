@@ -6,13 +6,13 @@ permalink: /contact/
 
 There are several ways to get in touch.  
 
-* Group Email List [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry). Our main communiation channel. Sign up to receive periodic updates.
+* Group Email List: [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry). Our main communiation channel. Sign up to receive periodic updates.
 
 * [The Carpentries Slack Channel](https://swc-slack-invite.herokuapp.com). Sign up to The Carpentries Slack, add the **#libraries** channel, chat with Library Carpentry community members via our primary chatroom, and get quicker responses.
 
 * [Library Carpentry is on Twitter](https://twitter.com/LibCarpentry). Follow us, learn about what community members are doing, and get updates.
 
-* Secondary Chatroom:  [Gitter](https://gitter.im/LibraryCarpentry/Lobby) for [Top 10 FAIR](https://gitter.im/LibraryCarpentry/Top10FAIR)). We use Gitter during global and lesson sprints.
+* Secondary Chatroom on Gitter:  Library Carpentry [Lobby](https://gitter.im/LibraryCarpentry/Lobby) or [Top 10 FAIR](https://gitter.im/LibraryCarpentry/Top10FAIR)). We use Gitter during global and lesson sprints.
 
 * Library Carpentry Community and Development Director, [Chris Erdmann](mailto:cChristopher.Erdmann@ucop.edu). If you are new to the community and have questions, feel free to reach out to [Chris Erdmann](mailto:cChristopher.Erdmann@ucop.edu) or community members via the channels above.
 
