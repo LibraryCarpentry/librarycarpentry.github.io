@@ -12,6 +12,8 @@ There are several ways to get in touch.
 
 * [Library Carpentry is on Twitter](https://twitter.com/LibCarpentry). Follow us, learn about what community members are doing, and get updates.
 
+* [Library Carpentry Blog Posts](https://librarycarpentry.org/blog/): Where we post Library Carpentry stories from the community and updates from our governance groups.
+
 * Secondary Chatroom on Gitter:  Library Carpentry [Lobby](https://gitter.im/LibraryCarpentry/Lobby) or [Top 10 FAIR](https://gitter.im/LibraryCarpentry/Top10FAIR)). We use Gitter during global and lesson sprints.
 
 * Library Carpentry Community and Development Director, [Chris Erdmann](mailto:cChristopher.Erdmann@ucop.edu). If you are new to the community and have questions, feel free to reach out to [Chris Erdmann](mailto:cChristopher.Erdmann@ucop.edu) or community members via the channels above.
