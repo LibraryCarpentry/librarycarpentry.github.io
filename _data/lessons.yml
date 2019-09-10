@@ -59,7 +59,7 @@ lessons:
        name: "Module 1 - What is the shell?"
        url: "https://librarycarpentry.org/lc-shell/01-intro-shell/"
    - 
-       name: "Module 2 - Navigating the filesystem
+       name: "Module 2 - Navigating the filesystem"
        url: "http://librarycarpentry.org/lc-shell/02-navigating-the-filesystem/"
    - 
        name: "Module 3 - Working with files and directories"
