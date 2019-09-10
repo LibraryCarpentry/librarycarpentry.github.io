@@ -11,7 +11,7 @@ widget1:
   title: "What we do"
   url: '/about/'
   icon: "fas fa-laptop"
-  text: 'Library Carpentry develops lessons and teaches workshops for and with people working in library- and information-related roles. Our goal is to create an on-ramp to empower this community to use software and data in their own work as well as be advocates for and train others in efficient, effective and reproducible data and software practices. Our workshops are based on <a href="lessons/">our lessons</a>. Workshop hosts, Instructors, and learners must be prepared to follow The Carpentries <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
+  text: 'Library Carpentry focuses on building software and data skills within library and information-related communities. Our goal is to empower people in these roles to use software and data in their own work and to become advocates for and train others in efficient, effective and reproducible data and software practices. Our workshops are based on <a href="lessons/">our lessons</a>. Workshop hosts, Instructors, and learners must be prepared to follow The Carpentries <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who we are"
   url: '/audience/'
