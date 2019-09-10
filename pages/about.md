@@ -4,9 +4,9 @@ title: "About Us"
 permalink: /about/
 ---
 
-Library Carpentry develops lessons and teaches workshops for and with people working in library- and information-related roles. Our goal is to create an on-ramp to empower this community to use software and data in their own work as well as be advocates for and train others in efficient, effective and reproducible data and software practices.
+Library Carpentry focuses on building software and data skills within library and information-related communities. Our goal is to empower people in these roles to use software and data in their own work and to become advocates for and train others in efficient, effective and reproducible data and software practices.
 
-Originally based on lessons developed by [The Carpentries](https://carpentries.org), Library Carpentry has evolved, and aims to help people working in library- and information-related roles work more efficiently, and potentially teach the skills they have learned to colleagues, students, and researchers. Training takes place in face-to-face workshops. Lesson materials are all available [online](/lessons/), under a CC BY license, for self-directed study or for adaptation and re-use.
+Training takes place in face-to-face workshops. Lesson materials are all available [online](/lessons/), under a CC BY license, for self-directed study or for adaptation and re-use.
 
 ### Who owns Library Carpentry?   
 Library Carpentry was originally developed with support of the Software Sustainability Institute and has been incorporated as a Lesson Program with [The Carpentries](https://carpentries.org). Like [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](https://datacarpentry.org/lessons/), it maintains [its own lessons](/lessons/), [Advisory Group](/team/) and [Curriculum Advisory Committee](/cac/).
@@ -23,7 +23,7 @@ Workshops are run by a team. Ideally this will consist of:
 To maintain the quality of Library Carpentry workshops, at least one of the Instructors teaching must be a Carpentries-certified instructor. For more about Carpentries instructors, see the [Carpentries section on instructors](https://carpentries.org/community/#instructors).  
 
 ### What is a lesson?   
-A Library Carpentry lesson is a set of training materials that can be used to run hands-on training or as self-directed learning. Each lesson comprises 3-4 sections, is interactive, works across Windows, Mac OS X, and Linux operating systems (with all setup instructions included) and has a combination of follow-the-leader sections and exercises that map to library practices and workflows. Lessons introduce software and data concepts relevant to people working in library- and information-related roles and are based on open source software. Data used in exercises is library-related, e.g. bibliographic data.
+A Library Carpentry lesson is a set of training materials that can be used to run hands-on training or as self-directed learning. Each lesson comprises several episodes, is interactive, works across Windows, macOS, and Linux operating systems (with all setup instructions included) and has a combination of follow-the-leader sections and exercises that map to library practices and workflows. Lessons introduce software and data concepts relevant to people working in library- and information-related roles and are based on open source software. Data used in exercises is library-related, e.g. bibliographic data.
 
 ### Who is an instructor?   
 >Official Library Carpentry workshops must have at least one certified instructor present running the workshops. To be a Library Carpentry instructor, and instructor for other Carpentries lesson organizations, you must undertake and complete [The Carpentries Instructor Training](http://carpentries.github.io/instructor-training/). Instructors must be prepared to observe The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in workshops. Library Carpentry lesson materials are freely available under a permissive open license and available for the wider community to use for Library Carpentry-based workshops.
