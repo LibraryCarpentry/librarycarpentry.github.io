@@ -1,0 +1,100 @@
+lessons: 
+- 
+   # Library Carpentry: The UNIX Shell
+   # Mandatory Level
+   description: "This Library Carpentry lesson introduces librarians to the Unix Shell. At the conclusion of the lesson you will: understand the basics of the Unix shell; understand why and how to use the command line; use shell commands to work with directories and files; use shell commands to find and manipulate data." 
+   keywords: "Unix Shell, command line, terminal, automation, filesystem, text mining, data mining, loop (programming language), free text, data cleaning" # Comma separated list
+   name: "Library Carpentry: The UNIX Shell"
+  
+  #Recommended Level
+   about: 
+   - "https://en.wikipedia.org/wiki/Unix_shell"
+   - "https://en.wikipedia.org/wiki/Automation" # ontology URI here
+   abstract: "Learners are introduced to the Unix-style command line interface, and basic shell navigation, as well as the use of loops and pipes for linking shell commands and grep for searching and subsetting data across files. Exercises cover the counting and mining of data."
+   audience: 
+   - "Library related roles"
+   - "Information related roles"
+   author:
+   - "Library Carpentry"
+   - 
+       name: "Library Carpentry"
+       email: "team@carpentries.org"
+   identifier:
+   - "http://doi.org/10.5281/zenodo.3266085"
+   inLanguage:
+   - "en-US"
+   learningResourceType:
+   - "tutorial"
+   license:
+   - "https://creativecommons.org/CC-BY_4.0"
+   # Tools mentioned/used
+   mentions:
+   -
+       name: "Unix Shell"
+       url: "https://en.wikipedia.org/wiki/Unix_shell"
+   skillLevel: "Beginner"
+   timeRequired: "P4H30M" 
+   url: "https://librarycarpentry.org/lc-shell/"
+   uses: 
+   -
+       name: "Tutorial Dataset"
+       url: "https://raw.githubusercontent.com/librarycarpentry/lc-shell/gh-pages/data/shell-lesson.zip"
+   
+   # Optional Level
+   accessibilitySummary: 
+   contributor:
+   -
+       name: 
+       email: 
+   dateCreated: 
+   dateModified: 
+   datePublished: 
+   featuredInEvent:
+   - 
+       name: "Library Carpentry -  The Carpentries"
+       url: "https://librarycarpentry.org/lc-shell/"
+       startDate: "2019-07-02T00:00"
+   hasPart:  # This fields properties could extend to all the properties of the lesson
+   - 
+       name: "Module 1 - What is the shell?"
+       url: "https://librarycarpentry.org/lc-shell/01-intro-shell/"
+   - 
+       name: "Module 2 - Navigating the filesystem
+       url: "http://librarycarpentry.org/lc-shell/02-navigating-the-filesystem/"
+   - 
+       name: "Module 3 - Working with files and directories"
+       url: "http://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/"
+   - 
+       name: "Module 4 - Automating the tedious with loops"
+       url: "http://librarycarpentry.org/lc-shell/04-loops/"
+   - 
+       name: "Module 5 - Counting and mining with the shell"
+       url: "http://librarycarpentry.org/lc-shell/05-counting-mining/"
+   - 
+       name: "Module 6 - Working with free text"
+       url: "http://librarycarpentry.org/lc-shell/06-free-text/"
+   isPartOf:
+   - # This fields properties could extend to all the properties of the lesson
+       name: "Library Carpentry"
+       url: "http://librarycarpentry.org"
+   learningOutcome:
+   - Explain the basics of the Unix shell.
+   - Explain why and how to use the command line.
+   - Use shell commands to work with directories and files.
+   - Use shell commands to find and manipulate data.
+   - Work with files and directories from the command line.
+   - Use tab completion to limit typing.
+   - Look at all or part of a file using the command line.
+   - Moving and copying files.
+   - Build a concept for how loops can be used to repeat tasks.
+   - Implement a loop to rename several files.
+   - Demonstrate counting lines, words, and characters with the shell command wc and appropriate flags.
+   - Use strings to mine files and extract matched lines with the shell.
+   - Create complex single line commands by combining shell commands and regular expressions to mine files.
+   - Redirect a command’s output to a file.
+   - Process a file instead of keyboard input using redirection.
+   - Construct command pipelines with two or more stages.
+   - Explain Unix’s ‘small pieces, loosely joined’ philosophy.
+   - Use shell tools to clean and transform free text.
+   status: "Active"
+   version: "v2019.06.1"
