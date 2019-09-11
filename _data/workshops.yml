@@ -68,6 +68,23 @@ workshops:
     start_date: 2019-09-24
     end_date: 2019-09-25
 -
+    who: Konrad Förstner, Till Sauerwein
+    help: Silvia Di Giorgio
+    venue: Technische Hochschule Köln
+    country: de
+    latitude: 50.919450
+    longitude: 6.966870
+    workshop: two-day
+    blogs: 
+    lessons: Data Intro, UNIX Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbiw.github.io/2019-09-25-Library_Carpentry_TH_Koeln_ZBIW/
+    eventbrite_id: 
+    human_date: 25-26 September 2019
+    start_date: 2019-09-25
+    end_date: 2019-09-26
+-
     who: Sarah Seymore, Rochelle Lundy, Kate Hertweck, Karalyn Ostler
     help: Erika Bailey
     venue: University of Washington
@@ -84,6 +101,23 @@ workshops:
     human_date: 24 September 2019
     start_date: 2019-09-24
     end_date: 2019-09-24
+-
+    who: Konrad Förstner, Till Sauerwein
+    help: Silvia Di Giorgio
+    venue: ZB MED
+    country: de
+    latitude: 50.92597
+    longitude: 6.92846
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, UNIX Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-09-18-Library_Carpentry_ZB_MED_Cologne/
+    eventbrite_id: 
+    human_date: 18-19 September 2019
+    start_date: 2019-09-18
+    end_date: 2019-09-19
 -
     who: Rooweither Mabuya, Raniere Silva, Oghenere Salubi
     help: 
