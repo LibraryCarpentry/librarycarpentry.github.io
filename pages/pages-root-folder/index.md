@@ -19,9 +19,9 @@ widget2:
   text: 'We are a diverse, global community of <a href="https://carpentries.org/volunteer/">volunteers</a>. Our community includes Instructors, helpers, Trainers, <a href="https://carpentries.org/maintainers/">Maintainers</a>, <a href="http://static.carpentries.org/mentors/">Mentors</a>, community champions, <a href="https://carpentries.org/members/">member organisations</a>, supporters, workshop organisers, and <a href="https://carpentries.org/team/">staff</a>. Library Carpentry is guided by a <a href="team/">Advisory Group</a> and a <a href="cac/">Curriculum Advisory Committee</a>. <a href="audience/">Our audience</a> are primarily people working in library- and information-related roles.'
 widget3:
   title: "Get involved"
-  url: '/join/'
+  url: '/get_involved/'
   icon: 'fas fa-comment-dots'
-  text: 'See all the <a href="contact/">ways you can engage</a> and <a href="join/">get involved</a> with Library Carpentry. Follow us on <a href="https://twitter.com/libcarpentry/">Twitter</a>.'
+  text: 'See all the <a href="contact/">ways you can engage</a> and <a href="get_involved/">get involved</a> with Library Carpentry. Follow us on <a href="https://twitter.com/libcarpentry/">Twitter</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
