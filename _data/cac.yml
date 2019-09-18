@@ -10,18 +10,6 @@ people:
     - icon: fab fa-github
       url: https://github.com/jt14den  
 
-- name: Chris Erdmann (Coordinator, USA)
-  pic: chriserdmann.jpg
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/libcce
-    - icon: fab fa-github
-      url: https://github.com/libcce
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
-    - icon: fa fa-envelope
-      url: mailto:Christopher.Erdmann@ucop.edu
-
 - name: Carmi Cronje (Chair, Australia)
   pic: carmicronje.jpeg
   social:
