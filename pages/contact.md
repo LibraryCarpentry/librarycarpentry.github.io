@@ -16,9 +16,7 @@ There are several ways to get in touch.
 
 * Secondary Chatroom on Gitter:  Library Carpentry [Lobby](https://gitter.im/LibraryCarpentry/Lobby) or [Top 10 FAIR](https://gitter.im/LibraryCarpentry/Top10FAIR)). We use Gitter during global and lesson sprints.
 
-* Library Carpentry Community and Development Director, [Chris Erdmann](mailto:cChristopher.Erdmann@ucop.edu). If you are new to the community and have questions, feel free to reach out to [Chris Erdmann](mailto:cChristopher.Erdmann@ucop.edu) or community members via the channels above.
-
-* [Request a Library Carpentry Workshop](https://amy.software-carpentry.org/forms/workshop/). Note your interest in Library Carpentry, plus, reach out to the Library Carpentry Community and Development Director, [Chris Erdmann](mailto:Christopher.Erdmann@ucop.edu).
+* [Request a Library Carpentry Workshop](https://amy.software-carpentry.org/forms/workshop/) or register your self-organised workshop. Note your interest in Library Carpentry.
 
 * Submit Issues/Pull Requests to Our Lessons and Website: [Library Carpentry GitHub Organisation](https://github.com/LibraryCarpentry). We also use the Library Carpentry GitHub Organisation for Curriculum Advisory Committee and Advisory Group discussions and decisions via the [governance repository](https://github.com/LibraryCarpentry/governance).
 
