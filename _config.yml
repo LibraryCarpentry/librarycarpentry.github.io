@@ -20,14 +20,14 @@ description: "Library Carpentry is a global community teaching software and data
 
 # Main author of the website
 # See > authors.yml
-author: libcce
+author: carpentries
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://librarycarpentry.org'
 baseurl: ''
 filesurl: 'https://librarycarpentry.org/files'
-contact: 'Christopher.Erdmann@ucop.edu'
+contact: 'team@carpentries.org'
 
 # Website configuration links
 mailing_lists   : "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
