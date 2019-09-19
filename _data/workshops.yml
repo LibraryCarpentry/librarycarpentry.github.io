@@ -51,6 +51,23 @@ workshops:
     start_date: 2019-10-21
     end_date: 2019-10-22
 -
+    who: Armin Straube, Amirah Al Sarraj, Somia Salim
+    help: 
+    venue: UCL Qatar
+    country: us
+    latitude: 25.318391
+    longitude: 51.4418773
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Tidy Data, OpenRefine
+    number: 
+    notes: 
+    site: https://arminstraube.github.io/2019-10-16-UCLQ/
+    eventbrite_id: 
+    human_date: 16-17 October 2019
+    start_date: 2019-10-16
+    end_date: 2019-10-17
+-
     who: Chris Erdmann, Jesse Johnston, Laura Wrubel
     help: Mark Cooper, Mike Davidson, Rachel Trent
     venue: Library of Congress
