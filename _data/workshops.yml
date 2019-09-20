@@ -17,7 +17,6 @@ workshops:
     start_date: 2019-12-09
     end_date: 2019-12-10
 -
--
     who: Agnes Brauer, Markus Hennies, Evamaria Krause, Christian Krippes, Till Sauerwein
     help: Stephan Lenartz, Jakob Frohmann
     venue: Die Goethe-Universität Frankfurt am Main
@@ -85,6 +84,23 @@ workshops:
     human_date: 16-17 October 2019
     start_date: 2019-10-16
     end_date: 2019-10-17
+-
+    who: Trisha Adamus, Clare Michaud, Heather Shimon, Sarah Stevens
+    help: Cameron Cook, Cid Freitag, Tam Mayeshiba
+    venue: UW-Madison
+    country: us
+    latitude: 43.075378
+    longitude: -89.398491
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Shell, OpenRefine, Python
+    number: 
+    notes: 
+    site: https://uw-madison-datascience.github.io/2019-10-14-uwmadison-lc/
+    eventbrite_id: 
+    human_date: 14-15 October 2019
+    start_date: 2019-10-14
+    end_date: 2019-10-15
 -
     who: Chris Erdmann, Jesse Johnston, Laura Wrubel
     help: Mark Cooper, Mike Davidson, Rachel Trent
