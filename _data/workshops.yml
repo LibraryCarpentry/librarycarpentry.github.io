@@ -1,5 +1,23 @@
 workshops:
 -
+    who: Anna Oates, Denice Adkins
+    help: Levi Dolan
+    venue: Federal Reserve Bank of St. Louis
+    country: us
+    latitude: 38.628626
+    longitude: -90.188077
+    workshop: two-day
+    blogs: 
+    lessons: Intro to Data, Unix Shell, Git, OpenRefine
+    number: 
+    notes: 
+    site: https://firbolg.github.io/2019-12-09-mohub/
+    eventbrite_id: 
+    human_date: 9-10 December 2019
+    start_date: 2019-12-09
+    end_date: 2019-12-10
+-
+-
     who: Agnes Brauer, Markus Hennies, Evamaria Krause, Christian Krippes, Till Sauerwein
     help: Stephan Lenartz, Jakob Frohmann
     venue: Die Goethe-Universität Frankfurt am Main
