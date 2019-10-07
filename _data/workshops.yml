@@ -152,6 +152,23 @@ workshops:
     human_date: 24 September 2019
     start_date: 2019-09-24
     end_date: 2019-09-24
+ -
+    who: Konrad Förstner, Till Sauerwein
+    help: Silvia Di Giorgio
+    venue: Technische Hochschule Köln
+    country: de
+    latitude: 50.919450
+    longitude: 6.966870
+    workshop: two-day
+    blogs: 
+    lessons: Data Intro, UNIX Shell, Python, Git
+    number: 
+    notes: 
+    site: https://zbmed.github.io/2019-09-23-Library_Carpentry_TH_Koeln/
+    eventbrite_id: 
+    human_date: 23-24 September 2019
+    start_date: 2019-09-23
+    end_date: 2019-09-24
 -
     who: Konrad Förstner, Till Sauerwein
     help: Silvia Di Giorgio
