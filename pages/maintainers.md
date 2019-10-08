@@ -31,5 +31,5 @@ Maintainers can expect to acquire this [skill set](https://github.com/carpentrie
 | Madicken Munk | Lex Nederbragt | Lauren O'Brien | Jeffrey Oliver | Deborah Paul | Will Pitchers |
 | Timothée Poisot | Krzysztof Poterlowicz | Chris Prener | Fotis Psomopoulos | Rémi Rampin | Anita Schürch | 
 | Janani Selvaraj | Henry Senyondo | Brian Seok | Malvika Sharan | Sourav Singh | Peter Smyth | 
-| Tyson Lee Swetnam | Ming Tang | Mike Trizna | Olav Vahtras | Jason Williams| April Wright |
+| Tyson Lee Swetnam | Ming Tang | Mike Trizna | Olav Vahtras | Jason Williams|
 | Ashwin Srinath | Tom Wright | Jane Wyngaard | Naupaka Zimmerman |||
