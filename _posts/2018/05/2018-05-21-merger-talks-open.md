@@ -3,6 +3,8 @@ layout: page
 authors: ["Tracy Teal", "Belinda Weaver"]
 title: "Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries"
 category: blog
+date: 2018-05-21
+tags: [""]
 ---
 
 By [Tracy Teal](https://twitter.com/tracykteal) and [Belinda Weaver](https://twitter.com/cloudaus).

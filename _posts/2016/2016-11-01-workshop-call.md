@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Library Carpentry workshop call
+authors: ["James Baker"]
+date: 2016-11-01
+tags: [""]
 ---
 
 Library Carpentry is software skills training aimed at the needs and requirements of library professionals (that is, coding and data manipulation that goes beyond the use of familiar office suites). It is made **by librarians, for librarians** to help you:
@@ -35,5 +38,3 @@ Applications for these funds should include the following information:
 	- If you want to fund something else, ask James at [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk) before submitting your application.
 
 Applications should be sent as an attachment to [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk) by 16 December 2016. The funded workshop should take place by July 2017. Applicatants will be notified in early-January 2017. Those that are not selected, we’ll do our best to support in some way!
-
-By [James Baker](drjwbaker)
