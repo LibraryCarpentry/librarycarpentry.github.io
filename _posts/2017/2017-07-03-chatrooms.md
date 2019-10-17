@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Library Carpentry chatrooms proliferate
-authors: [""]
+authors: ["Belinda Weaver"]
 date: 2017-07-03
 tags: [""]
 ---

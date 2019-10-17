@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Library Carpentry: Update from the Community Calls"
-authors: [""]
+authors: ["Belinda Weaver"]
 date: 2017-10-17
 tags: [""]
 ---
