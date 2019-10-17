@@ -2,6 +2,9 @@
 layout: page
 title: "Library Carpentry Hackathon a Great Success"
 category: blog
+authors: ["Chris Erdmann"]
+date: 2018-05-16
+tags: [""]
 ---
 
 By [Chris Erdmann](https://twitter.com/libcce) and [Belinda Weaver](https://twitter.com/cloudaus)

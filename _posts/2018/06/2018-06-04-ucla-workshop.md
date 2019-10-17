@@ -2,6 +2,8 @@
 layout: page
 authors: ["Juliane Schneider"]
 title: "Pancakes on a Stick, and Other Things I Learned at UCLA"
+date: 2018-06-04
+tags: [""]
 ---
 
 By [Juliane Schneider](https://twitter.comJulianeS)
