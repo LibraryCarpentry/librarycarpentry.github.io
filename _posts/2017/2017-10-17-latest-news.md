@@ -2,7 +2,7 @@
 layout: page
 title: "Library Carpentry: Update from the Community Calls"
 authors: [""]
-date: 
+date: 2017-10-17
 tags: [""]
 ---
 
