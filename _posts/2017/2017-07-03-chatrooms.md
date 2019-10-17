@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Library Carpentry chatrooms proliferate
+authors: [""]
+date: 2017-07-03
+tags: [""]
 ---
 
 After the massive success of the [2017 global sprint](https://software-carpentry.org/blog/2017/06/lc-sprint.html), the Library 
