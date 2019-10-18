@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Chris Erdmann, John Chodacki"]
+authors: ["Chris Erdmann", "John Chodacki"]
 title: "The Carpentries Instructor Training for Librarians"
 teaser: "Upcoming, open Instructor training for librarians"
 date: 2018-06-26
