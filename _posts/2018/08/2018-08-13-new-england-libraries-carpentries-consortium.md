@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Joshua Dull","“Thea Atwood", "Andrew Creamer", "Julie Goldman", "Kristin Lee", "Lora Leligdon", "Sara Oelker", "Chris Erdmann"]
+authors: ["Joshua Dull","Thea Atwood", "Andrew Creamer", "Julie Goldman", "Kristin Lee", "Lora Leligdon", "Sara Oelker", "Chris Erdmann"]
 title: "New England Libraries Team Up to Become Carpentries Members"
 teaser: "Developing the New England Software Carpentry Library Consortium and a Community of Practice"
 tags: ["Carpentries", "Library Carpentry", "Workshops", "Member Organization", "Consortium", "New England"]

@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: [“Jonathan Cain”, “Sarah Seymore”, “Steven Van Tuyl”, “Clara Llebot”, “Ryan Wick”, “Chris Erdmann”]
+authors: ["Jonathan Cain", "Sarah Seymore", "Steven Van Tuyl", "Clara Llebot", "Ryan Wick", "Chris Erdmann"]
 title: "University of Oregon Libraries and Oregon State University Libraries Team Up to Teach First Library Carpentry Workshop in Oregon"
 teaser: "UO and OSU Library Carpentry report"
 date: 2018-08-20
