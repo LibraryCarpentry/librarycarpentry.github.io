@@ -17,6 +17,23 @@ workshops:
     start_date: 2019-12-09
     end_date: 2019-12-10
 -
+    who: David Kane, Assumpta Byrne
+    help: Assumpta Byrne, David Kane
+    venue: Cork, Ireland
+    country: ie
+    latitude: 51.896412
+    longitude: -8.468218
+    workshop: one-day
+    blogs:
+    lessons: Intro to Data, SQL
+    number:
+    notes:
+    site: 
+    eventbrite_id:
+    human_date: 5th December 2019
+    start_date: 2019-05-09
+    end_date: 2019-05-10
+-
     who: Agnes Brauer, Markus Hennies, Evamaria Krause, Christian Krippes, Till Sauerwein
     help: Stephan Lenartz, Jakob Frohmann
     venue: Die Goethe-Universität Frankfurt am Main
@@ -33,6 +50,23 @@ workshops:
     human_date: 18-19 November 2019
     start_date: 2019-11-18
     end_date: 2019-11-19
+-
+    who: Ken Lacey, Jean Murphy, Liam O'Dwyer, Sinead Keogh
+    help: David Kane, James Molloy, Jean Murphy, Ken Lacey, Sinead Keogh, Liam O'Dwyer
+    venue: University College Dublin Library
+    country: ie
+    latitude: 53.307199
+    longitude: -6.222781
+    workshop: two-day
+    blogs:
+    lessons: Tidy Data, SQL, Git, OpenRefine
+    number:
+    notes:
+    site: https://lirgroup.heanet.ie/index.php/2019/10/01/library-carpentry-workshop-4th-5th-nov-ucd/
+    eventbrite_id:
+    human_date: 4-5 November 2019
+    start_date: 2019-11-04
+    end_date: 2019-11-05
 -
     who: Karolin Bove, Martin Czygan, Ronny Gey, Peter Mühleder, Florian Rämisch
     help:
