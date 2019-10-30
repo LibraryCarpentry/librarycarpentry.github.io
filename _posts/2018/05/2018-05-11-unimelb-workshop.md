@@ -4,7 +4,7 @@ title: "Library Carpentry at The University of Melbourne"
 authors: ["Belinda Weaver"]
 category: blog
 date: 2018-05-11
-tags: [""]
+tags: ["Australasia", "Workshops"]
 ---
 
 Post by [Belinda Weaver](https://twitter.com/cloudaus).
@@ -26,7 +26,7 @@ I taught the rest with help from Peter,
 
 ![Group shot](/images/melbgroupshot.jpg)
 
-As well as the projector failure, we has a few snafus wth uncooperative shells and malfunctioning site workarounds, but on the whole, the day went well, and some people planned to attend the upcoming sprint to keep the ball rolling.
+As well as the projector failure, we has a few snafus with uncooperative shells and malfunctioning site workarounds, but on the whole, the day went well, and some people planned to attend the upcoming sprint to keep the ball rolling.
 
 Here are the happy campers!
 
