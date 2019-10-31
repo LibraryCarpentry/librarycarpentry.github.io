@@ -4,7 +4,7 @@ authors: ["Chris Erdmann"]
 title: "News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee"
 teaser: "An update on Library Carpentry lesson development"
 date: 2019-02-28
-tags: ["Library Carpentry", “Maintainers”, "Curriculum Advisory Committee", “lesson development”]
+tags: ["Library Carpentry", “Maintainers”, "Curriculum Advisory Committee", “Lesson Development”]
 category: ["blog"]
 ---
 
