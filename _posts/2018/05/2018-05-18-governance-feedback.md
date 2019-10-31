@@ -4,7 +4,7 @@ title: "Have your say"
 category: blog
 authors: ["Belinda Weaver"]
 date: 2018-05-18
-tags: [""]
+tags: ["Governance", "Feedback"]
 ---
 
 By [Belinda Weaver](https://twitter.com/cloudaus)
