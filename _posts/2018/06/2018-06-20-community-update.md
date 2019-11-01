@@ -3,7 +3,7 @@ layout: page
 authors: ["Chris Erdmann", “Belinda Weaver”]
 title: "Library Carpentry Community Update"
 date: 2018-06-20
-tags: [""]
+tags: ["CarpentryCon", "Reports", "Library Carpentry"]
 ---
 
 By [Chris Erdmann](https://twitter.com/libcce), [Belinda Weaver](https://twitter.com/cloudaus)
