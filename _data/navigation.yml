@@ -33,6 +33,8 @@
   dropdown:
   - title: "Upcoming Workshops"
     url: "/upcoming_workshops/"
+  - title: "Past Workshops"
+    url: "/past_workshops/"
 
 - title: Get Involved
   url: "/get_involved/"
