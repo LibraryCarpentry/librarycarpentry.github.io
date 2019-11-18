@@ -50,6 +50,10 @@ urlimg: 'https://librarycarpentry.org/images/'
 logo: "lc_logo_1.png"
 
 
+# Flag size for workshop display
+flag_size: 24
+
+
 # Paginates all X entries
 paginate: 10
 
