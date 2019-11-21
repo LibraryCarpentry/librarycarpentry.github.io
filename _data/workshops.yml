@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Nilani Ganeshwaran, Phil Reed
+    help: Carlene Barton, Toby Reynolds
+    venue: University of Durham, UK
+    country: gb
+    latitude: 54.768265
+    longitude: -1.573079
+    workshop: one-day
+    blogs:
+    lessons: Intro to Data, OpenRefine
+    number:
+    notes:
+    site: https://philreeddata.github.io/2019-12-11-durham/
+    eventbrite_id: 74991805509
+    human_date: 11th December 2019
+    start_date: 2019-12-11
+    end_date: 2019-12-11
+-
     who: Anna Oates, Denice Adkins
     help: Levi Dolan
     venue: Federal Reserve Bank of St. Louis
