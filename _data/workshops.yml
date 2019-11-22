@@ -1,5 +1,22 @@
 workshops:
 -
+    who: Juliane Schneider, Chris Erdmann
+    help: Metadata Research Center
+    venue: Drexel University
+    country: us
+    latitude: 39.9566835
+    longitude: -75.1995964
+    workshop: one-day
+    blogs:
+    lessons: OpenRefine, Git/GitHub
+    number:
+    notes:
+    site: https://libcce.github.io/2020-01-23-MRC-DSFC/
+    eventbrite_id: 82208270149
+    human_date: 23 January 2020
+    start_date: 2020-01-23
+    end_date: 2020-01-23
+-
     who: Nilani Ganeshwaran, Phil Reed
     help: Carlene Barton, Toby Reynolds
     venue: University of Durham, UK
