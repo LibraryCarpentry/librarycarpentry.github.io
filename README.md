@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LibraryCarpentry/librarycarpentry.github.io.svg?branch=master)](https://travis-ci.org/LibraryCarpentry/librarycarpentry.github.io)
+
 # The Library Carpentry Website
 
 This is the repository for the new [Library Carpentry website](https://librarycarpentry.org).
