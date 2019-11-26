@@ -17,6 +17,23 @@ workshops:
     start_date: 2020-01-23
     end_date: 2020-01-23
 -
+    who: Deena Yanofsky, Mariana Jardim, Lise Doucette, Sarah Forbes, May Chan, Jordan Pedersen
+    help:
+    venue: University of Toronto Scarborough (UTSC)
+    country: ca
+    latitude: 43.78725
+    longitude: -79.19056
+    workshop: two-day
+    blogs:
+    lessons: Intro to Data, Regex, Unix Shell, OpenRefine, SQL
+    number:
+    notes:
+    site: https://github.com/JordanPedersen/2020-01-08-utsc
+    eventbrite_id:
+    human_date: 8-9 January 2020
+    start_date: 2020-01-08
+    end_date: 2020-01-09
+-
     who: Nilani Ganeshwaran, Phil Reed
     help: Carlene Barton, Toby Reynolds
     venue: University of Durham, UK
