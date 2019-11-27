@@ -1,4 +1,4 @@
-/bin/bash
+#!/bin/bash
 
 REPO_ORG=librarycarpentry
 REPO_NAME=librarycarpentry.github.io
