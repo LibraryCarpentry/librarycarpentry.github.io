@@ -1,0 +1,32 @@
+[
+  {
+    "instructors": "Chuck McAndrew,David Yakobovitch",
+    "end_date": "2019-12-14",
+    "url": "https://dcmcand.github.io/2019-12-12-louisville",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Louisville",
+    "longitude": -85.760722,
+    "slug": "2019-12-12-louisville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Louisville",
+    "latitude": 38.216906,
+    "start_date": "2019-12-13"
+  },
+  {
+    "instructors": "Zac Painter,Scott Peterson",
+    "end_date": "2019-12-17",
+    "url": "https://scottcpeterson.github.io/2019-12-16-UCBerkeley/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "UC Berkeley",
+    "longitude": -122.257873,
+    "slug": "2019-12-16-UCBerkeley",
+    "tag_name": "LC",
+    "helpers": "Ariel Deardorff,Celia Emmelhainz,Rick Jaffe,Eric Lopatin,Anna Sackmann",
+    "host_name": "University of California Berkeley",
+    "latitude": 37.870055,
+    "start_date": "2019-12-16"
+  }
+]
