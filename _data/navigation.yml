@@ -43,11 +43,6 @@
 - title: People
   url: "/advisory/"
   side: left
-  dropdown:
-  - title: "Advisory Group"
-    url: "/advisory/"
-  - title: "Curriculum Advisory Committee"
-    url: "/cac/"
 
 - title: Connect
   url: "/contact/"
