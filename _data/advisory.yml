@@ -26,7 +26,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:yared3778@gmail.com
 
-- name: Liz Stokes (Australia)
+- name: Liz Stokes, Co-chair (Australia)
   pic: stokes
   social:
     - icon: fab fa-twitter
@@ -123,8 +123,16 @@ people:
       url: https://twitter.com/chodacki
     - icon: fab fa-github
       url: https://github.com/chodacki      
-      
-- name: Chris Erdmann ( USA )
+
+- name: Tim Dennis (USA)
+  pic: dennis
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/jt14den
+    - icon: fab fa-github
+      url: https://github.com/jt14den
+            
+- name: Chris Erdmann (USA)
   pic: erdmann
   social:
     - icon: fab fa-twitter
@@ -135,4 +143,28 @@ people:
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - icon: fa fa-envelope
       url: mailto:Christopher.Erdmann@ucop.edu
+      
+- name: Mark Laufersweiler (USA)
+  pic: laufersweiler
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/laufers
+    - icon: fab fa-github 
+      url: https://github.com/laufers
+
+- name: Phil Reed (United Kingdom)
+  pic: reed
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/philreeddata
+    - icon: fab fa-github
+      url: https://github.com/philreeddata
+
+- name: Carmi Cronje (Australia)
+  pic: cronje
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/machinical
+    - icon: fab fa-github 
+      url: https://github.com/ccronje      
       
