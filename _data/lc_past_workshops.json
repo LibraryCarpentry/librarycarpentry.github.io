@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
+    "instructors": "Evamaria Krause,Till Sauerwein,Christian Krippes",
     "end_date": "2019-11-19",
     "url": "https://evamarik.github.io/2019-11-frankfurt/",
     "country": "DE",
@@ -30,6 +30,21 @@
     "start_date": "2019-11-08"
   },
   {
+    "instructors": null,
+    "end_date": "2019-11-05",
+    "url": "https://lirgroup.heanet.ie/index.php/2019/10/01/library-carpentry-workshop-4th-5th-nov-ucd/",
+    "country": "IE",
+    "curriculum": "lc",
+    "venue": "James Joyce Library, Ballsbridge, Dublin",
+    "longitude": -6.222781,
+    "slug": "2019-11-04-dublin",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University College Dublin",
+    "latitude": 53.307629,
+    "start_date": "2019-11-04"
+  },
+  {
     "instructors": "Martin Czygan,Ronny Gey,Tracy Hoffmann,Peter Mühleder,Florian Rämisch",
     "end_date": "2019-11-05",
     "url": "https://ubleipzig.github.io/2019-11-04-leipzig/",
@@ -45,7 +60,7 @@
     "start_date": "2019-11-04"
   },
   {
-    "instructors": "Vratika Chaudhary,Sarah Pugachev",
+    "instructors": "Sarah Pugachev,Vratika Chaudhary",
     "end_date": "2019-11-01",
     "url": "https://nydclc.github.io/2019-11-01-rochester/",
     "country": "US",
@@ -120,7 +135,7 @@
     "start_date": "2019-09-25"
   },
   {
-    "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
+    "instructors": "Christopher Erdmann,Laura Wrubel,Jesse Johnston",
     "end_date": "2019-09-25",
     "url": "https://morskyjezek.github.io/2019-09-24-libraryofcongress",
     "country": "US",
@@ -129,13 +144,13 @@
     "longitude": -77.003087,
     "slug": "2019-09-24-libraryofcongress",
     "tag_name": "LC",
-    "helpers": "Mark Cooper,Mike Trizna,Rachel Trent",
+    "helpers": "Mike Trizna,Mark Cooper,Rachel Trent",
     "host_name": "Library of Congress",
     "latitude": 38.88849,
     "start_date": "2019-09-24"
   },
   {
-    "instructors": "Till Sauerwein,Konrad Förstner",
+    "instructors": "Konrad Förstner,Till Sauerwein",
     "end_date": "2019-09-24",
     "url": "https://zbmed.github.io/2019-09-23-Library_Carpentry_TH_Koeln/",
     "country": "DE",
@@ -165,7 +180,7 @@
     "start_date": "2019-09-18"
   },
   {
-    "instructors": "Anna Oates,Denice Adkins",
+    "instructors": "Denice Adkins,Anna Oates",
     "end_date": "2019-10-12",
     "url": "https://firbolg.github.io/2019-12-09-mohub/",
     "country": "US",
@@ -180,7 +195,7 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",
+    "instructors": "Raniere Silva,Rooweither Mabuya,Oghenere Salubi",
     "end_date": "2019-09-04",
     "url": "https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/",
     "country": "ZA",
@@ -210,7 +225,7 @@
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Jennifer Nichols,Jeffrey Oliver,Niamh Wallace,Fernando Rios",
+    "instructors": "Jeffrey Oliver,Fernando Rios,Jennifer Nichols,Niamh Wallace",
     "end_date": "2019-08-23",
     "url": "https://jcoliver.github.io/2019-08-22-lc-tucson/",
     "country": "US",
@@ -234,13 +249,13 @@
     "longitude": -122.2696674,
     "slug": "2019-08-01-CDL",
     "tag_name": "LC",
-    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff,Celia Emmelhainz,Rick Jaffe,Charlie Macquarie",
+    "helpers": "Ariel Deardorff,John Chodacki,Celia Emmelhainz,Rick Jaffe,Eric Lopatin,Charlie Macquarie",
     "host_name": "California Digital Library",
     "latitude": 37.8084796,
     "start_date": "2019-08-01"
   },
   {
-    "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
+    "instructors": "Jamie Jamison,Kristian Allen,Leigh Phan",
     "end_date": "2019-07-25",
     "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
     "country": "US",
@@ -249,7 +264,7 @@
     "longitude": -118.441303,
     "slug": "2019-07-24-ucla",
     "tag_name": "LC",
-    "helpers": "Dave George,Scott Gruber,Tim Dennis,David Palmquist",
+    "helpers": "Tim Dennis,David Palmquist,Dave George,Scott Gruber",
     "host_name": "University of California Los Angeles",
     "latitude": 34.075059,
     "start_date": "2019-07-24"
@@ -285,7 +300,7 @@
     "start_date": "2019-07-04"
   },
   {
-    "instructors": "Barbara Esty,Catherine DeRose,David Cirella,Joshua Dull",
+    "instructors": "Joshua Dull,Catherine DeRose,Barbara Esty,David Cirella",
     "end_date": "2019-06-13",
     "url": "https://nesclic.github.io/2019-06-12-Yale/",
     "country": "US",
@@ -294,7 +309,7 @@
     "longitude": -72.923454,
     "slug": "2019-06-12-Yale",
     "tag_name": "LC",
-    "helpers": "Sawyer Newman,Kate Nyhan",
+    "helpers": "Kate Nyhan,Sawyer Newman",
     "host_name": "Yale University",
     "latitude": 41.312756,
     "start_date": "2019-06-12"
@@ -315,7 +330,7 @@
     "start_date": "2019-06-11"
   },
   {
-    "instructors": "Karen Gutzman,Avishek Kumar,Will Trimble,Adam Hecktman",
+    "instructors": "Avishek Kumar,Will Trimble,Karen Gutzman,Adam Hecktman",
     "end_date": "2019-05-24",
     "url": "https://pitviper6.github.io/2019-05-23-chicagoMSTech/",
     "country": "US",
@@ -354,10 +369,40 @@
     "longitude": 28.2483343,
     "slug": "2019-01-30-WITS-LC",
     "tag_name": "LC",
-    "helpers": "Pelumi Oladokun,Retha Langa",
+    "helpers": "Retha Langa,Pelumi Oladokun",
     "host_name": "University of the Witwatersrand",
     "latitude": -26.175525,
     "start_date": "2019-01-30"
+  },
+  {
+    "instructors": "Konrad Förstner,Silvia Di Giorgio",
+    "end_date": "2019-01-16",
+    "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
+    "country": "DE",
+    "curriculum": "lc-other",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-01-15-Library_Carpentry_Cologne",
+    "tag_name": "LC",
+    "helpers": "Christian Kurrat,eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-01-15"
+  },
+  {
+    "instructors": "Konrad Förstner,Silvia Di Giorgio",
+    "end_date": "2018-12-13",
+    "url": "https://zbmed.github.io/2018-12-12-Library_Carpentry_Cologne/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2018-12-12-Library_Carpentry_Cologne",
+    "tag_name": "LC",
+    "helpers": "Muhammad Elhossary,Christian Kurrat,eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.924681,
+    "start_date": "2018-12-12"
   },
   {
     "instructors": "Nilani Ganeshwaran,Phil Reed",
@@ -369,13 +414,13 @@
     "longitude": -2.23743,
     "slug": "2018-11-30-Manchester",
     "tag_name": "LC",
-    "helpers": "Carlene Barton,Jochen Farwer,Jane Gallagher",
+    "helpers": "Jane Gallagher,Jochen Farwer,Carlene Barton",
     "host_name": "University of Manchester",
     "latitude": 53.48095,
     "start_date": "2018-11-30"
   },
   {
-    "instructors": "Katrin Leinweber,Phú Tu,Felix Hemme,Felix Lohmeier,Jens Wonke-Stehle",
+    "instructors": "Katrin Leinweber,Jens Wonke-Stehle,Felix Hemme,Felix Lohmeier,Phú Tu",
     "end_date": "2018-11-06",
     "url": "https://vdb-org.github.io/2018-11-05-Hamburg/",
     "country": "DE",
@@ -390,7 +435,7 @@
     "start_date": "2018-11-05"
   },
   {
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
+    "instructors": "Konrad Förstner,Silvia Di Giorgio",
     "end_date": "2018-10-25",
     "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
     "country": "DE",
@@ -429,13 +474,13 @@
     "longitude": 145.137217,
     "slug": "2018-10-08-monash-lc",
     "tag_name": "LC",
-    "helpers": "Sonika Tyagi,Nick Wong",
+    "helpers": "Nick Wong,Sonika Tyagi",
     "host_name": "Monash University",
     "latitude": -37.91048,
     "start_date": "2018-10-08"
   },
   {
-    "instructors": "Hans Gunnar Lian,Kyrre Låberg,Dan Michael Heggø",
+    "instructors": "Kyrre Låberg,Dan Michael Heggø,Hans Gunnar Lian",
     "end_date": "2018-09-26",
     "url": "https://scriptotek.github.io/2018-09-25-Bergen/",
     "country": "NO",
@@ -450,7 +495,7 @@
     "start_date": "2018-09-25"
   },
   {
-    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
+    "instructors": "Mesfin Diro Chaka,Alehegn Adane Kinde,DAGIM YOSEPH",
     "end_date": "2018-09-25",
     "url": "https://mesfind.github.io/2018-09-24-LC-UOG/",
     "country": "ET",
@@ -465,7 +510,7 @@
     "start_date": "2018-09-24"
   },
   {
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
+    "instructors": "Konrad Förstner,Silvia Di Giorgio",
     "end_date": "2018-09-24",
     "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
     "country": "DE",
@@ -474,13 +519,13 @@
     "longitude": 6.91646,
     "slug": "2018-09-21-Library_Carpentry_Cologne",
     "tag_name": "LC",
-    "helpers": "Christian Kurrat,Muhammad Elhossary",
+    "helpers": "Muhammad Elhossary,Christian Kurrat",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
     "start_date": "2018-09-21"
   },
   {
-    "instructors": "Juan Steyn,Kayleigh Lino,Zak van Heerden,Zine Sapula",
+    "instructors": "Juan Steyn,Zine Sapula,Kayleigh Lino,Zak van Heerden",
     "end_date": "2018-09-05",
     "url": "https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/",
     "country": "ZA",
@@ -489,7 +534,7 @@
     "longitude": 28.2483343,
     "slug": "2018-09-03-CarpentryConnect-JHB-LC",
     "tag_name": "LC",
-    "helpers": "Andiswa Bukula,Oghenere Salubi,Kirchner van Deventer,Miriam Pimentel,Roo Mabuya",
+    "helpers": "Kirchner van Deventer,Andiswa Bukula,Oghenere Salubi,Miriam Pimentel,Roo Mabuya",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -26.175525,
     "start_date": "2018-09-03"
@@ -504,13 +549,13 @@
     "longitude": -114.1320767,
     "slug": "2018-08-28-ucalgary",
     "tag_name": "LC",
-    "helpers": "Ingrid Reiche,Paul Pival,John Brosz,Calum Center",
+    "helpers": "Paul Pival,Ingrid Reiche,Calum Center,John Brosz",
     "host_name": "University of Calgary",
     "latitude": 51.077598,
     "start_date": "2018-08-28"
   },
   {
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
+    "instructors": "Konrad Förstner,Silvia Di Giorgio",
     "end_date": "2018-08-23",
     "url": "https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/",
     "country": "DE",
@@ -525,7 +570,7 @@
     "start_date": "2018-08-22"
   },
   {
-    "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
+    "instructors": "Joshua Dull,Kate Nyhan,Catherine DeRose",
     "end_date": "2018-08-16",
     "url": "https://nesclic.github.io/2018-08-15-YUL/",
     "country": "US",
@@ -555,7 +600,7 @@
     "start_date": "2018-08-13"
   },
   {
-    "instructors": "Fernando Rios,Jeffrey Oliver,Ben Hickson,Jennifer Nichols,Niamh Wallace",
+    "instructors": "Jeffrey Oliver,Ben Hickson,Fernando Rios,Jennifer Nichols,Niamh Wallace",
     "end_date": "2018-08-07",
     "url": "https://jcoliver.github.io/2018-08-06-lc-tucson/",
     "country": "US",
@@ -615,7 +660,7 @@
     "start_date": "2018-07-11"
   },
   {
-    "instructors": "Belinda Weaver,Aleksandra Pawlik",
+    "instructors": "Aleksandra Pawlik,Belinda Weaver",
     "end_date": "2018-07-09",
     "url": "https://weaverbel.github.io/2018-07-09-canterbury/",
     "country": "NZ",
@@ -630,7 +675,7 @@
     "start_date": "2018-07-09"
   },
   {
-    "instructors": "Belinda Weaver,Jonah Duckles",
+    "instructors": "Jonah Duckles,Belinda Weaver",
     "end_date": "2018-07-05",
     "url": "https://weaverbel.github.io/2018-07-05-dunedin/",
     "country": "NZ",
@@ -645,6 +690,21 @@
     "start_date": "2018-07-05"
   },
   {
+    "instructors": "Evamaria Krause,Katrin Leinweber,José Alanis,Peer Herholz,Christian Krippes",
+    "end_date": "2018-06-26",
+    "url": "https://evamarik.github.io/2018-06-25-marburg/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "Library Carpentry, VDB-Landesverband Hessen",
+    "longitude": 8.771767,
+    "slug": "2018-06-25-marburg",
+    "tag_name": "LC",
+    "helpers": "Stefan Beck,Christoph Marutschke,Andreas Morgen",
+    "host_name": "Verein Deutscher Bibliothekarinnen",
+    "latitude": 50.814287,
+    "start_date": "2018-06-25"
+  },
+  {
     "instructors": "James Baker,Jez Cope",
     "end_date": "2018-05-15",
     "url": "https://jezcope.github.io/2018-05-14-edinburgh/",
@@ -654,7 +714,7 @@
     "longitude": -3.2032139,
     "slug": "2018-05-14-edinburgh",
     "tag_name": "LC",
-    "helpers": "Patrick McCann,Giacomo Peru,Mike Bennett,Jennifer Daub,Andy Taylor,Sarah Ames",
+    "helpers": "Giacomo Peru,Patrick McCann,Mike Bennett,Andy Taylor,Sarah Ames,Jennifer Daub",
     "host_name": "University of Edinburgh",
     "latitude": 55.9465787,
     "start_date": "2018-05-14"
@@ -669,13 +729,13 @@
     "longitude": 144.9581026,
     "slug": "2018-04-04-unimelb-lc",
     "tag_name": "LC",
-    "helpers": "Winnie Hu,Alistair Walsh",
+    "helpers": "Alistair Walsh,Winnie Hu",
     "host_name": "University of Melbourne",
     "latitude": -37.7969964,
     "start_date": "2018-04-04"
   },
   {
-    "instructors": "Laura Smart,Danielle Kane,Noah Geraci,Katherine Koziar,Scott Peterson",
+    "instructors": "Scott Peterson,Danielle Kane,Laura Smart,Noah Geraci,Katherine Koziar",
     "end_date": "2018-03-01",
     "url": "https://ljsmart.github.io/2018-03-01-UCDLF/",
     "country": "US",
@@ -690,7 +750,7 @@
     "start_date": "2018-03-01"
   },
   {
-    "instructors": "Belinda Weaver,Paula Andrea Martinez",
+    "instructors": "Paula Andrea Martinez,Belinda Weaver",
     "end_date": "2017-11-03",
     "url": "https://weaverbel.github.io/2017-11-03-liswp/",
     "country": "AU",
@@ -699,13 +759,13 @@
     "longitude": 153.0092138,
     "slug": "2017-11-03-liswp",
     "tag_name": "LC",
-    "helpers": "Kylie Poulton,Richard Vankoningsveld,Julie Toohe",
+    "helpers": "Richard Vankoningsveld,Kylie Poulton,Julie Toohe",
     "host_name": "University of Queensland",
     "latitude": -27.4969902,
     "start_date": "2017-11-03"
   },
   {
-    "instructors": "Tim Dennis,Erika Mias,Kayleigh Lino,Isak van der Walt",
+    "instructors": "Tim Dennis,Erika Mias,Isak van der Walt,Kayleigh Lino",
     "end_date": "2017-10-01",
     "url": "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/",
     "country": "ZA",
@@ -714,13 +774,13 @@
     "longitude": 28.0260775,
     "slug": "2017-09-30-lc-south-africa",
     "tag_name": "LC",
-    "helpers": "Zine Sapula,Juan Steyn,Senzo Mpungose",
+    "helpers": "Juan Steyn,Senzo Mpungose,Zine Sapula",
     "host_name": "North-West University",
     "latitude": -26.1904893,
     "start_date": "2017-09-30"
   },
   {
-    "instructors": "Belinda Weaver,Juliane Schneider,Scott Peterson",
+    "instructors": "Juliane Schneider,Belinda Weaver,Scott Peterson",
     "end_date": "2017-09-08",
     "url": "https://ucla-data-archive.github.io/2017-09-08-ucla/",
     "country": "US",
@@ -729,7 +789,7 @@
     "longitude": -118.4459781,
     "slug": "2017-09-08-ucla",
     "tag_name": "LC",
-    "helpers": "Jamie Jamison,Shani Miller,Shari Laster",
+    "helpers": "Shari Laster,Shani Miller,Jamie Jamison",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0722469,
     "start_date": "2017-09-08"
@@ -744,7 +804,7 @@
     "longitude": 115.8162723,
     "slug": "2017-08-29-lcwa",
     "tag_name": "LC",
-    "helpers": "Janice Chan,Dan Piczak,Katina Toufexis",
+    "helpers": "Katina Toufexis,Janice Chan,Dan Piczak",
     "host_name": "University of Western Australia",
     "latitude": -31.983067,
     "start_date": "2017-08-29"
@@ -759,7 +819,7 @@
     "longitude": 115.8583056,
     "slug": "2017-08-28-nsla-slwa",
     "tag_name": "LC",
-    "helpers": "Janice Chan,Kate Perry,Katina Toufexis,Aimee Said",
+    "helpers": "Katina Toufexis,Janice Chan,Kate Perry,Aimee Said",
     "host_name": "State Library of Western Australia",
     "latitude": -31.9488801,
     "start_date": "2017-08-28"
@@ -774,7 +834,7 @@
     "longitude": 149.1276331,
     "slug": "2017-08-21-nsla-nla",
     "tag_name": "LC",
-    "helpers": "Narsimha Garlapati,Robert Fleet",
+    "helpers": "Robert Fleet,Narsimha Garlapati",
     "host_name": "National Library of Australia",
     "latitude": -35.2966195,
     "start_date": "2017-08-21"
@@ -789,7 +849,7 @@
     "longitude": 151.2106624,
     "slug": "2017-08-14-nsla-slnsw",
     "tag_name": "LC",
-    "helpers": "Weisi Chen,Daniel Bangert,Cristina Lee",
+    "helpers": "Weisi Chen,Cristina Lee,Daniel Bangert",
     "host_name": "State Library of NSW",
     "latitude": -33.86686,
     "start_date": "2017-08-14"
@@ -834,7 +894,7 @@
     "longitude": 138.6001495,
     "slug": "2017-07-31-nsla-slsa",
     "tag_name": "LC",
-    "helpers": "Liz Walkley-Hall,Aimee Said",
+    "helpers": "Aimee Said,Liz Walkley-Hall",
     "host_name": "State Library of South Australia",
     "latitude": -34.92034,
     "start_date": "2017-07-31"
@@ -879,7 +939,7 @@
     "longitude": -79.9541138,
     "slug": "2017-05-18-pitt",
     "tag_name": "LC",
-    "helpers": "Matthew Burton,Christopher Erdmann,Lisa Zilinski,Ole Villadsen,Jeannette Ekstrøm",
+    "helpers": "Lisa Zilinski,Matthew Burton,Christopher Erdmann,Ole Villadsen,Jeannette Ekstrøm",
     "host_name": "University of Pittsburgh",
     "latitude": 40.4425525,
     "start_date": "2017-05-18"
@@ -894,7 +954,7 @@
     "longitude": -71.09416,
     "slug": "2017-05-11-lc-boston",
     "tag_name": "LC",
-    "helpers": "Tom Hohenstein,Daina Bouquin,Joshua Dull",
+    "helpers": "Daina Bouquin,Tom Hohenstein,Joshua Dull",
     "host_name": "Massachusetts Institute of Technology",
     "latitude": 42.360091,
     "start_date": "2017-05-11"
@@ -909,13 +969,13 @@
     "longitude": -1.484577,
     "slug": "2017-03-07-sheffield-lc",
     "tag_name": "LC",
-    "helpers": "Claire Green,Kat Koler,Anna Krystalli,Angus Taggart",
+    "helpers": "Claire Green,Anna Krystalli,Kat Koler,Angus Taggart",
     "host_name": "University of Sheffield",
     "latitude": 53.381786,
     "start_date": "2017-03-07"
   },
   {
-    "instructors": "Tim Dennis,Harrison Dekker",
+    "instructors": "Harrison Dekker,Tim Dennis",
     "end_date": "2016-10-11",
     "url": "https://jt14den.github.io/2016-10-10-UCB/",
     "country": "US",
@@ -930,7 +990,22 @@
     "start_date": "2016-10-10"
   },
   {
-    "instructors": "Juliane Schneider,Matt Critchlow,Reid Otsuji",
+    "instructors": "Thomas Guignard,Kim Pham,Greg Wilson",
+    "end_date": "2016-07-29",
+    "url": "https://code4libtoronto.github.io/2016-07-28-librarycarpentry/",
+    "country": "CA",
+    "curriculum": null,
+    "venue": "Toronto - Library Carpentry",
+    "longitude": -79.3996661,
+    "slug": "2016-07-28-librarycarpentry",
+    "tag_name": "LC",
+    "helpers": "Leslie Barnes,Nancy Fong",
+    "host_name": "University of Toronto",
+    "latitude": 43.664439,
+    "start_date": "2016-07-28"
+  },
+  {
+    "instructors": "Juliane Schneider,Reid Otsuji,Matt Critchlow",
     "end_date": "2016-07-22",
     "url": "https://ucsdlib.github.io/2016-07-18-UCSD/",
     "country": "US",
@@ -943,6 +1018,21 @@
     "host_name": "University of California San Diego",
     "latitude": 32.8811507,
     "start_date": "2016-07-18"
+  },
+  {
+    "instructors": "Daniel Baird,Jay van Schyndel",
+    "end_date": "2016-07-14",
+    "url": "https://jcu-eresearch.github.io/2016-07-LibraryCarpentry/index.html",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "James Cook University, Townsville",
+    "longitude": 146.759845,
+    "slug": "2016-07-12-LibraryCarpentry",
+    "tag_name": "LC",
+    "helpers": "Collin Storlie,Clair Meade",
+    "host_name": "James Cook University",
+    "latitude": -19.329371,
+    "start_date": "2016-07-12"
   },
   {
     "instructors": "Belinda Weaver",
@@ -960,7 +1050,7 @@
     "start_date": "2016-06-13"
   },
   {
-    "instructors": "Leon du Toit,Kyrre Låberg,Dan Michael Heggø,Live Rasmussen,Elin Stangeland,Live Kvale,Ahmed Abdi Mohammed,Stian Lågstad,Ivar Stangeby",
+    "instructors": "Kyrre Låberg,Dan Michael Heggø,Leon du Toit,Live Rasmussen,Elin Stangeland,Live Kvale,Ahmed Abdi Mohammed,Stian Lågstad,Ivar Stangeby",
     "end_date": "2016-03-18",
     "url": "https://scriptotek.github.io/2016-03-17-BS/",
     "country": "NO",
