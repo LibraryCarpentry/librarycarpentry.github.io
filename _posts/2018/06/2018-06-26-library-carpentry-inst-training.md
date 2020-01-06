@@ -78,7 +78,7 @@ Discounts will be available thanks to the University of Calgary Libraries at the
 We hope to see you there! To apply for this Carpentries Instructor training course for librarians, 
 please submit your application by **15 July, 2018**: 
 
-[https://amy.software-carpentry.org/forms/request_training/](https://amy.software-carpentry.org/forms/request_training/)
+[https://amy.carpentries.org/forms/request_training/](https://amy.carpentries.org/forms/request_training/)
 
 Under “Group Name” on the application form, it is **extremely important** to include “2018-08-30-ttt-calgary”, 
 otherwise, your application will not be considered. 
