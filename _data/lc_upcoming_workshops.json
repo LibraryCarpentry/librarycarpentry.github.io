@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "David Yakobovitch,Chuck McAndrew",
-    "end_date": "2019-12-14",
-    "url": "https://dcmcand.github.io/2019-12-12-louisville",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Louisville",
-    "longitude": -85.760722,
-    "slug": "2019-12-12-louisville",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of Louisville",
-    "latitude": 38.216906,
-    "start_date": "2019-12-13"
-  },
-  {
-    "instructors": "Scott Peterson,Zac Painter",
-    "end_date": "2019-12-17",
-    "url": "https://scottcpeterson.github.io/2019-12-16-UCBerkeley/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "UC Berkeley",
-    "longitude": -122.257873,
-    "slug": "2019-12-16-UCBerkeley",
-    "tag_name": "LC",
-    "helpers": "Ariel Deardorff,Anna Sackmann,Celia Emmelhainz,Rick Jaffe,Eric Lopatin",
-    "host_name": "University of California Berkeley",
-    "latitude": 37.870055,
-    "start_date": "2019-12-16"
-  },
-  {
     "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
     "end_date": "2020-01-09",
     "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
@@ -54,10 +24,25 @@
     "longitude": -72.310029,
     "slug": "2020-02-03-lebanon",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Adam Shlager,Kevin French",
     "host_name": "Lebanon Public Libraries",
     "latitude": 43.647792,
     "start_date": "2020-02-03"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-03-16",
+    "url": "https://labs.timtom.ch/2020-03-16-purdue/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Purdue University",
+    "longitude": -86.913298,
+    "slug": "2020-03-16-purdue",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Purdue University",
+    "latitude": 40.427312,
+    "start_date": "2020-03-16"
   },
   {
     "instructors": null,
