@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
-    "end_date": "2020-01-09",
-    "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
-    "country": "CA",
-    "curriculum": "lc",
-    "venue": "University of Toronto",
-    "longitude": -79.19056,
-    "slug": "2020-01-08-utsc",
-    "tag_name": "LC",
-    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
-    "host_name": "University of Toronto (Scarborough)",
-    "latitude": 43.78725,
-    "start_date": "2020-01-08"
-  },
-  {
     "instructors": "Chuck McAndrew,Jacqueline Frisina",
     "end_date": "2020-02-04",
     "url": "https://leblibrary.github.io/2020-02-03-lebanon/",
