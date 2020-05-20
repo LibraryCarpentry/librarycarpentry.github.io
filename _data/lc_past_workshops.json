@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-05-20",
+    "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2020-05-19-unt-swc",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2020-05-19"
+  },
+  {
     "instructors": "David Durden,Sarah Over,Amy Trost,Candace Norton",
     "end_date": "2020-05-01",
     "url": "https://amytrost.github.io/2020-04-30-rockville/",
