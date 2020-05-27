@@ -51,6 +51,20 @@ format: frontpage
     </div><!-- /.row -->
 {% endif %}
 
+<div class="row t60">
+  <div class="medium-20">
+
+
+    <h2>Upcoming Workshops</h2>
+
+    {% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'LC'" %}
+    {% include workshop_table.md %}
+
+      <h4>Check out our <a href="/workshops-past/">past workshops.</a></h4>
+
+  </div>
+    </div><!-- /.row -->
+
 
 
 {% comment %}
