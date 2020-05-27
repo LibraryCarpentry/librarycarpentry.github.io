@@ -67,61 +67,21 @@ format: frontpage
 
 
 
-{% comment %}
-*
-* First check, if there are any posts at all
-*
-{% endcomment %}
 
-{% unless site.posts == empty %}
-    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.image.homepage %}
-            <p>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
-            </p>
-
-            {% if post.image.caption_url and post.image.caption %}
-            <p class="text-right caption">
-                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
-            </p>
-            {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
-            {% endif %}
-            {% endfor %}
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-    <div class="row">
-        <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-            <h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <p>
-                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-            </p>
-            {% endfor %}
-        </div><!-- /.medium-5.columns -->
-
-
-        <div class="medium-6 columns">
-          <p><strong>{{ site.data.language.more_articles }}</strong></p>
-          {% include list-posts entries='5' offset='1' %}
+<div class="row t60">
+  <div class="medium-20">
+    <h2>{{ site.data.language.new_blog_entries }}</h2>
           <p style="font-size: small; font-style: italic;">
-          In addition of the posts above,
+          In addition to the posts below,
           find out what's happening in our community through
           <a href="https://carpentries.org/blog">The Carpentries blog</a>,
           a great resource that collates posts from Data Carpentry,
           Library Carpentry, and Software Carpentry, and
           publishes updates of general interest to the community.
+
+          {% include list-posts entries='5' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
-{% endunless %}
-
 
 {% comment %}
 *
