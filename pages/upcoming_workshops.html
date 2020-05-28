@@ -4,7 +4,7 @@ permalink: /upcoming_workshops/
 title: "Upcoming Workshops"
 ---
 
-This page lists upcoming Library Carpentry workshops.  Most are first advertised to the organization running the workshop, but some are open to other participants. Don't see a workshop in your area, but wish there was one? Become a host and <a href="http://carpentries.org/workshops/">request a workshop!</a>
+This page lists upcoming Library Carpentry workshops. Don't see a workshop in your area, but wish there was one? Become a host and <a href="http://carpentries.org/workshops/">request a workshop!</a>
 
 <br /><br /> 
   
@@ -16,7 +16,7 @@ Check out our <a href="{% link pages/past_workshops.html %}">past workshops here
 
 <br /><br />
 
-{% assign workshop_list = site.data.lc_upcoming_workshops %}
+{% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'LC'" %}
 
 {% include workshop_table.md %}
 
