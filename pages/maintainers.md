@@ -3,6 +3,7 @@ layout: page-fullwidth
 title: "Our Maintainers"
 permalink: /maintainers/
 excerpt: Maintainers manage lesson amendments and upgrades for our global Carpentries Community.
+redirect_to: /lessons/
 ---
 
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive.
