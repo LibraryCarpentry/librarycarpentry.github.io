@@ -116,13 +116,13 @@ people:
     - icon: fa fa-envelope
       url: mailto:jcoliver@email.arizona.edu
       
-- name: John Chodacki (USA)
-  pic: chodacki
+- name: Catherine Nancarrow (USA)
+  pic: nancarrow
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/chodacki
-    - icon: fab fa-github
-      url: https://github.com/chodacki      
+      url: https://twitter.com/cnancarrow
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/catherine-nancarrow-a663604
 
 - name: Tim Dennis (USA)
   pic: dennis
@@ -158,13 +158,5 @@ people:
     - icon: fab fa-twitter
       url: https://twitter.com/philreeddata
     - icon: fab fa-github
-      url: https://github.com/philreeddata
-
-- name: Carmi Cronje (Australia)
-  pic: cronje
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/machinical
-    - icon: fab fa-github 
-      url: https://github.com/ccronje      
+      url: https://github.com/philreeddata    
       
