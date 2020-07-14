@@ -150,21 +150,6 @@
     "start_date": "2020-07-15"
   },
   {
-    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
-    "end_date": "2020-08-18",
-    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-07-20-ttt-online-AEST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-07-20"
-  },
-  {
     "instructors": "Matthias Liffers,Anton Angelo",
     "end_date": "2020-07-22",
     "url": "https://bellsm74.github.io/2020-07-21-monashmalaysia-online/",
@@ -478,6 +463,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
+    "end_date": "2020-09-22",
+    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-31-ttt-online-AEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-08-31"
   },
   {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
