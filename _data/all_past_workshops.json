@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-07-15",
+    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Agriculture Research Services (ARS) (online)",
+    "longitude": -77.01991,
+    "slug": "2020-07-14-usda-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.89206,
+    "start_date": "2020-07-14"
+  },
+  {
     "instructors": "Eric Jankowski,Elizabeth Williams",
     "end_date": "2020-07-14",
     "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
@@ -43,6 +58,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-07-08"
+  },
+  {
+    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-07-15",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "July 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-07-07-delft",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-07-07"
   },
   {
     "instructors": "Amanda Miotto",
@@ -327,6 +357,21 @@
     "helpers": "Lisa Ngo,Eric Lopatin",
     "host_name": "University of California San Francisco",
     "latitude": 0,
+    "start_date": "2020-06-18"
+  },
+  {
+    "instructors": "Toni Hoberecht,Clarke Iakovakis",
+    "end_date": "2020-06-19",
+    "url": "https://osu-carpentry.github.io/2020-06-18-okacrl/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Online",
+    "longitude": null,
+    "slug": "2020-06-18-okacrl",
+    "tag_name": "LC,online",
+    "helpers": "Mark Laufersweiler,Kay BJornen,Emrys Moreau,Alyssa Migdalsk",
+    "host_name": "Oklahoma State University",
+    "latitude": null,
     "start_date": "2020-06-18"
   },
   {
