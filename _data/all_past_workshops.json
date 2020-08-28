@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-28",
+    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-08-27-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-08-27"
+  },
+  {
     "instructors": "Sam Hames",
     "end_date": "2020-08-27",
     "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
@@ -28,6 +43,21 @@
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
+  },
+  {
+    "instructors": "Tim Dennis,Ariel Deardorff",
+    "end_date": "2020-08-28",
+    "url": "https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-25-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-25"
   },
   {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka,Phathutshedzo Maxwell Ramukhadi",
