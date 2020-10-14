@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/LibraryCarpentry/librarycarpentry.github.io.svg?branch=master)](https://travis-ci.org/LibraryCarpentry/librarycarpentry.github.io)
+![check, build, deploy site](https://github.com/LibraryCarpentry/librarycarpentry.github.io/workflows/check,%20build,%20deploy%20site/badge.svg)
 
 # The Library Carpentry Website
 
