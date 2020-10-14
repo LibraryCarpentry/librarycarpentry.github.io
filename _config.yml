@@ -77,6 +77,8 @@ jekyll_get_json:
     json: 'https://feeds.carpentries.org/lc_past_workshops.json'
   - data: lc_upcoming_workshops
     json: 'https://feeds.carpentries.org/lc_upcoming_workshops.json'
+  - data: all_badged_people
+    json: 'https://feeds.carpentries.org/all_badged_people.json'
 
 
 excerpt_separator: "<!--more-->"

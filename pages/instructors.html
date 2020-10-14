@@ -10,8 +10,8 @@ permalink: /instructors/
 
 <h1>Our Instructor Community</h1>
 
-
-{% for person in site.data.publish_instructors %}
+{% assign lc_instructors = site.data.all_badged_people | where: "is_lc_instructor","true" %}
+{% for person in lc_instructors %}
 
 {% assign loopindex = forloop.index | modulo: 4 %}
 
