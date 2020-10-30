@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Set up Ruby
-        uses: actions/setup-ruby@main
+        uses: actions/setup-ruby@v1.1.2
         with:
           ruby-version: '2.7.1'
 
