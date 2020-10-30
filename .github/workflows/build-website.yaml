@@ -22,7 +22,7 @@ jobs:
       - name: Set up Ruby
         uses: actions/setup-ruby@v1.1.2
         with:
-          ruby-version: '2.7.1'
+          ruby-version: '2.7'
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
