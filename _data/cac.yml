@@ -10,13 +10,6 @@ people:
     - icon: fab fa-github
       url: https://github.com/jt14den  
 
-- name: Carmi Cronje (Chair, Australia)
-  pic: carmicronje.jpeg
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/machinical
-    - icon: fab fa-github 
-      url: https://github.com/ccronje      
       
 - name: Mark Laufersweiler (USA)
   pic: marklaufersweiler.jpg
@@ -26,13 +19,6 @@ people:
     - icon: fab fa-github 
       url: https://github.com/laufers
   
-- name: Erika Mias (South Africa)
-  pic: erikamias.jpeg
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/erikamias
-    - icon: fab fa-github
-      url: https://github.com/erikamias
       
 - name: Phil Reed (United Kingdom)
   pic: philreed.jpg
@@ -41,3 +27,11 @@ people:
       url: https://twitter.com/philreeddata
     - icon: fab fa-github
       url: https://github.com/philreeddata
+
+- name: Liz Stokes (Australia) 
+  pic: 
+  social: 
+   - icon: fab fa-twitter
+     url: https://twitter.com/ragamouf
+   - icon: fab fa-github
+     url: https://github.com/ragamouf
