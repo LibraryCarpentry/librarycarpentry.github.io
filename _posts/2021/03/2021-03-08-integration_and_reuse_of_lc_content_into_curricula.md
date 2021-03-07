@@ -4,7 +4,7 @@ authors: ["Jeff Oliver", "Julie Goldman", "Konrad Förstner"]
 title: "Integration and reuse of Library Carpentry content into curricula"
 teaser: "The Library Carpentry lessons are fantastic resources for teaching students."
 date: 2021-03-08
-tags: ["Library Carpentry", "The Carpentries", "Macquarie University Library", "Data Science", "Data Skills", "eResearch", "Community of Practice", "Workshops", "Lessons"]
+tags: ["Library Carpentry", "The Carpentries", "The University of Arizona", "Simmons University", "TH Köln, "Curricula" "Data Science", "Data Skills", "Workshops", "Lessons"]
 category: ["blog"]
 ---
 
