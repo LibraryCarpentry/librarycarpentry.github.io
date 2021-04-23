@@ -14,7 +14,7 @@ Prior to and following each workshop, instructors have surveys available to them
 
 Our lesson materials are collaboratively developed by our volunteer community. All of our lessons are open source, and are hosted on [GitHub](https://github.com/librarycarpentry). 
 
-To request a workshop at your institution or to register your self-organised workshop, visit the [The Carpentries](https://amy.carpentries.org/forms/workshop/) workshop request page. Indicate in the form that you are interested in hosting a Library Carpentry workshop. If you're interested other ways Library Carpentry lessons can be used at your site, please contact [team@carpentries.org](mailto:team@carpentries.org). Please note, our workshop workflow is undergoing updates (see [Introducing updated Workshop Request Forms and More](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/)). 
+To request a workshop at your institution or to register your Self-Organised workshop, visit the [The Carpentries](https://amy.carpentries.org/forms/workshop/) workshop request page. Indicate in the form that you are interested in hosting a Library Carpentry workshop. If you're interested other ways Library Carpentry lessons can be used at your site, please contact [team@carpentries.org](mailto:team@carpentries.org). Please note, our workshop workflow is undergoing updates (see [Introducing updated Workshop Request Forms and More](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/)). 
 
 The Carpentries team of [Regional Coordinators](https://carpentries.org/regionalcoordinators/) supports workshop activity in various global regions. These teams can connect you with regional communities.
 
