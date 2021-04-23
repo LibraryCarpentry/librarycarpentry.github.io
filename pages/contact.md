@@ -16,7 +16,7 @@ There are several ways to get in touch.
 
 * Secondary Chatroom on Gitter:  Library Carpentry [Lobby](https://gitter.im/LibraryCarpentry/Lobby) or [Top 10 FAIR](https://gitter.im/LibraryCarpentry/Top10FAIR)). We use Gitter during global and lesson sprints.
 
-* [Request a Library Carpentry Workshop](https://amy.carpentries.org/forms/workshop/) or register your self-organised workshop. Note your interest in Library Carpentry.
+* [Request a Library Carpentry Workshop](https://amy.carpentries.org/forms/workshop/) or register your Self-Organised workshop. Note your interest in Library Carpentry.
 
 * Submit Issues/Pull Requests to Our Lessons and Website: [Library Carpentry GitHub Organisation](https://github.com/LibraryCarpentry). We also use the Library Carpentry GitHub Organisation for Curriculum Advisory Committee and Advisory Group discussions and decisions via the [governance repository](https://github.com/LibraryCarpentry/governance).
 
