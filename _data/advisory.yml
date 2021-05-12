@@ -13,7 +13,7 @@ people:
       url: https://www.linkedin.com/in/birgitschmidt/
     - icon: fa fa-envelope
       url: mailto:bschmidt@sub.uni-goettingen.de
-      
+
 - name: Yared Abera Ergu (Ethiopia)
   pic: ergu
   social:
@@ -37,7 +37,7 @@ people:
       url: https://www.linkedin.com/in/liz-stokes-b724b82b
     - icon: fa fa-envelope
       url: mailto:liz.stokes@ardc.edu.au
-      
+
 - name: Tim Ribaric (Canada)
   pic: ribaric
   social:
@@ -46,10 +46,10 @@ people:
     - icon: fab fa-github
       url: https://github.com/elibtronic
     - icon: fa fa-link
-      url: http://elibtronic.ca 
+      url: http://elibtronic.ca
     - icon: fa fa-envelope
       url: mailto:tribaric@brocku.ca
-      
+
 - name: Catherine Nancarrow (USA)
   pic: nancarrow
   social:
@@ -57,7 +57,7 @@ people:
       url: https://twitter.com/cnancarrow
     - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/catherine-nancarrow-a663604
-            
+
 - name: Chris Erdmann (USA)
   pic: erdmann
   social:
@@ -75,7 +75,7 @@ people:
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/laufers
-    - icon: fab fa-github 
+    - icon: fab fa-github
       url: https://github.com/laufers
 
 - name: Phil Reed (United Kingdom)
@@ -84,7 +84,7 @@ people:
     - icon: fab fa-twitter
       url: https://twitter.com/philreeddata
     - icon: fab fa-github
-      url: https://github.com/philreeddata   
+      url: https://github.com/philreeddata
 
 - name: Annajiat Alim Rasel, Co-chair (Bangladesh)
   pic: annajiat
@@ -97,8 +97,8 @@ people:
       url: http://annajiat.googlepages.com/
     - icon: fa fa-envelope
       url: mailto:annajiat@gmail.com
-         
- - name: Cody Hennesy (USA)
+
+- name: Cody Hennesy (USA)
   pic: cody_books_small_web
   social:
     - icon: fab fa-twitter
@@ -109,8 +109,8 @@ people:
       url: https://orcid.org/0000-0002-9410-9810
     - icon: fa fa-envelope
       url: mailto:chennesy@umn.edu
-      
- - name: Ekatarina (Eka) Grguric (USA)
+
+- name: Ekatarina (Eka) Grguric (USA)
   pic: EGrguric_headshot-300x200
   social:
     - icon: fab fa-twitter
@@ -118,9 +118,9 @@ people:
     - icon: fab fa-github
       url: https://github.com/egrguric
     - icon: fa fa-envelope
-      url: mailto:eka.grguric@ubc.ca   
-      
- - name: Elizabeth (Lisa) McAulay (USA)
+      url: mailto:eka.grguric@ubc.ca
+
+- name: Elizabeth (Lisa) McAulay (USA)
   pic: mcaulay
   social:
     - icon: fab fa-github
@@ -129,8 +129,8 @@ people:
       url: https://www.linkedin.com/in/elizabeth-mcaulay-6158205/
     - icon: fa fa-envelope
       url: mailto:emcaulay@library.ucla.edu
-      
- - name: Mary Filsell (Australia)
+
+- name: Mary Filsell (Australia)
   pic: filsell
   social:
     - icon: fab fa-twitter
@@ -141,8 +141,8 @@ people:
       url: linkedin.com/in/maryfilsell
     - icon: fa fa-envelope
       url: mailto:mary.filsell@gmail.com
-      
-  - name: Sara King (Australia)
+
+- name: Sara King (Australia)
   pic: sara
   social:
     - icon: fab fa-twitter
@@ -153,8 +153,8 @@ people:
       url: https://www.linkedin.com/in/sara-king-85695472/
     - icon: fa fa-envelope
       url: mailto:sara.king@aarnet.edu.au
-      
-  - name: Sarah Schäfer (South Africa)
+
+- name: Sarah Schäfer (South Africa)
   pic: schafer
   social:
     - icon: fab fa-twitter
@@ -165,4 +165,3 @@ people:
       url: https://www.linkedin.com/in/sarah-schafer-digital-curator/
     - icon: fa fa-envelope
       url: mailto:sschafer@uwc.ac.za
-      
