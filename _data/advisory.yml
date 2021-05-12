@@ -37,30 +37,6 @@ people:
       url: https://www.linkedin.com/in/liz-stokes-b724b82b
     - icon: fa fa-envelope
       url: mailto:liz.stokes@ardc.edu.au
-
-- name: David Kane (Ireland)
-  pic: kane
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/davidfkane
-    - icon: fab fa-github
-      url: https://github.com/davidfkane
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/davidfkane/
-    - icon: fa fa-envelope
-      url: mailto:dkane@wit.ie
-      
-- name: Julie Goldman (USA)
-  pic: goldman
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/jgolds2
-    - icon: fab fa-github
-      url: https://github.com/goldmj
-    - icon: fa fa-link
-      url: https://scholar.harvard.edu/julie_goldman
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/goldmanjulie
       
 - name: Tim Ribaric (Canada)
   pic: ribaric
@@ -73,48 +49,6 @@ people:
       url: http://elibtronic.ca 
     - icon: fa fa-envelope
       url: mailto:tribaric@brocku.ca
-
-- name: Konrad Foerstner (Germany)
-  pic: foerstner
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/konradfoerstner
-    - icon: fab fa-github
-      url: https://github.com/konrad
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/foerstner/
-    - icon: fa fa-link
-      url: https://konrad.foerstner.org/
-    - icon: fa fa-envelope
-      url: mailto:foerster@zbmed.de
-      
-- name: Ariel Deardorff, Co-chair (USA)
-  pic: deardorff
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/arieldeardorff
-    - icon: fab fa-github
-      url: https://github.com/arieldeardorff  
-    - icon: fa fa-link
-      url: https://orcid.org/0000-0001-8930-6089
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/ariel-deardorff-95207099/ 
-    - icon: fa fa-envelope
-      url: mailto:ariel.deardorff@ucsf.edu
-
-- name: Jeff Oliver (USA)
-  pic: oliver
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/jcoliverAZ
-    - icon: fab fa-github
-      url: https://github.com/jcoliver
-    - icon: fa fa-link
-      url: https://profiles.arizona.edu/person/jcoliver
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/jeffrey-oliver-79643510a
-    - icon: fa fa-envelope
-      url: mailto:jcoliver@email.arizona.edu
       
 - name: Catherine Nancarrow (USA)
   pic: nancarrow
@@ -123,14 +57,6 @@ people:
       url: https://twitter.com/cnancarrow
     - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/catherine-nancarrow-a663604
-
-- name: Tim Dennis (USA)
-  pic: dennis
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/jt14den
-    - icon: fab fa-github
-      url: https://github.com/jt14den
             
 - name: Chris Erdmann (USA)
   pic: erdmann
@@ -158,5 +84,85 @@ people:
     - icon: fab fa-twitter
       url: https://twitter.com/philreeddata
     - icon: fab fa-github
-      url: https://github.com/philreeddata    
+      url: https://github.com/philreeddata   
+
+- name: Annajiat Alim Rasel, Co-chair (Bangladesh)
+  pic: annajiat
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/annajiat
+    - icon: fab fa-github
+      url: https://github.com/annajiat
+    - icon: fab fa-link
+      url: http://annajiat.googlepages.com/
+    - icon: fa fa-envelope
+      url: mailto:annajiat@gmail.com
+         
+ - name: Cody Hennesy (USA)
+  pic: cody_books_small_web
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/codyhennesy
+    - icon: fab fa-github
+      url: https://github.com/chennesy
+    - icon: fab fa-link
+      url: https://orcid.org/0000-0002-9410-9810
+    - icon: fa fa-envelope
+      url: mailto:chennesy@umn.edu
+      
+ - name: Ekatarina (Eka) Grguric (USA)
+  pic: EGrguric_headshot-300x200
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/egrguric
+    - icon: fab fa-github
+      url: https://github.com/egrguric
+    - icon: fa fa-envelope
+      url: mailto:eka.grguric@ubc.ca   
+      
+ - name: Elizabeth (Lisa) McAulay (USA)
+  pic: mcaulay
+  social:
+    - icon: fab fa-github
+      url: https://github.com/emcaulay
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/elizabeth-mcaulay-6158205/
+    - icon: fa fa-envelope
+      url: mailto:emcaulay@library.ucla.edu
+      
+ - name: Mary Filsell (Australia)
+  pic: filsell
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/MaryFilsell
+    - icon: fab fa-github
+      url: https://github.com/Fillstar
+    - icon: fab fa-linkedin
+      url: linkedin.com/in/maryfilsell
+    - icon: fa fa-envelope
+      url: mailto:mary.filsell@gmail.com
+      
+  - name: Sara King (Australia)
+  pic: sara
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/sarasrking
+    - icon: fab fa-github
+      url: https://github.com/sarasrking
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/sara-king-85695472/
+    - icon: fa fa-envelope
+      url: mailto:sara.king@aarnet.edu.au
+      
+  - name: Sarah Schäfer (South Africa)
+  pic: schafer
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/SarahKateism
+    - icon: fab fa-github
+      url: https://github.com/SarahKateSchafer
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/sarah-schafer-digital-curator/
+    - icon: fa fa-envelope
+      url: mailto:sschafer@uwc.ac.za
       
