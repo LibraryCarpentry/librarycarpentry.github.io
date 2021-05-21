@@ -4,6 +4,8 @@ people:
 
 - name: Birgit Schmidt (Germany)
   pic: schmidt
+  github: gitti1
+  country: DE
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/bschmid1
@@ -16,6 +18,8 @@ people:
 
 - name: Yared Abera Ergu (Ethiopia)
   pic: ergu
+  github: Jaredabera
+  country: ET
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/kechure
@@ -28,6 +32,8 @@ people:
 
 - name: Liz Stokes, Co-chair (Australia)
   pic: stokes
+  github: ragamouf
+  country: AU
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/ragamouf
@@ -40,6 +46,8 @@ people:
 
 - name: Tim Ribaric (Canada)
   pic: ribaric
+  github: elibtronic
+  country: CA
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/elibtronic
@@ -52,6 +60,7 @@ people:
 
 - name: Catherine Nancarrow (USA)
   pic: nancarrow
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/cnancarrow
@@ -60,6 +69,8 @@ people:
 
 - name: Chris Erdmann (USA)
   pic: erdmann
+  github: libcce
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/libcce
@@ -72,6 +83,8 @@ people:
       
 - name: Mark Laufersweiler (USA)
   pic: laufersweiler
+  github: laufers
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/laufers
@@ -80,6 +93,8 @@ people:
 
 - name: Phil Reed (United Kingdom)
   pic: reed
+  github: philreeddata
+  country: GB
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/philreeddata
@@ -87,7 +102,8 @@ people:
       url: https://github.com/philreeddata
 
 - name: Annajiat Alim Rasel, Co-chair (Bangladesh)
-  pic: annajiat
+  github: annajiat
+  country: BD
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/annajiat
@@ -99,7 +115,8 @@ people:
       url: mailto:annajiat@gmail.com
 
 - name: Cody Hennesy (USA)
-  pic: cody_books_small_web
+  github: chennesy
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/codyhennesy
@@ -111,7 +128,8 @@ people:
       url: mailto:chennesy@umn.edu
 
 - name: Ekatarina (Eka) Grguric (USA)
-  pic: EGrguric_headshot-300x200
+  github: egrguric
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/egrguric
@@ -121,7 +139,8 @@ people:
       url: mailto:eka.grguric@ubc.ca
 
 - name: Elizabeth (Lisa) McAulay (USA)
-  pic: mcaulay
+  github: emcaulay
+  country: US
   social:
     - icon: fab fa-github
       url: https://github.com/emcaulay
@@ -131,7 +150,8 @@ people:
       url: mailto:emcaulay@library.ucla.edu
 
 - name: Mary Filsell (Australia)
-  pic: filsell
+  github: Fillstar
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/MaryFilsell
@@ -143,7 +163,8 @@ people:
       url: mailto:mary.filsell@gmail.com
 
 - name: Sara King (Australia)
-  pic: sara
+  github: sarasrking
+  country: US
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/sarasrking
@@ -155,7 +176,8 @@ people:
       url: mailto:sara.king@aarnet.edu.au
 
 - name: Sarah Schäfer (South Africa)
-  pic: schafer
+  github: SarahKateSchafer
+  country: ZA
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/SarahKateism
