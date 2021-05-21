@@ -1,33 +1,55 @@
-<!-- Advisory Section -->
+{% include lazyload.html %}
+ <!-- Advisory Section -->
     <section id="advisory" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                 </div>
             </div>
-                {% for member in site.data.advisory.people %}
+                {% for person in site.data.advisory.people %}
 
-                {% assign loopindex = forloop.index | modulo: 3 %}
+                {% assign loopindex = forloop.index | modulo: 4 %}
                 {% if loopindex == 1 %}
                 <div class="row">
                 {% endif %}
-                <div class="medium-4 columns">
+                <div class="medium-3 columns">
                     <div class="team-member">
-                        <img src="{{ site.filesurl }}/advisory/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="{{ network.icon }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
 
-                        </ul>
+                    {% if person.pic %}
+                    <img src="{{ site.filesurl }}/advisory/{{ person.pic }}.jpg" width=150 height=150 class="img-responsive img-circle lazyload" alt="">
+                    
+                    {% elsif person.github %}
+                      <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=150 height=150 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.name}}">
+                    
+                    {% else %}
+                    <img data-src="https://www.gravatar.com/avatar/{{ person.gravatar }}?d=mp" width=150 height=150 class="img-responsive img-circle lazyload" alt="Gravatar profile photo of {{person.name}}">
+
+                    {% endif %}
+
+
+
+                      <h3>{{ person.name }}</h3>
+
+
+                      <ul class="list-inline social-buttons">
+
+                        {% for network in person.social %}
+                        <li>
+                            <a href="{{ network.url }}">
+                                <i class="{{ network.icon }}"></i>
+                            </a>
+                        </li>
+                        {% endfor %}
+                      </ul>
+                      <!-- <ul class="list-inline social-buttons">
+                          {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
+                          {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
+                          {% if person.orcid_ %}<li> <a href="https://orcid.org/{{ person.orcid_ }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
+                          {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
+                      </ul> -->
+                      <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
                     </div>
-                </div>
+                    </div>
                 {% if loopindex == 0 %}
                   </div>
                 {% endif %}
