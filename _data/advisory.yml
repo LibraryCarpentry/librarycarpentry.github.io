@@ -2,7 +2,8 @@
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
 
-- name: Birgit Schmidt (Germany)
+- name_personal: Birgit
+  name_family: Schmidt
   pic: schmidt
   github: gitti1
   country: DE
@@ -16,7 +17,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:bschmidt@sub.uni-goettingen.de
 
-- name: Yared Abera Ergu (Ethiopia)
+- name_personal: Yared Abera
+  name_family: Ergu
   pic: ergu
   github: Jaredabera
   country: ET
@@ -30,7 +32,9 @@ people:
     - icon: fa fa-envelope
       url: mailto:yared3778@gmail.com
 
-- name: Liz Stokes, Co-chair (Australia)
+- name_personal: Liz
+  name_family: Stokes
+  role: Co-chair
   pic: stokes
   github: ragamouf
   country: AU
@@ -44,7 +48,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:liz.stokes@ardc.edu.au
 
-- name: Tim Ribaric (Canada)
+- name_personal: Tim
+  name_family: Ribaric
   pic: ribaric
   github: elibtronic
   country: CA
@@ -58,7 +63,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:tribaric@brocku.ca
 
-- name: Catherine Nancarrow (USA)
+- name_personal: Catherine
+  name_family: Nancarrow
   pic: nancarrow
   country: US
   social:
@@ -67,7 +73,8 @@ people:
     - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/catherine-nancarrow-a663604
 
-- name: Chris Erdmann (USA)
+- name_personal: Chris
+  name_family: Erdmann
   pic: erdmann
   github: libcce
   country: US
@@ -81,7 +88,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:Christopher.Erdmann@ucop.edu
       
-- name: Mark Laufersweiler (USA)
+- name_personal: Mark
+  name_family: Laufersweiler
   pic: laufersweiler
   github: laufers
   country: US
@@ -91,7 +99,8 @@ people:
     - icon: fab fa-github
       url: https://github.com/laufers
 
-- name: Phil Reed (United Kingdom)
+- name_personal: Phil
+  name_family: Reed
   pic: reed
   github: philreeddata
   country: GB
@@ -101,7 +110,9 @@ people:
     - icon: fab fa-github
       url: https://github.com/philreeddata
 
-- name: Annajiat Alim Rasel, Co-chair (Bangladesh)
+- name_personal: Annajiat Alim
+  name_family: Rasel
+  role: Co-chair
   github: annajiat
   country: BD
   social:
@@ -114,7 +125,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:annajiat@gmail.com
 
-- name: Cody Hennesy (USA)
+- name_personal: Cody
+  name_family: Hennesy
   github: chennesy
   country: US
   social:
@@ -127,7 +139,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:chennesy@umn.edu
 
-- name: Ekatarina (Eka) Grguric (USA)
+- name_personal: Ekatarina (Eka)
+  name_family: Grguric
   github: egrguric
   country: US
   social:
@@ -138,7 +151,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:eka.grguric@ubc.ca
 
-- name: Elizabeth (Lisa) McAulay (USA)
+- name_personal: Elizabeth (Lisa)
+  name_family: McAulay
   github: emcaulay
   country: US
   social:
@@ -149,7 +163,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:emcaulay@library.ucla.edu
 
-- name: Mary Filsell (Australia)
+- name_personal: Mary
+  name_family: Filsell
   github: Fillstar
   country: US
   social:
@@ -162,7 +177,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:mary.filsell@gmail.com
 
-- name: Sara King (Australia)
+- name_personal: Sara
+  name_family: King
   github: sarasrking
   country: US
   social:
@@ -175,7 +191,8 @@ people:
     - icon: fa fa-envelope
       url: mailto:sara.king@aarnet.edu.au
 
-- name: Sarah Schäfer (South Africa)
+- name_personal: Sarah
+  name_family: Schäfer
   github: SarahKateSchafer
   country: ZA
   social:
