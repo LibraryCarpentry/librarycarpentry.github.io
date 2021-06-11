@@ -167,7 +167,7 @@ people:
 - name_personal: Mary
   name_family: Filsell
   github: Fillstar
-  country: US
+  country: AU
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/MaryFilsell
@@ -180,8 +180,9 @@ people:
 
 - name_personal: Sara
   name_family: King
+  pic: king
   github: sarasrking
-  country: US
+  country: AU
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/sarasrking
