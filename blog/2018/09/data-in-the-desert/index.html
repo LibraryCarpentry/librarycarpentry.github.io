@@ -1,0 +1,841 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Data in the desert</title>
+
+    <link rel="stylesheet" type="text/css" href="https://librarycarpentry.org/assets/css/styles_feeling_responsive.css">
+
+  
+
+	<script src="https://librarycarpentry.org/assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="Library Carpentry workshop at the University of Arizona">
+	
+	
+	
+	
+	
+	
+	<link rel="canonical" href="https://librarycarpentry.org/blog/2018/09/data-in-the-desert/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Data in the desert">
+	<meta property="og:description" content="Library Carpentry workshop at the University of Arizona">
+	<meta property="og:url" content="https://librarycarpentry.org/blog/2018/09/data-in-the-desert/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Library Carpentry">
+
+	
+	<meta property="og:image" content="https://librarycarpentry.org/images/TheCarpentries-opengraph.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	
+
+	
+
+
+	
+
+	<link type="text/plain" rel="author" href="https://librarycarpentry.org/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://librarycarpentry.org/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://librarycarpentry.org/assets/img/android-chrome-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://librarycarpentry.org/assets/img/apple-touch-icon.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://librarycarpentry.org/assets/img/apple-touch-icon-152x152.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://librarycarpentry.org/assets/img/apple-touch-icon-144x144.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://librarycarpentry.org/assets/img/apple-touch-icon-120x120.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://librarycarpentry.org/assets/img/apple-touch-icon-114x114.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://librarycarpentry.org/assets/img/apple-touch-icon-76x76.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://librarycarpentry.org/assets/img/apple-touch-icon-72x72.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://librarycarpentry.org/assets/img/apple-touch-icon.png">	
+
+	<meta name="msapplication-TileImage" content="https://librarycarpentry.org/assets/img/mstile-150x150.png">
+
+	<meta name="msapplication-TileColor" content="#ffffff">
+
+	<link rel="manifest" href="/assets/img/site.webmanifest">
+	<link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+  	<meta name="theme-color" content="#ffffff">
+
+
+	
+
+	<!-- Adding Font Awesome -->
+	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+
+<!-- CSS overrides -->
+	<link rel="stylesheet" type="text/css" href="https://librarycarpentry.org/assets/css/extras.css">
+
+</head>
+<body id="top-of-page" class="post">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="https://librarycarpentry.org"> Library Carpentry</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://librarycarpentry.org/search/">Search</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://librarycarpentry.org/about/">About</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/about/">About Us</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/timeline/">Timeline</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/audience/">Our Audience</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Code of Conduct</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/advisory/">Our Advisory Group</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html" target="_blank">Introduction to Library Carpentry</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/supporters/">Supporters</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/our-stories/">Our Stories</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/lessons/">Our Lessons</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://librarycarpentry.org/workshops/">Our Workshops</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/upcoming_workshops/">Upcoming Workshops</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/past_workshops/">Past Workshops</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/get_involved/">Get Involved</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/advisory/">People</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://librarycarpentry.org/contact/">Connect</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/contact/">Contact</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/blog/">Blog</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/events/">Our Events</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://gitter.im/LibraryCarpentry/Lobby" target="_blank">Chatroom</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://carpentries.topicbox.com/groups/discuss-library-carpentry" target="_blank">Listserv</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://twitter.com/LibCarpentry" target="_blank">Twitter</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://github.com/LibraryCarpentry" target="_blank">GitHub</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-no-image-header">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="https://librarycarpentry.org/" title="Library Carpentry">
+				<img src="https://librarycarpentry.org/assets/img/lc_logo_1.png" alt="Library Carpentry">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-10 columns">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<div itemprop="name">
+					
+					<h1>Data in the desert</h1>
+				</div>
+			</header>
+
+
+			
+			<p class="teaser" itemprop="description">
+				Library Carpentry workshop at the University of Arizona
+			</p>
+			
+
+			<div itemprop="articleSection">
+			<p>By <a href="https://twitter.com/jcoliverAZ">Jeff Oliver</a></p>
+
+<p>Back by popular demand, the University of Arizona Libraries held its second Library Carpentry workshop on 
+<a href="https://jcoliver.github.io/2018-08-06-lc-tucson">6-7 August, 2018</a>. Braving the intense desert heat, 
+learners from the <a href="http://new.library.arizona.edu/">University of Arizona Libraries</a> and 
+<a href="https://lib.asu.edu/">Arizona State University Library</a> showed up to learn about research 
+computational tools and best practices in dealing with data.</p>
+
+<p>The workshop included 21 learners, five instructors, and two helpers, representing a total of nine departments 
+from the two universities.</p>
+
+<p><img src="/images/majestic-ual.png" alt="The majestic Main Library at the University of Arizona. Photo by Aengus Anderson" /></p>
+
+<p>To guide the lesson material, the project team first surveyed potential participants to determine which 
+lessons to teach. Given our instructor pool, we asked respondents to rate their interest in the following 
+topics (% respondents indicating “very interested” | “somewhat interested”):</p>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Unix command line (53</td>
+          <td>47)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Version control with Git (47</td>
+          <td>41)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>OpenRefine (53</td>
+          <td>47)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Creating and using tidy data (82</td>
+          <td>18)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Relational databases (SQL) (59</td>
+          <td>41)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p>Interestingly, only one option (version control with Git) garnered “not interested” responses, 
+and even then, it was only from two survey participants. Based on these responses, as well as 
+experience from the <a href="https://jcoliver.github.io/2017-08-09-lc-tucson/">2017 Library Carpentry workshop</a>, we chose to teach:</p>
+
+<ul>
+  <li><a href="https://librarycarpentry.github.io/lc-data-intro/">Data intro for librarians</a></li>
+  <li><a href="https://librarycarpentry.github.io/lc-shell/">UNIX shell</a></li>
+  <li><a href="https://librarycarpentry.github.io/lc-spreadsheets/">Tidy data for librarians</a></li>
+  <li><a href="https://librarycarpentry.github.io/lc-sql/">SQL for librarians</a></li>
+</ul>
+
+<p>A portion of the instructor team was recruited from those participants from the 2017 workshop, 
+based on interest in teaching the planned material. All instructors were familiar with the material and made 
+use of the Instructors’ Guide for their lesson.</p>
+
+<h2 id="learning-outcomes">Learning outcomes</h2>
+
+<p>Considering feedback from participants in the post-workshop survey, all respondents felt comfortable in the learning 
+environment, a testament to the instructors’ ability to create a positive learning environment.</p>
+
+<p>One participant 
+remarked, <em>“[The instructors] were very receptive to input and listened to all questions. Since they were not 
+judgmental everyone was encouraged to participate and not made to feel inadequate.”</em> Participants also appreciated the hands-on 
+nature of the workshop and the problem-solving approach adopted by the instructors: <em>“When I was struggling with the 
+construction of an SQL search, I asked Fernando what I was doing wrong - rather than telling me the answer, 
+he led me to figuring it out myself.”</em></p>
+
+<p><img src="/images/lc-shell.png" alt="Ben Hickson brings the UNIX command line to the libraries" /></p>
+
+<p>There was some uncertainty about the immediate applicability of some of the workshop topics. 
+For example, fewer than half of the participants felt confident in their ability to make use 
+of programming software to work with data and one third of respondents did not think using 
+programming software could make their work easier. Some of this uncertainly likely 
+relates to the nature of individual participants’ work, but these feedback highlights potential areas 
+for focus in future Library Carpentry workshops (see <a href="#the-next-workshop">Next Workshop</a>, below).</p>
+
+<p>Some notable responses on the minute cards (sticky notes):</p>
+
+<h3 id="the-green">The Green</h3>
+
+<ul>
+  <li>Loved the hands-on practice on regular expressions</li>
+  <li>Excited to actually mine files using <code class="language-plaintext highlighter-rouge">grep</code></li>
+  <li>So happy to learn about conditional formatting!</li>
+</ul>
+
+<h3 id="the-red">The Red</h3>
+
+<ul>
+  <li>[RegEx] will be overwhelming until we get more practice</li>
+  <li>Still musing on how I will implement [<code class="language-plaintext highlighter-rouge">bash</code>] in my work, contextually, but I’m excited about the new tool!</li>
+  <li>It might help to have a guide for basic terms (like <code class="language-plaintext highlighter-rouge">ORDER BY</code>, etc.) like we had for Regular Expressions yesterday</li>
+</ul>
+
+<p>In addition to fulfilling the usual fire extinguishing responsibilities, our two helpers provided additional 
+expertise on material that wasn’t part of the official curriculum. In the case of our workshop, these 
+additional experts provided a real-world context to questions asked by participants. Furthermore, learners 
+benefited from the expertise of helpers when participants’ questions went beyond the instructors’ knowledge. 
+For example, in the SQL workshop, a learner asked what the difference was between the <code class="language-plaintext highlighter-rouge">SUM()</code> and <code class="language-plaintext highlighter-rouge">TOTAL()</code> 
+functions were. None of the instructors knew the answer off the top of their heads, but one of the helpers was able 
+to address the question while the instructor resumed the workshop.</p>
+
+<h2 id="the-next-workshop">The Next Workshop</h2>
+
+<p>Some of the participants were unsure of how to apply some of the material to their daily work. 
+While not all library staff may be expected to use the bash shell or regular expressions in their work, 
+these lessons offer an opportunity to discuss problem solving and concepts like abstraction and atomization 
+that apply to work outside the UNIX command line. Our future Library Carpentry workshops may afford more time 
+for these ideas, combined with hands-on examples of working through increasingly complex tasks.</p>
+
+<p>The material in the <a href="https://librarycarpentry.github.io/lc-spreadsheets/">Tidy Data lesson</a> was <em>extremely</em> accessible 
+to the majority of the audience. Given the interest, we may consider moving it to the afternoon of the first day, 
+creating a very strong Data Intro/Tidy Data combination. There was some consternation that 
+the <a href="https://librarycarpentry.github.io/lc-open-refine/">OpenRefine lesson</a> was not taught, 
+so the next workshop will likely include that lesson. A number of the participants also raised 
+the possibility of having regular “one-offs”, where each month a single lesson from the Library Carpentry 
+suite is taught one afternoon. While these wouldn’t be “official” workshops, they would provide access to 
+learning opportunities that many library staff are demanding.</p>
+
+<p>An encouraging sign: one of the most common questions we received from participants and 
+non-participants alike: <em>“When’s the next Library Carpentry workshop?”</em></p>
+
+<hr />
+
+<blockquote>
+  <p>The workshop involved the following people: Jeff Oliver, Benjamin Hickson, Jennifer Nichols, Fernando Rios, Niamh Wallace. We wanted to share our experiences, successes, and evaluation of a recent Library Carpentry Workshop.</p>
+</blockquote>
+
+
+			
+			<div id="page-meta">This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.</div>
+			</div>
+
+			
+						<div id="page-meta" class="t30">
+			  <p>
+			    <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="/posts-by-authors/#blog-author-jeff-oliver">Jeff Oliver</a></span></span>
+
+				
+				<time class="icon-calendar pr20" datetime="2018-09-12T00:00:00+00:00" itemprop="datePublished"> 2018-09-12</time>
+				
+
+				<br />
+                                <span class="pr20"><span class="icon-price-tag pr10"> <a href="/posts-by-tags/#blog-tag-university-of-arizona">University of Arizona</a></span> <span class="icon-price-tag pr10"> <a href="/posts-by-tags/#blog-tag-library-carpentry">Library Carpentry</a></span> <span class="icon-price-tag pr10"> <a href="/posts-by-tags/#blog-tag-the-carpentries">The Carpentries</a></span> <span class="icon-price-tag pr10"> <a href="/posts-by-tags/#blog-tag-workshop">Workshop</a></span> </span>
+			</p>
+
+			
+			<div id="post-nav" class="row">
+				
+				<div class="medium-5 columns"><a class="button small radius prev" href="https://librarycarpentry.org/blog/2018/09/report-from-calgary-workshops/">&laquo; Report back from University of Calgary Libraries</a></div><!-- /.small-4.columns -->
+				
+				<div class="medium-2 columns text-center"><a class="radius button small" href="https://librarycarpentry.org/blog/archive/" title="Blog Archive">Archive</a></div><!-- /.small-4.columns -->
+				
+				<div class="medium-5 columns text-right"><a class="button small radius next" href="https://librarycarpentry.org/blog/2018/10/top-ten-fair-announcement/">Announcing the Top 10 FAIR Data Things Global Sprint &raquo;</a></div><!-- /.small-4.columns -->
+				
+			</div>
+			
+			</div><!--  /.page-meta -->
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h2 class="shadow-black">About Library Carpentry</h2>
+
+            <p class="shadow-black">
+              Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.
+              <a href="https://librarycarpentry.org/about/">More</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h2 class="shadow-black">Services</h2>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+		
+		
+		
+		
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/contact/"  title="There are several ways to get in touch with us">Contact</a>
+                  </li>
+              
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h2 class="shadow-black">Links</h2>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+              
+	      
+		
+		
+	      
+		
+
+              
+                <li >
+                  <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank"  title="The Carpentries Code of Conduct">Our Code of Conduct</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://docs.carpentries.org/topic_folders/policies/privacy.html" target="_blank"  title="The Carpentries Privacy Policy">Our Privacy Policy</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://github.com/LibraryCarpentry/lc-styleguide" target="_blank"  title="Library Carpentry branding information">Our Style Guide</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/LICENSE-WEBSITE" target="_blank"  title="Creative Commons International 4.0 License">CC BY 4.0 License</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://carpentries.org/" target="_blank"  title="The Carpentries website">The Carpentries</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="https://github.com/librarycarpentry" aria-label="Library Carpentry GitHub"><i class="fab fa-github"></i></a></li>
+            
+              <li><a href="https://twitter.com/libcarpentry" aria-label="Library Carpentry Twitter"><i class="fab fa-twitter"></i></a></li>
+            
+              <li><a href="https://librarycarpentry.org/contact/" aria-label="Connect with Library Carpentry"><i class="fab fa-gitter"></i></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="https://librarycarpentry.org/assets/js/javascript.min.js"></script>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86167534-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
