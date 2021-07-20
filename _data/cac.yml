@@ -2,6 +2,15 @@
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
 
+- name: Annajiat Alim Rasel (Bangladesh)
+  pic: annajiat.jpg
+  social: 
+    - icon: fab fa-twitter 
+      url: https://twitter.com/annajiat
+    - icon: fab fa-github
+      url: https://github.com/annajiat
+
+
 - name: Tim Dennis (USA)
   pic: timdennis.jpg
   social:
@@ -10,7 +19,16 @@ people:
     - icon: fab fa-github
       url: https://github.com/jt14den  
 
-      
+
+- name: Cody Hennesy (USA)
+  pic: codyhennesy.jpg
+  social: 
+    - icon: fab fa-twitter 
+      url: 
+    - icon: fab fa-github
+      url: https://github.com/chennesy
+
+
 - name: Mark Laufersweiler (USA)
   pic: marklaufersweiler.jpg
   social:
@@ -29,7 +47,7 @@ people:
       url: https://github.com/philreeddata
 
 - name: Liz Stokes (Australia) 
-  pic: 
+  pic: lizstokes.jpg
   social: 
    - icon: fab fa-twitter
      url: https://twitter.com/ragamouf
