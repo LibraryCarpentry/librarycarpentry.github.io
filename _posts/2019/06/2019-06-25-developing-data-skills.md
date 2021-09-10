@@ -4,8 +4,7 @@ authors: ["Grai Calvey","Fiona Jones","Heather Cooper"]
 title: "Developing Data Skills at Macquarie University Library"
 teaser: "Drawing on Library Carpentry lessons, pedagogy and community"
 date: 2019-06-25
-tags: ["Library Carpentry","The Carpentries","Macquarie University Library","Data Science","Data Skills","eResearch","Community of Practice","Workshops","Lessons", "Code Challenge"
-       "The Carpentries Lessons", "The Carpentries Community", "Carpentries Worshop", "Library Carpentries"]
+tags: ["Library Carpentry","The Carpentries","Macquarie University Library","Data Science","Data Skills","eResearch","Community of Practice","Workshops","Lessons"]
 category: ["blog"]
 ---
 
