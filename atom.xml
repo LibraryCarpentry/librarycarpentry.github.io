@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://librarycarpentry.org/</id>
+	<title>Library Carpentry</title>
+	<updated>2021-10-06T21:46:21+00:00</updated>
+
+	<subtitle>Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>carpentries</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://librarycarpentry.org/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://librarycarpentry.org/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.9.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2021/03/integration_and_reuse_of_lc_content_into_curricula/</id>
+			<title>Integration and reuse of Library Carpentry content into curricula</title>
+			<link href="https://librarycarpentry.org/blog/2021/03/integration_and_reuse_of_lc_content_into_curricula/" rel="alternate" type="text/html" title="Integration and reuse of Library Carpentry content into curricula" />
+			<updated>2021-03-08T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>The Library Carpentry lessons are fantastic resources for teaching students.</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2021/03/integration_and_reuse_of_lc_content_into_curricula/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/jcoliveraz&quot;&gt;Jeff Oliver&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jgolds2&quot;&gt;Julie Goldman&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/konradfoerstner&quot;&gt;Konrad Förstner&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a growing need to teach students professional data handling
+skills. Luckily, nobody has to start from scratch for this. While the
+lessons of The Carpentries including the Library Carpentry lesson
+program are designed to be taught as defined combinations in two-day
+workshops, they can be reused in other contexts. In this blog post
+members of the Library Carpentry community describe how they include
+Library Carpentry lessons in academic curricula and use the training
+methods to teach computational skills to students.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-university-of-arizona-jeff-oliver&quot;&gt;The University of Arizona (Jeff Oliver)&lt;/h2&gt;
+
+&lt;p&gt;New graduate students have considerable variation in their experience
+dealing with data. While some incoming students may have had prior
+research opportunities, many have not collected data, let alone
+developed experience in data collection pipelines and workflows. Many
+graduate programs have an implicit expectation of skills in the storage
+and manipulation of tabular data, but few programs explicitly assess or
+address the training necessary for such skills. To ensure these students
+are prepared for their graduate education, a pair of Library Carpentry
+lessons are ideal for integration into graduate student orientation
+curricula: &lt;a href=&quot;https://librarycarpentry.org/lc-spreadsheets/&quot;&gt;&lt;em&gt;Tidy Data&lt;/em&gt;&lt;/a&gt;
+and &lt;a href=&quot;https://librarycarpentry.org/lc-open-refine/&quot;&gt;&lt;em&gt;OpenRefine&lt;/em&gt;&lt;/a&gt;. We all
+know how rewarding it is when we teach students how to use library
+databases, and by offering these Library Carpentry lessons, libraries
+can further support graduate student skills development.&lt;/p&gt;
+
+&lt;p&gt;The Tidy Data lesson introduces software and best practices for working
+with tabular data. As many graduate students will be collecting data for
+their degrees, spreadsheet programs are going to be a major part of many
+students’ lives. Even when data are collected by hand and transcribed
+into a digital copy, knowing how the data will be stored digitally can
+significantly influence (in a good way!) how manually collected data are
+recorded. The Tidy Data lesson introduces common spreadsheet programs
+(e.g. Microsoft Excel, LibreOffice) and the concept of &lt;a href=&quot;https://www.jstatsoft.org/article/view/v059i10&quot;&gt;&lt;em&gt;tidy data a la
+Hadley Wickham&lt;/em&gt;&lt;/a&gt; (one
+variable per column, one observation per row, one value per cell). The
+lesson also covers critical data formatting challenges and solutions,
+including how to deal with date data (&lt;em&gt;aside&lt;/em&gt;: &lt;a href=&quot;https://xkcd.com/1179/&quot;&gt;&lt;em&gt;ISO
+format&lt;/em&gt;&lt;/a&gt; please, FTLOG!). Incorporating the Tidy
+Data lesson in orientation curricula can make for a much more pleasant,
+and ultimately more productive, graduate student experience.&lt;/p&gt;
+
+&lt;p&gt;However, many graduate students will be working with data collected by
+someone else. That is, incoming graduate students may inherit data from
+legacy research projects or they may end up working with data made
+available online. Who among us has not had the pleasure of opening a
+data set where the creators did not follow best practices for data
+collection (see previous aside regarding dates)? The Library Carpentry
+OpenRefine lesson provides solutions to many data interrogation,
+quality, and transformation challenges graduate students may face. The
+faceting and filtering functionality of OpenRefine provides an
+accessible means of initial investigations of data collected by someone
+else. Identifying and correcting mistakes in data (e.g. misspelling
+“Tucson” as “Tuscon”) is relatively painless with OpenRefine’s
+clustering tools. The lesson also briefly touches on the powerful and
+extensive data transformations available, including consistent case
+(lower, upper, title) and removal of extraneous whitespace. No longer
+does one need to manually search hundreds of cells to find the
+difference between “Arizona” and “Arizona “ that caused analyses to fail
+(don’t ask how long &lt;em&gt;that&lt;/em&gt; took). OpenRefine makes such operations
+trivial. As available data grow at an increasing rate, graduate students
+will need such tools to apply best practices to data collected by others
+without re-entering entire datasets.&lt;/p&gt;
+
+&lt;p&gt;These two Library Carpentry lessons are ideal for incoming graduate
+students (and probably some who are years into their degrees, too). With
+the goal of providing baseline understanding of data best practices,
+incorporating these lessons into graduate student orientation will
+prepare graduate students on day one. Early adoption of such practices
+will make graduate students’ work more computable, shareable, and
+reproducible. Oh, and did I mention date formats?&lt;/p&gt;
+
+&lt;h2 id=&quot;simmons-university-julie-goldman&quot;&gt;Simmons University (Julie Goldman)&lt;/h2&gt;
+
+&lt;h3 id=&quot;building-data-skills-for-librarians&quot;&gt;Building Data Skills for Librarians&lt;/h3&gt;
+
+&lt;p&gt;Instruction and consultations are essential parts of the data librarian
+work. However, few librarians receive data literacy education or
+coursework around instruction. Providing professional development
+opportunities for current librarians is essential in order for them to
+build the data skills needed to be a part of and included in academic
+workflows. What are the skills data librarians need and where can they
+receive them? The field is constantly evaluating the skills needed by
+librarians to engage in data science (&lt;a href=&quot;http://d-scholarship.pitt.edu/33891/&quot;&gt;&lt;em&gt;Burton et al.
+2018&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;https://osf.io/uycax/&quot;&gt;&lt;em&gt;Federer et al.
+2020&lt;/em&gt;&lt;/a&gt;). But there is consensus that librarians
+should now have some basic data skills that involve best data practices
+and being able to organize, wrangle and visualize data. If librarians
+have these skills, they will be in a position to successfully provide
+data services, support and instruction sessions for researchers.&lt;/p&gt;
+
+&lt;h3 id=&quot;ipi-certificate-program&quot;&gt;IPI Certificate Program&lt;/h3&gt;
+
+&lt;p&gt;Simmons University and academic health sciences libraries across the USA
+are partnering to offer a &lt;a href=&quot;http://slis.simmons.edu/blogs/imls-ipi/&quot;&gt;&lt;em&gt;post-master’s certificate program in the
+area of Inter-Professional
+Informationist&lt;/em&gt;&lt;/a&gt; (IPI), for the
+purpose of bridging the gap between traditional and emergent skills in
+health sciences librarianship and increasing the diversity in the
+workforce. A small cohort of librarians in the program will complete
+seven IPI courses, and partner institutions will connect them with
+researchers and clinical leaders who will mentor their capstone. This
+project was made possible in part by the Institute of Museum and Library
+Services with the Laura Bush 21st Century Librarian Program Grant
+[RE-17-19-0032-19]. Simmons University, School of Library and
+Information Science, College of Organizational, Computational and
+Information Science provides cost-share of the project.&lt;/p&gt;
+
+&lt;h3 id=&quot;rdm-curriculum&quot;&gt;RDM Curriculum&lt;/h3&gt;
+
+&lt;p&gt;One of the courses included in the IPI program is “Scientific Research
+Data Management” was taught Fall 2020 by Elaine Martin and Julie
+Goldman. This course had been an elective in the Simmons School of
+Library and Information Science curriculum for many years, but underwent
+a redesign to include and address many of the newer emerging areas
+related to data services in libraries. For example, the course included
+“Special Topics” that included Data Curation, Data Skills,
+Reproducibility, and Informationists. While basic understanding of data
+management is critical for librarians to work with researchers, there
+are these emerging areas where librarians can provide even more
+specialized help to their communities. It is one of the &lt;a href=&quot;https://www.imls.gov/grants/awarded/re-17-19-0032-19&quot;&gt;&lt;em&gt;IPI’s
+project’s goals&lt;/em&gt;&lt;/a&gt;
+to bridge the gap between traditional and emergent skills in health
+sciences librarianship.&lt;/p&gt;
+
+&lt;h3 id=&quot;carpentry-lessons-for-online-lis-curriculum&quot;&gt;Carpentry Lessons for Online LIS Curriculum&lt;/h3&gt;
+
+&lt;p&gt;Library Carpentry already successfully provides full lesson plans and
+materials that address these data and software needs. So as an
+instructor, there is no reason to reinvent the wheel, but to incorporate
+the already established materials and pedagogical concepts into a
+course. Also, the response from the Carpentries community regarding
+moving workshops and coding instruction online has been fabulous. These
+&lt;a href=&quot;https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/&quot;&gt;&lt;em&gt;recent blog posts from Darya
+Vanichkina&lt;/em&gt;&lt;/a&gt;
+are extremely useful for teaching Library Carpentry lessons online.&lt;/p&gt;
+
+&lt;p&gt;Therefore, we used some of the core Library Carpentry lessons for the
+IPI program students to become familiar with data skills and also build
+confidence in using these skills. Students were provided a lecture video
+on “Data Skills'' which incorporated an overview of the Carpentries,
+and overview of topics related to the Library Carpentry curriculum
+lessons: two core (&lt;a href=&quot;https://librarycarpentry.org/lc-shell/&quot;&gt;&lt;em&gt;UNIX
+Shell&lt;/em&gt;&lt;/a&gt; and
+&lt;a href=&quot;https://librarycarpentry.org/lc-open-refine/&quot;&gt;&lt;em&gt;OpenRefine&lt;/em&gt;&lt;/a&gt;) and two
+extended
+(&lt;a href=&quot;https://librarycarpentry.org/lc-spreadsheets/00-intro/index.html&quot;&gt;&lt;em&gt;Tidydata&lt;/em&gt;&lt;/a&gt;
+and &lt;a href=&quot;https://librarycarpentry.org/lc-r/&quot;&gt;&lt;em&gt;Intro to R&lt;/em&gt;&lt;/a&gt;). For an
+assignment, students had the opportunity to work through one of the
+presented lessons and then answer questions based on their experience
+and provide feedback. Here is some of the student feedback:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“I have definitely bookmarked [Tidydata] for further use.”&lt;/li&gt;
+  &lt;li&gt;”[The Tidydata lesson is] pretty heavy in specifics and details,
+but there’s a lot of great best practices and tips &amp;amp; tricks within
+the content”&lt;/li&gt;
+  &lt;li&gt;“I really liked the key points at the bottom, especially on the
+pages with lots of commands because it was easy to forget what I
+did/read at the top of the page. I also really appreciated that
+there were references for each lesson so if I wanted to dive deeper
+I could.”&lt;/li&gt;
+  &lt;li&gt;&quot;I think it’s great! Anytime the library can find something on
+campus where there is a gap in knowledge and can bring those skills
+to the researchers/students/etc, the library is proving how valuable
+a resource it is.”&lt;/li&gt;
+  &lt;li&gt;“At [my POW], I know we have thought these, but my only concern
+would be that another unit at [my POW] is teaching similar
+classes. [Some] charge for their services, so they might not be
+happy if the library moves into the space with free resources.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is wonderful to hear LIS students feel these skills are important for
+librarians to foster and also teach to their research communities.
+Future iterations of this lesson plan could incorporate some of the
+Carpentry Instructor Training approaches. For instance, having students
+record a short example of teaching a lesson, then everyone provides
+constructive feedback on each of the videos. You can see the entire RDM
+Course Syllabus on OSF (&lt;a href=&quot;https://osf.io/yzwpk&quot;&gt;&lt;em&gt;https://osf.io/yzwpk&lt;/em&gt;&lt;/a&gt;).
+Stay tuned for our next exploration of incorporating Carpentries
+training into LIS curriculum!&lt;/p&gt;
+
+&lt;h2 id=&quot;th-köln--university-of-applied-sciences-konrad-förstner&quot;&gt;TH Köln – University of Applied Sciences (Konrad Förstner)&lt;/h2&gt;
+
+&lt;p&gt;At the Institute for Information Sciences of the TH Köln – University
+of Applied Sciences (Cologne, Germany) several courses have integrated
+Library Carpentry lessons. The MALIS (Master in Library and Information
+Science) study course offers the elective course &quot;Data Science /
+Practical IT&quot;) which builds upon three Library Carpentry lessons namely
+the &lt;a href=&quot;https://librarycarpentry.org/lc-shell/&quot;&gt;&lt;em&gt;Unix Shell&lt;/em&gt;&lt;/a&gt;,
+&lt;a href=&quot;https://librarycarpentry.org/lc-git/&quot;&gt;&lt;em&gt;Introduction to Git&lt;/em&gt;&lt;/a&gt; and
+&lt;a href=&quot;https://librarycarpentry.org/lc-python-intro/&quot;&gt;&lt;em&gt;Introduction to
+Python&lt;/em&gt;&lt;/a&gt;. The lessons are
+taught spread over several weeks. Equipped with these skills the
+students start to work on projects in which data must be cleaned,
+processed and analyzed using the Unix Shell as well as Python and
+results submitted as git commits. A similar setup is applied in an IT
+class as part of the bachelor program “Library and digital
+communication” in which Library Carpentry lessons lay the foundation for
+project work. In another class of that bachelor program Python is
+shortly and intensively taught based on the Library Carpentry lesson.
+After that an introduction to Wikidata based on the &lt;a href=&quot;https://librarycarpentry.org/lc-wikidata/&quot;&gt;
+&lt;/a&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-wikidata/&quot;&gt;&lt;em&gt;early-phase Library
+Carpentry lesson&lt;/em&gt;&lt;/a&gt; is given.&lt;/p&gt;
+
+&lt;p&gt;Besides being included in these classical academic curricula the Shell,
+Python and Git Library Carpentry lessons represent the main content in
+the first module of the certificate course &quot;Data Librarian&quot; run at the
+ZBWI (Center for Library and Information Science Education) of the TH
+Köln. The skills acquired during this module are then later further
+extended by further modules that include the application of statistical
+methods and basic machine learning with Python.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, it is planned to adapt the Library Carpentry and further
+Carpentries lessons as part of the DaLI (Data Literacy) program of the
+TH Köln. The aim of this project is to provide an interdisciplinary
+model and curriculum to teach data literacy across faculty borders.&lt;/p&gt;
+
+&lt;p&gt;I personally am extremely happy to be able to build upon the efforts
+of the Library Carpentry community. Keep in mind that not only the
+actual content but more importantly the teaching methodology (yes,
+also sticky notes) is used. This included frequent collection of
+feedback which is overall very positive although the topics are
+challenging. Due to these wide applications, it is motivating to
+improve and extend the material and by that reach a global
+audience. In future, we would like to include students further into
+the improvement of the content. That could be smaller contributions
+like translation for&lt;a href=&quot;https://glosario.carpentries.org/&quot;&gt;
+&lt;/a&gt;&lt;a href=&quot;https://glosario.carpentries.org/&quot;&gt;&lt;em&gt;Glosario&lt;/em&gt;&lt;/a&gt;
+but also the inclusion into the development of new lessons. The best
+example is the above mentioned &lt;a href=&quot;https://librarycarpentry.org/lc-wikidata/&quot;&gt;&lt;em&gt;Wikidata
+lesson&lt;/em&gt;&lt;/a&gt; which was improved
+by Rabea Müller as part of her Bachelor thesis.&lt;/p&gt;
+
+&lt;p&gt;What is your Library Carpentry lesson re-cycle story?&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Library Carpentry" />
+			
+				<category term="The Carpentries" />
+			
+				<category term="The University of Arizona" />
+			
+				<category term="Simmons University" />
+			
+				<category term="TH Köln" />
+			
+				<category term="Curricula" />
+			
+				<category term="Data Science" />
+			
+				<category term="Data Skills" />
+			
+				<category term="Workshops" />
+			
+				<category term="Lessons" />
+			
+
+			<published>2021-03-08T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/06/developing-data-skills/</id>
+			<title>Developing Data Skills at Macquarie University Library</title>
+			<link href="https://librarycarpentry.org/blog/2019/06/developing-data-skills/" rel="alternate" type="text/html" title="Developing Data Skills at Macquarie University Library" />
+			<updated>2019-06-25T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>Drawing on Library Carpentry lessons, pedagogy and community</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/06/developing-data-skills/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/grai_calvey&quot;&gt;Grai Calvey&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/FionaJ_Lib&quot;&gt;Fiona Jones&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/coopshe1&quot;&gt;Heather Cooper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mq-planning.jpg&quot; alt=&quot;Macquarie University Library Library Carpentry Planning&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2016, &lt;a href=&quot;https://www.mq.edu.au/&quot;&gt;Macquarie University&lt;/a&gt; delivered a &lt;a href=&quot;https://staff.mq.edu.au/research/strategy-priorities-and-initiatives/data-science-and-eresearch/Data-Science-and-eResearch-Platform-STRATEGY.pdf&quot;&gt;Data Science and eResearch Platform Strategy&lt;/a&gt;. In response, the &lt;a href=&quot;https://www.mq.edu.au/about/campus-services-and-facilities/library&quot;&gt;Library&lt;/a&gt; embarked on a series of initiatives including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developing workshops to improve the data skills of all our library staff&lt;/li&gt;
+  &lt;li&gt;To grow confidence when engaging in data science practice, eResearch conversations and the support of researchers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our three goals were to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Upskill library staff to be ready to meet the emerging challenges and demands of the University’s increased focus on data science and eResearch.&lt;/li&gt;
+  &lt;li&gt;Improve our understanding of the data science/eResearch environment as a whole, including language, tools, workflows, issues and needs, in order to engage in support for researchers at all levels.&lt;/li&gt;
+  &lt;li&gt;Improve our own work as library staff via better data management, transparent workflows and applying computational approaches to our work where appropriate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We drew on The Carpentries by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Experiencing the four core Library Carpentry lessons as learners&lt;/li&gt;
+  &lt;li&gt;Adapting material from the Library Carpentry lessons and pedagogy for our workshops&lt;/li&gt;
+  &lt;li&gt;Tapping in to The Carpentries community on campus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We developed our community of practice via:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Short intensive face-to-face workshops&lt;/li&gt;
+  &lt;li&gt;An online hub for sharing workshop and learning material, links to resources, and discussion&lt;/li&gt;
+  &lt;li&gt;Regular hacky hour meetings for demonstration of tools and techniques, troubleshooting data difficulties, feeding back learning from webinars etc, and asking questions to inform future meetings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For our face-to-face workshops we created two bespoke Data Skills modules based on the &lt;a href=&quot;https://librarycarpentry.org/lessons/&quot;&gt;Library Carpentry lessons&lt;/a&gt; Introduction to Data and OpenRefine. We began by writing competencies and learning outcomes for our own context, then assessed The Carpentries lessons to choose suitable content and activities. We used a flipped classroom model, using pre- and post- workshop activities for the introduction of concepts and practice via self-directed learning, with face-to-face workshop time used for “live-coding” demonstration, activities, and learner-centred discussion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mq-hackyhour.jpg&quot; alt=&quot;Macquarie University Library Hacky Hours&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have delivered Library Data Skills modules to three groups of library staff who attended two 2-hour sessions each. A total of 52 staff members have attended the training between December 2017 and February 2019. Each time we repeat them, there is an opportunity for members of our community of practice to ‘step up’, with our goal being to take people on a journey from learners –&amp;gt; helpers –&amp;gt; instructors.&lt;/p&gt;
+
+&lt;p&gt;We have kept evaluation of the lessons simple, using the traditional Carpentries &lt;a href=&quot;https://carpentries.github.io/instructor-training/06-feedback/&quot;&gt;one up and one down&lt;/a&gt;. This ensured that staff would do the evaluation – it’s an easy way to get valuable feedback. This method of evaluation is appropriate for Library carpentry which is a community of practice for sharing knowledge, and is not the same as formal training. As instructors, we constantly assess the sessions and readjust accordingly. With 2/3 instructors/helpers in the room during each workshop, we are able to debrief afterwards and use our observations, paired with learner feedback, to improve future sessions. At all times we are mindful that it is a community of practice and there are no experts – &lt;strong&gt;we are all learning&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We believe staff are now more aware that processes that they have been doing for years, like data manipulation/using spreadsheets, are identified as data skills. Staff have developed new data skills as well. Moving forward, our aim is to avail ourselves of opportunities to work collaboratively with researchers using data and to use these skills to improve our own daily work.&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Library Carpentry" />
+			
+				<category term="The Carpentries" />
+			
+				<category term="Macquarie University Library" />
+			
+				<category term="Data Science" />
+			
+				<category term="Data Skills" />
+			
+				<category term="eResearch" />
+			
+				<category term="Community of Practice" />
+			
+				<category term="Workshops" />
+			
+				<category term="Lessons" />
+			
+
+			<published>2019-06-25T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/06/hackyhours-zbmed/</id>
+			<title>Building a Community for Digital Literacy at ZB MED: The Carpentries and HackyHours</title>
+			<link href="https://librarycarpentry.org/blog/2019/06/hackyhours-zbmed/" rel="alternate" type="text/html" title="Building a Community for Digital Literacy at ZB MED: The Carpentries and HackyHours" />
+			<updated>2019-06-19T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>A place where everyone can come together to share topics and learn from each other</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/06/hackyhours-zbmed/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/kivilih&quot;&gt;Eva Seidlmayer&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/konradfoerstner&quot;&gt;Konrad Förstner&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/digiorgiosilvia&quot;&gt;Silvia Di Giorgio&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zbmed.de/&quot;&gt;ZB MED&lt;/a&gt; – Information Centre for Life Sciences is the national library of Germany for medicine, health sciences, nutrition, agriculture and the environment. For the life sciences community, ZB MED provides invaluable services such as &lt;a href=&quot;https://publisso.de&quot;&gt;PUBLISSO&lt;/a&gt;, an open access publication portal, and &lt;a href=&quot;http://livivo.de/&quot;&gt;LIVIVO&lt;/a&gt;, a literature discovery service. Also, ZB MED established a scientific programme covering a broad spectrum of data science applications from  text- and data mining to bioinformatics. This is all a part of ZB MED’s digital transformation to an information centre with a broad spectrum of services and training. To help with this transformation, ZB MED takes advantage of Library, Data, and Software Carpentry training material to provide its employees a foundation in software and data skills.&lt;/p&gt;
+
+&lt;p&gt;The team at ZB MED sees their data science training activities as an important service for both the library and life science research communities.  They have three trained certified instructors (Silvia Di Giorgio, Till Sauerwein, Konrad Förstner) and one trainer, who can train certified instructors  (Konrad Förstner). In addition, the same team members assist with the maintenance and development of Library Carpentry lessons  (Git – Eva Seidlmayer and Silvia Di Giorgio, Python – Konrad Förstner, and Wikidata – Muhammad Elhossary, Till Sauerwein, Konrad Förstner). Since mid 2018, ZB MED has hosted and run (in-house) five Library Carpentry workshops and one Software Carpentry workshop and taught additional workshops at the University of Cologne, ZBIW, TIB Hannover, DRL Berlin, FU Berlin, and TU Vienna. There is one question that often comes up after these workshops:&lt;/p&gt;
+
+&lt;p&gt;What happens after Library Carpentry workshops? While the workshops provide learners with a jumpstart, learners need to continue learning and apply what they have learned. To support this ongoing professional development, ZB MED hosts &lt;a href=&quot;https://hackyhour.github.io/Cologne/&quot;&gt;HackyHours&lt;/a&gt; on a weekly basis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zbmed-sprint.jpg&quot; alt=&quot;HackyHour @ ZB MED&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;HackyHours at ZB MED are informal social gatherings that give attendees the opportunity to talk about code, tools, and research. The name and concept was brought from Würzburg, where Till, Silvia and Konrad had taught several Software Carpentry workshop with other instructors. Free coffee is provided and everyone can bring a topic (which might not be discussed directly in the session). It is up to the moderators to balance the interests and demands of the attendees.&lt;/p&gt;
+
+&lt;p&gt;In addition to negotiating the different backgrounds of the attendees, the HackyHour moderators at ZB MED also have to account for language barriers. While the staff at ZB MED speak German, much of the scientific staff speak English, in addition to other languages. Despite these challenges, ZB MED strives to make the HackyHours inclusive and enable everyone to participate. To do this, English is the applied language and a simultaneous peer-to-peer translation to German is provided, if necessary.&lt;/p&gt;
+
+&lt;p&gt;HackHours programmes at ZB MED are very diverse as they are often influenced by schedules and deadlines. Since November 2018, HackyHours have come to include not only the local ZB MED community but also colleagues from other institutions. Topics in the meantime have covered introduction to Python, experiences using different integrated development environments or IDEs, single board computer Arduino projects, and Docker containers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Prof. Rebholz-Schuhmann, Scientific Director of ZB MED, says: “HackyHours at ZB MED have provided an opportunity for people to come together, share and discuss different topics, and to continue learning. This is an important task for us as an information centre.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;ZB MED and their community are curious to see where their HackyHours will lead them to in the near future. The combination of The Carpentries training and HackyHours provide a helpful framework for expanding digital literacy at ZB MED and preparing the centre for research services moving forward.&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Community" />
+			
+				<category term="Events" />
+			
+
+			<published>2019-06-19T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/06/library-carpentry-stickers/</id>
+			<title>Need Library Carpentry Stickers? Let Us Know!</title>
+			<link href="https://librarycarpentry.org/blog/2019/06/library-carpentry-stickers/" rel="alternate" type="text/html" title="Need Library Carpentry Stickers? Let Us Know!" />
+			<updated>2019-06-17T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>Now you can request stickers until 30 June 2019!</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/06/library-carpentry-stickers/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stickers are a great way to show your support for, and celebrate your affiliation to Library Carpentry. We get frequent requests for Library Carpentry stickers but haven't been able to avail them at every event. Thanks to the &lt;a href=&quot;https://lirgroup.heanet.ie&quot;&gt;LIR HEAnet User Group for Libraries&lt;/a&gt; we will have plenty of stickers on hand for the attendees of our &lt;a href=&quot;https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/&quot;&gt;LIBER-LIR-Library Carpentry instructor training 2-day event&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hot of the press all ready for our upcoming pre-LIBER &lt;a href=&quot;https://twitter.com/hashtag/LibraryCarpentry?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#LibraryCarpentry&lt;/a&gt; Workshops &lt;a href=&quot;https://twitter.com/UCDLibrary?ref_src=twsrc%5Etfw&quot;&gt;@UCDLibrary&lt;/a&gt; on the 24/25 June &lt;a href=&quot;https://twitter.com/hashtag/Stickers?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Stickers&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/LIRHEAnet?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#LIRHEAnet&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/LibraryCarpentryDUB?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#LibraryCarpentryDUB&lt;/a&gt; &lt;a href=&quot;https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw&quot;&gt;@LibCarpentry&lt;/a&gt; &lt;a href=&quot;https://twitter.com/LIBEReurope?ref_src=twsrc%5Etfw&quot;&gt;@LIBEReurope&lt;/a&gt; &lt;a href=&quot;https://twitter.com/LIBERconference?ref_src=twsrc%5Etfw&quot;&gt;@LIBERconference&lt;/a&gt; &lt;a href=&quot;https://twitter.com/tcdlibrary?ref_src=twsrc%5Etfw&quot;&gt;@tcdlibrary&lt;/a&gt; &lt;a href=&quot;https://twitter.com/JulianeS?ref_src=twsrc%5Etfw&quot;&gt;@JulianeS&lt;/a&gt; &lt;a href=&quot;https://twitter.com/jt14den?ref_src=twsrc%5Etfw&quot;&gt;@jt14den&lt;/a&gt; &lt;a href=&quot;https://twitter.com/davidfkane?ref_src=twsrc%5Etfw&quot;&gt;@davidfkane&lt;/a&gt; &lt;a href=&quot;https://twitter.com/jpjmolloy?ref_src=twsrc%5Etfw&quot;&gt;@jpjmolloy&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/librarylife?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#librarylife&lt;/a&gt; &lt;a href=&quot;https://t.co/KAlQ7QLFAN&quot;&gt;pic.twitter.com/KAlQ7QLFAN&lt;/a&gt;&lt;/p&gt;&amp;mdash; LIR HEAnet (@LIRHEAnet) &lt;a href=&quot;https://twitter.com/LIRHEAnet/status/1139535022694813696?ref_src=twsrc%5Etfw&quot;&gt;June 14, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
+
+&lt;p&gt;They were able to print the stickers from the images in our Library Carpentry Style Guide created by Drew Heles and David Kane:&lt;/p&gt;
+
+&lt;a href=&quot;https://github.com/LibraryCarpentry/lc-styleguide&quot;&gt;https://github.com/LibraryCarpentry/lc-styleguide&lt;/a&gt;
+
+&lt;p&gt;You too can print the stickers out using a local/online service, but if you would like, we can also send you stickers. If you would like Library Carpentry stickers sent to you, please let us know by filling out this Library Carpentry stickers request form before 30 June 2019.&lt;/p&gt;
+
+&lt;a href=&quot;https://forms.gle/CgZ6ToCaRaCJZ3mk7&quot;&gt;https://forms.gle/CgZ6ToCaRaCJZ3mk7&lt;/a&gt;
+
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Stickers" />
+			
+
+			<published>2019-06-17T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/06/may-global-sprint/</id>
+			<title>It's a Wrap! The 4th Library Carpentry-Mozilla Global Sprint Concludes.</title>
+			<link href="https://librarycarpentry.org/blog/2019/06/may-global-sprint/" rel="alternate" type="text/html" title="It's a Wrap! The 4th Library Carpentry-Mozilla Global Sprint Concludes." />
+			<updated>2019-06-05T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>63 sprinters from 8 countries and 35 institutions took part in the May 2019 sprint.</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/06/may-global-sprint/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone that participated in the &lt;a href=&quot;https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/&quot;&gt;4th Mozilla-Library Carpentry Global Sprint&lt;/a&gt;. Unlike the 3 previous sprints, this year’s sprint stretched across the full month of May with the majority of the sprint taking place 30-31 May 2019.&lt;/p&gt;
+
+&lt;p&gt;The sprint started earlier in the month with Centre for Digital Scholarship at Leiden University Libraries drafting a Top 10 FAIR Data &amp;amp; Software Things for Astronomy.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The &lt;a href=&quot;https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw&quot;&gt;@LibCarpentry&lt;/a&gt;-&lt;a href=&quot;https://twitter.com/mozilla?ref_src=twsrc%5Etfw&quot;&gt;@mozilla&lt;/a&gt; Global Sprint started this morning at &lt;a href=&quot;https://twitter.com/CDSLeiden?ref_src=twsrc%5Etfw&quot;&gt;@CDSLeiden&lt;/a&gt; sprinting on the Top 10 &lt;a href=&quot;https://twitter.com/hashtag/FAIR?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#FAIR&lt;/a&gt; Data and Software Things for Astronomy and Particle Physics: @khettne &lt;a href=&quot;https://twitter.com/fieldworker?ref_src=twsrc%5Etfw&quot;&gt;@fieldworker&lt;/a&gt; &lt;a href=&quot;https://twitter.com/evertrol?ref_src=twsrc%5Etfw&quot;&gt;@evertrol&lt;/a&gt; &lt;a href=&quot;https://twitter.com/gravana?ref_src=twsrc%5Etfw&quot;&gt;@gravana&lt;/a&gt; (via zoom) discussing the target audience of “Things” &lt;a href=&quot;https://twitter.com/hashtag/mozsprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mozsprint&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/lc2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#lc2019&lt;/a&gt; &lt;a href=&quot;https://t.co/yj0ABjzhVG&quot;&gt;pic.twitter.com/yj0ABjzhVG&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Centre for Digital Scholarship (@CDSLeiden) &lt;a href=&quot;https://twitter.com/CDSLeiden/status/1126826993067147265?ref_src=twsrc%5Etfw&quot;&gt;May 10, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;63 sprinters from 8 countries registered for the sprint but some of these individuals brought friends with them to the sprint.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/mozsprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mozsprint&lt;/a&gt; &lt;a href=&quot;https://twitter.com/utslibrary?ref_src=twsrc%5Etfw&quot;&gt;@utslibrary&lt;/a&gt; research data team apply finely honed editorial skils to the intro of an experimental &lt;a href=&quot;https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw&quot;&gt;@LibCarpentry&lt;/a&gt; lesson on &lt;a href=&quot;https://twitter.com/hashtag/FAIRdata?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#FAIRdata&lt;/a&gt; &lt;a href=&quot;https://t.co/VOYwSlWCY6&quot;&gt;pic.twitter.com/VOYwSlWCY6&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Liz Stokes (@ragamouf) &lt;a href=&quot;https://twitter.com/ragamouf/status/1134281006117113856?ref_src=twsrc%5Etfw&quot;&gt;May 31, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;For the month of May, there were 56 active authors, 82 active issues, 77 active pull requests, and 197 commits.&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a href=&quot;https://github.com/LibraryCarpentry&quot;&gt;LC Reposiotry&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;Active Authors&lt;/th&gt;
+&lt;th&gt;Active Issues&lt;/th&gt;
+&lt;th&gt;Active Pull Requests&lt;/th&gt;
+&lt;th&gt;Commits&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-shell&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-sql&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;41&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-data-intro&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-data-intro-archives&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-git&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-open-refine&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-wikidata&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-spreadsheets&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-webscraping&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-python-intro&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-research-data&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Top-10-FAIR&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Total&lt;/td&gt;
+&lt;td&gt;56&lt;/td&gt;
+&lt;td&gt;82&lt;/td&gt;
+&lt;td&gt;77&lt;/td&gt;
+&lt;td&gt;197&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/konradfoerstner?ref_src=twsrc%5Etfw&quot;&gt;@konradfoerstner&lt;/a&gt; und sein Team machen mit beim &lt;a href=&quot;https://twitter.com/mozilla?ref_src=twsrc%5Etfw&quot;&gt;@mozilla&lt;/a&gt;'s &lt;a href=&quot;https://twitter.com/hashtag/mozsprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mozsprint&lt;/a&gt;. Sie arbeiten an einer &lt;a href=&quot;https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw&quot;&gt;@LibCarpentry&lt;/a&gt; Einheit für &lt;a href=&quot;https://twitter.com/hashtag/wikidata?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#wikidata&lt;/a&gt;. Mit dabei &lt;a href=&quot;https://twitter.com/muhammadhossary?ref_src=twsrc%5Etfw&quot;&gt;@muhammadhossary&lt;/a&gt; &lt;a href=&quot;https://twitter.com/digiorgiosilvia?ref_src=twsrc%5Etfw&quot;&gt;@digiorgiosilvia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/felixmlanger?ref_src=twsrc%5Etfw&quot;&gt;@felixmlanger&lt;/a&gt; &lt;a href=&quot;https://twitter.com/EAmanzadeh?ref_src=twsrc%5Etfw&quot;&gt;@EAmanzadeh&lt;/a&gt; &lt;a href=&quot;https://twitter.com/HakimSughra?ref_src=twsrc%5Etfw&quot;&gt;@HakimSughra&lt;/a&gt; und Nicole Kascha &lt;a href=&quot;https://t.co/JdgE730Tg4&quot;&gt;pic.twitter.com/JdgE730Tg4&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Ulrike Ostrzinski (@feuerlit) &lt;a href=&quot;https://twitter.com/feuerlit/status/1134436022689959936?ref_src=twsrc%5Etfw&quot;&gt;May 31, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;For the latter half of the Sprint, 21 May - 3 June, the Library Carpentry lesson repositories received 4382 views and 389 unique visitors.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a href=&quot;https://github.com/LibraryCarpentry&quot;&gt;LC Reposiotry&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;Views&lt;/th&gt;
+&lt;th&gt;Unique Vistors&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-shell&lt;/td&gt;
+&lt;td&gt;385&lt;/td&gt;
+&lt;td&gt;35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-sql&lt;/td&gt;
+&lt;td&gt;351&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-data-intro&lt;/td&gt;
+&lt;td&gt;380&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-data-intro-archives&lt;/td&gt;
+&lt;td&gt;265&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-git&lt;/td&gt;
+&lt;td&gt;506&lt;/td&gt;
+&lt;td&gt;38&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-open-refine&lt;/td&gt;
+&lt;td&gt;488&lt;/td&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-wikidata&lt;/td&gt;
+&lt;td&gt;549&lt;/td&gt;
+&lt;td&gt;43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-spreadsheets&lt;/td&gt;
+&lt;td&gt;496&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-webscraping&lt;/td&gt;
+&lt;td&gt;297&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-python-intro&lt;/td&gt;
+&lt;td&gt;465&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lc-research-data&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Top-10-FAIR&lt;/td&gt;
+&lt;td&gt;161&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Total&lt;/td&gt;
+&lt;td&gt;4382&lt;/td&gt;
+&lt;td&gt;389&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;So much &lt;a href=&quot;https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw&quot;&gt;@thecarpentries&lt;/a&gt; at the &lt;a href=&quot;https://twitter.com/UofA?ref_src=twsrc%5Etfw&quot;&gt;@UofA&lt;/a&gt; !&lt;br /&gt;Day 1 of the &lt;a href=&quot;https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw&quot;&gt;@LibCarpentry&lt;/a&gt; sprint at &lt;a href=&quot;https://twitter.com/uazlibraries?ref_src=twsrc%5Etfw&quot;&gt;@uazlibraries&lt;/a&gt; , contributing to Data Intro, SQL, Python, and Tidy Data lessons with &lt;a href=&quot;https://twitter.com/riosfrnd?ref_src=twsrc%5Etfw&quot;&gt;@riosfrnd&lt;/a&gt; &lt;a href=&quot;https://twitter.com/KiriCarini?ref_src=twsrc%5Etfw&quot;&gt;@KiriCarini&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/michaelhagedon?ref_src=twsrc%5Etfw&quot;&gt;@michaelhagedon&lt;/a&gt; .&lt;/p&gt;
+  &lt;p&gt;— Jeff Oliver (@jcoliverAZ) &lt;a href=&quot;https://twitter.com/jcoliverAZ/status/1134210910912884742?ref_src=twsrc%5Etfw&quot;&gt;May 30, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;For the month of May, the two sprint Gitter channels, Library Carpentry Lobby and Top 10 FAIR, received roughly 180 messages while the Zoom channel had roughly 40 participants.&lt;/p&gt;
+
+&lt;p&gt;In all, 35 institutions registered for the sprint including the California Digital Library, Duke University, Australian Research Data Commons, Georgetown Law Library, AARNet, University of Melbourne, University of North Carolina at Chapel Hill, Arizona State University, University of Virginia, University of Arizona Libraries, The British Library, UC Riverside Library, Federal Reserve Bank of St. Louis, University of Queensland, FOSTER, OpenAIRE, UCLA Library, DANS, FAIRsFAIR, Griffith University, Curtin University Library, UC Berkeley, Purdue University Libraries, Göttingen State and University Library, RDA Europe, Vrije Universiteit Amsterdam, The Open University, ZB MED - Information Centre for Life Science, Linked Data for Production project, Stanford, Harvard University, Indiana University-Purdue University Indianapolis, Hesburgh Libraries University of Notre Dame, Lehigh University, and University of Technology Sydney.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the amazing work of the sprinters who helped improve the Library Carpentry lesson material!&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;UC Berkeley, UC Riverside &amp;amp; CDL closing out our sprint today! Thank you to all the other sites/people that helped during this sprint! &lt;a href=&quot;https://twitter.com/hashtag/libraries?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#libraries&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/lc2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#lc2019&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mozsprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mozsprint&lt;/a&gt; &lt;a href=&quot;https://t.co/2SM9AmG2HZ&quot;&gt;pic.twitter.com/2SM9AmG2HZ&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Library Carpentry (@LibCarpentry) &lt;a href=&quot;https://twitter.com/LibCarpentry/status/1134558127507066880?ref_src=twsrc%5Etfw&quot;&gt;May 31, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Events" />
+			
+				<category term="Carpentries Lessons" />
+			
+
+			<published>2019-06-05T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/04/what-have-the-lc-maintainers-been-working-on/</id>
+			<title>What have the Library Carpentry Maintainers been working on?</title>
+			<link href="https://librarycarpentry.org/blog/2019/04/what-have-the-lc-maintainers-been-working-on/" rel="alternate" type="text/html" title="What have the Library Carpentry Maintainers been working on?" />
+			<updated>2019-04-25T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>An update on what the Library Carpentry Maintainers have been working on since January 2019.</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/04/what-have-the-lc-maintainers-been-working-on/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In January 2019, the Library Carpentry Maintainers met online to discuss a variety of topics from communication channels to giving credit. The discussions helped with tackling big questions and understanding how we wanted to work as Maintainers.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/&quot;&gt;News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What have the Maintainers been up to since then? This blog post will catch you up on what all the lesson Maintainer teams have been doing since January. The following are brief reports from the lesson Maintainer groups:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-data-intro/&quot;&gt;Introduction to Data&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Shari Laster*, Paul Pival, Anton Angelo, James Baker, Carmi Cronje&lt;/em&gt;&lt;br /&gt;
+The Maintainers met for the first time in February. They discussed how they will work together and agreed to reach out to Instructors that have previously taught &lt;em&gt;Introduction to Data&lt;/em&gt; to gather their feedback and determine their next steps towards improving the lesson. Their next meeting is in May.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-shell/&quot;&gt;The UNIX Shell&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Danielle Kane*, Nilani Ganeshwaran, John Wright, Anna Oates, Belinda Weaver, Tim Dennis&lt;/em&gt;&lt;br /&gt;
+The Maintainers will meet on 25 April 2019. Members of the group have already expressed interest in adding more library examples (context) to the lesson.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-open-refine/&quot;&gt;OpenRefine&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Erin Carrillo*, Owen Stephens, Juliane Schneider, Paul Pival, Kristin Lee, Carmi Cronje&lt;/em&gt;&lt;br /&gt;
+The Maintainers have been working on updating information about the OpenRefine versions used in the lesson and Paul Pival volunteered to address outdated issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-git/&quot;&gt;Introduction to Git&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Chris Erdmann*, Thea Atwood, Drew Heles*, Katrin Leinweber, Eva Seidlmayer, Belinda Weaver, Jez Cope&lt;/em&gt;&lt;br /&gt;
+The Maintainers for this lesson met in March and decided to reach out to Instructors that have taught the lesson for their feedback. Eva Seidlmayer developed concept maps to help guide the group’s discussions. Some of the core lesson concepts that the group focused on during the discussions include file sharing, versioning, collaboration with researchers, and publishing websites. There are still some remaining questions for the Maintainers to consider, for instance, whether it is best to teach git on the command line or via GitHub/GitLab and how the lesson compliments other available lessons (like Software Carpentry’s Git lesson).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-spreadsheets/&quot;&gt;Tidy Data&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Sherry Lake*, Tim Dennis, Thea Atwood, Erika Mias, Jez Cope&lt;/em&gt;&lt;br /&gt;
+The Maintainers will meet in the next 2-3 months.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-sql/&quot;&gt;SQL&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Jordan Pedersen*, Kristin Lee, Chris Erdmann, Elaine Wong, Janice Chan&lt;/em&gt;&lt;br /&gt;
+The Maintainers have met 2 times and agreed to create a set of issues to outline their next steps to improve the lesson. They initially reached out to Instructors that have taught the lesson, to gather feedback, and help inform their work. They recently added library examples to the lesson to help people in library and information related roles understand why they might use SQL in their work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-webscraping/&quot;&gt;Webscraping&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Joshua Dull*, Thomas Guignard, Belinda Weaver&lt;/em&gt;&lt;br /&gt;
+The Maintainers hope to review the lesson this summer and invite new Maintainers to help.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-python-intro/&quot;&gt;Introduction to Python&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Laura Wrubel*, Konrad Förstner, Drew Heles, Elizabeth Wickes (Past Maintainers: Carlos Martinez, Richard Vankoningsveld)&lt;/em&gt;&lt;br /&gt;
+The Maintainers have been reviewing several repositories with Python-related lesson content, cleaning up outstanding issues and pull requests, and working on revised learning objectives and a lesson design document. They are taking a fresh look at the interfaces used in the lessons (e.g. Spyder and Jupyter) and planning to use their design document to guide lesson improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-data-intro-archives/&quot;&gt;Introduction to Data for Archivists&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Jenny Bunn*, Noah Geraci, and James Baker&lt;/em&gt;&lt;br /&gt;
+This lesson is still looking for new Maintainers as the current Maintainers have moved on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://librarycarpentry.org/lc-wikidata/&quot;&gt;Wikidata&lt;/a&gt; (Experimental Lesson)&lt;br /&gt;
+&lt;em&gt;Muhammad Elhossary, Till Sauerwein, Konrad Förstner&lt;/em&gt;&lt;br /&gt;
+The Maintainers and lesson volunteers held a &lt;a href=&quot;https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Tamalpais_3B_-_WikiCite_in_education&quot;&gt;brainstorming session&lt;/a&gt; at WikiCite 2018 in Berkeley which laid the foundation and set the scope for the lesson. There have been 3 sprints with the latest one in April. Members of the community are invited to join the sprints which are announced on the &lt;a href=&quot;https://lists.wikimedia.org/mailman/listinfo/wikidata&quot;&gt;Wikidata mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the near horizon, Maintainers will be looking into whether their lessons are ready to formally publish (for example, see this &lt;a href=&quot;https://github.com/LibraryCarpentry/lc-open-refine/issues/40&quot;&gt;OpenRefine issue&lt;/a&gt;). Also, the community will be working on improving Library Carpentry material in an upcoming &lt;a href=&quot;https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/&quot;&gt;Mozilla-Library Carpentry Global Sprint&lt;/a&gt; this May.&lt;/p&gt;
+
+&lt;p&gt;The best way to track the work of the Maintainers is by looking at the issues and pull requests in each lesson repository under the &lt;a href=&quot;https://github.com/LibraryCarpentry&quot;&gt;Library Carpentry GitHub organization&lt;/a&gt;. If you are interested in becoming a Maintainer, please contact &lt;a href=&quot;mailto:Christopher.Erdmann@ucop.edu&quot;&gt;Chris Erdmann&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As always, thank you to the hard work of our Maintainers!&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Maintainers" />
+			
+				<category term="Community" />
+			
+				<category term="Lessons" />
+			
+
+			<published>2019-04-25T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/04/what-s-new-orcid-joint-library-carpentriesorcid-webinar/</id>
+			<title>What’s New at ORCID? A Joint Library Carpentries/ORCID Webinar!</title>
+			<link href="https://librarycarpentry.org/blog/2019/04/what-s-new-orcid-joint-library-carpentriesorcid-webinar/" rel="alternate" type="text/html" title="What’s New at ORCID? A Joint Library Carpentries/ORCID Webinar!" />
+			<updated>2019-04-17T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>What's new at ORCID? Learn about new features available via ORCID's API 3.0 to connect and share more of your own and community's contributions.</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/04/what-s-new-orcid-joint-library-carpentriesorcid-webinar/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/alicejmeadows&quot;&gt;Alice Meadows&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are delighted to announce that Library Carpentries and ORCID are co-hosting a &lt;a href=&quot;href=&amp;quot;https://librarycarpentry.org/events&quot;&gt;webinar on What’s New at ORCID&lt;/a&gt;. Registration is free – just add your name &lt;a href=&quot;https://pad.carpentries.org/lc-community-calls&quot;&gt;here&lt;/a&gt; – and there will be plenty of opportunity for questions and discussion.&lt;/p&gt;
+
+&lt;p&gt;This webinar, at 10am ET on Thursday, May 16, will focus on ORCID’s new API v3.0, launching in May, which includes some valuable new features for researchers, their organizations, and the wider community alike:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New affiliation types.&lt;/strong&gt; Enabling researchers to be recognized for more of their contributions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Qualifications, such as continuing medical education and other certifications&amp;lt;&lt;/li&gt;
+  &lt;li&gt;Membership of an association, society, or other organization&lt;/li&gt;
+  &lt;li&gt;Service, for example serving on a Board, as a reviewer, or other volunteer activity&lt;/li&gt;
+  &lt;li&gt;Invited positions, such as a visiting fellowship&lt;/li&gt;
+  &lt;li&gt;Distinctions, including prizes and awards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Research resources.&lt;/strong&gt; To connect information about the use of facilities and equipment, special collections, and other resources to ORCID records&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schema changes.&lt;/strong&gt; To ensure everyone can see the source of information on ORCID records&lt;/p&gt;
+
+&lt;p&gt;We’re especially pleased that we will be joined by some special guests from the Environmental Molecular Sciences Laboratory (EMSL) at Pacific Northwest National Laboratory (PNNL), an ORCID member organization and early adopter of our API 3.0. Their Deputy for User Services, Terry J Law, and her colleagues Nathan Tenney (Developer) and Courtney Carpenter (Data Analyst) will share their experience of implementing the new API, including adding information about EMSL’s resources to their researchers’ records (see example below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/orcid-screenshot.png&quot; alt=&quot;ORCID Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We warmly invite anyone who’s interested in learning more about ORCID’s new API v3.0 to join us on May 16!&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Community" />
+			
+				<category term="Skillshare" />
+			
+				<category term="Discussion Sessions" />
+			
+
+			<published>2019-04-17T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/04/advisory-group-announcement/</id>
+			<title>Announcing the Library Carpentry Advisory Group</title>
+			<link href="https://librarycarpentry.org/blog/2019/04/advisory-group-announcement/" rel="alternate" type="text/html" title="Announcing the Library Carpentry Advisory Group" />
+			<updated>2019-04-10T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>The Group will advise on ways to foster greater participation in the Library Carpentry community</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/04/advisory-group-announcement/">&lt;p&gt;On 15 March 2019, the Library Carpentry Governance Group officially became the &lt;a href=&quot;https://librarycarpentry.org/advisory/&quot;&gt;Advisory Group&lt;/a&gt;. The Advisory Group acts as a critical friend to Carpentries governance and staff and advises on ways to foster greater participation in the Library Carpentry community. The Group meets on a bi-monthly basis to discuss, plan, and pursue strategies for involving new and current members in Library Carpentry. It is not a governance group and does not make decisions for the Library Carpentry community.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://librarycarpentry.org/team/&quot;&gt;Governance Group&lt;/a&gt;, first called the Steering Group, was &lt;a href=&quot;https://librarycarpentry.org/blog/2017/10/latest-news/&quot;&gt;formed in October 2017&lt;/a&gt; with the main goal of guiding Library Carpentry through the merger process with The Carpentries. Thanks to the efforts of Governance Group and Steering Committee members John Chodacki, Jez Cope, Tim Dennis, Chris Erdmann, Kayleigh Lino, Cam Macdonell, Juliane Scheider, Belinda Weaver, James Baker, Greg Wilson, Richard Vankoningsveld, Owen Stephens, and Scott Peterson, together with the help of The Carpentries &lt;a href=&quot;http://static.carpentries.org/governance/&quot;&gt;Executive Council&lt;/a&gt; and &lt;a href=&quot;https://carpentries.org/team/&quot;&gt;staff&lt;/a&gt;, Library Carpentry is now an &lt;a href=&quot;https://carpentries.org/blog/2018/11/welcoming-library-carpentry/&quot;&gt;official Lesson Program of The Carpentries&lt;/a&gt;. We are grateful to everyone involved in moving this effort forward.&lt;/p&gt;
+
+&lt;p&gt;Now that the primary aim of the Group is complete, members decided to shift to an advisory role with a &lt;a href=&quot;https://github.com/LibraryCarpentry/governance/issues/11&quot;&gt;focus towards growing the Library Carpentry community&lt;/a&gt;. Members moving off the group will welcome the Group’s new members:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Konrad Förstner, ZB MED – Information Centre for Life Science and TH Köln – University of Applied Sciences&lt;/li&gt;
+  &lt;li&gt;Julie Goldman, Harvard University&lt;/li&gt;
+  &lt;li&gt;Liz Stokes, Australian Research Data Commons (ARDC)&lt;/li&gt;
+  &lt;li&gt;Birgit Schmidt, University of Goettingen&lt;/li&gt;
+  &lt;li&gt;Yared Abera Ergu, Mizan-Tepi University&lt;/li&gt;
+  &lt;li&gt;Tim Ribaric, Brock University&lt;/li&gt;
+  &lt;li&gt;David Kane, Waterford Institute of Technology&lt;/li&gt;
+  &lt;li&gt;Ariel Deardorff, University of California, San Francisco&lt;/li&gt;
+  &lt;li&gt;Jeff Oliver, University of Arizona&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Advisory Group will have their first meeting in the coming months. Their initial tasks will involve refining the Group’s &lt;a href=&quot;https://librarycarpentry.org/team/&quot;&gt;description and goals&lt;/a&gt;. The Advisory Group joins the &lt;a href=&quot;https://librarycarpentry.org/team/&quot;&gt;Curriculum Advisory Committee&lt;/a&gt; which provides &lt;a href=&quot;https://github.com/LibraryCarpentry/governance/issues/11&quot;&gt;lesson oversight and guidance&lt;/a&gt; for Library Carpentry.&lt;/p&gt;
+
+&lt;p&gt;Thank you again to our Steering Committee and Governance Group and welcome to our Advisory Group!&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Advisory Group" />
+			
+				<category term="Community" />
+			
+
+			<published>2019-04-10T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/</id>
+			<title>Mozilla-Library Carpentry Global Sprint, 30-31 May, 2019</title>
+			<link href="https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/" rel="alternate" type="text/html" title="Mozilla-Library Carpentry Global Sprint, 30-31 May, 2019" />
+			<updated>2019-03-28T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>Upcoming Sprint to improve and develop Library Carpentry material</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/03/lc-mozilla-global-sprint/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;library-carpentry-sprint-30-31-may-2019&quot;&gt;Library Carpentry Sprint, 30-31 May, 2019&lt;/h2&gt;
+
+&lt;p&gt;The Library Carpentry Sprint is part of the &lt;a href=&quot;https://medium.com/read-write-participate/mozillas-global-sprint-is-becoming-even-more-open-dac2de762429&quot;&gt;2019 Mozilla Global Sprint&lt;/a&gt;, which will take place worldwide throughout the month of May. You can find us on &lt;a href=&quot;https://www.mozillapulse.org&quot;&gt;Mozilla Pulse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’ve participated in a number of sprints over the years. Have a look at a couple of our past sprints:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librarycarpentry.org/blog/2019/02/top-10-fair-published/&quot;&gt;November 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librarycarpentry.org/blog/2018/05/our-latest-sprint/&quot;&gt;May 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sprints allow us to improve upon and develop new Library Carpentry material while meeting and collaborating with people in the community. If you are new to Library Carpentry, &lt;a href=&quot;https://librarycarpentry.org/&quot;&gt;our website&lt;/a&gt; has some information to help get you started.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anyone is welcome to join us during the Sprint!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To register, use the Etherpad to list yourself and/or the group you will be working with:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pad.carpentries.org/2019-lc-mozsprint&quot;&gt;https://pad.carpentries.org/2019-lc-mozsprint&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-will-the-sprint-work&quot;&gt;How will the Sprint work?&lt;/h2&gt;
+&lt;p&gt;We will use &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;our chatroom&lt;/a&gt; and the &lt;a href=&quot;https://github.com/LibraryCarpentry&quot;&gt;Library Carpentry GitHub repository&lt;/a&gt; to organise work during the 2-day Sprint. You can also link to a collaborative document (i.e. another Etherpad or Google doc) that you/your group will be using during the Sprint. Join the chatroom at any time using your GitHub username or your Twitter handle.&lt;/p&gt;
+
+&lt;p&gt;You can participate in the Sprint by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Improving a current lesson - Have a look at &lt;a href=&quot;https://librarycarpentry.org/lessons/&quot;&gt;our current lessons&lt;/a&gt; and identify the lesson(s) you would like to improve. Suggestions can be submitted either via an issue or a pull request to the lesson repositories &lt;a href=&quot;https://github.com/LibraryCarpentry&quot;&gt;listed here&lt;/a&gt;. In general, it will be good to reach out to the &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;chatroom&lt;/a&gt; to coordinate with Maintainers of the lessons, but if you need help before the event with creating an issue and/or pull request, the chatroom is a great resource for connecting you with community members that can help.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Contributing to a new lesson - First, have a look at &lt;a href=&quot;https://pad.carpentries.org/lc-experimental-lessons&quot;&gt;our experimental lessons&lt;/a&gt;. Ahead of the Sprint, if you see a lesson you would like to help with, reach out to contributor names listed and/or the Sprint &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;chatroom&lt;/a&gt; to coordinate.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Helping with the Library Carpentry website - There are a handful of &lt;a href=&quot;https://github.com/LibraryCarpentry/librarycarpentry.github.io/issues&quot;&gt;issues&lt;/a&gt; already but you can also create new issues to be addressed and/or submit pull requests to correct issues. You can also do the same if you have suggestions to improve the design and content of the website.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Testing the Top 10 FAIR Data &amp;amp; Software Things - During a sprint in &lt;a href=&quot;https://librarycarpentry.org/blog/2019/02/top-10-fair-published/&quot;&gt;November 2018&lt;/a&gt;, a number of brief guides on FAIR data &amp;amp; software called &lt;a href=&quot;https://librarycarpentry.org/Top-10-FAIR/&quot;&gt;Top 10 Things&lt;/a&gt; were created to help discipline-based communities understand the &lt;a href=&quot;https://www.incf.org/activities/standards-and-best-practices/what-is-fair&quot;&gt;FAIR Principles&lt;/a&gt;. For this Sprint, you can test these guides to see whether &lt;a href=&quot;https://carpentries.github.io/instructor-training/&quot;&gt;Carpentries approaches&lt;/a&gt; can be used to teach them. Submit your teaching suggestions as &lt;a href=&quot;https://github.com/LibraryCarpentry/Top-10-FAIR&quot;&gt;issues and/or pull requests&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Joining our chatroom - If you are still not sure what you would like to help with during the Sprint, reach out to us via the &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;chatroom&lt;/a&gt; and we can help you find something.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you decide on what you and/or your group would like to work on, please list it in the Etherpad (next to where you registered):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pad.carpentries.org/2019-lc-mozsprint&quot;&gt;https://pad.carpentries.org/2019-lc-mozsprint&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;People can start working today. There will be people available to answer questions at most times before and during the Sprint. We will use the &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;chatroom&lt;/a&gt; to wrangle those questions and offer any clarifications. We will also have a dedicated Zoom channel with calls happening at the top of the hour for most of the Sprint. The Zoom channel will be:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://UCOP.zoom.us/j/575467341&quot;&gt;https://UCOP.zoom.us/j/575467341&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You will be able to ask questions via the video calls as well (which we will also use for networking). If you are not sure about something, please post a question in the chatroom (directed to someone in particular, if need be) and someone will get back to you.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-the-sprint-will-be-organised&quot;&gt;How the Sprint will be organised&lt;/h2&gt;
+&lt;p&gt;There are a number of individuals and/or group sites (&lt;a href=&quot;https://pad.carpentries.org/2019-lc-mozsprint&quot;&gt;see them here&lt;/a&gt;), all of which will start working at different times around the world. The individuals/groups will organise their own work and report back on how things are going during video calls, via the &lt;a href=&quot;https://gitter.im/LibraryCarpentry/Lobby&quot;&gt;chatroom&lt;/a&gt;, or through the hourly handovers (where the baton will be passed on to the next locations).&lt;/p&gt;
+
+&lt;p&gt;Sprinters can participate via the different ways listed above but can reach out to the chatroom if they still have questions/ideas. If you are new to sprints and/or Mozilla-Library Carpentry sprints, feel free to reach out to the community via the channels listed above and the community can hopefully answer any questions you may have. You can also reach out to &lt;a href=&quot;mailto:Christopher.Erdmann@ucop.edu&quot;&gt;Christopher.Erdmann@ucop.edu&lt;/a&gt; if you have further questions about the Sprint.&lt;/p&gt;
+
+&lt;h2 id=&quot;social-media-for-the-sprint&quot;&gt;Social media for the Sprint&lt;/h2&gt;
+&lt;p&gt;If you tweet, please tweet about the event using the handle &lt;a href=&quot;https://twitter.com/LibCarpentry&quot;&gt;@LibCarpentry&lt;/a&gt; and the hashtags #lc2019 and #mozsprint. Photos are good too. It would be great to have photos of sprinters so we can do an illustrated blog post of how the Sprint went. Please do share your photos in the various channels that we will be using during the Sprint.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-you-want-to-choose-a-different-time&quot;&gt;If you want to choose a different time?&lt;/h2&gt;
+&lt;p&gt;If the Sprint dates/times, 30-31 May 2019, do not work for you and/or your group, no problem. Feel free to arrange separate sprint dates/times. This year the Mozilla Global Sprint is flexible and you can sprint all throughout the month of May. If you do choose separate dates/times, please note when you will be meeting in the Etherpad next to your name/group name information and the project. This way, others will know what you are working on and can get in touch.&lt;/p&gt;
+
+&lt;h2 id=&quot;see-you-at-the-sprint&quot;&gt;See you at the Sprint!&lt;/h2&gt;
+
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Carpentries Lessons" />
+			
+				<category term="Events" />
+			
+
+			<published>2019-03-28T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/</id>
+			<title>News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee</title>
+			<link href="https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/" rel="alternate" type="text/html" title="News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee" />
+			<updated>2019-02-28T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>libcce</name>
+					
+					
+					
+				</author>
+			
+			<summary>An update on Library Carpentry lesson development</summary>
+			<content type="html" xml:base="https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/libcce&quot;&gt;Chris Erdmann&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;news-from-the-library-carpentry-maintainer-community-and-curriculum-advisory-committee&quot;&gt;News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee&lt;/h2&gt;
+
+&lt;p&gt;During the week of 14-17 January 2019, Library Carpentry Maintainers met online to discuss a variety of topics from &lt;em&gt;Communication Channels&lt;/em&gt; to &lt;em&gt;Giving Credit&lt;/em&gt;. The discussions helped with tackling big questions and understanding how we wanted to work as Maintainers. For a summary (and notes) from the meetings, see:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/LibraryCarpentry/governance/blob/master/curriculum/2019-01-20-summary-maintainer-discussions.md&quot;&gt;Summary Library Carpentry Maintainer Discussions 14-17 January 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Following the discussions above, Lead Maintainers (indicated by an asterisk on the ‘&lt;a href=&quot;https://librarycarpentry.org/lessons/&quot;&gt;Our Lessons&lt;/a&gt;’ page) reached out to schedule online calls with the separate Maintainer groups. These calls were a chance for the lesson Maintainer groups to get to know each other, look at what needed to be developed in their lessons, and understand how they wanted to work as groups. Much of their work can be seen in the individual lesson repositories via the open Issues and Pull Requests. Links to the lesson GitHub repositories can be found at:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librarycarpentry.org/lessons/&quot;&gt;Our Lessons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A number of lessons are still in beta status, meaning they are largely complete and should be ready to teach, but would benefit from improvements based on feedback from instructors who have taught them. Over the coming months, the Maintainers of these lessons will be working to move them to stable status.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Curriculum Advisory Committee (CAC) members are looking into clarifying how the lessons can help librarians in their daily work. For instance, stories from participants of the workshops on how the training helped them address challenges in their libraries might help. The CAC is also exploring lesson combinations that address certain themes and help with delivering lessons more flexibly. Much of the Maintainer work will feed into the CAC’s ongoing discussions.&lt;/p&gt;
+
+&lt;p&gt;There are also new lessons being developed, from &lt;em&gt;Wikidata&lt;/em&gt; to &lt;em&gt;Digital Preservation&lt;/em&gt;. Many of the lessons are still experimental and are listed in the following Etherpad:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pad.carpentries.org/lc-experimental-lessons&quot;&gt;Library Carpentry Experimental Lessons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We had super-productive &quot;Wikidata education for librarians&quot; session. Great foundations for our &lt;a href=&quot;https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw&quot;&gt;@LibCarpentry&lt;/a&gt; lesson but also useful for other formats. We will continue to work on it. &lt;a href=&quot;https://t.co/4Bg0ukhxnn&quot;&gt;https://t.co/4Bg0ukhxnn&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/WikiCite?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#WikiCite&lt;/a&gt; (Image source: &lt;a href=&quot;https://t.co/kRlhYuVq0t&quot;&gt;https://t.co/kRlhYuVq0t&lt;/a&gt;) &lt;a href=&quot;https://t.co/RSJPAQNgUn&quot;&gt;pic.twitter.com/RSJPAQNgUn&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Konrad Förstner (@konradfoerstner) &lt;a href=&quot;https://twitter.com/konradfoerstner/status/1068298288028278785?ref_src=twsrc%5Etfw&quot;&gt;November 30, 2018&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;One of the group workflows created for pre-ingest processes during our digital preservation carpentry workshop, &amp;amp; a great quote from attendees: “it gives us a glimpse of what success could look like” &lt;a href=&quot;https://twitter.com/hashtag/DigitalPreservation?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#DigitalPreservation&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/IDCC19?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#IDCC19&lt;/a&gt; &lt;a href=&quot;https://t.co/c6FbGn0qfP&quot;&gt;pic.twitter.com/c6FbGn0qfP&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Jaye Weatherburn (@jayechats) &lt;a href=&quot;https://twitter.com/jayechats/status/1092269664585957376?ref_src=twsrc%5Etfw&quot;&gt;February 4, 2019&lt;/a&gt;&amp;lt;/blockquote&amp;gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There will be more updates to come from the Library Carpentry Maintainer community and the CAC, but in the meantime, thanks to all of their work to improve the lessons and develop new lessons. If you are interested in helping out as a Maintainer for one of the Library Carpentry lesson, contact &lt;a href=&quot;mailto:chris@carpentries.org&quot;&gt;chris@carpentries.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank you Maintainers!&lt;/strong&gt;&lt;br /&gt;
+Carmi Cronje, Paul Pival, Shari Laster, Anton Angelo, James Baker, Belinda Weaver, Tim Dennis, Danielle Kane, Nilani Ganeshwaran, Owen Stephens, Juliane Schneider, Kristin Lee, Erin Carrillo, Chris Erdmann, Thea Atwood, Drew Heles, Katrin Leinweber, Eva Seidlmayer, Jez Cope, Sherry Lake, Erika Mias, Jordan Pedersen, Elaine Wong, Janice Chan, Joshua Dull, Thomas Guignard, Konrad Foerstner, Elizabeth Wickes, Laura Wrubel, Carlos Martinez, Richard Vankoningsveld, Jenny Bunn, Noah Geraci, Muhammad Elhossary, Till Sauerwein, Peter Neish, Jaye Weatherburn, Lachlan Glanville, Erika Mias, Catherine DeRose, Kristian Allen, Jay Forrest, Harrison Dekker, Katrin Leinweber, and Mark Laufersweiler.&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Curriculum" />
+			
+				<category term="Carpentries Lessons" />
+			
+
+			<published>2019-02-28T00:00:00+00:00</published>
+		</entry>
+	
+</feed>

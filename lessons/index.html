@@ -1,0 +1,964 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Our lessons</title>
+
+    <link rel="stylesheet" type="text/css" href="https://librarycarpentry.org/assets/css/styles_feeling_responsive.css">
+
+  
+
+	<script src="https://librarycarpentry.org/assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.">
+	
+	
+	
+	
+	
+	
+	<link rel="canonical" href="https://librarycarpentry.org/lessons/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Our lessons">
+	<meta property="og:description" content="Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.">
+	<meta property="og:url" content="https://librarycarpentry.org/lessons/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Library Carpentry">
+
+	
+	<meta property="og:image" content="https://librarycarpentry.org/images/TheCarpentries-opengraph.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	
+
+	
+
+
+	
+
+	<link type="text/plain" rel="author" href="https://librarycarpentry.org/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://librarycarpentry.org/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://librarycarpentry.org/assets/img/android-chrome-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://librarycarpentry.org/assets/img/apple-touch-icon.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://librarycarpentry.org/assets/img/apple-touch-icon-152x152.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://librarycarpentry.org/assets/img/apple-touch-icon-144x144.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://librarycarpentry.org/assets/img/apple-touch-icon-120x120.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://librarycarpentry.org/assets/img/apple-touch-icon-114x114.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://librarycarpentry.org/assets/img/apple-touch-icon-76x76.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://librarycarpentry.org/assets/img/apple-touch-icon-72x72.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://librarycarpentry.org/assets/img/apple-touch-icon.png">	
+
+	<meta name="msapplication-TileImage" content="https://librarycarpentry.org/assets/img/mstile-150x150.png">
+
+	<meta name="msapplication-TileColor" content="#ffffff">
+
+	<link rel="manifest" href="/assets/img/site.webmanifest">
+	<link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+  	<meta name="theme-color" content="#ffffff">
+
+
+	
+
+	<!-- Adding Font Awesome -->
+	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+
+<!-- CSS overrides -->
+	<link rel="stylesheet" type="text/css" href="https://librarycarpentry.org/assets/css/extras.css">
+
+</head>
+<body id="top-of-page" class="page-fullwidth">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="https://librarycarpentry.org"> Library Carpentry</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://librarycarpentry.org/search/">Search</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://librarycarpentry.org/about/">About</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/about/">About Us</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/timeline/">Timeline</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/audience/">Our Audience</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Code of Conduct</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/advisory/">Our Advisory Group</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html" target="_blank">Introduction to Library Carpentry</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/supporters/">Supporters</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/our-stories/">Our Stories</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li class="active"><a  href="https://librarycarpentry.org/lessons/">Our Lessons</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://librarycarpentry.org/workshops/">Our Workshops</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/upcoming_workshops/">Upcoming Workshops</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/past_workshops/">Past Workshops</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/get_involved/">Get Involved</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://librarycarpentry.org/advisory/">People</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://librarycarpentry.org/contact/">Connect</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/contact/">Contact</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/blog/">Blog</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://librarycarpentry.org/events/">Our Events</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://gitter.im/LibraryCarpentry/Lobby" target="_blank">Chatroom</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://carpentries.topicbox.com/groups/discuss-library-carpentry" target="_blank">Listserv</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://twitter.com/LibCarpentry" target="_blank">Twitter</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://github.com/LibraryCarpentry" target="_blank">GitHub</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-no-image-header">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="https://librarycarpentry.org/" title="Library Carpentry">
+				<img src="https://librarycarpentry.org/assets/img/lc_logo_1.png" alt="Library Carpentry">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				
+				<h1>Our lessons</h1>
+			</header>
+
+			
+
+			<h3 id="-core-objectives"><a id="core-objectives"></a>Our Core Objectives</h3>
+
+<p>Library Carpentry workshops teach people working in library- and information-related roles how to:</p>
+<ul>
+   <li>Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;</li>
+   <li>Identify and use best practices in data structures;</li>
+   <li>Learn how to programmatically transform and map data from one form to another;</li>
+   <li>Work effectively with researchers, IT, and systems colleagues;</li>
+   <li>Automate repetitive, error prone tasks.</li>
+</ul>
+
+Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).  
+<hr />
+
+<h3 id="-core-curriculum"><a id="core-curriculum"></a>Our Core Curriculum</h3>
+
+<p>Our Core Curriculum consists of the lessons in the table below. These have been taught many times, and have been further refined after instructor and learner feedback. For more information regarding core lessons and workshops, see <a href="/workshops/">Our Workshops</a> and the <a href="/lc-overview/">Workshop Overview</a>.</p>
+
+<p>The lessons introduce terms, phrases, and concepts in software development and data science, how to best work with data structures, and use regular expressions in finding and matching data. We introduce the Unix-style command line interface, and teach basic shell navigation, as well as the use of loops and pipes for linking shell commands. We also introduce grep for searching and subsetting data across files. Exercises cover the counting and mining of data. In addition, we cover working with OpenRefine to transform and clean data, and the benefits of working collaboratively via Git/GitHub and using version control to track your work.</p>
+
+<h4 id="lessons">Lessons</h4>
+<table class="table table-striped">
+   <tr>
+      <th>Lesson</th>
+      <th>Site</th>
+      <th>Repository</th>
+      <th>Reference</th>
+      <th>Instructor Notes</th>
+      <th>Status</th>
+      <th>Maintainer(s)</th>
+   </tr>
+   <tr>
+      <td>Workshop Overview</td>
+      <td><a href="https://librarycarpentry.org/lc-overview/" target="_blank" class="icon-browser" title="Website for Workshop Overview lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-overview" target="_blank" class="icon-github" title="Repository for Workshop Overview lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-overview/reference.html" target="_blank" class="icon-eye" title="Reference for Workshop Overview"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-overview/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Workshop Overview"></a></td>
+      <td>Stable</td>
+      <td>Anton Angelo, Carmi Cronje, Shari Laster*, Elizabeth McAulay, Paul R. Pival</td>
+   </tr>
+   <tr>
+      <td>Introduction to Working with Data (Regular Expressions)</td>
+      <td><a href="https://librarycarpentry.org/lc-data-intro/" target="_blank" class="icon-browser" title="Website for Introduction to Data lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-data-intro/" target="_blank" class="icon-github" title="Repository for Introduction to Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-data-intro/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-data-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Introduction to Data lesson"></a></td>
+      <td>Stable</td>
+      <td> Anton Angelo, Carmi Cronje, Shari Laster*, Paul R. Pival, Angela Zoss</td>
+   </tr>
+   <tr>
+      <td>The UNIX Shell</td>
+      <td><a href="https://librarycarpentry.org/lc-shell/" target="_blank" class="icon-browser" title="Website for the UNIX Shell lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-shell/" target="_blank" class="icon-github" title="Repository for the UNIX Shell lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-shell/reference.html" target="_blank" class="icon-eye" title="Reference for UNIX Shell lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-shell/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for UNIX Shell lesson"></a></td>
+      <td>Stable</td>
+      <td>Nilani Ganeshwaran, Jamie Jamison, Danielle Kane, Kaitlin Newson, Anna Oates, John Wright</td>
+   </tr>
+   <tr>
+      <td>OpenRefine</td>
+      <td><a href="https://librarycarpentry.org/lc-open-refine/" target="_blank" class="icon-browser" title="Website for OpenRefine lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-open-refine/" target="_blank" class="icon-github" title="Repository for OpenRefine lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-open-refine/reference.html" target="_blank" class="icon-eye" title="Reference for OpenRefine lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-open-refine/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for OpenRefine lesson"></a></td>
+      <td>Stable</td>
+      <td>Erin Carrillo*, Sara King, Kristin Lee, Paul R. Pival, Owen Stephens</td>
+   </tr>
+   <tr>
+      <td>Introduction to Git</td>
+      <td><a href="https://librarycarpentry.org/lc-git/" target="_blank" class="icon-browser" title="Website for Introduction to Git lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-git/" target="_blank" class="icon-github" title="Repository for Introduction to Git lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-git/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Git lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-git/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Introduction to Git lesson"></a></td>
+      <td>Stable</td>
+      <td>Silvia di Giorgio, Drew Heles, Eric Lopatin,  Elizabeth McAulay</td>
+   </tr>
+</table>
+<hr />
+
+<h3 id="-extended-curriculum"><a id="extended-curriculum"></a>Extended Curriculum</h3>
+
+
+<p>The following Library Carpentry lessons can also be taught in addition to our core curriculum. Some of the lessons have been taught
+   infrequently and still need further work. We would value any feedback on these lessons.</p>
+
+
+<h4 id="lessons">Lessons</h4>
+<table class="table table-striped">
+   <tr>
+      <th>Lesson</th>
+      <th>Site</th>
+      <th>Repository</th>
+      <th>Reference</th>
+      <th>Instructor Notes</th>
+      <th>Status</th>
+      <th>Maintainer(s)</th>
+   </tr>
+   <tr>
+      <td>SQL</td>
+      <td><a href="https://librarycarpentry.org/lc-sql/" target="_blank" class="icon-browser" title="Website for SQL lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-sql/" target="_blank" class="icon-github" title="Repository for SQL lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-sql/reference.html" target="_blank" class="icon-eye" title="Reference for SQL lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-sql/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for SQL lesson"></a></td>
+      <td>Stable</td>
+      <td>Lise Doucette, Chris Erdmann, Jacqueline Frisina, Jesse Lambertson, Kristin Lee, Julika Mimkes</td>
+   </tr>
+   <tr>
+      <td>Tidy Data</td>
+      <td><a href="https://librarycarpentry.org/lc-spreadsheets/" target="_blank" class="icon-browser" title="Website for Tidy Data lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-spreadsheets/" target="_blank" class="icon-github" title="Repository for Tidy Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-spreadsheets/reference.html" target="_blank" class="icon-eye" title="Reference for Tidy Data lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-spreadsheets/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Tidy Data lesson"></a></td>
+      <td>Stable</td>
+      <td>Thea Atwood, Tim Dennis, Sherry Lake*, Erika Mias</td>
+   </tr>
+   <tr>
+      <td>Webscraping</td>
+      <td><a href="https://librarycarpentry.org/lc-webscraping/" target="_blank" class="icon-browser" title="Website for Webscraping lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-webscraping/" target="_blank" class="icon-github" title="Repository for Webscraping lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-webscraping/reference.html" target="_blank" class="icon-eye" title="Reference for Webscraping lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-webscraping/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Webscraping lesson"></a></td>
+      <td>Alpha</td>
+      <td>Joshua Dull*, Thomas Guignard</td>
+   </tr>
+   <tr>
+      <td>Introduction to Python</td>
+      <td><a href="https://librarycarpentry.org/lc-python-intro/" target="_blank" class="icon-browser" title="Website for the Introduction to Python lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-python-intro/" target="_blank" class="icon-github" title="Repository for Introduction to Python lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-python-intro/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Python lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-python-intro/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Introduction to Python lesson"></a></td>
+      <td>Alpha</td>
+      <td>Konrad Foerstner, Drew Heles, Elizabeth Wickes*, Laura Wrubel</td>
+   </tr>
+   <tr>
+      <td>Introduction to Data for Archivists</td>
+      <td><a href="https://librarycarpentry.org/lc-data-intro-archives/" target="_blank" class="icon-browser" title="Website for Introduction to Data for Archivists lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-data-intro-archives/" target="_blank" class="icon-github" title="Repository for Introduction to Data for Archivists lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-data-intro-archives/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to Data for Archivists lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-data-intro-archives/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Introduction to Data for Archivists lesson"></a></td>
+      <td>Alpha</td>
+      <td>Jeanine Finn, Katherine Koziar*, Scott Peterson</td>
+   </tr>
+   <tr>
+      <td>Introduction to R</td>
+      <td><a href="https://librarycarpentry.org/lc-r/" target="_blank" class="icon-browser" title="Website for the Introduction to R lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-r/" target="_blank" class="icon-github" title="Repository for Introduction to R lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-r/reference.html" target="_blank" class="icon-eye" title="Reference for Introduction to R lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-r/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Introduction to R lesson"></a></td>
+      <td>Alpha</td>
+      <td> Tim Dennis, Stéphane Guillou, Clarke Iakovakis*,  Sarah Lin, John Little</td>
+   </tr>
+</table>
+<hr />
+
+<em>* Indicates Lead Maintainer</em>
+
+<br><br>
+
+
+<h3 id="-top-10-curriculum"><a id="top-10-curriculum"></a>Top 10 FAIR Data & Software Things</h3>
+
+
+<p>The Top 10 FAIR Data & Software Things are brief guides (stand alone, self paced training materials), called "Things", that can be used by the research community to understand FAIR in different contexts but also as starting points for conversations around FAIR.</p>
+
+<table class="table table-striped">
+   <tr>
+      <th>Lesson</th>
+      <th>Site</th>
+      <th>Repository</th>
+      <th>About</th>
+      <th>DOI</th>
+      <th>Status</th>
+      <th>Maintainer(s)</th>
+   </tr>
+   <tr>
+      <td>Top 10 FAIR Data & Software Things</td>
+      <td><a href="https://librarycarpentry.org/Top-10-FAIR/" target="_blank" class="icon-browser" title="Website for Top 10 FAIR Data & Software Things"></a></td>
+      <td><a href="https://github.com/librarycarpentry/Top-10-FAIR/" target="_blank" class="icon-github" title="Repository for Top 10 FAIR Data & Software Things"></a></td>
+      <td><a href="https://librarycarpentry.org/Top-10-FAIR/about/" target="_blank" class="icon-eye" title="About Top 10 FAIR Data & Software Things"></a></td>
+      <td><a href="http://doi.org/10.5281/zenodo.3409968" target="_blank" class="icon-circle-with-plus" title="DOI for Top 10 FAIR Data & Software Things"></a></td>
+      <td>Beta</td>
+      <td>Liz Stokes, Chris Erdmann, Juande Santander-Vela (looking for Maintainers)</td>
+   </tr>
+</table>
+<hr />
+
+<br><br>
+
+<h3 id="-conceptual-curriculum"><a id="conceptual-curriculum"></a>Conceptual Curriculum</h3>
+
+<p>The following lessons are conceptual (pre-alpha) and are currently being discussed and/or under development. Issues/pull requests are one way to see current activity but you can also reach out to the Maintainers to see where the lesson discussions/development are at.</p>
+
+<h4 id="lessons">Lessons</h4>
+<table class="table table-striped">
+   <tr>
+      <th>Lesson</th>
+      <th>Site</th>
+      <th>Repository</th>
+      <th>Reference</th>
+      <th>Instructor Notes</th>
+      <th>Status</th>
+      <th>Maintainer(s)</th>
+   </tr>
+   <tr>
+      <td>MarcEdit</td>
+      <td><a href="http://librarycarpentry.org/lc-marcedit/" target="_blank" class="icon-browser" title="Website for MarcEdit lesson"></a></td>
+      <td><a href="https://github.com/LibraryCarpentry/lc-marcedit" target="_blank" class="icon-github" title="Repository for MarcEdit lesson"></a></td>
+      <td><a href="http://librarycarpentry.org/lc-marcedit/reference.html" target="_blank" class="icon-eye" title="Reference for MarcEdit lesson"></a></td>
+      <td><a href="http://librarycarpentry.org/lc-marcedit/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for MarcEdit lesson"></a></td>
+      <td>Conceptual</td>
+      <td>Owen Stephens*, Jennifer Eustis, Abigail Sparling (looking for Maintainers)</td>
+   </tr>
+   <tr>
+      <td>Wikidata</td>
+      <td><a href="https://librarycarpentry.org/lc-wikidata/" target="_blank" class="icon-browser" title="Website for Wikidata lesson"></a></td>
+      <td><a href="https://github.com/LibraryCarpentry/lc-wikidata" target="_blank" class="icon-github" title="Repository for Wikidata lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-wikidata/reference.html" target="_blank" class="icon-eye" title="Reference for Wikidata lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-wikidata/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for Wikidata lesson"></a></td>
+      <td>Conceptual</td>
+      <td>Till Sauerwein, Muhammad Elhossary, Konrad Förstner*, Rabea Müller  (looking for Maintainers)</td>
+   </tr>
+   <tr>
+      <td>FAIR Data & Software</td>
+      <td><a href="https://librarycarpentry.org/lc-fair-research/" target="_blank" class="icon-browser" title="Website for FAIR Data & Software lesson"></a></td>
+      <td><a href="https://github.com/LibraryCarpentry/lc-fair-research" target="_blank" class="icon-github" title="Repository for FAIR Data & Software lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-fair-research/reference.html" target="_blank" class="icon-eye" title="Reference for FAIR Data & Software lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-fair-research/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for FAIR Data & Software lesson"></a></td>
+      <td>Conceptual</td>
+      <td>Sara El-Gebali*, Chris Erdmann, Liz Stokes, Kristina Hettne, Carmi Cronje (looking for Maintainers)</td>
+   </tr>
+   <tr>
+      <td>XML</td>
+      <td><a href="https://librarycarpentry.org/lc-xml/" target="_blank" class="icon-browser" title="Website for the XML lesson"></a></td>
+      <td><a href="https://github.com/librarycarpentry/lc-xml/" target="_blank" class="icon-github" title="Repository for XML lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-xml/reference.html" target="_blank" class="icon-eye" title="Reference for XML lesson"></a></td>
+      <td><a href="https://librarycarpentry.org/lc-xml/guide/" target="_blank" class="icon-circle-with-plus" title="Instructor Notes for XML lesson"></a></td>
+      <td>Conceptual</td>
+      <td>Catherine Smith, Jesse Johnston, Phil Reed, Katrina Simone Fenlon, Nilani Ganeshwaran (looking for Maintainers)</td>
+   </tr>
+</table>
+<p>In addition, lessons on <a href="https://github.com/LibraryCarpentry/lc-dig-pres">Digital Preservation</a> and <a href="https://github.com/LibraryCarpentry/lc-tdm">Text and Data Mining</a> are being discussed.</p>
+<hr />
+
+<em>* Indicates Lead Maintainer</em>
+
+<h3 id="-lesson-status"><a id="lesson-status"></a>Lesson Status</h3>
+
+<p>Our lessons are in various stages of development - stable, beta, alpha, and conceptual.</p>
+
+<h4 id="-lesson-stable"><a id="lesson-stable"></a>Stable</h4>
+
+<p>These lessons are mature and ready to be taught. Most have been taught multiple times. The content is well-established, 
+but minor changes and improvements (e.g. better explanations, spelling/grammar corrections, improved exercises) are always welcome.</p>
+
+<h4 id="-lesson-beta"><a id="lesson-beta"></a>Beta</h4>
+
+<p>These lessons are largely complete and should be ready to teach, but would benefit from improvements based on feedback 
+from instructors who have taught them. New sections and rewrites/reorganisations of existing sections will be considered.</p>
+
+<h4 id="-lesson-alpha"><a id="lesson-alpha"></a>Alpha</h4>
+
+<p>These lessons are under active development and may not be ready to teach without additional preparation and background knowledge. 
+Further development work is strongly encouraged - please get in touch or check out outstanding issues on GitHub to find out 
+   what is needed.</p>
+
+<h4 id="-lesson-conceptual"><a id="lesson-conceptual"></a>Conceptual</h4>
+
+<p>These lessons are still in the conceptual phase where community members have just started to discuss general ideas
+   , learner profiles, goals, summative and fomative assessments, concept maps, software and data to be used, how long the lesson 
+   should be, and connecting the dots before moving to the <strong>alpha</strong> phase.</p>
+
+<h4 id="-lesson-contributing"><a id="lesson-contributing"></a>Contributing to Lessons</h4>
+
+<p>All contributions are welcome. The level of work may vary depending on the status of the lesson. We recommend that 
+   you <strong>@mention</strong> the Maintainers of the lesson if you are picking up the tasks described in one of the open  
+   lesson issues or pull requests.</p>
+
+<h4 id="-lesson-development"><a id="lesson-development"></a>Lesson Development Process</h4>
+
+<p><strong>Our recommended process for developing a new lesson is as follows:</strong>
+<ul>
+   <li>Develop the initial content on GitHub using the Carpentries' <a href="http://carpentries.github.io/lesson-example/setup.html">set up instructions</a> for new lessons. 
+New lessons are built from clones of <a href="https://github.com/swcarpentry/styles">this repo</a>.
+   <li>Introduce yourself and the lesson on our <a href="https://gitter.im/LibraryCarpentry/Lobby">Gitter channel</a> or 
+      <a href="https://carpentries.topicbox.com/groups/discuss-library-carpentry">Topicbox list</a>  — there may well be willing volunteers to help with the content.
+   <li>Teach the lesson, collect feedback, and perhaps raise issues or pull requests to improve the content.</li>
+   <li>Propose your lesson for the incubator by making a pull request (PR) against the Library Carpentry website, adding a
+link to your lesson repository as an <strong>alpha</strong> lesson.
+      <li>Discuss the lesson with the community and, if necessary, offer suggestions on how to improve the lesson; 
+         if the lesson is considered suitable material for the Library Carpentry curriculum, a website maintainer will 
+         merge your PR into the main site</li>
+   <li>You and others will teach the lesson, collect feedback, and improve the content.</li>
+   <li>Propose your lesson for beta/stable by making a pull request against the Library Carpentry website, 
+      updating the status of your lesson.</li>
+   <li>Discuss the lesson further with the community; when the lesson is ready, a website maintainer will merge your 
+      pull request(PR).</li>
+   <li>Congratulations! Your lesson is now part of stable Library Carpentry!</li>
+</ul>
+</p>
+
+<h4 id="-lesson-expectations"><a id="lesson-expectations"></a>New Lesson Expectations</h4>
+
+<p>In order to maintain consistent quality and style in the Library Carpentry lessons, we have a community-driven 
+set of expectations for what a good lesson should look like. These should guide the review process at steps 5 and 8 
+above. Lesson developers and reviewers should also review The Carpentries Handbook, especially the section on 
+   <a href="https://docs.carpentries.org/topic_folders/lesson_development/index.html">Lesson Development</a> and consult with the <a href="/cac/">Curriculum Advisory Committee</a>.</p>
+
+<h4 id="-stable-lessons"><a id="stable-lessons"></a>All stable lessons should:</h4>
+<p>
+<ul>
+   <li>have at least three active Maintainers.
+   <li>include a short <a href="">learner profile</a> (i.e. who the lesson is designed for).</li>
+   <li>include concrete learning objectives.</li>
+   <li>be teachable in around three hours under normal circumstances.</li>
+</ul>
+</p>
+
+<h3 id="community-lessons">Community Developed Lessons</h2>
+
+<p>
+The Carpentries also shares <a href="https://carpentries.org/community-lessons/">The Carpentries Community Developed Lessons</a>.  This includes <a href="https://carpentries.org/community-lessons/#the-carpentries-incubator">The Carpentries Incubator</a> (lessons under development and seeking peer review), and <a href="https://carpentries.org/community-lessons/#the-carpentrieslab">The CarpentriesLab</a> (lessons that have been vetted by The Carpentries but are not part of our standard offerings).   
+</p>
+
+
+
+
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h2 class="shadow-black">About Library Carpentry</h2>
+
+            <p class="shadow-black">
+              Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.
+              <a href="https://librarycarpentry.org/about/">More</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h2 class="shadow-black">Services</h2>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+		
+		
+		
+		
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/contact/"  title="There are several ways to get in touch with us">Contact</a>
+                  </li>
+              
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+		
+		
+                
+                  <li >
+                    <a href="https://librarycarpentry.org/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h2 class="shadow-black">Links</h2>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+              
+	      
+		
+		
+	      
+		
+
+              
+                <li >
+                  <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank"  title="The Carpentries Code of Conduct">Our Code of Conduct</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://docs.carpentries.org/topic_folders/policies/privacy.html" target="_blank"  title="The Carpentries Privacy Policy">Our Privacy Policy</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://github.com/LibraryCarpentry/lc-styleguide" target="_blank"  title="Library Carpentry branding information">Our Style Guide</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/LICENSE-WEBSITE" target="_blank"  title="Creative Commons International 4.0 License">CC BY 4.0 License</a>
+                </li>
+            
+	      
+		
+
+              
+                <li >
+                  <a href="https://carpentries.org/" target="_blank"  title="The Carpentries website">The Carpentries</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="https://github.com/librarycarpentry" aria-label="Library Carpentry GitHub"><i class="fab fa-github"></i></a></li>
+            
+              <li><a href="https://twitter.com/libcarpentry" aria-label="Library Carpentry Twitter"><i class="fab fa-twitter"></i></a></li>
+            
+              <li><a href="https://librarycarpentry.org/contact/" aria-label="Connect with Library Carpentry"><i class="fab fa-gitter"></i></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="https://librarycarpentry.org/assets/js/javascript.min.js"></script>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86167534-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
