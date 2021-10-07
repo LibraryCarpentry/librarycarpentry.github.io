@@ -55,8 +55,26 @@ jobs:
         run: make site
 
       - name: Deploy
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' && github.repository == 'librarycarpentry/librarycarpentry.github.io' }}
-        uses: maxheld83/ghpages@v0.3.0
-        env:
-          BUILD_DIR: _site/
-          GH_PAT: ${{ secrets.GH_PAT_DEPLOY }}
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
+        run: |
+          # create gh-pages
+          mkdir gh-pages
+          # copy everything from _site to the gh-pages folder
+          cp -r _site/* gh-pages
+          # move into gh-pages, add, commit, and push
+          cd gh-pages
+          # setup git
+          git init
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          # commit
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git add -A .
+          git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
+          # push
+          git push --force https://github.com/${GITHUB_REPOSITORY} test
+          # return
+          cd ..
