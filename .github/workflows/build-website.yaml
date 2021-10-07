@@ -75,6 +75,6 @@ jobs:
           git add -A .
           git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
           # push
-          git push --force https://github.com/$GITHUB_REPOSITORY main:test
+          git push --force https://github.com/${{ env.GITHUB_REPOSITORY }} main:test
           # return
           cd ..
