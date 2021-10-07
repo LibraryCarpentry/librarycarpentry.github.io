@@ -57,6 +57,8 @@ jobs:
       - name: Deploy
         if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
         run: |
+          echo "Deploying to production server on branch $GITHUB_REPOSITORY"
+          REMOTE_REPO="https://github.com/${GITHUB_REPOSITORY}.git"
           # create gh-pages
           mkdir gh-pages
           # copy everything from _site to the gh-pages folder
@@ -75,6 +77,6 @@ jobs:
           git add -A .
           git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
           # push
-          git push --force https://github.com/${{ env.GITHUB_REPOSITORY }} main:test
+          git push --force $REMOTE_REPO main:test
           # return
           cd ..
