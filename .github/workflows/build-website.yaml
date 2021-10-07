@@ -64,7 +64,7 @@ jobs:
           # move into gh-pages, add, commit, and push
           cd gh-pages
           # setup git
-          git init
+          git init -b main
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           # commit
@@ -75,6 +75,6 @@ jobs:
           git add -A .
           git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
           # push
-          git push --force https://github.com/${GITHUB_REPOSITORY} test
+          git push --force https://github.com/${GITHUB_REPOSITORY} main:test
           # return
           cd ..
