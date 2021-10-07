@@ -54,29 +54,33 @@ jobs:
       - name: Build site
         run: make site
 
+      - name: Checkout github pages
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          path: gh-pages
+
       - name: Deploy
         if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
         run: |
-          echo "Deploying to production server on branch $GITHUB_REPOSITORY"
-          REMOTE_REPO="https://github.com/${GITHUB_REPOSITORY}.git"
-          # create gh-pages
-          mkdir gh-pages
+          # clean up gh-pages
+          cd gh-pages
+          git rm -rf .           # remove all previous files
+          cd ..
           # copy everything from _site to the gh-pages folder
           cp -r _site/* gh-pages
           # move into gh-pages, add, commit, and push
           cd gh-pages
           # setup git
-          git init -b main
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          # commit
           if [ -z "$(git status --porcelain)" ]; then
             echo "Nothing to commit"
             exit 0
           fi
           git add -A .
           git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
-          # push
-          git push --force $REMOTE_REPO main:test
+          git push --force origin gh-pages
           # return
           cd ..
