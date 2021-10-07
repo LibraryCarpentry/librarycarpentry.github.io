@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
 
       - name: Set up Ruby
         uses: actions/setup-ruby@v1.1.2
@@ -75,6 +75,6 @@ jobs:
           git add -A .
           git commit --allow-empty -m "[Github Actions] render website (via ${{ github.sha }})"
           # push
-          git push --force https://github.com/${GITHUB_REPOSITORY} main:test
+          git push --force origin main:test
           # return
           cd ..
