@@ -1,4 +1,12 @@
+{% assign workshop_count = workshop_list | size %}
+
+{% if workshop_count == 0 %}
+<p><i>There are no upcoming {{ site.title }} workshops on our calendar.  Check out <a href = "https://carpentries.org">The Carpentries</a> website to see workshops offered by our other lesson programs.</i></p>
+
+{% else %}
+
 Click on an individual event to learn more about that event, including contact information and registration instructions.
+
 
 <table class="table table-striped" style="width: 100%;">
 {% for w in workshop_list  %}
@@ -54,7 +62,11 @@ Click on an individual event to learn more about that event, including contact i
 
       {% endif %}
 {% endfor %}
+
+
+
 </table>
 
 <p>** <i>Workshops marked with asterisks are based on curriculum from The Carpentries lesson programs but may not follow our standard workshop format.</i></p>
 <p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/> Workshops with a globe icon are being held online. The corresponding flag notes the country where the host organisation is based.</i></p>
+{% endif %}
