@@ -8,7 +8,6 @@ permalink: /timeline/
 
 The first [Software Carpentry workshops](https://software-carpentry.org/workshops/) for librarians were held at [Harvard University](https://swcarpentry.github.io/2013-08-23-harvard/), [University of Toronto](https://swcarpentry.github.io/2014-07-15-toronto/), [Edmonton Public Library](https://vixvarga.github.io/12-14-epl/), [New York Public Library](https://swcarpentry.github.io/2014-08-06-nypl/), and [West Vancouver Memorial Library](https://cmacdonell.github.io/2015-07-09-vpl/). 
 
-* _[Teaching Librarians Programming](http://pgbovine.net/teaching-librarians-programming.htm): My experience helping out at a Software Carpentry boot camp_ by Philip J. Guo 
 * _[Three Bootcamps for Librarians](https://software-carpentry.org/blog/2014/08/bootcamps-for-librarians.html)_ by Cameron Macdonell
 
 ### 2014
