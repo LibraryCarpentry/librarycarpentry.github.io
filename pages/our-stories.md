@@ -65,4 +65,4 @@ _Reflections on Holding a Carpentries-Inspired Workshop in my Library and Inform
   
 ---------------------------------------
 
-_Have a story of your own you'd like to share? For individuals, [let us know](https://goo.gl/forms/n2jQOlKKVK01y7V92).
+Have a story of your own you'd like to share? For individuals, [let us know](https://goo.gl/forms/n2jQOlKKVK01y7V92).
