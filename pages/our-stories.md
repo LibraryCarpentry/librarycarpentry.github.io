@@ -49,7 +49,7 @@ _I had no idea why I was being encouraged to get into librarianship. I was an IT
 
 **My Pathway in The Carpentries** by Belinda Weaver  
 _What does Carpentries involvement bring to your life? In the first of what we hope will be a series of posts on how people can get (or already have been) involved with the Carpentries, either globally or locally (or both!), Belinda Weaver, the Community and Communications Lead for the Carpentries, explains her own pathway to involvement._  
-[Read More](https://carpentries.org/blog/2018/my-carpentries-pathway/)
+[Read More](https://carpentries.org/blog/2018/09/my-carpentries-pathway/)
   
 ---------------------------------------
 
