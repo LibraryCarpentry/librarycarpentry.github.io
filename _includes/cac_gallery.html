@@ -1,0 +1,27 @@
+{% for member in site.data.cac.people %}
+
+{% assign loopindex = forloop.index | modulo: 3 %}
+{% if loopindex == 1 %}
+<div class="row">
+{% endif %}
+<div class="medium-4 columns">
+    <div class="team-member">
+        <img src="{{ site.filesurl }}/cac/{{ member.pic }}" class="img-responsive img-circle" alt="">
+        <h4>{{ member.name }}</h4>
+        <p class="text-muted">{{ member.position }}</p>
+        <ul class="list-inline social-buttons">
+            {% for network in member.social %}
+            <li>
+                <a href="{{ network.url }}">
+                    <i class="{{ network.icon }}"></i>
+                </a>
+            </li>
+            {% endfor %}
+
+        </ul>
+    </div>
+</div>
+{% if loopindex == 0 %}
+  </div>
+{% endif %}
+{% endfor %}
