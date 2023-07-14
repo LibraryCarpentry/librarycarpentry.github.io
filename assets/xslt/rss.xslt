@@ -255,7 +255,7 @@
 
                       
 
-                      <li><a  href="https://librarycarpentry.org/advisory/">Our Advisory Group</a></li>
+                      <li><a  href="https://librarycarpentry.org/governance/">Community Governance</a></li>
                     
 
                       
@@ -348,7 +348,7 @@
 
             
             
-              <li><a  href="https://librarycarpentry.org/advisory/">People</a></li>
+              <li><a  href="https://librarycarpentry.org/governance/">People</a></li>
               <li class="divider"></li>
 
             
