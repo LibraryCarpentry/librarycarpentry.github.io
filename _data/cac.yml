@@ -4,8 +4,8 @@ people:
 
 - name: Annajiat Alim Rasel (Bangladesh)
   pic: annajiat.jpg
-  social: 
-    - icon: fab fa-twitter 
+  social:
+    - icon: fab fa-twitter
       url: https://twitter.com/annajiat
     - icon: fab fa-github
       url: https://github.com/annajiat
@@ -17,14 +17,14 @@ people:
     - icon: fab fa-twitter
       url: https://twitter.com/jt14den
     - icon: fab fa-github
-      url: https://github.com/jt14den  
+      url: https://github.com/jt14den
 
 
 - name: Cody Hennesy (USA)
   pic: codyhennesy.jpg
-  social: 
-    - icon: fab fa-twitter 
-      url: 
+  social:
+    - icon: fab fa-twitter
+      url:
     - icon: fab fa-github
       url: https://github.com/chennesy
 
@@ -34,10 +34,10 @@ people:
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/laufers
-    - icon: fab fa-github 
+    - icon: fab fa-github
       url: https://github.com/laufers
-  
-      
+
+
 - name: Phil Reed (United Kingdom)
   pic: philreed.jpg
   social:
@@ -45,11 +45,3 @@ people:
       url: https://twitter.com/philreeddata
     - icon: fab fa-github
       url: https://github.com/philreeddata
-
-- name: Liz Stokes (Australia) 
-  pic: lizstokes.jpg
-  social: 
-   - icon: fab fa-twitter
-     url: https://twitter.com/ragamouf
-   - icon: fab fa-github
-     url: https://github.com/ragamouf

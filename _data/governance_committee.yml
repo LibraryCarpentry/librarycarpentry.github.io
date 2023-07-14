@@ -1,0 +1,67 @@
+# Social icon names are the fully qualified
+#   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
+people:
+
+- name_personal: Yared Abera
+  name_family: Ergu
+  pic: ergu
+  github: Jaredabera
+  country: ET
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/kechure
+    - icon: fab fa-github
+      url: https://github.com/Jaredabera
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/yared-abera-72528257/
+    - icon: fa fa-envelope
+      url: mailto:yared3778@gmail.com
+
+- name_personal: Ekatarina (Eka)
+  name_family: Grguric
+  role: Chair
+  pic: grguric
+  github: egrguric
+  country: CA
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/egrguric
+    - icon: fab fa-github
+      url: https://github.com/egrguric
+    - icon: fa fa-envelope
+      url: mailto:eka.grguric@ubc.ca
+
+- name_personal: Elizabeth (Lisa)
+  name_family: McAulay
+  role: Secretary
+  github: emcaulay
+  country: US
+  social:
+    - icon: fab fa-github
+      url: https://github.com/emcaulay
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/elizabeth-mcaulay-6158205/
+    - icon: fa fa-envelope
+      url: mailto:emcaulay@library.ucla.edu
+
+- name_personal: Mary
+  name_family: Filsell
+  github: Fillstar
+  country: AU
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/MaryFilsell
+    - icon: fab fa-github
+      url: https://github.com/Fillstar
+    - icon: fab fa-linkedin
+      url: linkedin.com/in/maryfilsell
+    - icon: fa fa-envelope
+      url: mailto:mary.filsell@gmail.com
+
+- name_personal: Belinda
+  name_family: Weaver
+  github: weaverbel
+  country: AU
+  social:
+    - icon: fab fa-github
+      url: https://github.com/weaverbel

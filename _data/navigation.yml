@@ -11,18 +11,18 @@
   - title: "Timeline"
     url: "/timeline/"
   - title: "Our Audience"
-    url: "/audience/"  
+    url: "/audience/"
   - title: "Code of Conduct"
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Our Advisory Group"
-    url: "/advisory/"  
+  - title: "Community Governance"
+    url: "/governance/"
   - title: "Introduction to Library Carpentry"
     url: "https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html"
   - title: "Supporters"
     url: "/supporters/"
   - title: "Our Stories"
     url: "/our-stories/"
-    
+
 - title: "Our Lessons"
   url: "/lessons/"
   side: left
@@ -41,7 +41,7 @@
   side: left
 
 - title: People
-  url: "/advisory/"
+  url: "/governance/"
   side: left
 
 - title: Connect
@@ -62,7 +62,7 @@
     url: "https://twitter.com/LibCarpentry"
   - title: "GitHub"
     url: "https://github.com/LibraryCarpentry"
-  
+
 - title: "Search"
   url: "/search/"
   side: right
