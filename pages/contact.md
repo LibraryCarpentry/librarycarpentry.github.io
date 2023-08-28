@@ -8,7 +8,7 @@ There are several ways to get in touch.
 
 * Group Email List: [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry). Our main communication channel. Sign up to receive periodic updates.
 
-* [The Carpentries Slack Channel](https://swc-slack-invite.herokuapp.com). Sign up to The Carpentries Slack, add the **#libraries** channel, chat with Library Carpentry community members via our primary chatroom, and get quicker responses.
+* [The Carpentries Slack Channel](http://slack-invite.carpentries.org/). Sign up to The Carpentries Slack, add the **#libraries** channel, chat with Library Carpentry community members via our primary chatroom, and get quicker responses.
 
 * [Library Carpentry is on Twitter](https://twitter.com/LibCarpentry). Follow us, learn about what community members are doing, and get updates.
 
