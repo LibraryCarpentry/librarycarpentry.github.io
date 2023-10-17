@@ -3,10 +3,10 @@
   class: fa-github
   title: "Library Carpentry GitHub"
 
-- name: Twitter
-  url: https://twitter.com/libcarpentry
-  class: fa-twitter
-  title: "Library Carpentry Twitter"
+- name: Mastodon
+  url: https://hachyderm.io/@thecarpentries
+  class: fa-mastodon
+  title: "The Carpentries on Mastodon"
 
 - name: Connect
   url: https://librarycarpentry.org/contact/
