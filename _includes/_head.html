@@ -94,15 +94,15 @@
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
 
-	{% if site.socialmedia.twitter %}
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
+	{% if site.socialmedia.twitter %}
 	<meta name="twitter:site" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
+	{% endif %}
 	<meta name="twitter:title" content="{{ title }}">
 	<meta name="twitter:description" content="{{ description }}">
 	{% if page.image.title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
-	{% endif %}
 
 	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">
 

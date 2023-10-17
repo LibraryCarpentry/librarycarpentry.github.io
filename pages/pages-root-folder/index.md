@@ -21,7 +21,7 @@ widget3:
   title: "Get involved"
   url: '/get_involved/'
   icon: 'fas fa-comment-dots'
-  text: 'See all the <a href="contact/">ways you can engage</a> and <a href="get_involved/">get involved</a> with Library Carpentry. Follow us on <a href="https://twitter.com/libcarpentry/">Twitter</a>.'
+  text: 'See all the <a href="contact/">ways you can engage</a> and <a href="get_involved/">get involved</a> with Library Carpentry. Follow us on <a href="https://hachyderm.io/@thecarpentries">Mastodon</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
