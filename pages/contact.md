@@ -10,7 +10,7 @@ There are several ways to get in touch.
 
 * [The Carpentries Slack Channel](http://slack-invite.carpentries.org/). Sign up to The Carpentries Slack, add the **#libraries** channel, chat with Library Carpentry community members via our primary chatroom, and get quicker responses.
 
-* [Library Carpentry is on Twitter](https://twitter.com/LibCarpentry). Follow us, learn about what community members are doing, and get updates.
+* [The Carpentries is on Mastodon](https://hachyderm.io/@thecarpentries). Follow us, learn about what community members are doing, and get updates.
 
 * [Library Carpentry Blog Posts](https://librarycarpentry.org/blog/): Where we post Library Carpentry stories from the community and updates from our governance groups.
 

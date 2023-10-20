@@ -58,8 +58,8 @@
     url: "https://gitter.im/LibraryCarpentry/Lobby"
   - title: "Listserv"
     url: "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
-  - title: "Twitter"
-    url: "https://twitter.com/LibCarpentry"
+  - title: "Mastodon"
+    url: "https://hachyderm.io/@thecarpentries"
   - title: "GitHub"
     url: "https://github.com/LibraryCarpentry"
 
