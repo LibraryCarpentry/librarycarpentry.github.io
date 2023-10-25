@@ -6,7 +6,9 @@ teaser: "Upcoming Sprint to improve and develop Library Carpentry material"
 date: 2019-03-28
 tags: ["Carpentries Lessons", "Events", "Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce)
 

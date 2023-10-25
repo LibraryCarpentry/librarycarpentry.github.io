@@ -6,7 +6,9 @@ teaser: "News on Library Carpentry’s Lesson Program Implementation with The Ca
 date: 2019-01-10
 tags: ["Lesson Program Implementation", "Governance", "Community", "Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce)
 

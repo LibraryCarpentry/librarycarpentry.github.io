@@ -5,7 +5,9 @@ authors: ["Belinda Weaver"]
 category: blog
 date: 2018-05-11
 tags: ["Australasia", "Workshops", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 Post by [Belinda Weaver](https://twitter.com/cloudaus).
 

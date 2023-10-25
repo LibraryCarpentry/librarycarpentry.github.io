@@ -6,7 +6,9 @@ teaser: "63 sprinters from 8 countries and 35 institutions took part in the May 
 date: 2019-06-05
 tags: ["Events", "Carpentries Lessons", "Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 <p>By <a href="https://twitter.com/libcce">Chris Erdmann</a></p>
 

@@ -4,7 +4,9 @@ title: Library Carpentry chatrooms proliferate
 authors: ["Belinda Weaver"]
 date: 2017-07-03
 tags: ["Community", "Communications", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 After the massive success of the [2017 global sprint](https://software-carpentry.org/blog/2017/06/lc-sprint.html), the Library 
 Carpentry community decided it was time for create new chatrooms to handle the increasing volume of posts.

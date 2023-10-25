@@ -6,7 +6,9 @@ teaser: "Reflections on Holding a Carpentries-Inspired Workshop in my Library an
 date: 2019-01-22
 tags: ["Library Carpentry", "Carpentries-inspired", "Graduate Students", "Library and Information Science Curriculum"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Denice Adkins](mailto:adkinsde@missouri.edu)
 

@@ -6,7 +6,9 @@ teaser: "UO and OSU Library Carpentry report"
 date: 2018-08-20
 tags: ["Library Carpentry", "Community", "Stories"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 
 By [Jonathan Cain](https://library.uoregon.edu/users/jocain), [Sarah Seymore](https://twitter.com/saraheseymore), [Steven Van Tuyl](https://twitter.com/badgerbouse), [Clara Llebot](https://osulibrary.oregonstate.edu/staff/llebotlc), [Ryan Wick](https://twitter.com/ryanwick), [Chris Erdmann](https://twitter.com/libcce)

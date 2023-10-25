@@ -5,7 +5,9 @@ title: "A Carpentries-Based Approach to Teaching FAIR Data and Software Principl
 teaser: "A report from the TIB Hannover FAIR Data & Software Workshop (9-13 July, 2018)"
 tags: ["Workshops", "Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce)
 

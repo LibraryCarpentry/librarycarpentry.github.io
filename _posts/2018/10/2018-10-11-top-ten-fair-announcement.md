@@ -6,7 +6,9 @@ teaser: "A global sprint to develop 10 FAIR things resources for data in differe
 date: 2018-10-11
 tags: ["FAIR", "10 Things", "Library Carpentry", "Australian Research Data Commons", "Sprint"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 ## Announcing the Top 10 FAIR Data Things Global Sprint  
 

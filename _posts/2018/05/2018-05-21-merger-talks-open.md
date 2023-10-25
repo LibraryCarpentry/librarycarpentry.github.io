@@ -5,7 +5,9 @@ title: "Opening discussions about Library Carpentry being a Lesson Organisation 
 category: blog
 date: 2018-05-21
 tags: ["Merger", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Tracy Teal](https://twitter.com/tracykteal) and [Belinda Weaver](https://twitter.com/cloudaus).
 

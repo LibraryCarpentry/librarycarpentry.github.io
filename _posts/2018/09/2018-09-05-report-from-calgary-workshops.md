@@ -6,7 +6,9 @@ teaser: "Workshop and instructor training for librarians"
 date: 2018-09-05
 tags: ["University of Calgary", "Library Carpentry", "The Carpentries", "Instructor Training", "Workshop"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce)
 

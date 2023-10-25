@@ -30,7 +30,9 @@ Library Carpentry workshops have benefited from the generous support of [The Car
 ### Workshops by year and key highlights
 
 | Year | Number of Workshops |
-| :------------- |--------:|
+| :------------- |-------- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**:|
 | 2013 | 1 | 
 | 2014 | 5 | 
 | 2015 | 2 | 

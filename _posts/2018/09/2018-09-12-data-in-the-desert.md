@@ -107,7 +107,9 @@ learning opportunities that many library staff are demanding.
 An encouraging sign: one of the most common questions we received from participants and 
 non-participants alike: _"When's the next Library Carpentry workshop?"_
 
-----
+---- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 > The workshop involved the following people: Jeff Oliver, Benjamin Hickson, Jennifer Nichols, Fernando Rios, Niamh Wallace. We wanted to share our experiences, successes, and evaluation of a recent Library Carpentry Workshop.
 

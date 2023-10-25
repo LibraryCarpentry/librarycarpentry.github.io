@@ -6,7 +6,9 @@ teaser: "Drawing on Library Carpentry lessons, pedagogy and community"
 date: 2019-06-25
 tags: ["Library Carpentry","The Carpentries","Macquarie University Library","Data Science","Data Skills","eResearch","Community of Practice","Workshops","Lessons"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Grai Calvey](https://twitter.com/grai_calvey), [Fiona Jones](https://twitter.com/FionaJ_Lib) and [Heather Cooper](https://twitter.com/coopshe1)
 

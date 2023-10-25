@@ -5,7 +5,9 @@ title: "The Carpentries Instructor Training for Librarians"
 teaser: "Upcoming, open Instructor training for librarians"
 date: 2018-06-26
 tags: ["Workshops", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By Chris Erdmann, John Chodacki
 

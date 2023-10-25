@@ -4,7 +4,9 @@ title: Library Carpentry workshop call
 authors: ["James Baker"]
 date: 2016-11-01
 tags: ["Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 Library Carpentry is software skills training aimed at the needs and requirements of library professionals (that is, coding and data manipulation that goes beyond the use of familiar office suites). It is made **by librarians, for librarians** to help you:
 

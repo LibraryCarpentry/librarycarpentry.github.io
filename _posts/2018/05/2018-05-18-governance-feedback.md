@@ -5,7 +5,9 @@ category: blog
 authors: ["Belinda Weaver"]
 date: 2018-05-18
 tags: ["Governance", "Feedback", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Belinda Weaver](https://twitter.com/cloudaus)
 

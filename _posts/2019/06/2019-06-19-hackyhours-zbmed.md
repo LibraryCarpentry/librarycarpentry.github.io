@@ -6,7 +6,9 @@ teaser: "A place where everyone can come together to share topics and learn from
 date: 2019-06-19
 tags: ["Community","Events","Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Eva Seidlmayer](https://twitter.com/kivilih), [Konrad Förstner](https://twitter.com/konradfoerstner), [Silvia Di Giorgio](https://twitter.com/digiorgiosilvia), [Chris Erdmann](https://twitter.com/libcce)
 

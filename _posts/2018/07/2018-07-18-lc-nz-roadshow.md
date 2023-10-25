@@ -5,7 +5,9 @@ title: "Eight Days, Four Workshops, Two Islands, One Earthquake"
 teaser: "Taking Library Carpentry on the road in New Zealand"
 tags: ["Library Carpentry", "Workshops"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Belinda Weaver](https://twitter.com/cloudaus)
 

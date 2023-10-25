@@ -4,7 +4,9 @@ authors: ["Chris Erdmann", “Belinda Weaver”]
 title: "Library Carpentry Community Update"
 date: 2018-06-20
 tags: ["CarpentryCon", "Reports", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce), [Belinda Weaver](https://twitter.com/cloudaus)
 

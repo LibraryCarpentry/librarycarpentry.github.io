@@ -4,7 +4,9 @@ authors: ["Chris Erdmann"]
 title: "Announcing the Library Carpentry Curriculum Advisory Committee"
 teaser: "Helping keep lessons on track"
 tags: ["Library Carpentry", "Curriculum Advisory Committee"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce)
 

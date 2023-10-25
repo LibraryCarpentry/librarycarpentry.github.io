@@ -6,7 +6,9 @@ teaser: "A space where staff can continue to apply what they've learned from Lib
 date: 2018-12-12
 tags: ["Curtin University Library", "Library Carpentry", "Library HackyHour"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Janice Chan](https://twitter.com/icecjan)  
 

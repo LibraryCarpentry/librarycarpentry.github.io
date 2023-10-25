@@ -4,7 +4,9 @@ title: "Helping the Helper - practical advice for Library Carpentry Helpers"
 authors: ["Claire Wallnutt"]
 date: 2017-08-04
 tags: ["Workshops", "Europe", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 Post by [Claire Wallnutt](https://twitter.com/_miss_golightly)
 

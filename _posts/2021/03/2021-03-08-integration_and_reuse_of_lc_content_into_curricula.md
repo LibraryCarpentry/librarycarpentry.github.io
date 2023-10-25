@@ -6,7 +6,9 @@ teaser: "The Library Carpentry lessons are fantastic resources for teaching stud
 date: 2021-03-08
 tags: ["Library Carpentry", "The Carpentries", "The University of Arizona", "Simmons University", "TH Köln", "Curricula", "Data Science", "Data Skills", "Workshops", "Lessons"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 
 By [Jeff Oliver](https://twitter.com/jcoliveraz), [Julie Goldman](https://twitter.com/jgolds2) and [Konrad Förstner](https://twitter.com/konradfoerstner)

@@ -6,7 +6,9 @@ teaser: "The Group will advise on ways to foster greater participation in the Li
 date: 2019-04-10
 tags: ["Advisory Group", "Community", "Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 
 On 15 March 2019, the Library Carpentry Governance Group officially became the [Advisory Group](https://librarycarpentry.org/advisory/). The Advisory Group acts as a critical friend to Carpentries governance and staff and advises on ways to foster greater participation in the Library Carpentry community. The Group meets on a bi-monthly basis to discuss, plan, and pursue strategies for involving new and current members in Library Carpentry. It is not a governance group and does not make decisions for the Library Carpentry community.

@@ -4,7 +4,9 @@ authors: ["Juliane Schneider"]
 title: "Pancakes on a Stick, and Other Things I Learned at UCLA"
 date: 2018-06-04
 tags: ["North America", "Workshops", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Juliane Schneider](https://twitter.comJulianeS)
 

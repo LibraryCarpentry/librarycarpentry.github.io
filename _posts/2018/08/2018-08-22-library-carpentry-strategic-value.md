@@ -6,7 +6,9 @@ teaser: "How your library can be a hub for data science activities in your commu
 date: 2018-08-22
 tags: ["Library Carpentry", "The Carpentries", "Community", "Stories"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 ![Kenan Science Library & Science Annex](/images/BHDP-Kenan-Science-Library_003-768x512.jpg)
 

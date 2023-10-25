@@ -7,7 +7,9 @@ date: 2018-08-07
 time: "09:00:00"
 tags: ["Library Carpentry", "Workshop", "Overview", "Roadshow", "Training", "Curriculum"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce), [Belinda Weaver](https://twitter.com/cloudaus), [John Chodacki](https://twitter.com/chodacki), [Juliane Schneider](https://twitter.com/JulianeS), [Jez Cope](https://twitter.com/jezcope), [Kayleigh Lino](https://twitter.com/CuratorKay), [Tim Dennis](https://twitter.com/jt14den), [Cam Macdonell](https://twitter.com/cjmacdonell)
 

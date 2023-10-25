@@ -5,7 +5,9 @@ category: blog
 authors: ["Chris Erdmann"]
 date: 2018-05-16
 tags: ["Events", "Reports", "Library Carpentry"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce) and [Belinda Weaver](https://twitter.com/cloudaus)
 

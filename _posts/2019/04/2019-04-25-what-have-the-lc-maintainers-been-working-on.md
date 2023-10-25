@@ -6,7 +6,9 @@ teaser: "An update on what the Library Carpentry Maintainers have been working o
 date: 2019-04-25
 tags: ["Maintainers","Community","Lessons", "Library Carpentry"]
 category: ["blog"]
----
+--- 
+
+**This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
 
 By [Chris Erdmann](https://twitter.com/libcce)
 
