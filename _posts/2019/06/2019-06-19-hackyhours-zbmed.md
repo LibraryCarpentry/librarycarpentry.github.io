@@ -4,7 +4,7 @@ authors: ["Eva Seidlmayer","Konrad Förstner","Silvia Di Giorgio","Chris Erdmann
 title: "Building a Community for Digital Literacy at ZB MED: The Carpentries and HackyHours"
 teaser: "A place where everyone can come together to share topics and learn from each other"
 date: 2019-06-19
-tags: ["Community","Events"]
+tags: ["Community","Events","Library Carpentry"]
 category: ["blog"]
 ---
 

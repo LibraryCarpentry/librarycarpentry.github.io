@@ -3,7 +3,7 @@ layout: page
 authors: ["Chris Erdmann"]
 title: "A Carpentries-Based Approach to Teaching FAIR Data and Software Principles"
 teaser: "A report from the TIB Hannover FAIR Data & Software Workshop (9-13 July, 2018)"
-tags: ["Workshops"]
+tags: ["Workshops", "Library Carpentry"]
 category: ["blog"]
 ---
 

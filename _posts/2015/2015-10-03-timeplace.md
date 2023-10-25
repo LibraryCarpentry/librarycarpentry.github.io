@@ -3,7 +3,7 @@ layout: page
 title: Library Carpentry - Where and When
 authors: ["James Baker"]
 date: 2015-10-03
-tags: [""]
+tags: ["Library Carpentry"]
 ---
 
 Library Carpentry is an exploratory programme of four three-hour software skills sessions focused on the needs and requirements of the library professionals. For further details, see the [outline post](http://librarycarpentry.github.io/outline/).

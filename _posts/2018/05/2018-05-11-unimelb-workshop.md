@@ -4,7 +4,7 @@ title: "Library Carpentry at The University of Melbourne"
 authors: ["Belinda Weaver"]
 category: blog
 date: 2018-05-11
-tags: ["Australasia", "Workshops"]
+tags: ["Australasia", "Workshops", "Library Carpentry"]
 ---
 
 Post by [Belinda Weaver](https://twitter.com/cloudaus).

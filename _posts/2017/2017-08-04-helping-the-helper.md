@@ -3,7 +3,7 @@ layout: page
 title: "Helping the Helper - practical advice for Library Carpentry Helpers"
 authors: ["Claire Wallnutt"]
 date: 2017-08-04
-tags: ["Workshops", "Europe"]
+tags: ["Workshops", "Europe", "Library Carpentry"]
 ---
 
 Post by [Claire Wallnutt](https://twitter.com/_miss_golightly)

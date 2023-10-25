@@ -3,7 +3,7 @@ layout: page
 title: "Library Carpentry: Update from the Community Calls"
 authors: ["Belinda Weaver"]
 date: 2017-10-17
-tags: ["Discussion Sessions"]
+tags: ["Discussion Sessions", "Library Carpentry"]
 ---
 
 Community members came together on 10-11 October for two calls about the future direction of Library Carpentry.

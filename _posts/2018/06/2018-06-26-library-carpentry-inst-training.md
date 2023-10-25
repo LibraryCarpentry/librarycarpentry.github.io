@@ -4,7 +4,7 @@ authors: ["Chris Erdmann", "John Chodacki"]
 title: "The Carpentries Instructor Training for Librarians"
 teaser: "Upcoming, open Instructor training for librarians"
 date: 2018-06-26
-tags: ["Workshops"]
+tags: ["Workshops", "Library Carpentry"]
 ---
 
 By Chris Erdmann, John Chodacki

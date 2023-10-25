@@ -4,7 +4,7 @@ authors: ["Chris Erdmann"]
 title: "Mozilla-Library Carpentry Global Sprint, 30-31 May, 2019"
 teaser: "Upcoming Sprint to improve and develop Library Carpentry material"
 date: 2019-03-28
-tags: ["Carpentries Lessons", "Events"]
+tags: ["Carpentries Lessons", "Events", "Library Carpentry"]
 category: ["blog"]
 ---
 

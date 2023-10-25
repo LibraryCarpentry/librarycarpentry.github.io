@@ -4,7 +4,7 @@ authors: ["Chris Erdmann"]
 title: "It's a Wrap! The 4th Library Carpentry-Mozilla Global Sprint Concludes."
 teaser: "63 sprinters from 8 countries and 35 institutions took part in the May 2019 sprint."
 date: 2019-06-05
-tags: ["Events", "Carpentries Lessons"]
+tags: ["Events", "Carpentries Lessons", "Library Carpentry"]
 category: ["blog"]
 ---
 
