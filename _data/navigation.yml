@@ -50,8 +50,6 @@
   dropdown:
   - title: "Contact"
     url: "/contact/"
-  - title: "Blog"
-    url: "/blog/"
   - title: "Our Events"
     url: "/events/"
   - title: "Chatroom"
