@@ -52,8 +52,6 @@
     url: "/contact/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Our Events"
-    url: "/events/"
   - title: "Chatroom"
     url: "https://gitter.im/LibraryCarpentry/Lobby"
   - title: "Listserv"
