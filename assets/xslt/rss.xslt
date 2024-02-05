@@ -387,11 +387,6 @@
 
                       
 
-                      <li><a  href="https://librarycarpentry.org/events/">Our Events</a></li>
-                    
-
-                      
-
                       <li><a  href="https://gitter.im/LibraryCarpentry/Lobby" target="_blank">Chatroom</a></li>
                     
 
