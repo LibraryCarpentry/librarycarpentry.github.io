@@ -4,6 +4,7 @@ title: "Library Carpentry Blog Authors"
 teaser: "Browse posts on the Library Carpentry blog by authors"
 comments: false
 permalink: "/posts-by-authors/"
+redirect_to: "https://carpentries.org/blog/"
 ---
 
 {% include expand-side-column %}
