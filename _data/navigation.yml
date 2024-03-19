@@ -17,7 +17,7 @@
   - title: "Community Governance"
     url: "/governance/"
   - title: "Introduction to Library Carpentry"
-    url: "https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html"
+    url: "https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry.html"
   - title: "Supporters"
     url: "/supporters/"
   - title: "Our Stories"
@@ -47,19 +47,6 @@
 - title: Connect
   url: "/contact/"
   side: left
-  dropdown:
-  - title: "Contact"
-    url: "/contact/"
-  - title: "Our Events"
-    url: "/events/"
-  - title: "Chatroom"
-    url: "https://gitter.im/LibraryCarpentry/Lobby"
-  - title: "Listserv"
-    url: "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
-  - title: "Mastodon"
-    url: "https://hachyderm.io/@thecarpentries"
-  - title: "GitHub"
-    url: "https://github.com/LibraryCarpentry"
 
 - title: "Search"
   url: "/search/"

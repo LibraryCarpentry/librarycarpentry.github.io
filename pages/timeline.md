@@ -2,6 +2,7 @@
 layout: page-fullwidth
 title: "Timeline"
 permalink: /timeline/
+redirect_to: https://carpentries.org
 ---
 
 ### 2013 
