@@ -2,31 +2,6 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
-  side: left
-  dropdown:
-  - title: "About Us"
-    url: "/about/"
-  - title: "Timeline"
-    url: "/timeline/"
-  - title: "Our Audience"
-    url: "/audience/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Community Governance"
-    url: "/governance/"
-  - title: "Introduction to Library Carpentry"
-    url: "https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry.html"
-  - title: "Supporters"
-    url: "/supporters/"
-  - title: "Our Stories"
-    url: "/our-stories/"
-
-- title: "Our Lessons"
-  url: "/lessons/"
-  side: left
-
 - title: Our Workshops
   url: "/workshops/"
   side: left
@@ -36,30 +11,9 @@
   - title: "Past Workshops"
     url: "/past_workshops/"
 
-- title: Get Involved
-  url: "/get_involved/"
+- title: "Our Lessons"
+  url: "/lessons/"
   side: left
-
-- title: People
-  url: "/governance/"
-  side: left
-
-- title: Connect
-  url: "/contact/"
-  side: left
-  dropdown:
-  - title: "Contact"
-    url: "/contact/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Chatroom"
-    url: "https://gitter.im/LibraryCarpentry/Lobby"
-  - title: "Listserv"
-    url: "https://carpentries.topicbox.com/groups/discuss-library-carpentry"
-  - title: "Mastodon"
-    url: "https://hachyderm.io/@thecarpentries"
-  - title: "GitHub"
-    url: "https://github.com/LibraryCarpentry"
 
 - title: "Search"
   url: "/search/"
