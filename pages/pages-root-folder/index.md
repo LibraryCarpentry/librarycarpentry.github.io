@@ -16,12 +16,12 @@ widget2:
   title: "Who we are"
   url: '/audience/'
   icon: 'fas fa-users'
-  text: 'We are a diverse, global community of <a href="https://carpentries.org/volunteer/">volunteers</a>. Our community includes Instructors, helpers, Trainers, <a href="https://carpentries.org/maintainers/">Maintainers</a>, <a href="https://carpentries.org/mentors/">Mentors</a>, community champions, <a href="https://carpentries.org/members/">member organisations</a>, supporters, workshop organisers, and <a href="https://carpentries.org/team/">staff</a>. Library Carpentry is guided by a <a href="advisory/">Advisory Group</a> and a <a href="cac/">Curriculum Advisory Committee</a>. <a href="audience/">Our audience</a> are primarily people working in library- and information-related roles.'
+  text: 'We are a diverse, global <a href="https://carpentries.org/community/">community</a> of volunteers. Our community includes Instructors, helpers, Trainers, Maintainers, community champions, member organisations, supporters, workshop organisers, and staff. Library Carpentry is guided by a <a href="advisory/">Advisory Group</a> and a <a href="cac/">Curriculum Advisory Committee</a>. Our audience are primarily people working in library- and information-related roles.'
 widget3:
   title: "Get involved"
   url: '/get_involved/'
   icon: 'fas fa-comment-dots'
-  text: 'See all the <a href="contact/">ways you can engage</a> and <a href="get_involved/">get involved</a> with Library Carpentry. Follow us on <a href="https://hachyderm.io/@thecarpentries">Mastodon</a>.'
+  text: 'See all the <a href="https://carpentries.org/community/">ways you can engage</a> and get involved with Library Carpentry. Follow us on <a href="https://hachyderm.io/@thecarpentries">Mastodon</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
