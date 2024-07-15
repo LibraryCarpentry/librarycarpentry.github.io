@@ -1,6 +1,11 @@
 - title: Home
   url: "/"
   side: left
+  dropdown:
+  - title: Governance
+    url: /governance/
+  - title: Curriculum Advisors
+    url: /curriculum-advisors/
 
 - title: Our Workshops
   url: "/workshops/"
