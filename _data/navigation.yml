@@ -7,7 +7,7 @@
   - title: Curriculum Advisors
     url: /cac/
 
-- title: Our Workshops
+- title: Workshops
   url: "/workshops/"
   side: left
   dropdown:
@@ -16,7 +16,7 @@
   - title: "Past Workshops"
     url: "/past_workshops/"
 
-- title: "Our Lessons"
+- title: "Lessons"
   url: "/lessons/"
   side: left
 
