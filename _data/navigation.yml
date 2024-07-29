@@ -1,33 +1,13 @@
 - title: Home
   url: "/"
   side: left
-
-- title: About
-  url: "/about/"
-  side: left
   dropdown:
-  - title: "About Us"
-    url: "/about/"
-  - title: "Timeline"
-    url: "/timeline/"
-  - title: "Our Audience"
-    url: "/audience/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Community Governance"
-    url: "/governance/"
-  - title: "Introduction to Library Carpentry"
-    url: "https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry.html"
-  - title: "Supporters"
-    url: "/supporters/"
-  - title: "Our Stories"
-    url: "/our-stories/"
+  - title: Governance
+    url: /governance/
+  - title: Curriculum Advisors
+    url: /cac/
 
-- title: "Our Lessons"
-  url: "/lessons/"
-  side: left
-
-- title: Our Workshops
+- title: Workshops
   url: "/workshops/"
   side: left
   dropdown:
@@ -36,16 +16,12 @@
   - title: "Past Workshops"
     url: "/past_workshops/"
 
-- title: Get Involved
-  url: "/get_involved/"
+- title: "Lessons"
+  url: "/lessons/"
   side: left
 
-- title: People
-  url: "/governance/"
-  side: left
-
-- title: Connect
-  url: "/contact/"
+- title: The Carpentries
+  url: https://carpentries.org
   side: left
 
 - title: "Search"

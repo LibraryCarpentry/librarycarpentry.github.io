@@ -2,93 +2,27 @@
 layout: default
 format: frontpage
 ---
-<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
-
-
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
-<div class="row t60">
-	{% if page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
-
-
-	{% if page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
-
-
-	{% if page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
-</div><!-- /.row -->
-
-
-
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-{% endif %}
-
-<div class="row t60">
-  <div class="medium-20">
-
-
-    <h2>Upcoming Workshops</h2>
-
-    {% assign workshop_list = site.data.lc_upcoming_workshops %}
-    {% include workshop_table.md %}
-
-      <h4>Check out our <a href="/past_workshops/">past workshops.</a></h4>
-
-  </div>
-    </div><!-- /.row -->
-
-
-
-
-<div class="row t60">
-  <div class="medium-20">
-    <h2>{{ site.data.language.new_blog_entries }}</h2>
-          <p style="font-size: small; font-style: italic;">
-        The Library Carpentry blog is no longer updated regularly.
-         You can find more information about what's happening in our community through
-          <a href="https://carpentries.org/blog">The Carpentries blog</a>,
-          a great resource that collates posts from Data Carpentry,
-          Library Carpentry, and Software Carpentry, and
-          publishes updates of general interest to the community.
-
-          {% include list-posts entries='5' %}
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
+<br>
 <div class="row">
-    {{ content }}
+  <h3 id="what-is-library-carpentry-">What is Library Carpentry?</h3>
+  <p>Library Carpentry focuses on building software and data skills within library and information-related communities. Our goal is to empower people in these roles to use software and data in their own work and to become advocates for and train others in efficient, effective and reproducible data and software practices.</p>
+  <p>Training takes place in face-to-face workshops. Lesson materials are all available <a href="/lessons/">online</a>, under a CC BY license, for self-directed study or for adaptation and re-use.</p>
+  <h3 id="who-owns-library-carpentry-">Who owns Library Carpentry?</h3>
+  <p>Library Carpentry was originally developed with support of the Software Sustainability Institute and has been incorporated as a Lesson Program with <a href="https://carpentries.org">The Carpentries</a>. Like <a href="https://software-carpentry.org/lessons/">Software Carpentry</a> and <a href="https://datacarpentry.org/lessons/">Data Carpentry</a>, it maintains <a href="/lessons/">its own lessons</a>, and has a <a href="/governance/">Governance Committee and a Curriculum Advisory Committee</a>.</p>
+  <h3 id="what-is-a-library-carpentry-workshop-">What is a Library Carpentry workshop?</h3>
+  <p>An official Library Carpentry workshop must include our <a href="/lessons/">core lessons</a>. All workshops that are reported to Library Carpentry are listed in the &#39;Upcoming Workshops&#39; section of this site and range from 1-day to multi-day. Ideally attendees will bring their own laptops to workshops so that skills learned can be replicated after the workshop without the need for any additional setup or software installation.</p>
+  <p>Workshops are run by a team. Ideally this will consist of:</p>
+  <ul>
+  <li>a Host, who is the principal local contact for the workshop and who negotiates with Instructors about what lessons will be taught</li>
+  <li>at least one Certified Carpentries Instructor and other Instructors who teach the lessons and lead the practical exercises</li>
+  <li>Helpers who provide assistance to learners during practical sessions</li>
+  <li>Workshops can be any size but it is recommended that the helper-to-learners ratio not exceed 1:8.</li>
+  </ul>
+
+  <h3 id="what-is-a-lesson-">What is a lesson?</h3>
+  <p>A Library Carpentry lesson is a set of training materials that can be used to run hands-on training or as self-directed learning. Each lesson comprises several episodes, is interactive, works across Windows, macOS, and Linux operating systems (with all setup instructions included) and has a combination of follow-the-leader sections and exercises that map to library practices and workflows. Lessons introduce software and data concepts relevant to people working in library- and information-related roles and are based on open source software. Data used in exercises is library-related, e.g. bibliographic data.</p>
+  <h3 id="who-is-an-instructor-">Who is an instructor?</h3>
+
+  <p>Official Library Carpentry workshops must have at least one certified instructor present running the workshops. To be a Library Carpentry instructor, and instructor for other Carpentries lesson organizations, you must undertake and complete <a href="http://carpentries.github.io/instructor-training/">The Carpentries Instructor Training</a>. Instructors must be prepared to observe The Carpentries <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a> in workshops. Library Carpentry lesson materials are freely available under a permissive open license and available for the wider community to use for Library Carpentry-based workshops.</p>
+   
 </div><!-- /.row -->
