@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://librarycarpentry.org/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://librarycarpentry.org/assets/css/rss.css" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Library Carpentry</title>
-		<description>Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.</description>
-		<link>https://librarycarpentry.org/</link>
-		<atom:link href="https://librarycarpentry.org/feed.xml" rel="self" type="application/rss+xml" />
-		
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://librarycarpentry.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://librarycarpentry.org/" rel="alternate" type="text/html" /><updated>2024-08-09T12:26:59+00:00</updated><id>https://librarycarpentry.org/feed.xml</id><title type="html">Library Carpentry</title><subtitle>Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.</subtitle><author><name>carpentries</name></author></feed>

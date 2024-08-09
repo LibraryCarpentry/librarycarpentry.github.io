@@ -40,14 +40,14 @@
           _paq.push(['trackPageView']);
           _paq.push(['enableLinkTracking']);
           (function() {
-              var u="https://carpentries.matomo.cloud/";
-              _paq.push(['setTrackerUrl', u+'matomo.php']);
-              _paq.push(['setSiteId', '9']);
-              var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-              g.async=true; g.src='//cdn.matomo.cloud/carpentries.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+            var u="https://matomo.carpentries.org/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '9']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
           })();
         </script>
-        <noscript><p><img src="https://carpentries.matomo.cloud/matomo.php?idsite=9&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+        <noscript><p><img src="https://matomo.carpentries.org/matomo.php?idsite=9&amp;rec=1" style="border:0;" alt="" /></p></noscript>
         <!-- End Matomo Code -->
 
 	<!-- Search Engine Optimization -->

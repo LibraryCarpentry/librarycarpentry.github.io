@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://librarycarpentry.org/</id>
 	<title>Library Carpentry</title>
-	<updated>2024-07-29T17:01:50+00:00</updated>
+	<updated>2024-08-09T12:26:59+00:00</updated>
 
 	<subtitle>Library Carpentry is a global community teaching software and data skills to people working in library- and information-related roles.</subtitle>
 
@@ -22,7 +22,7 @@
 	<link href="https://librarycarpentry.org/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="https://librarycarpentry.org/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.9.5">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.10.0">Jekyll</generator>
 
 	
 </feed>
